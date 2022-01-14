@@ -1,0 +1,1 @@
+File suite for automation test
