@@ -1,1 +1,4 @@
-# AnyMusic Win Annually<br />![AnyMusic Win Annually](https://mycommerce.akamaized.net/api/pimages/P300770736/BIG/300770736.PNG)<br />AnyMusic covers all the powerful features you love - discover free songs, download MP3 songs, play music, convert videos to audio files, and manage music library. Best of all, it’s 100% safe & ad-free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300770736&affiliateid=200057808)
+# AnyMusic Win Annually
+![AnyMusic Win Annually](https://mycommerce.akamaized.net/api/pimages/P300770736/BIG/300770736.PNG)
+AnyMusic covers all the powerful features you love - discover free songs, download MP3 songs, play music, convert videos to audio files, and manage music library. Best of all, it’s 100% safe & ad-free.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300770736&affiliateid=200057808)

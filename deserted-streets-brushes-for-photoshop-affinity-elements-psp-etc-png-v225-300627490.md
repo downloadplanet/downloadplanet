@@ -1,6 +1,8 @@
-# Deserted streets Brushes for Photoshop, Affinity, Elements, PSP, etc (PNG) V225<br />www.graphicxtras.com -- Deserted streets PNG files Photoshop & Elements & Painter & PSP Urban & Zombies & Empty & End of world V225
+# Deserted streets Brushes for Photoshop, Affinity, Elements, PSP, etc (PNG) V225
+www.graphicxtras.com -- Deserted streets PNG files Photoshop & Elements & Painter & PSP Urban & Zombies & Empty & End of world V225
 
 Deserted streets / urban / images / textures / displacements
 50 deserted streets / urban themed brushes (as well as patterns) images files in PNG format, all for commercial use, all royalty-free. Use in Photoshop, Photoshop elements, Xara, PSP, GIMP, Indesign, Pages, Photo-Paint, Painter and many more. All the Photoshop brush strokes can be used to create items for sale such as books, logos, web pages, packaging, adverts, videos and much more. All the brushes / patterns are by graphicxtras.com (Andrew Buckle). Any questions about the designs, please contact us on support@graphicxtras.com. The brushes / patterns / images are all mixed sizes. Set also includes documentation, gallery, serial number as well as the PNG files
   By Andrew Buckle
-Check out http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300627490&affiliateid=200057808)
+Check out http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300627490&affiliateid=200057808)

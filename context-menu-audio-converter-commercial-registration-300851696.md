@@ -1,4 +1,6 @@
-# Context Menu Audio Converter Commercial Registration<br />![Context Menu Audio Converter Commercial Registration](https://mycommerce.akamaized.net/api/pimages/P300851696/BIG/300851696.PNG)<br />Context Menu Audio Converter is a Windows shell extension utility for converting audio files quickly and simply from within the Windows file explorer.
+# Context Menu Audio Converter Commercial Registration
+![Context Menu Audio Converter Commercial Registration](https://mycommerce.akamaized.net/api/pimages/P300851696/BIG/300851696.PNG)
+Context Menu Audio Converter is a Windows shell extension utility for converting audio files quickly and simply from within the Windows file explorer.
 A new menu item 'Convert Audio File' is added for the right mouse button click on files in Windows explorer (context menu).
 
 Features:
@@ -15,4 +17,5 @@ Registration modes:
 Registration: For home use.
 Commercial Registration: For commercial use, using Context Menu Audio Converter for commercial purposes inside a commercial company (for money making use).
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300851696&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300851696&affiliateid=200057808)

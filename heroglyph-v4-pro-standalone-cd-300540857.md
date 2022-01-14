@@ -1,1 +1,2 @@
-# Heroglyph V4 Pro - Standalone CD<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300540857&affiliateid=200057808)
+# Heroglyph V4 Pro - Standalone CD
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300540857&affiliateid=200057808)

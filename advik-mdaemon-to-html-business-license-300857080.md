@@ -1,1 +1,3 @@
-# Advik MDaemon to HTML - Business License<br />Software to Migrate MDaemon Email Accounts<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300857080&affiliateid=200057808)
+# Advik MDaemon to HTML - Business License
+Software to Migrate MDaemon Email Accounts
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300857080&affiliateid=200057808)

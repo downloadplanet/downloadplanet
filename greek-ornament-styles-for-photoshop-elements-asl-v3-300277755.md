@@ -1,4 +1,5 @@
-# Greek Ornament Styles for Photoshop & Elements (ASL) V3<br />www.graphicxtras.com -- Greek ornament styles Photoshop & Elements ASL V3
+# Greek Ornament Styles for Photoshop & Elements (ASL) V3
+www.graphicxtras.com -- Greek ornament styles Photoshop & Elements ASL V3
 
 140 Greek ornament styles and layer effects for Adobe (R) Photoshop (R) + Photoshop Elements, PC + MAC OS X
 
@@ -16,4 +17,5 @@ All styles created by graphicxtras.com
 
 
 MENU: Please mail me with any questions
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277755&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277755&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Andrews Vector Plugins Gradient Mesh for Illustrator V16<br />www.graphicxtras.com -- Andrews Vector Plugins Gradient Mesh Illustrator CS 5 4 3 2 1 PC & MAC OS X V16
+# Andrews Vector Plugins Gradient Mesh for Illustrator V16
+www.graphicxtras.com -- Andrews Vector Plugins Gradient Mesh Illustrator CS 5 4 3 2 1 PC & MAC OS X V16
 
 Gradient mesh manipulation plug-in for Adobe (R) Illustrator (R)
 Mesh plug-in takes a basic mesh and allows you to explore and experiment and create to product truly beautiful color design meshes
@@ -22,4 +23,5 @@ MENU:
 
 For more information about the plug-in set as well as gradient mesh demos and documentation
 If you wish to contact me about the plug-in set, please e-mail on Please e-mail us on support@graphicxtras.com
-Other plugins - more info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300012717&affiliateid=200057808)
+Other plugins - more info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300012717&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# TFW Komplett: alle Videos, alle Teilnehmerunterlagen alle Dozentenschlüssel, alle Repetitoren (außer techn. Qualif.) plus Hörbuch (sep. Auslieferung), Autor: Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300633006&affiliateid=200057808)
+# TFW Komplett: alle Videos, alle Teilnehmerunterlagen alle Dozentenschlüssel, alle Repetitoren (außer techn. Qualif.) plus Hörbuch (sep. Auslieferung), Autor: Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300633006&affiliateid=200057808)

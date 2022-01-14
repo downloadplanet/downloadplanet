@@ -1,1 +1,3 @@
-# Geprüfter Industriefachwirt - Volks- und Betriebswirtschaft<br />![Geprüfter Industriefachwirt - Volks- und Betriebswirtschaft](https://mycommerce.akamaized.net/api/pimages/P300601272/BIG/300601272.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300601272&affiliateid=200057808)
+# Geprüfter Industriefachwirt - Volks- und Betriebswirtschaft
+![Geprüfter Industriefachwirt - Volks- und Betriebswirtschaft](https://mycommerce.akamaized.net/api/pimages/P300601272/BIG/300601272.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300601272&affiliateid=200057808)

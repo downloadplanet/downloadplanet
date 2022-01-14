@@ -1,1 +1,3 @@
-# Firefox Password Recovery<br />Recover Forgotten Firefox and Thunderbird Passwords<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879361&affiliateid=200057808)
+# Firefox Password Recovery
+Recover Forgotten Firefox and Thunderbird Passwords
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879361&affiliateid=200057808)

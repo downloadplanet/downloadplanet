@@ -1,4 +1,6 @@
-# Printstation<br />![Printstation](https://mycommerce.akamaized.net/api/pimages/P300747353/BIG/300747353.PNG)<br />Printstation is a professional photo catalogue software that creates printed albums, index files, impressive collages, photo documentations and more. Output to printer, PDF or image file. It allows to print multiple pictures on multiple pages, with custom page layouts, along with header and footer text inclusive automatic macros - at the touch of a button.
+# Printstation
+![Printstation](https://mycommerce.akamaized.net/api/pimages/P300747353/BIG/300747353.PNG)
+Printstation is a professional photo catalogue software that creates printed albums, index files, impressive collages, photo documentations and more. Output to printer, PDF or image file. It allows to print multiple pictures on multiple pages, with custom page layouts, along with header and footer text inclusive automatic macros - at the touch of a button.
 A page in Printstation consists of columns, rows and cells. Simply define the number of columns and rows, and the cells are sized accordingly. Pictures are fitted automatically to the cells but can also be expanded in horizontal or vertical direction. An intelligent algorithm adjusts the picture order to avoid gaps. It creates a clean, professional looking layout without wasting time, paper or money.
 Actual printing is only one part of the process. Another important part is the selection of pictures. Printstation does focus on that, offering you a very handy picture browser with a fast viewer inclusive slide show feature. It makes reviewing of the pictures really convenient. If you choose a picture, mark it by a single click or keystroke. Or mark a complete folder at once. The current selection of images can be saved and restored later.
 
@@ -16,4 +18,5 @@ Optionally show filename, file date, file time and other information above or un
 Thumbnail browser
 Fast picture viewer with zooming and panning
 Many supported file formats including DICOM for medical imaging
-Direct printing via PTP, iPhone and iPad<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300747353&affiliateid=200057808)
+Direct printing via PTP, iPhone and iPad
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300747353&affiliateid=200057808)

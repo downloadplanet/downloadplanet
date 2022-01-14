@@ -1,1 +1,2 @@
-# Heroglyph DVD Workshop<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300266135&affiliateid=200057808)
+# Heroglyph DVD Workshop
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300266135&affiliateid=200057808)

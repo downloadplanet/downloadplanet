@@ -1,1 +1,2 @@
-# Bundle - HyperCam and WMP Trimmer Plugin<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300489509&affiliateid=200057808)
+# Bundle - HyperCam and WMP Trimmer Plugin
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300489509&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# 100 Grid brushes for Photoshop, Affinity, PSP etc V239<br />100 Grid themed brushes for use in Photoshop, Affinity Photo, Elements, Krita, Painter, etc - all by graphicxtras / Andrew Buckle, all for royalty free, commercial and personal use. PC and MAC. Check out our graphicxtras channel on youtube for more information about the different designs<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300669249&affiliateid=200057808)
+# 100 Grid brushes for Photoshop, Affinity, PSP etc V239
+100 Grid themed brushes for use in Photoshop, Affinity Photo, Elements, Krita, Painter, etc - all by graphicxtras / Andrew Buckle, all for royalty free, commercial and personal use. PC and MAC. Check out our graphicxtras channel on youtube for more information about the different designs
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300669249&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# EconomSys Enterprise<br />EconomSys Enterprise<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300992674&affiliateid=200057808)
+# EconomSys Enterprise
+EconomSys Enterprise
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300992674&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# PROMT Professional 10 Gigant<br />![PROMT Professional 10 Gigant](https://mycommerce.akamaized.net/api/pimages/P300628490/BIG/300628490.PNG)<br />Übersetzungssoftware für alle anspruchsvollen Anwender, die viel mit fremdsprachigen Dokumenten zu tun haben. PROMT Professional beschleunigt um bis zu 90 % die Bearbeitung der fremdsprachigen Korrespondenz und unterstützt Sie effizient bei Ihrer Übersetzungsarbeit. Höchste Übersetzungsqualität und der gewaltige Wortschatz von bis zu 1.150.000 Wörtern pro Sprachpaar gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt. Mit dem Datei-Übersetzer werden große Mengen von Dateien im Stapelverfahren schnell und effizient übersetzt.
+# PROMT Professional 10 Gigant
+![PROMT Professional 10 Gigant](https://mycommerce.akamaized.net/api/pimages/P300628490/BIG/300628490.PNG)
+Übersetzungssoftware für alle anspruchsvollen Anwender, die viel mit fremdsprachigen Dokumenten zu tun haben. PROMT Professional beschleunigt um bis zu 90 % die Bearbeitung der fremdsprachigen Korrespondenz und unterstützt Sie effizient bei Ihrer Übersetzungsarbeit. Höchste Übersetzungsqualität und der gewaltige Wortschatz von bis zu 1.150.000 Wörtern pro Sprachpaar gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt. Mit dem Datei-Übersetzer werden große Mengen von Dateien im Stapelverfahren schnell und effizient übersetzt.
 
 Unterstützte Übersetzungsrichtungen:
 Englisch -> Deutsch und Deutsch -> Englisch
@@ -28,4 +30,5 @@ Nachschlagewörterbuch als zusätzliche Anwendung um jederzeit unbekannte Wörte
 PROMT Backup speichert alle benutzerdefinierten Einstellungen wie die Themenvorlagen, Übersetzungsalgorithmen, Benutzerwörterbücher und Datenbanken in einem Archiv.
 Automatische Übersetzung von E-Mails in MS Outlook 2003/2007/2010/2013 (32 Bit).
 Integration in Internet Explorer (8–11 32Bit) und Mozilla Firefox (24) Nur ein Mausklick und schon wird die Seite in einer anderen Sprache dargestellt.
-Automatische Stapelübersetzung mehrerer Dateien nacheinander.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300628490&affiliateid=200057808)
+Automatische Stapelübersetzung mehrerer Dateien nacheinander.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300628490&affiliateid=200057808)

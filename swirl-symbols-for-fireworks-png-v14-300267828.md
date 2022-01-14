@@ -1,3 +1,5 @@
-# Swirl symbols for Fireworks (PNG) V14<br />www.graphicxtras.com -- Embellish Symbols Fireworks PNG format Vectors Swirls & Flourishes Shapes V14
+# Swirl symbols for Fireworks (PNG) V14
+www.graphicxtras.com -- Embellish Symbols Fireworks PNG format Vectors Swirls & Flourishes Shapes V14
 
-250 Embellish symbols for use in Adobe (R) Fireworks (R) CS6 CS5 CS4 CS3 8 and others PC + MAC OS X commercial use OK. Many mixed colorful designs are included. Symbols are all in PNG format, import into Fireworks. Native format. Adobe and Fireworks are registered trademarks of Adobe Systems Incorporated. All the symbols have been created by graphicxtras.com (Andrew Buckle). Set also includes documentation + gallery.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300267828&affiliateid=200057808)
+250 Embellish symbols for use in Adobe (R) Fireworks (R) CS6 CS5 CS4 CS3 8 and others PC + MAC OS X commercial use OK. Many mixed colorful designs are included. Symbols are all in PNG format, import into Fireworks. Native format. Adobe and Fireworks are registered trademarks of Adobe Systems Incorporated. All the symbols have been created by graphicxtras.com (Andrew Buckle). Set also includes documentation + gallery.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300267828&affiliateid=200057808)

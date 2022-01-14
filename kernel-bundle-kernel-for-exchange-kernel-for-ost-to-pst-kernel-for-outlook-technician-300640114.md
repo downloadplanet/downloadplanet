@@ -1,1 +1,2 @@
-# Kernel Bundle - ( Kernel for Exchange + Kernel for OST to PST + Kernel for Outlook ) - Technician<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300640114&affiliateid=200057808)
+# Kernel Bundle - ( Kernel for Exchange + Kernel for OST to PST + Kernel for Outlook ) - Technician
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300640114&affiliateid=200057808)

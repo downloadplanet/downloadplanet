@@ -1,2 +1,5 @@
-# ReplyAll Professional (en)<br />![ReplyAll Professional (en)](https://mycommerce.akamaized.net/api/pimages/P300575342/BIG/300575342.PNG)<br />ReplyAll alerts before you unintentionally reply all, or if you are a confidential BCC recipient of the e-mail. Manage addresses you never want to send a reply to.
-All details | All product versions/licenses | Switch to German version<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300575342&affiliateid=200057808)
+# ReplyAll Professional (en)
+![ReplyAll Professional (en)](https://mycommerce.akamaized.net/api/pimages/P300575342/BIG/300575342.PNG)
+ReplyAll alerts before you unintentionally reply all, or if you are a confidential BCC recipient of the e-mail. Manage addresses you never want to send a reply to.
+All details | All product versions/licenses | Switch to German version
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300575342&affiliateid=200057808)

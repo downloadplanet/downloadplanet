@@ -1,1 +1,3 @@
-# AccountRight Password Recovery (for business use)<br />AccountRight Password Recovery is a solution that instantly recovers passwords for AccountRight files (formerly MYOB Accounting). All passwords are recovered instantly regardless of their length (including multi-lingual ones). All versions of AccountRight are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300614908&affiliateid=200057808)
+# AccountRight Password Recovery (for business use)
+AccountRight Password Recovery is a solution that instantly recovers passwords for AccountRight files (formerly MYOB Accounting). All passwords are recovered instantly regardless of their length (including multi-lingual ones). All versions of AccountRight are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300614908&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Wondershare PPT2DVD Pro for Windows - Multi-User Commercial License (2-5 PCs)<br />![Wondershare PPT2DVD Pro for Windows - Multi-User Commercial License (2-5 PCs)](https://mycommerce.akamaized.net/api/pimages/P300947780/BIG/300947780.PNG)<br />Wondershare PPT2DVD Pro is a reputed tool designed for easily creating high quality DVD movies and videos from PowerPoint presentations by retaining animations, sounds, video clips and even links between slides.
+# Wondershare PPT2DVD Pro for Windows - Multi-User Commercial License (2-5 PCs)
+![Wondershare PPT2DVD Pro for Windows - Multi-User Commercial License (2-5 PCs)](https://mycommerce.akamaized.net/api/pimages/P300947780/BIG/300947780.PNG)
+Wondershare PPT2DVD Pro is a reputed tool designed for easily creating high quality DVD movies and videos from PowerPoint presentations by retaining animations, sounds, video clips and even links between slides.
 
 Benefits of converting PowerPoint to DVD?
 1. Easy sharing
@@ -18,4 +20,5 @@ Key features of PPT2DVD:
 4. High compatibility for almost all DVD machines.
 5. The first PowerPoint to DVD program supports PowerPoint® 2007 and Vista.
 6. Supports converting PowerPoint presentations to AVI, WMV, MPEG (MPEG-1, MPEG-2) videos.
-7. Friendly user interface with step by step user guide.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947780&affiliateid=200057808)
+7. Friendly user interface with step by step user guide.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947780&affiliateid=200057808)

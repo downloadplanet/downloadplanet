@@ -1,1 +1,2 @@
-# Bundle PDF Repair & Conversion Tools ( PDF Repair + Image to PDF + Word to PDF + PDF to Word + PDF Split + PDF Restriction Removal ) - Home User<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300548359&affiliateid=200057808)
+# Bundle PDF Repair & Conversion Tools ( PDF Repair + Image to PDF + Word to PDF + PDF to Word + PDF Split + PDF Restriction Removal ) - Home User
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300548359&affiliateid=200057808)

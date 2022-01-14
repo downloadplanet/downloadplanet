@@ -1,1 +1,2 @@
-# Outlook Duplicates Remover - Standard License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799269&affiliateid=200057808)
+# Outlook Duplicates Remover - Standard License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799269&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Process Priority Optimizer Registration<br />![Process Priority Optimizer Registration](https://mycommerce.akamaized.net/api/pimages/P300007816/BIG/300007816.JPG)<br />Process Priority Optimizer is a process priority class optimizer for NT/XP systems trough psapi.dll.
+# Process Priority Optimizer Registration
+![Process Priority Optimizer Registration](https://mycommerce.akamaized.net/api/pimages/P300007816/BIG/300007816.JPG)
+Process Priority Optimizer is a process priority class optimizer for NT/XP systems trough psapi.dll.
 
 Main features:
 Simple and easy to use
@@ -12,4 +14,5 @@ Requirements:
 Windows NT/XP
 psapi.dll
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300007816&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300007816&affiliateid=200057808)

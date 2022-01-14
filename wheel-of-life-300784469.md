@@ -1,2 +1,4 @@
-# Wheel of life<br />The wheel of life is a chart which shows how your vital spheres are balanced.
-Wheel of life is plug-in for Windows-version of LeaderTask software (ID 300627106).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300784469&affiliateid=200057808)
+# Wheel of life
+The wheel of life is a chart which shows how your vital spheres are balanced.
+Wheel of life is plug-in for Windows-version of LeaderTask software (ID 300627106).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300784469&affiliateid=200057808)

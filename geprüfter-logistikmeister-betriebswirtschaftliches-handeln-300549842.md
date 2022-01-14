@@ -1,1 +1,3 @@
-# Geprüfter Logistikmeister - Betriebswirtschaftliches Handeln<br />![Geprüfter Logistikmeister - Betriebswirtschaftliches Handeln](https://mycommerce.akamaized.net/api/pimages/P300549842/BIG/300549842.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300549842&affiliateid=200057808)
+# Geprüfter Logistikmeister - Betriebswirtschaftliches Handeln
+![Geprüfter Logistikmeister - Betriebswirtschaftliches Handeln](https://mycommerce.akamaized.net/api/pimages/P300549842/BIG/300549842.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300549842&affiliateid=200057808)

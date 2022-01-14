@@ -1,4 +1,6 @@
-# VisionLab ( .NET Edition ) UPGRADE to Source Code-Single License<br />![VisionLab ( .NET Edition ) UPGRADE to Source Code-Single License](https://mycommerce.akamaized.net/api/pimages/P300108856/BIG/300108856.JPG)<br />The VisionLab is a set of .NET 2.0(or higher) components, based on OpenWire technology for advanced computer vision. The components allow rapid development of fully featured motion detection applications for the security industry with almost zero lines of program code.
+# VisionLab ( .NET Edition ) UPGRADE to Source Code-Single License
+![VisionLab ( .NET Edition ) UPGRADE to Source Code-Single License](https://mycommerce.akamaized.net/api/pimages/P300108856/BIG/300108856.JPG)
+The VisionLab is a set of .NET 2.0(or higher) components, based on OpenWire technology for advanced computer vision. The components allow rapid development of fully featured motion detection applications for the security industry with almost zero lines of program code.
 VisionLab also includes video capturing components based on both Video For Windows (VFW), and DirectShow, so no additional components are needed in order to start building motion detection applications.
 The library is fully multithreaded, utilizes well modern multi-core systems, and runs at full native performance.
 Also includes a Visual Graphical Editor for Codeless Development.
@@ -29,4 +31,5 @@ Motion detection - Create security systems with motion detection, or activate th
 Detect objects - Detect objects with different shapes in the video.
 Face Detect and recognition - Detect and/or recognize faces in images or video.
 Fingerprint compare - Process and compare fingerprint in image or video.
-Find and Track Targets - Find and track objects in the video.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108856&affiliateid=200057808)
+Find and Track Targets - Find and track objects in the video.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108856&affiliateid=200057808)

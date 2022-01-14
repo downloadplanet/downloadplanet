@@ -1,4 +1,6 @@
-# Clever Internet ActiveX Suite 10.1 Company License Subscription<br />![Clever Internet ActiveX Suite 10.1 Company License Subscription](https://mycommerce.akamaized.net/api/pimages/P300973456/BIG/300973456.JPG)<br />The Clever Internet ActiveX Suite represents com-based components for sending and retrieving mail, download and upload Internet resources over most popular protocols and many more.
+# Clever Internet ActiveX Suite 10.1 Company License Subscription
+![Clever Internet ActiveX Suite 10.1 Company License Subscription](https://mycommerce.akamaized.net/api/pimages/P300973456/BIG/300973456.JPG)
+The Clever Internet ActiveX Suite represents com-based components for sending and retrieving mail, download and upload Internet resources over most popular protocols and many more.
 These components can operate in any languages with com-support routines, such as Visual Basic, Visual C++, C#, VBScript, JavaScript and many others.
 The suite includes more than 50 components for Internet development and its code is constantly being refined and improved.
 Features at a glance:
@@ -7,4 +9,5 @@ Client and Server components with SSL / TLS support
 Data compression while retrieving data
 Easy creation of the mail messages in any formats. Combining and submitting the Web Form POST requests
 Royalty free licensing. Free Unlimited Email support
-Fully-indexed help documentation. VB.NET, ASP, HTML, VBScript and JavaScript demos code<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300973456&affiliateid=200057808)
+Fully-indexed help documentation. VB.NET, ASP, HTML, VBScript and JavaScript demos code
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300973456&affiliateid=200057808)

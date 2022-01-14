@@ -1,4 +1,5 @@
-# Andrews Plugins CutoutLantern for Photoshop & PSP (PC only) V6<br />www.graphicxtras.com -- Andrews Plugins CutoutLantern Adobe Photoshop & PSP PC V6
+# Andrews Plugins CutoutLantern for Photoshop & PSP (PC only) V6
+www.graphicxtras.com -- Andrews Plugins CutoutLantern Adobe Photoshop & PSP PC V6
 
 Andrew' Plug-ins volume 6 CutoutLantern includes 16 powerful plug-ins for use in Paint Shop Pro (R) Photo and Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 + PaintShop Pro X8 X7 X6 etc + Painter and others, PC only
 
@@ -22,4 +23,5 @@ Plug-in set also contains PDF documentation explaining the plug-in functionality
 
 MENU:
 
-Home page is http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=153799&affiliateid=200057808)
+Home page is http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=153799&affiliateid=200057808)

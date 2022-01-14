@@ -1,4 +1,6 @@
-# AudioLab ( Delphi/C++Builder Edition ) Single License + Source Code<br />![AudioLab ( Delphi/C++Builder Edition ) Single License + Source Code](https://mycommerce.akamaized.net/api/pimages/P199019/BIG/199019.JPG)<br />AudioLab is a set of components, based on OpenWire technology for fast audio processing. They allow audio capture, processing and playback with zero lines of program code.
+# AudioLab ( Delphi/C++Builder Edition ) Single License + Source Code
+![AudioLab ( Delphi/C++Builder Edition ) Single License + Source Code](https://mycommerce.akamaized.net/api/pimages/P199019/BIG/199019.JPG)
+AudioLab is a set of components, based on OpenWire technology for fast audio processing. They allow audio capture, processing and playback with zero lines of program code.
 AudioLab supports Wave Win32 API, Audio ACM, DirectX Media Objects (DMO), DirectShow, ASIO, VST 2.X, VST 3.0 and allows if needed any mixture of them. The developer can choose to go with any of them, to use all, or can switch from the one to the other at any moment. The components hide the complexity of both approaches, and make them look almost identical from the users prospective.
 The library is fully multithreaded, utilizes well modern multi-core systems, and runs at full native performance.
 Also includes Visual Graphical Editor for Codeless Development and Visual Live Bindings.
@@ -27,4 +29,5 @@ Audio converters/re-encoders.
 Jukeboxes, and Play Lists.
 Audio broadcasting.
 Connecting to audio streams.
-Audio Editing, and analysis.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=199019&affiliateid=200057808)
+Audio Editing, and analysis.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=199019&affiliateid=200057808)

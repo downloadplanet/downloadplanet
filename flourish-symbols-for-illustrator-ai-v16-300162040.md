@@ -1,4 +1,5 @@
-# Flourish symbols for Illustrator (AI) V16<br />www.graphicxtras.com -- Embellish Symbols for Adobe Illustrator Shapes Flourish & Swirls V16
+# Flourish symbols for Illustrator (AI) V16
+www.graphicxtras.com -- Embellish Symbols for Adobe Illustrator Shapes Flourish & Swirls V16
 
 200 Embellish symbols for Adobe (R) Illustrator (R) (embellish symbols, spiral scroll symbols, flourish symbols, foliage symbols, flowing symbols and many more)
 
@@ -16,4 +17,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300162040&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300162040&affiliateid=200057808)

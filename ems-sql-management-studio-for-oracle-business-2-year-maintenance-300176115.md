@@ -1,1 +1,3 @@
-# EMS SQL Management Studio for Oracle (Business) + 2 Year Maintenance<br />EMS SQL Management Studio for Oracle is a complete solution for Oracle database administration and development. SQL Studio unites must-have Oracle tools in one powerful and easy-to-use environment that will make you more productive than ever before!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300176115&affiliateid=200057808)
+# EMS SQL Management Studio for Oracle (Business) + 2 Year Maintenance
+EMS SQL Management Studio for Oracle is a complete solution for Oracle database administration and development. SQL Studio unites must-have Oracle tools in one powerful and easy-to-use environment that will make you more productive than ever before!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300176115&affiliateid=200057808)

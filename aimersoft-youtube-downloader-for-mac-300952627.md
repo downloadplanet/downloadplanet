@@ -1,4 +1,6 @@
-# Aimersoft YouTube Downloader for Mac<br />![Aimersoft YouTube Downloader for Mac](https://mycommerce.akamaized.net/api/pimages/P300952627/BIG/300952627.PNG)<br />Aimersoft YouTube Downloader for Mac is not just a YouTube videos downloader, but an online flash (FLV) downloader that you can download videos from many other video-sharing sites like MySpace, Gofish, Break, Google Video, etc. Plus, with built-in FLV Player and FLV to X Converter, you can view the downloaded FLV videos directly on Mac or convert them to any of your portable devices like iPhone, iPad, iPod, PSP and so on.
+# Aimersoft YouTube Downloader for Mac
+![Aimersoft YouTube Downloader for Mac](https://mycommerce.akamaized.net/api/pimages/P300952627/BIG/300952627.PNG)
+Aimersoft YouTube Downloader for Mac is not just a YouTube videos downloader, but an online flash (FLV) downloader that you can download videos from many other video-sharing sites like MySpace, Gofish, Break, Google Video, etc. Plus, with built-in FLV Player and FLV to X Converter, you can view the downloaded FLV videos directly on Mac or convert them to any of your portable devices like iPhone, iPad, iPod, PSP and so on.
 
 Key Features:
 
@@ -17,4 +19,5 @@ Convert downloaded and local FLV videos to iPod, iPhone, PSP, etc. portable play
 
 4. Convenient to Play
 Preview online downloaded videos with the build-in player by a simple click;
-Playback FLV videos on your Mac via build-in player without any other FLV players required.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952627&affiliateid=200057808)
+Playback FLV videos on your Mac via build-in player without any other FLV players required.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952627&affiliateid=200057808)

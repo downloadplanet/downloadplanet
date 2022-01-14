@@ -1,4 +1,6 @@
-# Actual Window Manager<br />![Actual Window Manager](https://mycommerce.akamaized.net/api/pimages/P165635/BIG/165635.GIF)<br />Actual Window Manager integrates and combines all of the great features from four of our award-winning Actual Tools programs: Actual Title Buttons, Actual Transparent Window, Actual Window Minimizer and Actual Window Guard.
+# Actual Window Manager
+![Actual Window Manager](https://mycommerce.akamaized.net/api/pimages/P165635/BIG/165635.GIF)
+Actual Window Manager integrates and combines all of the great features from four of our award-winning Actual Tools programs: Actual Title Buttons, Actual Transparent Window, Actual Window Minimizer and Actual Window Guard.
 Actual Transparent Window allows you to make any window transparent from 0% (fully transparent) to 100% (opaque and solid) in Windows 2000/XP.
 Want a window on top, but need to see through it? Transparent Windows is perfect for this! You might want to do this for your Windows taskbar, Winamp, your e-mail program or instant messenger.
 Transparent Windows is great with Notepad or other accessories where you need to work in one window while looking at another.
@@ -7,4 +9,5 @@ Actual Title Buttons allows you to add new "Minimize To Tray", "Stay On Top" and
 Actual Window Guard will help you automatically minimize certain programs upon startup or open them full screen. It will also help you automatically close annoying pop-ups and other windows you don't want to see. If the windows of the programs you run are always appearing somewhere you don't want, or in some size that that you don't want - then Actual Window Guard will allow you to "discipline" unruly windows and put your desktop in order.
 And more.
 You can configure every program's windows to different options, leave them that way for a while, or change the options whenever you wish! Your configuration for each window will remain set after every bootup until you change it.
-Actual Window Manager now has multilingual support. It supports English, Spanish, French, Portuguese, Italian and others!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=165635&affiliateid=200057808)
+Actual Window Manager now has multilingual support. It supports English, Spanish, French, Portuguese, Italian and others!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=165635&affiliateid=200057808)

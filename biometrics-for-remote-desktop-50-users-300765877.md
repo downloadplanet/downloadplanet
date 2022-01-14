@@ -1,1 +1,3 @@
-# Biometrics for Remote Desktop (50 users)<br />![Biometrics for Remote Desktop (50 users)](https://mycommerce.akamaized.net/api/pimages/P300765877/BIG/300765877.GIF)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300765877&affiliateid=200057808)
+# Biometrics for Remote Desktop (50 users)
+![Biometrics for Remote Desktop (50 users)](https://mycommerce.akamaized.net/api/pimages/P300765877/BIG/300765877.GIF)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300765877&affiliateid=200057808)

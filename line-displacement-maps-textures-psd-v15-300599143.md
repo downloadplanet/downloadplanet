@@ -1,3 +1,5 @@
-# Line Displacement maps Textures (PSD) V15<br />www.graphicxtras.com -- Line Displacement maps Textures & distortions PSD Photoshop & Elements & PSP V15
+# Line Displacement maps Textures (PSD) V15
+www.graphicxtras.com -- Line Displacement maps Textures & distortions PSD Photoshop & Elements & PSP V15
 
-120 Line themed displacement maps / textures / distortions in PSD format for use in Photoshop and Photoshop Elements and PSP (in displace filter, texturizer, as layers etc) Line themed designs to apply in millions of ways. Commercial use, all royalty-free, all by graphicxtras.com (Andrew Buckle). Created 2013<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300599143&affiliateid=200057808)
+120 Line themed displacement maps / textures / distortions in PSD format for use in Photoshop and Photoshop Elements and PSP (in displace filter, texturizer, as layers etc) Line themed designs to apply in millions of ways. Commercial use, all royalty-free, all by graphicxtras.com (Andrew Buckle). Created 2013
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300599143&affiliateid=200057808)

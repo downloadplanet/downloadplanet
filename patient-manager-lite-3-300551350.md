@@ -1,1 +1,3 @@
-# Patient Manager Lite 3<br />Patient Manager Lite is a Quality Medical Software for Medical Teams that includes Rich Text Medical Notes, Patient Management and Medical Schedule capabilities.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300551350&affiliateid=200057808)
+# Patient Manager Lite 3
+Patient Manager Lite is a Quality Medical Software for Medical Teams that includes Rich Text Medical Notes, Patient Management and Medical Schedule capabilities.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300551350&affiliateid=200057808)

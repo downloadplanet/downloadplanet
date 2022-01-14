@@ -1,1 +1,3 @@
-# TMS Aurelius - Small Team License Discount<br />TMS Aurelius is an Object-Relational Mapping framework for Delphi. More info at http://www.tmssoftware.com/go?aurelius<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300497338&affiliateid=200057808)
+# TMS Aurelius - Small Team License Discount
+TMS Aurelius is an Object-Relational Mapping framework for Delphi. More info at http://www.tmssoftware.com/go?aurelius
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300497338&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Immobilienfachwirt, ImmFW, Repertorium, 2. Unternehmenssteuerung u. Kontrolle,Rep. zum Videocoaching von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300627298&affiliateid=200057808)
+# Immobilienfachwirt, ImmFW, Repertorium, 2. Unternehmenssteuerung u. Kontrolle,Rep. zum Videocoaching von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300627298&affiliateid=200057808)

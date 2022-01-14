@@ -1,7 +1,9 @@
-# Batch & Print Pro 7 Site License (Per Country)<br />Batch & Print Pro is for batching documents as retain-able lists which can be automatically printed in document sequence of your choice, All associated shell printable documents are supported, e.g. PDF, MS Word, HTML, Text Files, Image formats, Excel Spreadsheets, PowerPoint Presentations and many more.
+# Batch & Print Pro 7 Site License (Per Country)
+Batch & Print Pro is for batching documents as retain-able lists which can be automatically printed in document sequence of your choice, All associated shell printable documents are supported, e.g. PDF, MS Word, HTML, Text Files, Image formats, Excel Spreadsheets, PowerPoint Presentations and many more.
 Batch & Print Pro software monitors the spool queue of your chosen printer for seamless sequence printing to your desired choice, Other features of this software include Directory monitoring, FTP, SFTP & POP3 Email monitoring, Print scheduler, printer load balancing, pre-processing for converting PDF to Postscript without using Acrobat, internal direct printing of native printer formats like PS, PCL, PRN, drag & drop of files for ease of use, save, load, append batch lists for later use, list ordering options, refresh lists to pickup new files, separator pages between each file options, batch file replication, DOS & VBS scripts within list, zip file support, logging & reporting, email notifications, can run as an NT service, full command line support and it also recognizes number of pages in PDF files + lots more.
 Batch & Print Pro to date has 1,000's of satisfied customers, some of the largest printing organizations like Xerox use Batch & Print Pro as their first choice batch print solution.
 All Updates to 7.xx are free of charge from v7.xx versions.
 THIS SITE LICENSE ALLOWS UNLIMITED NUMBER OF COPIES OF BATCH & PRINT PRO TO BE USED WITHIN A COMPANY PER COUNTRY.
 NOTE: With Site Licenses you have permission to distribute our software with your software to your clients as long as you don't sell it separately.
-All Updates to 7.xx are free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300610838&affiliateid=200057808)
+All Updates to 7.xx are free of charge.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300610838&affiliateid=200057808)

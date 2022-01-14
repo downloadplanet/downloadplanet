@@ -1,1 +1,3 @@
-# Bundle Offer MacUncle - (CSV to vCard+ OLM to vCard) Converter - Personal License<br />(CSV to vCard +OLM to vCard) Converter Bundle Offer<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998519&affiliateid=200057808)
+# Bundle Offer MacUncle - (CSV to vCard+ OLM to vCard) Converter - Personal License
+(CSV to vCard +OLM to vCard) Converter Bundle Offer
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998519&affiliateid=200057808)

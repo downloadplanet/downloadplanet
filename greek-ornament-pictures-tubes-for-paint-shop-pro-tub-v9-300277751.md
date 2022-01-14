@@ -1,4 +1,5 @@
-# Greek ornament pictures tubes for Paint Shop Pro (TUB) V9<br />www.graphicxtras.com -- Greek ornament pictures Tubes for PaintShop Pro TUB PSP PC V9
+# Greek ornament pictures tubes for Paint Shop Pro (TUB) V9
+www.graphicxtras.com -- Greek ornament pictures Tubes for PaintShop Pro TUB PSP PC V9
 
 100 Ancient Greek Ornament picture tubes for Corel (R) Paint Shop Pro (R) Photo - TUB format, all royalty-free.
 
@@ -14,4 +15,5 @@ The set comes with documentation and gallery.
 
 Easy to use and install, apply as required. Simply add TUB files to the picture tubes folder of Paint Shop Pro and then apply and modify via the picture tubes tool options
 
-All the tubes are by graphicxtras.com (Andrew Buckle)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277751&affiliateid=200057808)
+All the tubes are by graphicxtras.com (Andrew Buckle)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277751&affiliateid=200057808)

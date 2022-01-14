@@ -1,4 +1,5 @@
-# Free Image Bitmap Library Commercial License<br />Free Image Bitmap Library is a TBitmap and TBitmap32 descendant class that uses Free Image Library (FreeImage.dll) for loading and saving of picture files.
+# Free Image Bitmap Library Commercial License
+Free Image Bitmap Library is a TBitmap and TBitmap32 descendant class that uses Free Image Library (FreeImage.dll) for loading and saving of picture files.
 
 Features:
 
@@ -16,4 +17,5 @@ Commercial License: for usage of the component in a single commercial product.
 For the shareware license, the product must sell for no more than €40 each. The price limit can be raised by purchasing duplicate licences, eg. 2 licences doubles it.
 In all cases there are no royalties to pay, and you can use all future updates without further cost, all you need to do is just obtain the newest version.
 
-If none of these licenses match your requirements, or if you have any questions, get in touch (3delite@3delite.hu).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300982904&affiliateid=200057808)
+If none of these licenses match your requirements, or if you have any questions, get in touch (3delite@3delite.hu).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300982904&affiliateid=200057808)

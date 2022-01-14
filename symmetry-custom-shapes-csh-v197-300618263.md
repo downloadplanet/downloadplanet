@@ -1,4 +1,6 @@
-# Symmetry Custom shapes (CSH) V197<br />www.graphicxtras.com -- Symmetry Custom Shapes for Adobe Photoshop & Elements Vectors CSH V197
+# Symmetry Custom shapes (CSH) V197
+www.graphicxtras.com -- Symmetry Custom Shapes for Adobe Photoshop & Elements Vectors CSH V197
 
 80 Symmetry shapes for Photoshop Creative Cloud CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 6 (as well as the standalone Photoshop versions 14 - 6) and Photoshop Elements 15-1 PC MAC OS X. 80 Amazing symmetry designs commercial use. vector designs for your projects. Please contact us on support@graphicxtras.com if you have any questions
-More info about the symmetry shapes<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300618263&affiliateid=200057808)
+More info about the symmetry shapes
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300618263&affiliateid=200057808)

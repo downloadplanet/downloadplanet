@@ -1,4 +1,6 @@
-# Ebook "Insider Reisen 10-50% bei jeder Reise sparen"<br />![Ebook "Insider Reisen 10-50% bei jeder Reise sparen"](https://mycommerce.akamaized.net/api/pimages/P300577169/BIG/300577169.JPG)<br />Insider-Reisen
+# Ebook "Insider Reisen 10-50% bei jeder Reise sparen"
+![Ebook "Insider Reisen 10-50% bei jeder Reise sparen"](https://mycommerce.akamaized.net/api/pimages/P300577169/BIG/300577169.JPG)
+Insider-Reisen
 
 
 Vereisen Sie gern? Lieben Sie es unterwegs zu sein und die schönsten Plätze der Welt zu besuchen? Allein, mit dem/der Partner/in oder der ganzen Familie?
@@ -16,4 +18,5 @@ Denn in diesem Insider-Report erfahren Sie wie Sie ganz einfach und völlig lega
 - Geld sparen beim Charterflug
 - Geld sparen beim Linienflug
 - Geld sparen bei Ihrer Kreuzfahrt
-- Geld sparen beim nächsten Musical Ticket<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300577169&affiliateid=200057808)
+- Geld sparen beim nächsten Musical Ticket
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300577169&affiliateid=200057808)

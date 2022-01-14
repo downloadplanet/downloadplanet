@@ -1,6 +1,9 @@
-# Store Manager for Adobe Commerce (Magento Enterprise) (1 Primary License + 3 Additional Licenses)<br />![Store Manager for Adobe Commerce (Magento Enterprise) (1 Primary License + 3 Additional Licenses)](https://mycommerce.akamaized.net/api/pimages/P300737611/BIG/300737611.PNG)<br />Store Manager for Magento features:
+# Store Manager for Adobe Commerce (Magento Enterprise) (1 Primary License + 3 Additional Licenses)
+![Store Manager for Adobe Commerce (Magento Enterprise) (1 Primary License + 3 Additional Licenses)](https://mycommerce.akamaized.net/api/pimages/P300737611/BIG/300737611.PNG)
+Store Manager for Magento features:
 Make bulk changes of your Magento products prices, product information, inventory and products status.
 Import and Export of Magento products, categories, attributes, customers and orders from/to .csv, .xml, excel files.
 Change product type, product set, generate configurable combinations in bulk.
 Use POS to accept orders.
-Find sales, inventory and customer data in reports section.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300737611&affiliateid=200057808)
+Find sales, inventory and customer data in reports section.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300737611&affiliateid=200057808)

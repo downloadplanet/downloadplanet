@@ -1,4 +1,6 @@
-# HTML Guardian Enterprise Upgrade<br />![HTML Guardian Enterprise Upgrade](https://mycommerce.akamaized.net/api/pimages/P159250/BIG/159250.GIF)<br />ProtWare's HTML Guardian ™
+# HTML Guardian Enterprise Upgrade
+![HTML Guardian Enterprise Upgrade](https://mycommerce.akamaized.net/api/pimages/P159250/BIG/159250.GIF)
+ProtWare's HTML Guardian ™
 <!-- the recognized leader in web site protection since 1997 -->
 
 Encrypt HTML, Javascript, ASP, VBScript, CSS, PHP code. Protect images & links.
@@ -25,4 +27,5 @@ HTML Guardian Enterprise upgrade license is only available for the registered ow
 You should purchase an Enterprise upgrade license if you want to transform your existing Professional license into an Enterprise license.
 
 You will be prompted to provide your HTML Guardian Professional order reference number to purchase an Enterprise upgrade.
----<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=159250&affiliateid=200057808)
+---
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=159250&affiliateid=200057808)

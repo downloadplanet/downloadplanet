@@ -1,4 +1,5 @@
-# 1000 Displacement maps collection and textures for Photoshop & Elements (PSD)<br />www.graphicxtras.com -- 1000 Displacement maps collection Photoshop & Elements & PSP & Xara PSD PC & MAC OSX
+# 1000 Displacement maps collection and textures for Photoshop & Elements (PSD)
+www.graphicxtras.com -- 1000 Displacement maps collection Photoshop & Elements & PSP & Xara PSD PC & MAC OSX
 
 Displacement maps for Adobe (R) Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 6 + Photoshop Elements
 1000 Mixed displacement maps for Adobe (R) Photoshop (R)
@@ -23,4 +24,5 @@ MENU:
 Any questions, please mail us on support@graphicxtras.com
 on http://www.graphicxtras.com
 
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180707&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180707&affiliateid=200057808)

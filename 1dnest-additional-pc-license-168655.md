@@ -1,1 +1,3 @@
-# 1DNest: Additional PC License<br />![1DNest: Additional PC License](https://mycommerce.akamaized.net/api/pimages/P168655/BIG/168655.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=168655&affiliateid=200057808)
+# 1DNest: Additional PC License
+![1DNest: Additional PC License](https://mycommerce.akamaized.net/api/pimages/P168655/BIG/168655.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=168655&affiliateid=200057808)

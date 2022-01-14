@@ -1,1 +1,3 @@
-# MountFocus Runtime Keyboard (single license)<br />The MountFocus Runtime Keyboard is needed to use keyboards made with the MountFocus Keyboard Designer. The Runtime Keyboard can be controlled from your own applications using OLE Automation.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=133668&affiliateid=200057808)
+# MountFocus Runtime Keyboard (single license)
+The MountFocus Runtime Keyboard is needed to use keyboards made with the MountFocus Keyboard Designer. The Runtime Keyboard can be controlled from your own applications using OLE Automation.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=133668&affiliateid=200057808)

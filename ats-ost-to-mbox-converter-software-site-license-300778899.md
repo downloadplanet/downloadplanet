@@ -1,1 +1,3 @@
-# ATS OST to MBOX Converter Software : Site License<br />ATS OST to MBOX Convert Outlook OST file format to MBOX easily convert OST to MBOX converter software. ATS OST to MBOX converter software will help you to move and shift Outlook Message Items from MS Outlook application to MBOX Format Which is used in Apple & thunderbird.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778899&affiliateid=200057808)
+# ATS OST to MBOX Converter Software : Site License
+ATS OST to MBOX Convert Outlook OST file format to MBOX easily convert OST to MBOX converter software. ATS OST to MBOX converter software will help you to move and shift Outlook Message Items from MS Outlook application to MBOX Format Which is used in Apple & thunderbird.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778899&affiliateid=200057808)

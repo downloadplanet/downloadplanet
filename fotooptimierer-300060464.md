@@ -1,1 +1,3 @@
-# Foto-Optimierer<br />Optimize your photos<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060464&affiliateid=200057808)
+# Foto-Optimierer
+Optimize your photos
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060464&affiliateid=200057808)

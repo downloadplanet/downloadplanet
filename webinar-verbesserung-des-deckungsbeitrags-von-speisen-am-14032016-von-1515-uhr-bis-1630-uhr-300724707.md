@@ -1,4 +1,5 @@
-# Webinar Verbesserung des Deckungsbeitrags von Speisen am 14.03.2016 von 15:15 Uhr bis 16:30 Uhr<br />Seminarbeschreibung
+# Webinar Verbesserung des Deckungsbeitrags von Speisen am 14.03.2016 von 15:15 Uhr bis 16:30 Uhr
+Seminarbeschreibung
 Die Teilnehmer werden im Webinar den wichtigen Begriff "Deckungsbeitrag" im F&B Management kennen lernen. Sie werden in die Lage versetzt Maßnahmen zu ergreifen um den Deckungsbeitrag von Speisen zu erhöhen.
 
 Inhalte
@@ -16,4 +17,5 @@ Maßnahmenkatalog für die 4 Kategorien um den Deckungsbeitrag zu verbessern
 Zeitplan:
 15:00 Uhr Versenden der Teilnehmerlinks
 15:00-15:10 Uhr Technikcheck
-15:15-16:30 Uhr Webinar<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300724707&affiliateid=200057808)
+15:15-16:30 Uhr Webinar
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300724707&affiliateid=200057808)

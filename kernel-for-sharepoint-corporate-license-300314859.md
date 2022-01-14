@@ -1,1 +1,2 @@
-# Kernel for SharePoint - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300314859&affiliateid=200057808)
+# Kernel for SharePoint - Corporate License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300314859&affiliateid=200057808)

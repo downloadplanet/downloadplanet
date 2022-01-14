@@ -1,1 +1,3 @@
-# Bundle Offer Turgs - (PDF Locker + PDF Unlocker + PDF Split + PDF Attachment Extractor + PDF Image Extractor) - Personal License<br />(PDF Locker + PDF Unlocker + PDF Split + PDF Attachment Extractor + PDF Image Extractor) Bundle Offer<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998652&affiliateid=200057808)
+# Bundle Offer Turgs - (PDF Locker + PDF Unlocker + PDF Split + PDF Attachment Extractor + PDF Image Extractor) - Personal License
+(PDF Locker + PDF Unlocker + PDF Split + PDF Attachment Extractor + PDF Image Extractor) Bundle Offer
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998652&affiliateid=200057808)

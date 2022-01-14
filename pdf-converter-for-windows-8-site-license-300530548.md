@@ -1,4 +1,5 @@
-# PDF Converter for Windows 8 Site License<br />PDF files are great for exchanging formatted files across platforms and between folks who don't use the same software. But sometimes we need to be able to take images or text out of a PDF file and use it in Web pages, word processing documents, PowerPoint presentations, or in desktop publishing software. Depending on your needs and the security options set in the individual PDF there are several ways to do this with the help of PDF Converter for Windows 8.
+# PDF Converter for Windows 8 Site License
+PDF files are great for exchanging formatted files across platforms and between folks who don't use the same software. But sometimes we need to be able to take images or text out of a PDF file and use it in Web pages, word processing documents, PowerPoint presentations, or in desktop publishing software. Depending on your needs and the security options set in the individual PDF there are several ways to do this with the help of PDF Converter for Windows 8.
 Features:
 
 Easily extract images and/or text out of PDF files
@@ -50,4 +51,5 @@ Batch conversion
 You are free to use your own naming convention for the output file names while converting a folder or directory of PDF files into other file formats in batch.
 
 
-All products support Microsoft Windows 8 32-bit (x86) and 64-bit (x64), and are backward compatible with Microsoft Windows 7, Windows Vista, Windows XP, Windows 2000, Windows Server 2003, Windows 2000 Server, Windows Server 2008, and Windows Server 2012.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300530548&affiliateid=200057808)
+All products support Microsoft Windows 8 32-bit (x86) and 64-bit (x64), and are backward compatible with Microsoft Windows 7, Windows Vista, Windows XP, Windows 2000, Windows Server 2003, Windows 2000 Server, Windows Server 2008, and Windows Server 2012.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300530548&affiliateid=200057808)

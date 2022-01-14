@@ -1,1 +1,2 @@
-# Bundle MS Office Repair (Basic) - Technician License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300336788&affiliateid=200057808)
+# Bundle MS Office Repair (Basic) - Technician License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300336788&affiliateid=200057808)

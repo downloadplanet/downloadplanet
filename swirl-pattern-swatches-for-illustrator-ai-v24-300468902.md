@@ -1,3 +1,5 @@
-# Swirl pattern swatches for Illustrator (AI) V24<br />www.graphicxtras.com -- 200 Swirl Pattern Swatches for Adobe Illustrator CC 2017 2015 2014 CS6 CS5 etc Embellish & Flourish Vector patterns Seamless tiles V24
+# Swirl pattern swatches for Illustrator (AI) V24
+www.graphicxtras.com -- 200 Swirl Pattern Swatches for Adobe Illustrator CC 2017 2015 2014 CS6 CS5 etc Embellish & Flourish Vector patterns Seamless tiles V24
 
-200 Patterns swatches for Adobe (R) Illustrator (R) CC 2017 2015 2014 CS5 CS4 CS3 CS2 CS1 10, PC + MAC OS X. License - commercial use OK, royalty-free, all by graphicxtras.com. Find out more about the swatches via graphicxtras.com along with youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468902&affiliateid=200057808)
+200 Patterns swatches for Adobe (R) Illustrator (R) CC 2017 2015 2014 CS5 CS4 CS3 CS2 CS1 10, PC + MAC OS X. License - commercial use OK, royalty-free, all by graphicxtras.com. Find out more about the swatches via graphicxtras.com along with youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468902&affiliateid=200057808)

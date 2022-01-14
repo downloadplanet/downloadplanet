@@ -1,1 +1,3 @@
-# ObjectWipe<br />ObjectWipe is a solution to keep your computer privacy: wipe files, disk drives / flash memory and unused disk space so your data CAN NEVER BE ACCESSED OR RECOVERED. Program uses either fast or secure erase algorithms. Files and folders may be combined in wipe lists to erase them in a single procedure. Supports both the FAT and NTFS file systems.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300016138&affiliateid=200057808)
+# ObjectWipe
+ObjectWipe is a solution to keep your computer privacy: wipe files, disk drives / flash memory and unused disk space so your data CAN NEVER BE ACCESSED OR RECOVERED. Program uses either fast or secure erase algorithms. Files and folders may be combined in wipe lists to erase them in a single procedure. Supports both the FAT and NTFS file systems.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300016138&affiliateid=200057808)

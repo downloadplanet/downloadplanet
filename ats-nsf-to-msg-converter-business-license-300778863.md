@@ -1,1 +1,3 @@
-# ATS - NSF to MSG Converter - Business License<br />ATS NSF to MSG Converter has been Migration of Lotus Notes to Outlook MSG format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778863&affiliateid=200057808)
+# ATS - NSF to MSG Converter - Business License
+ATS NSF to MSG Converter has been Migration of Lotus Notes to Outlook MSG format.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778863&affiliateid=200057808)

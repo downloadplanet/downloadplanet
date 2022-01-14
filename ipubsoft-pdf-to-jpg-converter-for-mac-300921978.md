@@ -1,4 +1,6 @@
-# iPubsoft PDF to JPG Converter for Mac<br />![iPubsoft PDF to JPG Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300921978/BIG/300921978.PNG)<br />iPubsoft PDF to JPG Converter for Mac - First-Class PDF to JPG Converter for Mac OS X users!
+# iPubsoft PDF to JPG Converter for Mac
+![iPubsoft PDF to JPG Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300921978/BIG/300921978.PNG)
+iPubsoft PDF to JPG Converter for Mac - First-Class PDF to JPG Converter for Mac OS X users!
 
 There are several seasons why we need to change PDF documents into JPG/JPEG format on Mac. When you need to browse PDF online, some browsers might need to install extra plug-ins, however, the common images can be read directly. iPubsoft PDF to JPG Converter for Mac is an outstanding PDF to image conversion tool for Mac users.
 
@@ -25,4 +27,5 @@ Excellent quality
 After converting PDF documents to JPG on Mac, you can open the output images and check them, which will keep the same quality as original.
 
 Simple to handle
-Due to the user-friendly interface, you don?t need any previous skills when using it to convert PDF files to images on your Mac.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921978&affiliateid=200057808)
+Due to the user-friendly interface, you don?t need any previous skills when using it to convert PDF files to images on your Mac.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921978&affiliateid=200057808)

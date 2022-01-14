@@ -1,4 +1,6 @@
-# Become More Successful 3A Subliminal Package<br />![Become More Successful 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300586605/BIG/300586605.JPG)<br />Become More Successful 3A Subliminal
+# Become More Successful 3A Subliminal Package
+![Become More Successful 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300586605/BIG/300586605.JPG)
+Become More Successful 3A Subliminal
 Overwrite whatever is holding you back to become more successful with success affirmations. Thanks to the affirmations you will focus on what has to be done to achieve your goals and become more successful.
 Listen to the 3A Subliminal twice daily for at least 6 weeks or longer, stop for 2 to 3 weeks and continue listening to this subliminal. Think that you change a part of your subconscious mind, with which you have lived for many years.
 Affirmations in the Subliminal “Become More Successful”
@@ -23,4 +25,5 @@ Whatever you plan and act upon is a success.
 You always feel great and you are very happy.
 You have great ideas that are a success.
 You make the right decisions and right choices.
-You see all possibilities that make you more successful.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300586605&affiliateid=200057808)
+You see all possibilities that make you more successful.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300586605&affiliateid=200057808)

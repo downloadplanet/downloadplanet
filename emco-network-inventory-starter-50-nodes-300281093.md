@@ -1,1 +1,2 @@
-# EMCO Network Inventory Starter (50 nodes)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300281093&affiliateid=200057808)
+# EMCO Network Inventory Starter (50 nodes)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300281093&affiliateid=200057808)

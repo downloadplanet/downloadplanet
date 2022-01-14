@@ -1,1 +1,3 @@
-# QuickData EML Converter - Pro License<br />Software to Convert EML Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300943897&affiliateid=200057808)
+# QuickData EML Converter - Pro License
+Software to Convert EML Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300943897&affiliateid=200057808)

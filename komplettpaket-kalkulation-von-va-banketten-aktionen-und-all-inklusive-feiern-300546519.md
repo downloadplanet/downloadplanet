@@ -1,4 +1,5 @@
-# Komplettpaket Kalkulation von VA, Banketten, Aktionen und all inklusive Feiern<br />Folgende Vorlagen sind in der Exceldatei enthalten:
+# Komplettpaket Kalkulation von VA, Banketten, Aktionen und all inklusive Feiern
+Folgende Vorlagen sind in der Exceldatei enthalten:
 => Stammdaten für MwSt., Kategorien und Einstellungen
 => Artikelliste Lebensmittel Beispiel
 => Artikelliste Getränke Beispiel
@@ -27,4 +28,5 @@ Artikel zum Thema Kalkulation VA aus der Zeitschrift Küche
 => Link für Videoanleitung Excelschema
 => Link für Videoaufzeichnung vom Webinar Kalkulation von VA vom 10. Dezember 2012
 => Link für Videoaufzeichnung vom Webinar Kalkulation von VA vom 02. September 2013 und Power Point Präsentation
-=> Link für Video Schnitzel oder Rinderfilet? Woran verdienen wir mehr Geld?<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300546519&affiliateid=200057808)
+=> Link für Video Schnitzel oder Rinderfilet? Woran verdienen wir mehr Geld?
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300546519&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# FTG 00056 Driving Back Mirror<br />Movie in Quicktime ProRes Format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300618438&affiliateid=200057808)
+# FTG 00056 Driving Back Mirror
+Movie in Quicktime ProRes Format.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300618438&affiliateid=200057808)

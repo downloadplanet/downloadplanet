@@ -1,4 +1,6 @@
-# Aimersoft Video Converter Pro for Windows - Multi-User Personal License (2-5 PCs)<br />![Aimersoft Video Converter Pro for Windows - Multi-User Personal License (2-5 PCs)](https://mycommerce.akamaized.net/api/pimages/P300952614/BIG/300952614.PNG)<br />Video Converter Pro is a powerful program that helps you to convert video files, rip DVD movies and convert DRM files to any video or audio format that you need for portable devices like iPhone 4(4G), iPhone 3GS, iPad, iPod, PSP, Blackberry, Nokia, etc., or playback on Windows media player, Windows movie maker, etc.
+# Aimersoft Video Converter Pro for Windows - Multi-User Personal License (2-5 PCs)
+![Aimersoft Video Converter Pro for Windows - Multi-User Personal License (2-5 PCs)](https://mycommerce.akamaized.net/api/pimages/P300952614/BIG/300952614.PNG)
+Video Converter Pro is a powerful program that helps you to convert video files, rip DVD movies and convert DRM files to any video or audio format that you need for portable devices like iPhone 4(4G), iPhone 3GS, iPad, iPod, PSP, Blackberry, Nokia, etc., or playback on Windows media player, Windows movie maker, etc.
 
 Convert Common Video and Audio Files
 - Support High-definition video conversion
@@ -38,4 +40,5 @@ Trim your favorite part from DVD/video by setting the start time and the end tim
 Join all movie titles into a large one to enjoy the movie without interruption, or merge multiple clips into one to make a unique video.
 
 - Add subtitles
-Stop worrying about the subtitles of your DVD/video. With this DVD video converter, you can add *.srt, *.ass, *.ssa files to various videos, and select subtitle and audio track of DVD as you like.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952614&affiliateid=200057808)
+Stop worrying about the subtitles of your DVD/video. With this DVD video converter, you can add *.srt, *.ass, *.ssa files to various videos, and select subtitle and audio track of DVD as you like.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952614&affiliateid=200057808)

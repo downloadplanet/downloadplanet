@@ -1,4 +1,6 @@
-# TEX 002 Road with Leaves<br />![TEX 002 Road with Leaves](https://mycommerce.akamaized.net/api/pimages/P300523225/BIG/300523225.JPG)<br />Super high resolution texture for detail renderings.
+# TEX 002 Road with Leaves
+![TEX 002 Road with Leaves](https://mycommerce.akamaized.net/api/pimages/P300523225/BIG/300523225.JPG)
+Super high resolution texture for detail renderings.
 
 The package includes:
 
@@ -6,4 +8,5 @@ The package includes:
 -Normal Map
 -Specular Map
 -Bump Map
--All Maps are tileable and seamless<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300523225&affiliateid=200057808)
+-All Maps are tileable and seamless
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300523225&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Any PDF to DWG Converter<br />![Any PDF to DWG Converter](https://mycommerce.akamaized.net/api/pimages/P300399834/BIG/300399834.GIF)<br />Any PDF to DWG Converter is a full featured PDF to DWG/DXF converter that allows you to easy convert PDF to DWG and PDF to DXF without the need of AutoCAD and Adobe Acrobat.
+# Any PDF to DWG Converter
+![Any PDF to DWG Converter](https://mycommerce.akamaized.net/api/pimages/P300399834/BIG/300399834.GIF)
+Any PDF to DWG Converter is a full featured PDF to DWG/DXF converter that allows you to easy convert PDF to DWG and PDF to DXF without the need of AutoCAD and Adobe Acrobat.
 Key Features:
 Batch converts PDF to DWG or DXF quickly and accurately.
 Outputs DWG or DXF files.
@@ -11,4 +13,5 @@ Retains colors in the DWG/DXF file.
 Resizes the drawing by scale factor.
 Directly converts scanned PDF (Image PDF or raster PDF) without the need of raster to vector software.
 Works with and without AutoCAD/Acrobat.
-Powerful and easy-to-use.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300399834&affiliateid=200057808)
+Powerful and easy-to-use.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300399834&affiliateid=200057808)

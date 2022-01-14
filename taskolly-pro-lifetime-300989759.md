@@ -1,1 +1,3 @@
-# Taskolly - Pro - Lifetime<br />.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300989759&affiliateid=200057808)
+# Taskolly - Pro - Lifetime
+.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300989759&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Drop Custom shapes for Photoshop & Elements (CSH) V15<br />www.graphicxtras.com -- Drop Custom Shapes for Adobe Photoshop & Elements waves Vectors CSH PC & MAC OS X V15
+# Drop Custom shapes for Photoshop & Elements (CSH) V15
+www.graphicxtras.com -- Drop Custom Shapes for Adobe Photoshop & Elements waves Vectors CSH PC & MAC OS X V15
 
 500 Unique custom shapes designs
 Custom shapes for Adobe (R) Photoshop (R) Creative Cloud CC 2017 2015 2014 CS6-6 and Photoshop Elements
@@ -19,4 +20,5 @@ MENU:
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300072359&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300072359&affiliateid=200057808)

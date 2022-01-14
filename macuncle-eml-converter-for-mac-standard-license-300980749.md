@@ -1,1 +1,3 @@
-# MacUncle EML Converter for Mac - Standard License<br />Convert emails to various file types<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300980749&affiliateid=200057808)
+# MacUncle EML Converter for Mac - Standard License
+Convert emails to various file types
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300980749&affiliateid=200057808)

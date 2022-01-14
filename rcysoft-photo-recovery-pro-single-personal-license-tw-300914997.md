@@ -1,1 +1,4 @@
-# Rcysoft Photo Recovery Pro - Single Personal License - TW<br />![Rcysoft Photo Recovery Pro - Single Personal License - TW](https://mycommerce.akamaized.net/api/pimages/P300914997/BIG/300914997.PNG)<br />最佳照片恢復軟件可幫助您100％恢復從佳能，索尼，尼康和松下，SD存儲卡，USB閃存驅動器，外部硬盤等數碼相機/攝像機中刪除，格式化，刪除或丟失的照片，圖片，照片，視頻，音頻文件驅動器，筆式驅動器，PC和筆記本電腦。適用於所有照片丟失情況，如刪除，格式化，硬盤損壞，病毒攻擊，操作系統崩潰或錯誤，分區丟失，RAW分區和人為錯誤。<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300914997&affiliateid=200057808)
+# Rcysoft Photo Recovery Pro - Single Personal License - TW
+![Rcysoft Photo Recovery Pro - Single Personal License - TW](https://mycommerce.akamaized.net/api/pimages/P300914997/BIG/300914997.PNG)
+最佳照片恢復軟件可幫助您100％恢復從佳能，索尼，尼康和松下，SD存儲卡，USB閃存驅動器，外部硬盤等數碼相機/攝像機中刪除，格式化，刪除或丟失的照片，圖片，照片，視頻，音頻文件驅動器，筆式驅動器，PC和筆記本電腦。適用於所有照片丟失情況，如刪除，格式化，硬盤損壞，病毒攻擊，操作系統崩潰或錯誤，分區丟失，RAW分區和人為錯誤。
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300914997&affiliateid=200057808)

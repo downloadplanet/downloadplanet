@@ -1,4 +1,5 @@
-# Crescent Custom Shapes for Photoshop & Elements (CSH) V27<br />www.graphicxtras.com -- Crescent Custom Shapes Photoshop & Elements Lunar & Moon & Curved CSH V27
+# Crescent Custom Shapes for Photoshop & Elements (CSH) V27
+www.graphicxtras.com -- Crescent Custom Shapes Photoshop & Elements Lunar & Moon & Curved CSH V27
 
 Custom shapes for Photoshop and Photoshop Elements
 200 Crescent unique vector designs for your work.
@@ -21,4 +22,5 @@ MENU:
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300155477&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300155477&affiliateid=200057808)

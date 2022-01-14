@@ -1,1 +1,3 @@
-# dr.fone - iOS Recover(Mac)<br />Recover deleted data from iOS/Android devices, iTunes/iCloud backup files and broken Android devices.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947719&affiliateid=200057808)
+# dr.fone - iOS Recover(Mac)
+Recover deleted data from iOS/Android devices, iTunes/iCloud backup files and broken Android devices.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947719&affiliateid=200057808)

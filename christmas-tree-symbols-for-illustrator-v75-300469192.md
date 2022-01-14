@@ -1,3 +1,5 @@
-# Christmas Tree symbols for Illustrator V75<br />www.graphicxtras.com -- Christmas Tree Symbols for Adobe Illustrator Creative Cloud V75
+# Christmas Tree symbols for Illustrator V75
+www.graphicxtras.com -- Christmas Tree Symbols for Adobe Illustrator Creative Cloud V75
 
-Symbols for Illustrator PC and MAC, License: commercial use OK, royalty-free<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469192&affiliateid=200057808)
+Symbols for Illustrator PC and MAC, License: commercial use OK, royalty-free
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469192&affiliateid=200057808)

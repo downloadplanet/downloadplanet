@@ -1,5 +1,7 @@
-# Royce PDF Printer Site License<br />Creating PDF file can be as easy as printing!
+# Royce PDF Printer Site License
+Creating PDF file can be as easy as printing!
 Royce PDF Printer is a printer that produces printouts in Adobe PDF file rather than on paper. Adobe PDF (Portable Document Format) is the file format widely used for document exchange. After a successful installation, you get Royce PDF Printer in your Printers and Faxes folder (printer list),
 You can convert almost all types of document and graphics to PDF by printing to this printer.
 Royce PDF Printer allows you to quickly turn your graphics and electronic documents to Adobe PDF with professional quality. Useful features, such as encryption, compression, font embedding, RGB, sRGB, CMYK color space conversion, automation options, PDF attachment, merge, append, overwrite options, active hyperlink, custom paper size, terminal server compatibility, and premium technical support are all included.
-Royce PDF Printer enables you to create and optimize PDF output for its intended use. You can make PDF documents small for Web display or high resolution for printing with Royce PDF Printer's powerful Compression features. You can also embed fonts, if needed, in the PDF document to ensure correct document display.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300262133&affiliateid=200057808)
+Royce PDF Printer enables you to create and optimize PDF output for its intended use. You can make PDF documents small for Web display or high resolution for printing with Royce PDF Printer's powerful Compression features. You can also embed fonts, if needed, in the PDF document to ensure correct document display.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300262133&affiliateid=200057808)

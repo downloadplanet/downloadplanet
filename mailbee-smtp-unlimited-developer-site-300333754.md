@@ -1,1 +1,3 @@
-# MailBee SMTP (Unlimited Developer Site)<br />Allows your applications or ASP web pages to create and send email messages over SMTP protocol just in a few lines of code<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333754&affiliateid=200057808)
+# MailBee SMTP (Unlimited Developer Site)
+Allows your applications or ASP web pages to create and send email messages over SMTP protocol just in a few lines of code
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333754&affiliateid=200057808)

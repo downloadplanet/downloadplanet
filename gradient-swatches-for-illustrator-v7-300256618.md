@@ -1,4 +1,5 @@
-# Gradient swatches for Illustrator V7<br />www.graphicxtras.com -- 625 Gradient Swatches for Adobe Illustrator Creative Cloud V7
+# Gradient swatches for Illustrator V7
+www.graphicxtras.com -- 625 Gradient Swatches for Adobe Illustrator Creative Cloud V7
 
 625 Gradient swatches for Adobe (R) Illustrator (R) 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 10, PC + MAC OS X. Super colorful Gradients swatches include many different unique gradient designs.
 
@@ -12,4 +13,5 @@ This product is download only, part of an ongoing series of items for Adobe (R) 
 
 
 
-Find out more via graphicxtras.com as well as via youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300256618&affiliateid=200057808)
+Find out more via graphicxtras.com as well as via youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300256618&affiliateid=200057808)

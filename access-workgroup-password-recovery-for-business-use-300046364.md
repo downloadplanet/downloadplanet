@@ -1,1 +1,3 @@
-# Access Workgroup Password Recovery (for business use)<br />Access Workgroup Password Recovery is a tool that instantly recovers lost passwords for Microsoft Access workgroup databases. All passwords are recovered instantly regardless of their length (including multi-lingual ones). All versions of Microsoft Access are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300046364&affiliateid=200057808)
+# Access Workgroup Password Recovery (for business use)
+Access Workgroup Password Recovery is a tool that instantly recovers lost passwords for Microsoft Access workgroup databases. All passwords are recovered instantly regardless of their length (including multi-lingual ones). All versions of Microsoft Access are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300046364&affiliateid=200057808)

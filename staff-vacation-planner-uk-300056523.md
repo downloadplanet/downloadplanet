@@ -1,8 +1,11 @@
-# Staff Vacation Planner UK<br />![Staff Vacation Planner UK](https://mycommerce.akamaized.net/api/pimages/P300056523/BIG/300056523.GIF)<br />The Vacation Planner is an Excel based software solution of a staff planning board or wall chart. Designed to empower department level management of staff vacation, it manages vacation time and other staff time usage, such sick leave.
+# Staff Vacation Planner UK
+![Staff Vacation Planner UK](https://mycommerce.akamaized.net/api/pimages/P300056523/BIG/300056523.GIF)
+The Vacation Planner is an Excel based software solution of a staff planning board or wall chart. Designed to empower department level management of staff vacation, it manages vacation time and other staff time usage, such sick leave.
 
 It also provides statistics and a yearly overview on the staff's vacation plans. The smallest time unit, is not necessarily half a day but may be any other fraction of a day as well (like 0.25). The Planner is purely time based with no money implications.
 
 The planner is easy to use even for the beginner. Everybody can get familiar with this software right from the beginning and even without any knowledge of Excel.
 
 Try our evaluation version for free!
-Click here to download the evaluation version<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300056523&affiliateid=200057808)
+Click here to download the evaluation version
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300056523&affiliateid=200057808)

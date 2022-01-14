@@ -1,1 +1,2 @@
-# EDLV : License for 12 users<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300788851&affiliateid=200057808)
+# EDLV : License for 12 users
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300788851&affiliateid=200057808)

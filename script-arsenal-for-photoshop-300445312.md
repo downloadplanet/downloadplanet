@@ -1,6 +1,8 @@
-# Script Arsenal for Photoshop<br />As is generally known, there are two main ways of automating Photoshop tasks: via actions or scripts.
+# Script Arsenal for Photoshop
+As is generally known, there are two main ways of automating Photoshop tasks: via actions or scripts.
 A script may be much more flexible and can do a job that the most powerful action can't. In the meantime, you might have noticed that the larger your script collection grows, the more difficult becomes the choice of a specific tool.
 "Script Arsenal" is a handy catalog allowing you to quickly find and apply the desired tool. It comes to you with 100+ scripts for creating various effects and streamlining your everyday workflow. And yes, you are always welcome to extend the catalog by including additional scripts, either downloaded from the Internet or composed with your own hand.
 The catalog interface is available in eight languages. Moreover, the scripts coming with it are multilingual as well. At any time you can alter the way they are displayed in the catalog.
 If that's not enough, the icons help you to visually identify an item's purpose.
-All the scripts are composed for Photoshop CS3 and newer versions for Windows and Mac OS X. Using most of them doesn't require a substantial Photoshop experience.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300445312&affiliateid=200057808)
+All the scripts are composed for Photoshop CS3 and newer versions for Windows and Mac OS X. Using most of them doesn't require a substantial Photoshop experience.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300445312&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Amacsoft Text to PDF for Mac<br />![Amacsoft Text to PDF for Mac](https://mycommerce.akamaized.net/api/pimages/P300924565/BIG/300924565.PNG)<br />Amacsoft Text to PDF for Mac is an easy to use software that enables users to import text files and convert those files to PDF format on Mac OS X. Simply drag and drop any type of text document on the application icon to quickly convert it to PDF. You may even drag multiple documents at one or even a whole folder.
+# Amacsoft Text to PDF for Mac
+![Amacsoft Text to PDF for Mac](https://mycommerce.akamaized.net/api/pimages/P300924565/BIG/300924565.PNG)
+Amacsoft Text to PDF for Mac is an easy to use software that enables users to import text files and convert those files to PDF format on Mac OS X. Simply drag and drop any type of text document on the application icon to quickly convert it to PDF. You may even drag multiple documents at one or even a whole folder.
 
 * Convert editable text files to Adobe PDF format on Mac OS X;
 * Quick, easy and with good accuracy;
@@ -25,4 +27,5 @@ Convenient operation and fast speed
 
 Right-click conversion
 
-This Text to PDF for Mac supports Right click on a text file, from the pop-up shortcut, choose "Convert Selected" to start converting txt to PDF on Mac.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924565&affiliateid=200057808)
+This Text to PDF for Mac supports Right click on a text file, from the pop-up shortcut, choose "Convert Selected" to start converting txt to PDF on Mac.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924565&affiliateid=200057808)

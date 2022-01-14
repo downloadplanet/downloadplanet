@@ -1,1 +1,3 @@
-# Outlook PST Password Recovery (for personal use)<br />Outlook PST Password Recovery is a solution that instantly recovers passwords for Microsoft Outlook data files and Personal Folders files (.pst, .ost). All passwords are recovered instantly regardless of their length (including multilingual ones). All versions of Microsoft Outlook are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300663728&affiliateid=200057808)
+# Outlook PST Password Recovery (for personal use)
+Outlook PST Password Recovery is a solution that instantly recovers passwords for Microsoft Outlook data files and Personal Folders files (.pst, .ost). All passwords are recovered instantly regardless of their length (including multilingual ones). All versions of Microsoft Outlook are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300663728&affiliateid=200057808)

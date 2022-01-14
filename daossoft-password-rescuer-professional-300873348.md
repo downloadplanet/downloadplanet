@@ -1,1 +1,3 @@
-# Daossoft Password Rescuer Professional<br />Daossoft Password Rescuer Professional is an all-in-one password recovery software, which recover password for Windows, Excel, Word, Access, PowerPoint, Outlook, RAR/WinRAR, ZIP/WinZIP, PDF etc. Over 70+ types of passwords can be recovered instantly.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300873348&affiliateid=200057808)
+# Daossoft Password Rescuer Professional
+Daossoft Password Rescuer Professional is an all-in-one password recovery software, which recover password for Windows, Excel, Word, Access, PowerPoint, Outlook, RAR/WinRAR, ZIP/WinZIP, PDF etc. Over 70+ types of passwords can be recovered instantly.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300873348&affiliateid=200057808)

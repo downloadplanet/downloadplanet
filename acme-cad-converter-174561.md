@@ -1,4 +1,6 @@
-# Acme CAD Converter<br />![Acme CAD Converter](https://mycommerce.akamaized.net/api/pimages/P174561/BIG/174561.GIF)<br />DWG Converter - Acme CAD Converter is a format conversion software. It can batch convert DXF,DWF and DWG files into PDF, WMF, BMP, JPEG, GIF, PNG, TGA, TIFF, DXF, DWG,SVG,HPGL(PLT,HGL), CGM, EPS etc.,
+# Acme CAD Converter
+![Acme CAD Converter](https://mycommerce.akamaized.net/api/pimages/P174561/BIG/174561.GIF)
+DWG Converter - Acme CAD Converter is a format conversion software. It can batch convert DXF,DWF and DWG files into PDF, WMF, BMP, JPEG, GIF, PNG, TGA, TIFF, DXF, DWG,SVG,HPGL(PLT,HGL), CGM, EPS etc.,
 Support DWG,DXF formats ( R2.5-R2021 ) and DWF;
 DWG to PDF, DWG to JPEG, DWG to TIFF, DWG to EPS, DWG to PLT, DWG to SVG...
 DWF to DWG.
@@ -28,4 +30,5 @@ Supports pen width and destination colors settings, and can export/import these 
 SHX font, XRef and Image search path
 Supports to separate layers to drawings(one drawing per layer).
 Supports command line mode
-Supports WindowsXP,Vista,Win7,Win8,Win10, Windows server without AutoCAD<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=174561&affiliateid=200057808)
+Supports WindowsXP,Vista,Win7,Win8,Win10, Windows server without AutoCAD
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=174561&affiliateid=200057808)

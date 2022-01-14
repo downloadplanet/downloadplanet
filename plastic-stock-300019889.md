@@ -1,4 +1,5 @@
-# Plastic Stock<br />Iconshock Plastic Stock
+# Plastic Stock
+Iconshock Plastic Stock
 
 Windows XP style Stock, with a bright Palette of colours, sharp volumes and full 3D perspectives, ideal for customer reaching functions on your applications.
 
@@ -11,4 +12,5 @@ Sizes:
 Color Depth:
 32bits (With alpha channel),8bits (256colors)
 File types:
-PNG,TIFF,BMP,GIF,ICO(Windows),ICNS(Mac)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300019889&affiliateid=200057808)
+PNG,TIFF,BMP,GIF,ICO(Windows),ICNS(Mac)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300019889&affiliateid=200057808)

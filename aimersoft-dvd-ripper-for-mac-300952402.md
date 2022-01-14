@@ -1,4 +1,6 @@
-# Aimersoft DVD Ripper for Mac<br />![Aimersoft DVD Ripper for Mac](https://mycommerce.akamaized.net/api/pimages/P300952402/BIG/300952402.JPG)<br />Aimersoft DVD Ripper for Mac can rip DVD to various video formats (including MP4, AVI, M4V, MOV, 3GP, MPG, FLV) and audio formats (MP3, M4A, AAC, WAV, OGG, APE, etc.) on Mac OS.
+# Aimersoft DVD Ripper for Mac
+![Aimersoft DVD Ripper for Mac](https://mycommerce.akamaized.net/api/pimages/P300952402/BIG/300952402.JPG)
+Aimersoft DVD Ripper for Mac can rip DVD to various video formats (including MP4, AVI, M4V, MOV, 3GP, MPG, FLV) and audio formats (MP3, M4A, AAC, WAV, OGG, APE, etc.) on Mac OS.
 (Note: Please make sure that all the DVD ripping are just for personal use.)
 
 This best Mac DVD Ripping Program can copy all of your DVD movies by 1:1 perfect Video & Audio quality. You can select the chapter, subtitle and audio track you want, trim any subtitle, cut off the black edge of the movie and merge more than one DVD chapter into one.
@@ -16,4 +18,5 @@ Key Features:
 8. Merge multiple DVD chapters into one file, and you can also rip the chapter you want.
 9. Support photo capturing and save as jpeg, bmp.
 10. Support multi-language.
-11. Free e-mail technical support, provides the best and quick service for you.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952402&affiliateid=200057808)
+11. Free e-mail technical support, provides the best and quick service for you.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952402&affiliateid=200057808)

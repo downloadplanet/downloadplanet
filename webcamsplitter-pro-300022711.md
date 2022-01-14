@@ -1,4 +1,6 @@
-# WebCamSplitter Pro<br />![WebCamSplitter Pro](https://mycommerce.akamaized.net/api/pimages/P300022711/BIG/300022711.PNG)<br />Description
+# WebCamSplitter Pro
+![WebCamSplitter Pro](https://mycommerce.akamaized.net/api/pimages/P300022711/BIG/300022711.PNG)
+Description
 Using WebCamSplitter Pro, it is possible to share up to FOUR video devices. In the meantime, user's interface of Pro edition is very similar to the interface of WebCamSplitter, i.e. it is fast, easy and user-friendly. And of course, Pro edition has all the advantages of WebCamSplitter.
 WebCamSplitter Pro v1.3.4 released!
     Features
@@ -20,4 +22,5 @@ Besides, WebCamSplitter Pro is always available via system tray just like your I
 WebCamSplitter Products Usage Scheme
     Common usage  
 WebCamSplitter  
-    WebCamSplitter Pro usage  <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300022711&affiliateid=200057808)
+    WebCamSplitter Pro usage  
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300022711&affiliateid=200057808)

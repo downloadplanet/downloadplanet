@@ -1,1 +1,4 @@
-# Open DVD Transformer Lite<br />![Open DVD Transformer Lite](https://mycommerce.akamaized.net/api/pimages/P300863430/BIG/300863430.JPG)<br />Open DVD Transformer Lite Standard Single User License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300863430&affiliateid=200057808)
+# Open DVD Transformer Lite
+![Open DVD Transformer Lite](https://mycommerce.akamaized.net/api/pimages/P300863430/BIG/300863430.JPG)
+Open DVD Transformer Lite Standard Single User License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300863430&affiliateid=200057808)

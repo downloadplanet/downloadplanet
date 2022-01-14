@@ -1,4 +1,6 @@
-# Modern PDF Generator<br />A quick solution for creating PDF documents with password features and access control. You can add security to your files with Modern PDF Generator's 128-bit encrypted password features. You can also restrict viewing, printing, editing, or copying of documents to only individuals with the correct password.
+# Modern PDF Generator
+A quick solution for creating PDF documents with password features and access control. You can add security to your files with Modern PDF Generator's 128-bit encrypted password features. You can also restrict viewing, printing, editing, or copying of documents to only individuals with the correct password.
 The PDF documents created with Modern PDF Generator are fully compliant to the Adobe PDF Specification, full-text searchable and totally vector-based.
 Modern PDF Generator allows you create and optimize PDF output for its intended use. You can make PDF documents small for Web display or high resolution for printing with this PDF Writer's powerful Compression features. You can also embed fonts, if needed, in the PDF document to ensure correct document display.
-Modern PDF Generator makes the creation of PDF documents fairly easy. Just print to a ModernPDF printer as you normally print to an inkjet or LaserJet printer, and you will get the PDF file you need.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300484025&affiliateid=200057808)
+Modern PDF Generator makes the creation of PDF documents fairly easy. Just print to a ModernPDF printer as you normally print to an inkjet or LaserJet printer, and you will get the PDF file you need.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300484025&affiliateid=200057808)

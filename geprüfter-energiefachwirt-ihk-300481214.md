@@ -1,1 +1,3 @@
-# Geprüfter Energiefachwirt IHK<br />![Geprüfter Energiefachwirt IHK](https://mycommerce.akamaized.net/api/pimages/P300481214/BIG/300481214.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300481214&affiliateid=200057808)
+# Geprüfter Energiefachwirt IHK
+![Geprüfter Energiefachwirt IHK](https://mycommerce.akamaized.net/api/pimages/P300481214/BIG/300481214.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300481214&affiliateid=200057808)

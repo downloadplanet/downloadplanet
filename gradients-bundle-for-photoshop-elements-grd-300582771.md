@@ -1,4 +1,5 @@
-# Gradients Bundle for Photoshop & Elements (GRD)<br />www.graphicxtras.com -- Gradients Bundle Adobe Photoshop CC 2017 2015 2014 CS 6 5 4 3 2 1 & Elements GRD
+# Gradients Bundle for Photoshop & Elements (GRD)
+www.graphicxtras.com -- Gradients Bundle Adobe Photoshop CC 2017 2015 2014 CS 6 5 4 3 2 1 & Elements GRD
 
 Thumbnail gallery of all the gradients: 32,000 gradients gallery - note that the gradients are just as is, they can be applied in millions of different ways as well as combined in zillions of ways to create trillions of possible color designs in seconds
 32,000 Stunning colorful gradients for Adobe (R) Photoshop (R) + Adobe (R) Photoshop (R) Elements
@@ -17,4 +18,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 MENU:
 Please mail me with any questions
 Info on the gradients via http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300582771&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300582771&affiliateid=200057808)

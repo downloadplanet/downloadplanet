@@ -1,4 +1,6 @@
-# Vanga Rengi Mangaro Registration<br />![Vanga Rengi Mangaro Registration](https://mycommerce.akamaized.net/api/pimages/P300073215/BIG/300073215.GIF)<br />A project to replace Windows's default file open, save and folder selector dialogs, which are exported functions from comdlg32.dll with Filesystem Dialogs's dialogs. Filesystem Dialogs's purpose is to provide the most powerful user-friendly file and folder selection options and simple file managament tools for the session.
+# Vanga Rengi Mangaro Registration
+![Vanga Rengi Mangaro Registration](https://mycommerce.akamaized.net/api/pimages/P300073215/BIG/300073215.GIF)
+A project to replace Windows's default file open, save and folder selector dialogs, which are exported functions from comdlg32.dll with Filesystem Dialogs's dialogs. Filesystem Dialogs's purpose is to provide the most powerful user-friendly file and folder selection options and simple file managament tools for the session.
 
 Features:
 All window/column position/size (sorting) settings are saved for every application and/or you can choose to always use your favourite dialog settings
@@ -15,4 +17,5 @@ Automatically decodes URL encoded filanames and underscores ("Man%20on_Mars.jpg"
 Viewer for pictures/images & an integrated web browser for the rest of the files (and a secondary display viewer mode for dual display setups)
 Lite version does not replace the Windows dialogs only an icon is added to the tray area to pop-up a file browser dialog.
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300073215&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300073215&affiliateid=200057808)

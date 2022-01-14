@@ -1,1 +1,3 @@
-# Geprüfter Industriefachwirt - Marketing und Vertrieb<br />![Geprüfter Industriefachwirt - Marketing und Vertrieb](https://mycommerce.akamaized.net/api/pimages/P300601278/BIG/300601278.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300601278&affiliateid=200057808)
+# Geprüfter Industriefachwirt - Marketing und Vertrieb
+![Geprüfter Industriefachwirt - Marketing und Vertrieb](https://mycommerce.akamaized.net/api/pimages/P300601278/BIG/300601278.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300601278&affiliateid=200057808)

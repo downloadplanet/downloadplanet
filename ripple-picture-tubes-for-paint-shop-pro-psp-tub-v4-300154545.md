@@ -1,4 +1,5 @@
-# Ripple Picture Tubes for Paint Shop Pro PSP (TUB) V4<br />www.graphicxtras.com -- Ripple Picture Tubes for PaintShop Pro PSP V4
+# Ripple Picture Tubes for Paint Shop Pro PSP (TUB) V4
+www.graphicxtras.com -- Ripple Picture Tubes for PaintShop Pro PSP V4
 
 100 Ripple picture tubes for Corel (R) Paint Shop Pro (R) Photo (+7)
 Colorful selection of mixed ripple picture tubes, abstract picture tubes, spiky picture tubes, cog wheel picture tubes, petal picture tubes, intense picture tubes for Corel (R) Paint Shop Pro (R)
@@ -20,4 +21,5 @@ MENU:
 
 Please mail me with any questionson http://www.graphicxtras.com
 
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300154545&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300154545&affiliateid=200057808)

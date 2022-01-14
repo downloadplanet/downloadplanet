@@ -1,1 +1,2 @@
-# MailBee.NET Address Validator (1 Developer)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300608323&affiliateid=200057808)
+# MailBee.NET Address Validator (1 Developer)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300608323&affiliateid=200057808)

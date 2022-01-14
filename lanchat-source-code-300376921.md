@@ -1,4 +1,5 @@
-# LANChat Source Code<br />LANChat is a simple IP based messager.
+# LANChat Source Code
+LANChat is a simple IP based messager.
 
 Main features:
 
@@ -8,4 +9,5 @@ Displays incomming messages in Titlebar
 Incomming message notification sound
 Quick connect Friend
 Remembers connected hosts
-Adjust port for communication<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300376921&affiliateid=200057808)
+Adjust port for communication
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300376921&affiliateid=200057808)

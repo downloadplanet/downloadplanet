@@ -1,1 +1,3 @@
-# AOMEI OneKey Recovery Professional + Lifetime Upgrades (Single License)<br />![AOMEI OneKey Recovery Professional + Lifetime Upgrades (Single License)](https://mycommerce.akamaized.net/api/pimages/P300870434/BIG/300870434.PNG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870434&affiliateid=200057808)
+# AOMEI OneKey Recovery Professional + Lifetime Upgrades (Single License)
+![AOMEI OneKey Recovery Professional + Lifetime Upgrades (Single License)](https://mycommerce.akamaized.net/api/pimages/P300870434/BIG/300870434.PNG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870434&affiliateid=200057808)

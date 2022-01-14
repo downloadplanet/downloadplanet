@@ -1,4 +1,5 @@
-# People symbols for Illustrator (AI) V18<br />www.graphicxtras.com -- People Symbols for Adobe Illustrator Creative Cloud Adobe Shapes V18
+# People symbols for Illustrator (AI) V18
+www.graphicxtras.com -- People Symbols for Adobe Illustrator Creative Cloud Adobe Shapes V18
 
 780 Posed silhouette male symbols for Adobe (R) Illustrator (R) (Posed symbols, male symbols, action symbols, crowd symbols, head symbols, silhouette symbols)
 
@@ -16,4 +17,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300170479&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300170479&affiliateid=200057808)

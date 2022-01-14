@@ -1,4 +1,6 @@
-# PROMT 365 Professional 18 Multilingual (Lizenz für 1 Jahr)<br />![PROMT 365 Professional 18 Multilingual (Lizenz für 1 Jahr)](https://mycommerce.akamaized.net/api/pimages/P300789192/BIG/300789192.PNG)<br />Übersetzungssoftware für alle anspruchsvollen Anwender, die viel mit fremdsprachigen Dokumenten zu tun haben. PROMT Professional beschleunigt um bis zu 90 % die Bearbeitung der fremdsprachigen Korrespondenz und unterstützt Sie effizient bei Ihrer Übersetzungsarbeit. Höchste Übersetzungsqualität und der gewaltige Wortschatz von bis zu 1.150.000 Wörtern pro Sprachpaar gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt. Mit dem Datei-Übersetzer werden große Mengen von Dateien im Stapelverfahren schnell und effizient übersetzt.
+# PROMT 365 Professional 18 Multilingual (Lizenz für 1 Jahr)
+![PROMT 365 Professional 18 Multilingual (Lizenz für 1 Jahr)](https://mycommerce.akamaized.net/api/pimages/P300789192/BIG/300789192.PNG)
+Übersetzungssoftware für alle anspruchsvollen Anwender, die viel mit fremdsprachigen Dokumenten zu tun haben. PROMT Professional beschleunigt um bis zu 90 % die Bearbeitung der fremdsprachigen Korrespondenz und unterstützt Sie effizient bei Ihrer Übersetzungsarbeit. Höchste Übersetzungsqualität und der gewaltige Wortschatz von bis zu 1.150.000 Wörtern pro Sprachpaar gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt. Mit dem Datei-Übersetzer werden große Mengen von Dateien im Stapelverfahren schnell und effizient übersetzt.
 
 Unterstützte Übersetzungsrichtungen:
 Englisch -> Deutsch, Deutsch -> Englisch
@@ -35,4 +37,5 @@ Erfahren Sie mehr >>>
 ISBN
 978-3-89894-723-7
 Systemvoraussetzungen
-Microsoft Windows® 10, 8, und 7 (32-/64-bit)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300789192&affiliateid=200057808)
+Microsoft Windows® 10, 8, und 7 (32-/64-bit)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300789192&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# iStonsoft Word to PDF Converter<br />![iStonsoft Word to PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300917097/BIG/300917097.JPG)<br />Turn Word Docx file into a high quality PDF that works in all PDF readers!
+# iStonsoft Word to PDF Converter
+![iStonsoft Word to PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300917097/BIG/300917097.JPG)
+Turn Word Docx file into a high quality PDF that works in all PDF readers!
 
 Here we recommend an excellent Word to PDF Converter, which is the most effective document conversion tool and has a great ability to convert MS Word file to Adobe PDF file instantly.
 
@@ -30,4 +32,5 @@ This Word to PDF Converter offers intuitive options when you convert your PDF fi
 
 FREE customer support
 
-If you face any problem while installing or using the Word to PDF Converter, we are there to provide guidance and technical support. All you need to do is to send us your queries at support@istonsoft.com.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917097&affiliateid=200057808)
+If you face any problem while installing or using the Word to PDF Converter, we are there to provide guidance and technical support. All you need to do is to send us your queries at support@istonsoft.com.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917097&affiliateid=200057808)

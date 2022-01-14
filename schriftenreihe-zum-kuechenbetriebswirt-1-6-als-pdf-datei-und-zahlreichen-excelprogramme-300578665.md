@@ -1,4 +1,5 @@
-# Schriftenreihe zum Kuechenbetriebswirt 1 - 6 als PDF Datei und zahlreichen Excelprogramme<br />Schriftenreihe zum Küchenbetriebswirt
+# Schriftenreihe zum Kuechenbetriebswirt 1 - 6 als PDF Datei und zahlreichen Excelprogramme
+Schriftenreihe zum Küchenbetriebswirt
 - die 6teilige Schriftenreihe mit ca. 550 Seiten als PDF Datei mit zahlreichen Excelvorlagen
 
 Hier können Sie sich das Inhaltsverzeichnis der Schriftenreihe zum Küchenbetriebswirt anschauen!
@@ -41,4 +42,5 @@ Schritt für Schritt zum eigenen Erfolgskennzahlensystem
 
 mit 12 Excelvorlagen
 Nach erfolgreicher Bearbeitung der sechsteiligen Schriftenreihe haben Sie die Möglichkeit,
-das Zertifikat "Küchenbetriebswirt (F&BS)" zu erlangen, wenn Sie die Prüfungsfragen zur Schriftenreihe erfolgreich beantwortet haben.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300578665&affiliateid=200057808)
+das Zertifikat "Küchenbetriebswirt (F&BS)" zu erlangen, wenn Sie die Prüfungsfragen zur Schriftenreihe erfolgreich beantwortet haben.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300578665&affiliateid=200057808)

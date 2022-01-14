@@ -1,3 +1,5 @@
-# Super brushes collection for Illustrator Scatter & Artistic<br />www.graphicxtras.com -- Super brushes collection for Adobe Illustrator Vector designs Scatter & Artistic PC & MAC OSX
+# Super brushes collection for Illustrator Scatter & Artistic
+www.graphicxtras.com -- Super brushes collection for Adobe Illustrator Vector designs Scatter & Artistic PC & MAC OSX
 
-16,000+ Brushes for Adobe Illustrator Creative Cloud CC and CS6 CS5 CS4 CS3 etc PC and MAC, commercial use, royalty-free, use to create items for sale. Powerful collection all by graphicxtras.com (Andrew Buckle). Any questions, please contact us on support@graphicxtras.com - vector designs.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300545115&affiliateid=200057808)
+16,000+ Brushes for Adobe Illustrator Creative Cloud CC and CS6 CS5 CS4 CS3 etc PC and MAC, commercial use, royalty-free, use to create items for sale. Powerful collection all by graphicxtras.com (Andrew Buckle). Any questions, please contact us on support@graphicxtras.com - vector designs.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300545115&affiliateid=200057808)

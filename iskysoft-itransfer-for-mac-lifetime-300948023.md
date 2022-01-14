@@ -1,4 +1,6 @@
-# iSkysoft iTransfer for Mac (Lifetime)<br />![iSkysoft iTransfer for Mac (Lifetime)](https://mycommerce.akamaized.net/api/pimages/P300948023/BIG/300948023.PNG)<br />Export music, videos, photos and more from your iPhone, iPod, iPad to Mac or iTunes
+# iSkysoft iTransfer for Mac (Lifetime)
+![iSkysoft iTransfer for Mac (Lifetime)](https://mycommerce.akamaized.net/api/pimages/P300948023/BIG/300948023.PNG)
+Export music, videos, photos and more from your iPhone, iPod, iPad to Mac or iTunes
 
 iSkysoft TunesOver for Mac is an innovative iPhone/iPod/iPad transfer and manager which enables you to copy all media files from your iDevice to Mac or iTunes Library.
 
@@ -12,4 +14,5 @@ Super easy Backup solution ensures you no data loss under any circumstances
 Apart from its intuitive transfer and converter solution, another thing amazing about this program is that it also offers you the ability to backup files on your Apple device to iTunes or hard drive of your Mac, files including songs, videos, photos, ebooks and more. By backing up the files, you will no longer need to worry about data loss even if you delete your favorite video accidently or even experience system crash on your device.
 What’s more, you can also manage your media files such as creating new playlists, albums, editing/deleting/transfer files from within the program.
 
-Perfectly fit into all iOS versions from iOS 5 to the latest iOS 7.1 and support all iPhone/iPad/iPod devices<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948023&affiliateid=200057808)
+Perfectly fit into all iOS versions from iOS 5 to the latest iOS 7.1 and support all iPhone/iPad/iPod devices
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948023&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Backup CD - Kernel Lotus Notes to Outlook<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300340804&affiliateid=200057808)
+# Backup CD - Kernel Lotus Notes to Outlook
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300340804&affiliateid=200057808)

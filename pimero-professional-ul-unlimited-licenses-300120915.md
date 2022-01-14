@@ -1,4 +1,6 @@
-# Pimero Professional UL - unlimited licenses -<br />![Pimero Professional UL - unlimited licenses -](https://mycommerce.akamaized.net/api/pimages/P300120915/BIG/300120915.JPG)<br />Pimero Professional - Your new Outlook alternative!
+# Pimero Professional UL - unlimited licenses -
+![Pimero Professional UL - unlimited licenses -](https://mycommerce.akamaized.net/api/pimages/P300120915/BIG/300120915.JPG)
+Pimero Professional - Your new Outlook alternative!
   Experience a new way of perfectly synced data within your private or business network. Sync calendars, tasks, contacts and notes with other team members. Access your data remote from every location with an active internet connection, with your webbrowser or your smartphone.
 
 • Multi-user calendar
@@ -26,4 +28,5 @@
 • Journal
 • RSS feed reader
 • No license limitation - use it as long you want
-• Receive free updates for 12 months<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300120915&affiliateid=200057808)
+• Receive free updates for 12 months
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300120915&affiliateid=200057808)

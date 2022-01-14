@@ -1,1 +1,3 @@
-# Eudora Migrator - Migration License<br />Convert Eudora MBX files to various file types<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300976335&affiliateid=200057808)
+# Eudora Migrator - Migration License
+Convert Eudora MBX files to various file types
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300976335&affiliateid=200057808)

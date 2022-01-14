@@ -1,4 +1,5 @@
-# MyProxy HOME<br />Ad-Filter, Pop-Up Killer, HTTP/HTTPS/SMTP/POP3-Proxy, Port Mapper, Internet Dialer.
+# MyProxy HOME
+Ad-Filter, Pop-Up Killer, HTTP/HTTPS/SMTP/POP3-Proxy, Port Mapper, Internet Dialer.
 
 MyProxy allows you to optimize your Web connection.
 Browse the Internet without having to deal with pop-up ads.
@@ -22,4 +23,5 @@ MyProxy keeps track of how much traffic and money you have spent every day and e
 Password protecting
 To prevent any undesirable use of your connectivity you can set the password for using the program
 Protect your online privacy
-MyProxy intercepts advertiser's requests and prevents tracking of your online habits<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300224651&affiliateid=200057808)
+MyProxy intercepts advertiser's requests and prevents tracking of your online habits
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300224651&affiliateid=200057808)

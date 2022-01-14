@@ -1,3 +1,5 @@
-# Overlay Font for PSP & & CorelDRAW & Pages V89<br />www.graphicxtras.com -- Overlay Font PSP & Indesign & CorelDRAW & Pages & Xpress V89
+# Overlay Font for PSP & & CorelDRAW & Pages V89
+www.graphicxtras.com -- Overlay Font PSP & Indesign & CorelDRAW & Pages & Xpress V89
 
-Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469364&affiliateid=200057808)
+Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469364&affiliateid=200057808)

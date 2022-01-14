@@ -1,3 +1,5 @@
-# Diagonal Truetype font / EPS Shapes for all apps V192<br />www.graphicxtras.com -- Diagonal Font EPS for Indesign & CorelDRAW & PSP & Word V192
+# Diagonal Truetype font / EPS Shapes for all apps V192
+www.graphicxtras.com -- Diagonal Font EPS for Indesign & CorelDRAW & PSP & Word V192
 
-100 Diagonal shapes in true type font - set includes true type TTF and EPS format files containing a wide variety of commercial use shapes for Indesign, word, pages, CorelDRAW etc - added April 3rd 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300516674&affiliateid=200057808)
+100 Diagonal shapes in true type font - set includes true type TTF and EPS format files containing a wide variety of commercial use shapes for Indesign, word, pages, CorelDRAW etc - added April 3rd 2012
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300516674&affiliateid=200057808)

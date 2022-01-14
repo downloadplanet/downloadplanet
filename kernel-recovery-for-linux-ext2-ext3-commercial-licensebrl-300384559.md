@@ -1,1 +1,2 @@
-# Kernel Recovery for Linux (Ext2, Ext3) - Commercial License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384559&affiliateid=200057808)
+# Kernel Recovery for Linux (Ext2, Ext3) - Commercial License[BRL]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384559&affiliateid=200057808)

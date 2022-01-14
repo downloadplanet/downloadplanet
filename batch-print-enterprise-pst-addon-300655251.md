@@ -1,1 +1,3 @@
-# Batch & Print Enterprise PST Addon<br />Batch & Print Enterprise Outlook PST Addon is a plugin for Batch & Print Enterprise that gives the user more control over the Outlook PST file print process. Also can process attachments in the PST files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300655251&affiliateid=200057808)
+# Batch & Print Enterprise PST Addon
+Batch & Print Enterprise Outlook PST Addon is a plugin for Batch & Print Enterprise that gives the user more control over the Outlook PST file print process. Also can process attachments in the PST files.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300655251&affiliateid=200057808)

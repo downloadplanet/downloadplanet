@@ -1,1 +1,3 @@
-# ATS PST to MSG Converter Software: - Business License<br />ATS PST to MSG Converter Software is help to convert PST Message Items to Separate Message Items<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778926&affiliateid=200057808)
+# ATS PST to MSG Converter Software: - Business License
+ATS PST to MSG Converter Software is help to convert PST Message Items to Separate Message Items
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778926&affiliateid=200057808)

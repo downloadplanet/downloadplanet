@@ -1,4 +1,5 @@
-# 3D Shapes for Photoshop & Elements & PSP & GIMP (PDF) V34<br />www.graphicxtras.com -- 3D Vector Shapes Photoshop & Elements & PSP & GIMP PDF V34
+# 3D Shapes for Photoshop & Elements & PSP & GIMP (PDF) V34
+www.graphicxtras.com -- 3D Vector Shapes Photoshop & Elements & PSP & GIMP PDF V34
 
 Exciting 3D graphic shapes for Photoshop, PSP etc
 
@@ -11,4 +12,5 @@ The 3D shapes are all vectors for any size of work - so you can use them with sm
 The 3D shapes are all by graphicxtras.com (Andrew Buckle). All are for commercial use, all are royalty-free and all can be used to create items for sale and much more - use to create leaflets, books, logos, templates, scrap kits, designs, documents, adverts and more. No time limits
 
 
-If you have any questions, please contact us on support@graphicxtras.com. Also you might like to check out our huge video tutorial section on the graphicxtras channel on youtube as well as the graphicxtras.com website<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468805&affiliateid=200057808)
+If you have any questions, please contact us on support@graphicxtras.com. Also you might like to check out our huge video tutorial section on the graphicxtras channel on youtube as well as the graphicxtras.com website
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468805&affiliateid=200057808)

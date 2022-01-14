@@ -1,3 +1,6 @@
-# Advanced Serial Data Logger Professional<br />![Advanced Serial Data Logger Professional](https://mycommerce.akamaized.net/api/pimages/P186167/BIG/186167.GIF)<br />Advanced Serial Data Logger is the unique serial port data logging and communication spying solution that supports various interfaces and features convenient user interface as well as flexibly configured modes of operation.
+# Advanced Serial Data Logger Professional
+![Advanced Serial Data Logger Professional](https://mycommerce.akamaized.net/api/pimages/P186167/BIG/186167.GIF)
+Advanced Serial Data Logger is the unique serial port data logging and communication spying solution that supports various interfaces and features convenient user interface as well as flexibly configured modes of operation.
 
-This version supports Windows 2000 and higher service mode, and all types of plugins, except filter plugins.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=186167&affiliateid=200057808)
+This version supports Windows 2000 and higher service mode, and all types of plugins, except filter plugins.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=186167&affiliateid=200057808)

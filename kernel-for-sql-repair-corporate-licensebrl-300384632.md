@@ -1,1 +1,2 @@
-# Kernel for SQL Repair - Corporate License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384632&affiliateid=200057808)
+# Kernel for SQL Repair - Corporate License[BRL]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384632&affiliateid=200057808)

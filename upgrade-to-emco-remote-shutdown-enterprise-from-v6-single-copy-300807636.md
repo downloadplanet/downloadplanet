@@ -1,1 +1,2 @@
-# Upgrade to EMCO Remote Shutdown Enterprise from v.6 (Single Copy)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300807636&affiliateid=200057808)
+# Upgrade to EMCO Remote Shutdown Enterprise from v.6 (Single Copy)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300807636&affiliateid=200057808)

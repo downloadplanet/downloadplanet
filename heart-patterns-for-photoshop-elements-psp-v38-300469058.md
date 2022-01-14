@@ -1,3 +1,5 @@
-# Heart Patterns for Photoshop & Elements & PSP V38<br />www.graphicxtras.com -- Heart patterns for Adobe Photoshop & Elements & PSP Valentines & Love & Romance Seamless tiles V38
+# Heart Patterns for Photoshop & Elements & PSP V38
+www.graphicxtras.com -- Heart patterns for Adobe Photoshop & Elements & PSP Valentines & Love & Romance Seamless tiles V38
 
-Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by graphicxtras (Andrew Buckle)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469058&affiliateid=200057808)
+Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by graphicxtras (Andrew Buckle)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469058&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Wondershare Video Converter Platinum for Windows - Multi-User Personal License (6-10 PCs)<br />![Wondershare Video Converter Platinum for Windows - Multi-User Personal License (6-10 PCs)](https://mycommerce.akamaized.net/api/pimages/P300952919/BIG/300952919.PNG)<br />Support OS: Windows2000, Windows2003, WinXP, Windows Vista, Windows7
+# Wondershare Video Converter Platinum for Windows - Multi-User Personal License (6-10 PCs)
+![Wondershare Video Converter Platinum for Windows - Multi-User Personal License (6-10 PCs)](https://mycommerce.akamaized.net/api/pimages/P300952919/BIG/300952919.PNG)
+Support OS: Windows2000, Windows2003, WinXP, Windows Vista, Windows7
 
 Wondershare Video Converter Platinum is the best video converter software that can convert all common video files to various formats to meet different format requirements and for playback on most popular players including iPod, iPhone, Apple TV, Zune, PSP, Pocket PC, Creative Zen, PS3, Xbox 360, Archos and more. It is also the best HD video converterand AVCHD video Converter which can convert HD video and AVCHD video to avi, convert m2ts to avi, convert mts to avi, convert ts to mp4 etc with excellent quality.
 
@@ -13,4 +15,5 @@ This video converter supports various video formats including MP4, MOV, 3GP, AVI
 3. Extract audio from video files A flexible audio converter that
 supports M4A, WMA, WAV, MP3, AAC and AC3.
 4. Convert video to All players Support all popular video and audio players such as iPad, iPod, iPhone 4 (iOS 4), Zune, PSP, Pocket PC, Creative Zen, Archos, PS3, Xbox 360, Wii, HP iPAQ, iRiver and so on. 5. Crop video Crop your movie video to remove the black video sides.
-6. Trim movie length Trim your video files to convert your favorite movie clips.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952919&affiliateid=200057808)
+6. Trim movie length Trim your video files to convert your favorite movie clips.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952919&affiliateid=200057808)

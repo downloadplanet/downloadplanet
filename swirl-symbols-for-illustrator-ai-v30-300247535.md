@@ -1,4 +1,5 @@
-# Swirl symbols for Illustrator (AI) V30<br />www.graphicxtras.com -- Embellish Symbols for Adobe Illustrator Creative cloud Swirls & Flourishes Shapes V30
+# Swirl symbols for Illustrator (AI) V30
+www.graphicxtras.com -- Embellish Symbols for Adobe Illustrator Creative cloud Swirls & Flourishes Shapes V30
 
 Many colorful embellishment symbols for Adobe (R) Illustrator (R) Creative Cloud CC and CS6-10 (Many flourish symbols, foliage symbols, scroll symbols, art nouveau, emboss symbols and more)
 
@@ -16,4 +17,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300247535&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300247535&affiliateid=200057808)

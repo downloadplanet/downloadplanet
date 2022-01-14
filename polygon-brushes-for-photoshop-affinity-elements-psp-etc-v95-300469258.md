@@ -1,3 +1,5 @@
-# Polygon brushes for Photoshop, Affinity, Elements, PSP, etc V95<br />www.graphicxtras.com -- Polygon Brushes for Adobe Photoshop & Elements & PSP V95
+# Polygon brushes for Photoshop, Affinity, Elements, PSP, etc V95
+www.graphicxtras.com -- Polygon Brushes for Adobe Photoshop & Elements & PSP V95
 
-150 Amazing Polygon themed Brushes in PNG format along with a large selection of vector EPS designs (along with an ABR file and actions and more) for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, all are by graphicxtras.com. If you want to find out more about them, please check out the graphicxtras.com website as well as the youtube.com/graphicxtras video channel<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469258&affiliateid=200057808)
+150 Amazing Polygon themed Brushes in PNG format along with a large selection of vector EPS designs (along with an ABR file and actions and more) for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, all are by graphicxtras.com. If you want to find out more about them, please check out the graphicxtras.com website as well as the youtube.com/graphicxtras video channel
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469258&affiliateid=200057808)

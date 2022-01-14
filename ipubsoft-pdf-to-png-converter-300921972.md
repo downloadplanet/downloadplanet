@@ -1,4 +1,6 @@
-# iPubsoft PDF to PNG Converter<br />![iPubsoft PDF to PNG Converter](https://mycommerce.akamaized.net/api/pimages/P300921972/BIG/300921972.PNG)<br />iPubsoft PDF to PNG Converter for Windows - Change Adobe PDF files into PNG images leisurely!
+# iPubsoft PDF to PNG Converter
+![iPubsoft PDF to PNG Converter](https://mycommerce.akamaized.net/api/pimages/P300921972/BIG/300921972.PNG)
+iPubsoft PDF to PNG Converter for Windows - Change Adobe PDF files into PNG images leisurely!
 
 Once you come across with the confusion about how to get the PDF files changed to PNG format, iPubsoft PDF to PNG Converter can give you a hand to resolve your trouble with professional skills. It is a helpful and reliable application which has a good reputation for its forceful functions of converting Adobe PDF to PNG images as well as BMP, TIFF, GIF, and JPG quickly.
 
@@ -25,4 +27,5 @@ Accurate Conversion Ability
 The initial PDF files would be accurately saved as PNG with all contents retained after conversion using this tool.
 
 Effective Batch Conversion
-Convert multiple files or an entire folder easily in one operation so as to improve the conversion efficiency.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921972&affiliateid=200057808)
+Convert multiple files or an entire folder easily in one operation so as to improve the conversion efficiency.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921972&affiliateid=200057808)

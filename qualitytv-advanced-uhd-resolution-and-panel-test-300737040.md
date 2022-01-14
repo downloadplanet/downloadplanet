@@ -1,1 +1,3 @@
-# Quality.TV advanced UHD resolution and panel test<br />With this suite of test patterns and our detailed guidance and backgrounds, you'll be able to perform spatial resolution tests of UHD displays. The need for performing such tests occurred when new subpixel configurations and or video filters changed the way detail in the picture is being displayed.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300737040&affiliateid=200057808)
+# Quality.TV advanced UHD resolution and panel test
+With this suite of test patterns and our detailed guidance and backgrounds, you'll be able to perform spatial resolution tests of UHD displays. The need for performing such tests occurred when new subpixel configurations and or video filters changed the way detail in the picture is being displayed.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300737040&affiliateid=200057808)

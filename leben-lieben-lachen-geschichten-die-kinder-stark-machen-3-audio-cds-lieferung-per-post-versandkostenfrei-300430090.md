@@ -1,1 +1,2 @@
-# Leben, Lieben, Lachen - Geschichten die Kinder stark machen (3 Audio CDs, Lieferung per Post, versandkostenfrei)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300430090&affiliateid=200057808)
+# Leben, Lieben, Lachen - Geschichten die Kinder stark machen (3 Audio CDs, Lieferung per Post, versandkostenfrei)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300430090&affiliateid=200057808)

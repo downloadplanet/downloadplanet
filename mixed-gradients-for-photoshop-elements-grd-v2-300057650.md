@@ -1,4 +1,5 @@
-# Mixed Gradients for Photoshop & Elements (GRD) V2<br />www.graphicxtras.com -- Mixed Gradients Photoshop & Elements GRD V2
+# Mixed Gradients for Photoshop & Elements (GRD) V2
+www.graphicxtras.com -- Mixed Gradients Photoshop & Elements GRD V2
 
 22,000 Stunning colorful gradients for Adobe (R) Photoshop (R) + Adobe (R) Photoshop (R) Elements
 Zoom gradients, line gradients, basic gradients, colorful gradients, red gradients, blue gradients, blurred gradients, sharp gradients and many more gradients for Adobe (R) Photoshop (R)
@@ -16,4 +17,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 MENU:
 Please mail me with any questions
 Info on the gradients via http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300057650&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300057650&affiliateid=200057808)

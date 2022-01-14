@@ -1,4 +1,6 @@
-# PROMT 365 Expert 20 Multilingual (Lizenz für 1 Jahr)<br />![PROMT 365 Expert 20 Multilingual (Lizenz für 1 Jahr)](https://mycommerce.akamaized.net/api/pimages/P300966634/BIG/300966634.JPG)<br />PROMT Expert ist die brandneue Lösung der PROMT-Produktfamilie für freiberufliche Übersetzer und Dolmetscher, die Ihre Übersetzungsprozesse automatisieren möchten. Einzigartige Funktionen zum Optimieren der Übersetzungsprozesse und zur Terminologie- bzw. Translation-Memory-Verwaltung machen PROMT Expert zum idealen Werkzeug in jedem Übersetzungsbüro. Mit PROMT-Plugin für SDL Trados Studio; Werkzeugen zur automatischen Ergänzung der Translation Memory-Datenbanken (TM) mit den Ergebnissen der maschinellen Übersetzung; Unterstützung neuester Translation-Memory-Formate wie OLIF, TBX, TMW, XLIFF; verschiedenste Sprachwerkzeuge zum Auswerten der Übersetzungsqualität.
+# PROMT 365 Expert 20 Multilingual (Lizenz für 1 Jahr)
+![PROMT 365 Expert 20 Multilingual (Lizenz für 1 Jahr)](https://mycommerce.akamaized.net/api/pimages/P300966634/BIG/300966634.JPG)
+PROMT Expert ist die brandneue Lösung der PROMT-Produktfamilie für freiberufliche Übersetzer und Dolmetscher, die Ihre Übersetzungsprozesse automatisieren möchten. Einzigartige Funktionen zum Optimieren der Übersetzungsprozesse und zur Terminologie- bzw. Translation-Memory-Verwaltung machen PROMT Expert zum idealen Werkzeug in jedem Übersetzungsbüro. Mit PROMT-Plugin für SDL Trados Studio; Werkzeugen zur automatischen Ergänzung der Translation Memory-Datenbanken (TM) mit den Ergebnissen der maschinellen Übersetzung; Unterstützung neuester Translation-Memory-Formate wie OLIF, TBX, TMW, XLIFF; verschiedenste Sprachwerkzeuge zum Auswerten der Übersetzungsqualität.
 
 Unterstützte Übersetzungsrichtungen:
 Englisch -> Deutsch, Deutsch -> Englisch
@@ -36,4 +38,5 @@ Werkzeug zur Stapelübersetzung mehrerer Dateien nacheinandern.
 Erfahren Sie mehr >>>
 
 Systemvoraussetzungen
-Microsoft Windows® 10, 8, und 7 (32-/64-bit)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300966634&affiliateid=200057808)
+Microsoft Windows® 10, 8, und 7 (32-/64-bit)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300966634&affiliateid=200057808)

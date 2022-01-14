@@ -1,1 +1,3 @@
-# Sysinfo Thunderbird Email Backup for Windows[Technician License]<br />SysInfo Thunderbird Email Backup for Windows<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301009774&affiliateid=200057808)
+# Sysinfo Thunderbird Email Backup for Windows[Technician License]
+SysInfo Thunderbird Email Backup for Windows
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301009774&affiliateid=200057808)

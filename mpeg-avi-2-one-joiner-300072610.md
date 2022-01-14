@@ -1,1 +1,3 @@
-# MPEG AVI 2 One Joiner<br />Join mpeg and avi video files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300072610&affiliateid=200057808)
+# MPEG AVI 2 One Joiner
+Join mpeg and avi video files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300072610&affiliateid=200057808)

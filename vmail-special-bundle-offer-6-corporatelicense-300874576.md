@@ -1,1 +1,2 @@
-# vMail Special Bundle Offer 6 - CorporateLicense<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300874576&affiliateid=200057808)
+# vMail Special Bundle Offer 6 - CorporateLicense
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300874576&affiliateid=200057808)

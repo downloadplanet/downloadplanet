@@ -1,4 +1,5 @@
-# MITCalc Power and Ball screw design and calculation<br />Power screw
+# MITCalc Power and Ball screw design and calculation
+Power screw
 This program (algorithm) is used to design and check power screws. It is used to solve the following tasks:
 - Calculation of kinematic parameters (speed, torque, revolutions and power output...
 - Simple selection / definition of power screw (metric, square, trapezoidal...)
@@ -20,4 +21,5 @@ This program (algorithm) is used to design, calculate and check ball screws. It 
 - The program contains tables of screws according to ISO and ANSI
 - Support of 2D CAD systems
 The calculation is based on data, procedures and algorithms from specialized literature and AGMA, ISO, DIN and BS standards.
-List of standards: ISO 3408-1:2006; ISO 3408-2: 1991; ISO 3408-3:2006; ISO 3408-4:2006; ISO 3408-5:2006; ISO 286-2:2010; DIN ISO 3408; JIS B1192-1997; JIS B1192-2018; DIN 69051-5; ANSI B5.48<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300996716&affiliateid=200057808)
+List of standards: ISO 3408-1:2006; ISO 3408-2: 1991; ISO 3408-3:2006; ISO 3408-4:2006; ISO 3408-5:2006; ISO 286-2:2010; DIN ISO 3408; JIS B1192-1997; JIS B1192-2018; DIN 69051-5; ANSI B5.48
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300996716&affiliateid=200057808)

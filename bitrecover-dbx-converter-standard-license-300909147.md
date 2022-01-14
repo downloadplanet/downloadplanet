@@ -1,1 +1,3 @@
-# BitRecover DBX Converter - Standard License<br />Software to Convert Outlook Express Data Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300909147&affiliateid=200057808)
+# BitRecover DBX Converter - Standard License
+Software to Convert Outlook Express Data Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300909147&affiliateid=200057808)

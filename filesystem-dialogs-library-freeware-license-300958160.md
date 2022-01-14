@@ -1,4 +1,6 @@
-# Filesystem Dialogs Library Freeware License<br />![Filesystem Dialogs Library Freeware License](https://mycommerce.akamaized.net/api/pimages/P300958160/BIG/300958160.PNG)<br />Filesystem Dialogs Library is a vastly enhanced, unique animated file dialog (file and folder browser component) for use in Win32 and Win64 (Vista/7/8/10) software aimed for highest quality. It's purpose is to provide the most powerful user-friendly file and folder selection options and file managament tools for the session and highest image quality in thumbnail and previewer mode. It has a powerfull integration option to integrate the dialogs into your application's window as a file or folder browser. It has a previewer on secondary display for multi-monitor setups and support for very easy custom thumbnail and previewer implementation.
+# Filesystem Dialogs Library Freeware License
+![Filesystem Dialogs Library Freeware License](https://mycommerce.akamaized.net/api/pimages/P300958160/BIG/300958160.PNG)
+Filesystem Dialogs Library is a vastly enhanced, unique animated file dialog (file and folder browser component) for use in Win32 and Win64 (Vista/7/8/10) software aimed for highest quality. It's purpose is to provide the most powerful user-friendly file and folder selection options and file managament tools for the session and highest image quality in thumbnail and previewer mode. It has a powerfull integration option to integrate the dialogs into your application's window as a file or folder browser. It has a previewer on secondary display for multi-monitor setups and support for very easy custom thumbnail and previewer implementation.
 Filesystem Dialogs is ideal for audio, picture and multimedia related applications.
 Delphi and VC++ example and an experimental COM class wrapper DLL included.
 
@@ -23,4 +25,5 @@ Option to call the dialogs not modally, but like an ordinary form (ideal for mul
 Option to integrate the dialog into a parent handle into your application and trigger an event on file selection, use the library as a file system browser component in your application
 Option to display custom file information, file thumbnail and preview for files with a callback function - generate thumbnail and implement a previewer for any file type needed by your app.
 Full unicode file name support
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300958160&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300958160&affiliateid=200057808)

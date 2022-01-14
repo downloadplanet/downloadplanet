@@ -1,1 +1,3 @@
-# Taskolly - Business - Lifetime<br />.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300989758&affiliateid=200057808)
+# Taskolly - Business - Lifetime
+.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300989758&affiliateid=200057808)

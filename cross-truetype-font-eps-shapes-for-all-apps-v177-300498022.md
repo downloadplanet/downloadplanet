@@ -1,3 +1,5 @@
-# Cross truetype font / EPS Shapes for all apps V177<br />www.graphicxtras.com -- Cross Font CorelDRAW & Pages & PSP & Indesign & Word Vector shapes Religious & Plus V177
+# Cross truetype font / EPS Shapes for all apps V177
+www.graphicxtras.com -- Cross Font CorelDRAW & Pages & PSP & Indesign & Word Vector shapes Religious & Plus V177
 
-100 Cross shapes in true type font - set includes true type TTF and EPS format files containing a wide variety of commercial use shapes, all royalty-free - added December 31st 2011<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300498022&affiliateid=200057808)
+100 Cross shapes in true type font - set includes true type TTF and EPS format files containing a wide variety of commercial use shapes, all royalty-free - added December 31st 2011
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300498022&affiliateid=200057808)

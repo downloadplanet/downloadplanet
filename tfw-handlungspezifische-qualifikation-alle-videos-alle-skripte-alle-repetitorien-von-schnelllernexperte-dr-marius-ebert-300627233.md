@@ -1,1 +1,2 @@
-# TFW: Handlungspezifische Qualifikation, alle Videos, alle Skripte, alle Repetitorien von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300627233&affiliateid=200057808)
+# TFW: Handlungspezifische Qualifikation, alle Videos, alle Skripte, alle Repetitorien von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300627233&affiliateid=200057808)

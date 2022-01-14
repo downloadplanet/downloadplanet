@@ -1,5 +1,8 @@
-# iStonsoft Data Recovery for Android (Mac Version)<br />![iStonsoft Data Recovery for Android (Mac Version)](https://mycommerce.akamaized.net/api/pimages/P300917149/BIG/300917149.PNG)<br />The Ultimate Data Recovery Software for Your Android Devices
+# iStonsoft Data Recovery for Android (Mac Version)
+![iStonsoft Data Recovery for Android (Mac Version)](https://mycommerce.akamaized.net/api/pimages/P300917149/BIG/300917149.PNG)
+The Ultimate Data Recovery Software for Your Android Devices
 iStonsoft Data Recovery for Android (Mac Version) is the world’s 1st data recovery software for Android users on Mac OS X. It allows users to recover up to 8 types of files from Android phones & tablets, including contacts, SMS, photos, video, documents, archives, etc.
 One-click to retrieve deleted, lost or formatted Android data on Mac OS X.
 Scan and preview files before recovery.
-Work well with all Android devices manufactured by Samsung, HTC, Motorola, LG, Sony, Google, Asus, and so forth.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917149&affiliateid=200057808)
+Work well with all Android devices manufactured by Samsung, HTC, Motorola, LG, Sony, Google, Asus, and so forth.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917149&affiliateid=200057808)

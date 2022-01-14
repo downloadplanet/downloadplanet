@@ -1,4 +1,5 @@
-# Starry Custom shapes for Photoshop & Elements (CSH) V7<br />www.graphicxtras.com -- Starry Custom Shapes for Adobe Photoshop & Elements CSH V7
+# Starry Custom shapes for Photoshop & Elements (CSH) V7
+www.graphicxtras.com -- Starry Custom Shapes for Adobe Photoshop & Elements CSH V7
 
 200 Starry sketch Custom shapes Photoshop and Photoshop Elements PC MAC OS X
 Many different mixed star starry custom shapes designs including festive stars, sketched star shapes, embellish shapes, multi-star shapes, unusual star shapes, basic star shapes, hollow star shapes and many more
@@ -18,4 +19,5 @@ MENU:
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
 http://www.graphicxtras.com/stars.htm
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300001213&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300001213&affiliateid=200057808)

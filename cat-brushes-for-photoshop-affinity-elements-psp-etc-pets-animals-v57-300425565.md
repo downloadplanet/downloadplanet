@@ -1,4 +1,5 @@
-# Cat brushes for Photoshop, Affinity, Elements, PSP, etc Pets Animals V57<br />www.graphicxtras.com -- Cat Brushes for Adobe Photoshop & Elements & PSP & Xara Pets Animals V57
+# Cat brushes for Photoshop, Affinity, Elements, PSP, etc Pets Animals V57
+www.graphicxtras.com -- Cat Brushes for Adobe Photoshop & Elements & PSP & Xara Pets Animals V57
 
 90 cat Brushes for Photoshop (R) Creative Cloud CC 2017 2015 2014 CS6-6 (and the standalone versions 14-6) + Photoshop (R) Elements 15-1 + others. Set includes brushes in ABR and PNG format. Royalty-free, commercial use, all by graphicxtras. PC and MAC OS X use. Access via file open command in host application. 300 DPI
 
@@ -6,4 +7,5 @@
 
 The brushes are stored in ABR format (access via the file open command in Photoshop) and then use with most of the brushes tools. The set also includes the designs in PNG format and they can be used in Photoshop as layers as well as being used as a source for brushes in many other applications such as Paint Shop Pro, Photo-Paint, etc You can modify the designs, combine the brushes and more to create a near infinite range of designs. The PNG format brushes can also be quickly converted by using a third party (many are available free on the web) application to JPG and GIF and TIFF etc formats so they can be used in Painter and other applications or traced and then used in Illustrator and others
 
-The license agreement can be found on the graphicxtras.com site, basically you can do virtually anything with the brushes with very few minor restrictions.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300425565&affiliateid=200057808)
+The license agreement can be found on the graphicxtras.com site, basically you can do virtually anything with the brushes with very few minor restrictions.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300425565&affiliateid=200057808)

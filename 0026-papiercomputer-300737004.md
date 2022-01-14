@@ -1,1 +1,3 @@
-# 0026 - Papiercomputer<br />Excel Sheet Papiercomputer<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300737004&affiliateid=200057808)
+# 0026 - Papiercomputer
+Excel Sheet Papiercomputer
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300737004&affiliateid=200057808)

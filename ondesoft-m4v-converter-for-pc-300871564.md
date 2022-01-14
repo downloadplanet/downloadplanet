@@ -1,5 +1,8 @@
-# Ondesoft M4V Converter for PC<br />![Ondesoft M4V Converter for PC](https://mycommerce.akamaized.net/api/pimages/P300871564/BIG/300871564.JPG)<br />Ondesoft M4V Converter Plus can convert iTunes M4V movies, TV shows and music videos to plain MP4 with multilingual subtitles and audio tracks, Dolby 5.1, closed captioning and audio description retained without any quality loss, helps to enjoy iTunes M4V videos on iPhone, iPad, Samsung Galaxy, Huawei, Kindle Fire, PSP, PS3, PS4, Xbox and any other MP4 compatible devices.
+# Ondesoft M4V Converter for PC
+![Ondesoft M4V Converter for PC](https://mycommerce.akamaized.net/api/pimages/P300871564/BIG/300871564.JPG)
+Ondesoft M4V Converter Plus can convert iTunes M4V movies, TV shows and music videos to plain MP4 with multilingual subtitles and audio tracks, Dolby 5.1, closed captioning and audio description retained without any quality loss, helps to enjoy iTunes M4V videos on iPhone, iPad, Samsung Galaxy, Huawei, Kindle Fire, PSP, PS3, PS4, Xbox and any other MP4 compatible devices.
 Keep all AC3 Dolby 5.1 Audio, AD, Audio Tracks, Subtitles and Closed Captions.
 Convert M4V to MP4 at 15X speed.
 make exact 1:1 copy of iTunes video without quality loss .
-Multilingual interface: English, French, Japanese, German, Spanish, Simplified Chinese and Traditional Chinese<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300871564&affiliateid=200057808)
+Multilingual interface: English, French, Japanese, German, Spanish, Simplified Chinese and Traditional Chinese
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300871564&affiliateid=200057808)

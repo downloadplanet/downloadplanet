@@ -1,4 +1,6 @@
-# Script Arsenal for PaintShop Pro<br />As is generally known, the scripts (aka macros) extend the PaintShop Pro capacities and make your work more fun and efficient.
+# Script Arsenal for PaintShop Pro
+As is generally known, the scripts (aka macros) extend the PaintShop Pro capacities and make your work more fun and efficient.
 "Script Arsenal for PaintShop Pro" is a set of 50+ ready made macros that create various effects, streamline your everyday work flow, and add some new features that are otherwise unavailable in PSP.
 All versions of PSP starting with PaintShop Pro X are supported. The usage doesn't require a substantial PSP experience.
-The script interface is available in eight languages. The documentation is provided in three languages: English, German, and Russian.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300669467&affiliateid=200057808)
+The script interface is available in eight languages. The documentation is provided in three languages: English, German, and Russian.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300669467&affiliateid=200057808)

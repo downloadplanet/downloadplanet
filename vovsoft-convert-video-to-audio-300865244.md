@@ -1,1 +1,3 @@
-# Vovsoft Convert Video to Audio<br />Convert your video files to MP3 or WAV audio<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865244&affiliateid=200057808)
+# Vovsoft Convert Video to Audio
+Convert your video files to MP3 or WAV audio
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865244&affiliateid=200057808)

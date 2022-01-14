@@ -1,4 +1,6 @@
-# AnyBizSoft EPUB Builder - 6-10 Personal License<br />![AnyBizSoft EPUB Builder - 6-10 Personal License](https://mycommerce.akamaized.net/api/pimages/P300952842/BIG/300952842.PNG)<br />AnyBizSoft EPUB Builder, a simple and powerful EPUB eBook creator, is designed to provide you with the easiest solution to build your own EPUB eBooks. It can help you quickly create an EPUB eBook from up to 100 files in most popular formats at one time. Also you can customize the book cover, info, layout, tables of contents to make your eBook personalized. After finishing your own EPUB eBook, you can check it on your PC with Adobe Digital Editions immediately, and then publish, share it, or read it on your favorite e-Readers.
+# AnyBizSoft EPUB Builder - 6-10 Personal License
+![AnyBizSoft EPUB Builder - 6-10 Personal License](https://mycommerce.akamaized.net/api/pimages/P300952842/BIG/300952842.PNG)
+AnyBizSoft EPUB Builder, a simple and powerful EPUB eBook creator, is designed to provide you with the easiest solution to build your own EPUB eBooks. It can help you quickly create an EPUB eBook from up to 100 files in most popular formats at one time. Also you can customize the book cover, info, layout, tables of contents to make your eBook personalized. After finishing your own EPUB eBook, you can check it on your PC with Adobe Digital Editions immediately, and then publish, share it, or read it on your favorite e-Readers.
 
 Key Features of AnyBizSoft EPUB Builder 1.0.0:
 
@@ -28,4 +30,5 @@ Support files in 9 languages: English, French, German, Italian, Portuguese, Span
 Operating Systems
 OS: Windows 7/XP/Vista/2003 32bit
 Additional Software: Microsoft Word (Only needed when converting .doc to .epub)
-Minimum Hardware Requirements: 500 MHz processor, 512 MB Memory, 50 MB hard disk space<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952842&affiliateid=200057808)
+Minimum Hardware Requirements: 500 MHz processor, 512 MB Memory, 50 MB hard disk space
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952842&affiliateid=200057808)

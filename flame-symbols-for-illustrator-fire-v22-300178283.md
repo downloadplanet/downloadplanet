@@ -1,4 +1,5 @@
-# Flame symbols for Illustrator Fire V22<br />www.graphicxtras.com -- Flame Symbols for Adobe Illustrator PC & MAC OS X Fire V22
+# Flame symbols for Illustrator Fire V22
+www.graphicxtras.com -- Flame Symbols for Adobe Illustrator PC & MAC OS X Fire V22
 
 700+ Flames Symbols for Adobe (R) Illustrator (R) (flames symbols, fire symbols, gradient flames symbols, fiery symbols, burn symbols, drag race symbols, hot rod symbols, tattoos, spark symbols and many more)
 
@@ -15,4 +16,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300178283&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300178283&affiliateid=200057808)

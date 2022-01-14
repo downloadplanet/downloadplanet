@@ -1,4 +1,6 @@
-# iStonsoft PDF Creator for Mac<br />![iStonsoft PDF Creator for Mac](https://mycommerce.akamaized.net/api/pimages/P300917091/BIG/300917091.PNG)<br />iStonsoft PDF Creator for Mac - Create PDF from Image & Text on Mac OS X.
+# iStonsoft PDF Creator for Mac
+![iStonsoft PDF Creator for Mac](https://mycommerce.akamaized.net/api/pimages/P300917091/BIG/300917091.PNG)
+iStonsoft PDF Creator for Mac - Create PDF from Image & Text on Mac OS X.
 All-functional PDF maker that can create PDF documents from Image, Text .
 
 With the cost-effective PDF Creator for Mac, you can:
@@ -15,4 +17,5 @@ PDF Creator Key Features
 
 - PDF Creator can create PDF files from TXT.
 
-- Fast creating speed and easy-to-use design<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917091&affiliateid=200057808)
+- Fast creating speed and easy-to-use design
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917091&affiliateid=200057808)

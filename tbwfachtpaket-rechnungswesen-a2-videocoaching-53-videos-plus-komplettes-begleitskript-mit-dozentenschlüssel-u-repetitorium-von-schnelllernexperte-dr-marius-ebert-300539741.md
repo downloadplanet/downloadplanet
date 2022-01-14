@@ -1,1 +1,2 @@
-# TBW-Fachtpaket: Rechnungswesen (A.2.), Videocoaching, 53 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300539741&affiliateid=200057808)
+# TBW-Fachtpaket: Rechnungswesen (A.2.), Videocoaching, 53 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300539741&affiliateid=200057808)

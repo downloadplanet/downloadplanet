@@ -1,1 +1,3 @@
-# Avalon Optimizer Bundle<br />.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300965333&affiliateid=200057808)
+# Avalon Optimizer Bundle
+.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300965333&affiliateid=200057808)

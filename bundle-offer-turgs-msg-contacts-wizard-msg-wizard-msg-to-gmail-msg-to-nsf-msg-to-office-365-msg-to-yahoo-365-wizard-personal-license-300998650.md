@@ -1,1 +1,3 @@
-# Bundle Offer Turgs - (MSG Contacts Wizard + MSG Wizard + MSG to Gmail + MSG to NSF + MSG to Office 365 + MSG to Yahoo 365) Wizard - Personal License<br />(MSG Contacts Wizard + MSG Wizard + MSG to Gmail + MSG to NSF + MSG to Office 365 + MSG to Yahoo 365) Wizard Bundle Offer<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998650&affiliateid=200057808)
+# Bundle Offer Turgs - (MSG Contacts Wizard + MSG Wizard + MSG to Gmail + MSG to NSF + MSG to Office 365 + MSG to Yahoo 365) Wizard - Personal License
+(MSG Contacts Wizard + MSG Wizard + MSG to Gmail + MSG to NSF + MSG to Office 365 + MSG to Yahoo 365) Wizard Bundle Offer
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998650&affiliateid=200057808)

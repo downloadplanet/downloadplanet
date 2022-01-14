@@ -1,1 +1,4 @@
-# eSoftTools MSG to vCard Converter - Techcnician License<br />![eSoftTools MSG to vCard Converter - Techcnician License](https://mycommerce.akamaized.net/api/pimages/P300877909/BIG/300877909.PNG)<br />eSoftTools Offers best Address Book Conversion Software which helps to easily export Outlook MSG Contacts to vCard file. MSG to VCF conversion one of excellent solution to read & convert Outlook Contact to vCard (.vcf) format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300877909&affiliateid=200057808)
+# eSoftTools MSG to vCard Converter - Techcnician License
+![eSoftTools MSG to vCard Converter - Techcnician License](https://mycommerce.akamaized.net/api/pimages/P300877909/BIG/300877909.PNG)
+eSoftTools Offers best Address Book Conversion Software which helps to easily export Outlook MSG Contacts to vCard file. MSG to VCF conversion one of excellent solution to read & convert Outlook Contact to vCard (.vcf) format.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300877909&affiliateid=200057808)

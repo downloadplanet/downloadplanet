@@ -1,4 +1,5 @@
-# KS CSV-Reader Component<br />KS CSV-Reader Control enables you to read CSV-Table data from Comma-Seperated-Values files.
+# KS CSV-Reader Component
+KS CSV-Reader Control enables you to read CSV-Table data from Comma-Seperated-Values files.
 CSV files are written by database application and are a widly used standard for data exchange between applications. Most database applications support CSV export.
 Main advantages of using KS CSV-Reader are
 No other dependencies to other database libraries as MS-ADO/MS-Jet, etc.
@@ -8,4 +9,5 @@ Read CSV-Files with text lines over line boundaries (wich are invalid CSV-files,
 Autodetect delimiters
 Error tolerant
 Fast scan for maximum column widths
-Fast C++ implementation<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300010791&affiliateid=200057808)
+Fast C++ implementation
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300010791&affiliateid=200057808)

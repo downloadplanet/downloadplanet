@@ -1,4 +1,5 @@
-# Contour Custom shapes for Photoshop & Elements PC & MAC CSH Inset Adobe V35<br />www.graphicxtras.com -- Contour Custom Shapes for Adobe Photoshop & Elements PC & MAC CSH Inset Adobe V35
+# Contour Custom shapes for Photoshop & Elements PC & MAC CSH Inset Adobe V35
+www.graphicxtras.com -- Contour Custom Shapes for Adobe Photoshop & Elements PC & MAC CSH Inset Adobe V35
 
 Custom shapes for Photoshop and Photoshop Elements
 340 Contour and inset shapes for Adobe (R) Photoshop (R)
@@ -21,4 +22,5 @@ MENU:
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300170247&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300170247&affiliateid=200057808)

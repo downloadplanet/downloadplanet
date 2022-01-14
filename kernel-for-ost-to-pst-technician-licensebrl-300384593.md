@@ -1,1 +1,2 @@
-# Kernel for OST to PST - Technician License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384593&affiliateid=200057808)
+# Kernel for OST to PST - Technician License[BRL]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384593&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Pieces brushes for Illustrator (AI) V2<br />www.graphicxtras.com -- Pieces brushes for Adobe Illustrator Creative Cloud PC & MAC OS X V2
+# Pieces brushes for Illustrator (AI) V2
+www.graphicxtras.com -- Pieces brushes for Adobe Illustrator Creative Cloud PC & MAC OS X V2
 
 COMMERCIAL USE OK ================= All designs by graphicxtras.com Use items to create products for sale, hobby items and more 600 Colorful bits brushes for Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10 9 8, PC + MAC OS X. Brushes pack includes ring brushes, circular brushes, jagged brushes, rails brushes, track brushes, color brushes, dots brushes, cross brushes and many more
 
@@ -14,4 +15,5 @@ To purchase, please click the add to cart (cookies are required for this operati
 
 
 Mail me if you have any questions
-For more info about the brushes packs - http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300066946&affiliateid=200057808)
+For more info about the brushes packs - http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300066946&affiliateid=200057808)

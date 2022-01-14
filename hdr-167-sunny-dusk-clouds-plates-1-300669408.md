@@ -1,5 +1,8 @@
-# HDR 167 Sunny Dusk Clouds Plates 1<br />![HDR 167 Sunny Dusk Clouds Plates 1](https://mycommerce.akamaized.net/api/pimages/P300669408/BIG/300669408.JPG)<br />Projection: 360/180 full spherical panorama, Spherical Map Latitude-Longitude Depth: 32 bit per channel
+# HDR 167 Sunny Dusk Clouds Plates 1
+![HDR 167 Sunny Dusk Clouds Plates 1](https://mycommerce.akamaized.net/api/pimages/P300669408/BIG/300669408.JPG)
+Projection: 360/180 full spherical panorama, Spherical Map Latitude-Longitude Depth: 32 bit per channel
 
 High Dynamic Range Image HDRI allows you to import a real lighting situation into your 3d scene. Wonderful shadows and reflections in the scene can achieve the highest level of realism in the rendering.
 
-It helps you to dramatically speed up the lighting process and is especially usefull for automotive and product visualization.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300669408&affiliateid=200057808)
+It helps you to dramatically speed up the lighting process and is especially usefull for automotive and product visualization.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300669408&affiliateid=200057808)

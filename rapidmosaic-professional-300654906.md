@@ -1,3 +1,5 @@
-# Rapid-Mosaic Professional<br />To create a photo mosaic picture, you can use digital photos from your collection, for example from your last vacation or family get-together.  Foto-Mosaik-Edda analyses the photos and then adds them to one or more databases from which they are drawn to create your photo mosaic.
+# Rapid-Mosaic Professional
+To create a photo mosaic picture, you can use digital photos from your collection, for example from your last vacation or family get-together.  Foto-Mosaik-Edda analyses the photos and then adds them to one or more databases from which they are drawn to create your photo mosaic.
 The Foto-Mosaik-Edda assistant guides you through the process, making the creation of your photo mosaic picture childs play.  Your friends will be astounded by this extraordinary effect.
-Try it out!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300654906&affiliateid=200057808)
+Try it out!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300654906&affiliateid=200057808)

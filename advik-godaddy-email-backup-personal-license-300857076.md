@@ -1,1 +1,3 @@
-# Advik GoDaddy Email Backup - Personal License<br />Software to Backup GoDaddy Email Accounts<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300857076&affiliateid=200057808)
+# Advik GoDaddy Email Backup - Personal License
+Software to Backup GoDaddy Email Accounts
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300857076&affiliateid=200057808)

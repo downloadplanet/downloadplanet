@@ -1,1 +1,3 @@
-# SysInfo PST Split for Windows[Single Home User License]<br />PST Split<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534223&affiliateid=200057808)
+# SysInfo PST Split for Windows[Single Home User License]
+PST Split
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534223&affiliateid=200057808)

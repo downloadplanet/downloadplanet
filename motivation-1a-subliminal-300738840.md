@@ -1,1 +1,4 @@
-# Motivation 1A Subliminal<br />![Motivation 1A Subliminal](https://mycommerce.akamaized.net/api/pimages/P300738840/BIG/300738840.JPG)<br />Get motivated and raise your level of motivation. You will achieve more and be more successful. Listen to the Motivation 1A Subliminal once or twice daily for at least 6 weeks.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300738840&affiliateid=200057808)
+# Motivation 1A Subliminal
+![Motivation 1A Subliminal](https://mycommerce.akamaized.net/api/pimages/P300738840/BIG/300738840.JPG)
+Get motivated and raise your level of motivation. You will achieve more and be more successful. Listen to the Motivation 1A Subliminal once or twice daily for at least 6 weeks.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300738840&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Die 8 Sofort-Geldquellen (8 Methoden, inkl. 9 Videokursen und 9 E-Books). Lieferung bequem als Download.<br />Die 8 Sofort-Geldquellen (8 Methoden, inkl. 9 Videokursen und 9 E-Books). Lieferung bequem als Download.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300481251&affiliateid=200057808)
+# Die 8 Sofort-Geldquellen (8 Methoden, inkl. 9 Videokursen und 9 E-Books). Lieferung bequem als Download.
+Die 8 Sofort-Geldquellen (8 Methoden, inkl. 9 Videokursen und 9 E-Books). Lieferung bequem als Download.
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300481251&affiliateid=200057808)

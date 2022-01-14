@@ -1,4 +1,5 @@
-# SQL Image Viewer upgrade from basic to pro edition<br />SQL Image Viewer enables you to retrieve and view images directly from Firebird, MySQL, Oracle, SQLite and SQL Server databases. It also enables you to export your images to disk, in their original format or converted to one of the supported formats (BMP, GIF, JPEG, PNG, PSD, TIFF). In addition, it also enables you to export binary data stored in your databases.
+# SQL Image Viewer upgrade from basic to pro edition
+SQL Image Viewer enables you to retrieve and view images directly from Firebird, MySQL, Oracle, SQLite and SQL Server databases. It also enables you to export your images to disk, in their original format or converted to one of the supported formats (BMP, GIF, JPEG, PNG, PSD, TIFF). In addition, it also enables you to export binary data stored in your databases.
 You can export thousands of images using SQL Image Viewer, as it uses memory frugally. A built-in memory monitor also ensures that you do not overload your system with too many images.
 Supports most popular database engines:
 Use a single interface to connect to multiple database engines, saving cost and time.
@@ -23,4 +24,5 @@ View image properties
 View EXIF properties where available.
 Integrated image viewer allows you to zoom and pan images easily.
 Save individual images to disk, in its original format or in one of the other supported formats.
-View individual frames of an animated GIF, or invididual pages of a multi-page TIFF document.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300422331&affiliateid=200057808)
+View individual frames of an animated GIF, or invididual pages of a multi-page TIFF document.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300422331&affiliateid=200057808)

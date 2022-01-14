@@ -1,1 +1,3 @@
-# Vibosoft iTunes Data Recovery for Mac<br />Lost or broken your iPhone, iPad or iPod touch? Deleted something important? Or failed update? Data loss happens here and there, no one can avoid it when it comes. So we only try our best to compensate for the loss. Thus, Vibosoft release this iTunes Data Recovery Mac software to meet all iPad, iPhone and iPod users' needs.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300859759&affiliateid=200057808)
+# Vibosoft iTunes Data Recovery for Mac
+Lost or broken your iPhone, iPad or iPod touch? Deleted something important? Or failed update? Data loss happens here and there, no one can avoid it when it comes. So we only try our best to compensate for the loss. Thus, Vibosoft release this iTunes Data Recovery Mac software to meet all iPad, iPhone and iPod users' needs.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300859759&affiliateid=200057808)

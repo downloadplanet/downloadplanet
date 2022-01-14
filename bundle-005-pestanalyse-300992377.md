@@ -1,1 +1,3 @@
-# Bundle 005 - PEST-Analyse<br />Bundle 005 - PEST-Analyse<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300992377&affiliateid=200057808)
+# Bundle 005 - PEST-Analyse
+Bundle 005 - PEST-Analyse
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300992377&affiliateid=200057808)

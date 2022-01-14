@@ -1,4 +1,5 @@
-# Superprogramming<br />Das legendäre Buch "Superprogramming" jetzt als pdf zum Download!
+# Superprogramming
+Das legendäre Buch "Superprogramming" jetzt als pdf zum Download!
 Superprogramming
 nennt man ein Phänomen, durch das Spitzenprogrammierer zehnmal schneller und noch dazu besser programmieren als der Durchschnitt. Es wird u.a. verursacht durch bessere Nutzung der Asymmetrie des Gehirns. Zumindest einige Voraussetzungen unterliegen dem Einfluß von Arbeits- und Denkmethoden und sind somit lernbar.
 Was ist Superprogramming?
@@ -12,4 +13,5 @@ Bei einer aus denkmethodischer Sicht vergleichbaren Disziplin, dem Zeichnen, fan
 Das Buch bietet deshalb in zwanzig Schritten eine systematische Einführung in Arbeitsmethoden für EDV-Berufe. Es vermittelt Zeitmanagement, strategische Konzepte, optimales Lernen, Kreativitätsmethoden und viele andere Themen, die dazu beitragen, Superprogramming zu verwirklichen. Versäumen Sie nicht dieses Buch!
 Ein Buch für zwei Zielgruppen
 Das Buch ist leicht und von jedermann verständlich geschrieben. Es wendet sich nicht nur an EDV-Fachleute, sondern an alle, die sich für eine umfassende Einführung in Arbeits- und Denkmethoden interessieren.
-Der mittlerweile schon legendäre Buchtitel "Superprogramming" ist seit zwei Jahrzehnten vergriffen und hier zum ersten Mal eingescannt als pdf verfügbar. Als das Buch entstand, waren unsere Postleitzahlen vierstellig, es gab kein Internet und viele technische Dinge in diesem Buch klingen mehr als angestaubt. Doch unser Gehirn ist noch immer das gleiche. Das Phänomen "Superprogramming", geistige Hochleistungstechniken und deren arbeitsmethodische Grundlagen sind aktuell wie eh und je. Lesen Sie also unbedingt dieses Buch!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300533980&affiliateid=200057808)
+Der mittlerweile schon legendäre Buchtitel "Superprogramming" ist seit zwei Jahrzehnten vergriffen und hier zum ersten Mal eingescannt als pdf verfügbar. Als das Buch entstand, waren unsere Postleitzahlen vierstellig, es gab kein Internet und viele technische Dinge in diesem Buch klingen mehr als angestaubt. Doch unser Gehirn ist noch immer das gleiche. Das Phänomen "Superprogramming", geistige Hochleistungstechniken und deren arbeitsmethodische Grundlagen sind aktuell wie eh und je. Lesen Sie also unbedingt dieses Buch!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300533980&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# PDF Management Toolkit(PDF Split and Merge + PDF Recovery)Administrator License<br />PDF Management Toolkit(PDF Split and Merge + PDF Recovery)
+# PDF Management Toolkit(PDF Split and Merge + PDF Recovery)Administrator License
+PDF Management Toolkit(PDF Split and Merge + PDF Recovery)
 Key features:-
 Interactive & Simplified UI.
 PDF Repair effortlessly rebuilds corrupt PDF file under same file.
@@ -6,4 +7,5 @@ PDF Repair tool can exceedingly recover images, text, table, graphic etc with ut
 Repairs severely corrupted PDF files created by any version of Adobe Acrobat tool.
 Execute splitting of large PDF files.
 Facilitates merging of PDF files.
-Works smoothly under all major version of Windows comprising of Windows 98, ME, 2000, 2003, XP, Vista, 7, 8 and Windows 10.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300726064&affiliateid=200057808)
+Works smoothly under all major version of Windows comprising of Windows 98, ME, 2000, 2003, XP, Vista, 7, 8 and Windows 10.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300726064&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Aidfile recovery software<br />Aidfile Recovery software is a powerful data recovery tool for recovering files from deleted/formatted/repartition/missing drives/partition table damaged etc. It supports FAT32/NTFS file systems.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300426658&affiliateid=200057808)
+# Aidfile recovery software
+Aidfile Recovery software is a powerful data recovery tool for recovering files from deleted/formatted/repartition/missing drives/partition table damaged etc. It supports FAT32/NTFS file systems.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300426658&affiliateid=200057808)

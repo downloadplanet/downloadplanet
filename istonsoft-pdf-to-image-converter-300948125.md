@@ -1,4 +1,6 @@
-# iStonsoft PDF to Image Converter<br />![iStonsoft PDF to Image Converter](https://mycommerce.akamaized.net/api/pimages/P300948125/BIG/300948125.JPG)<br />iStonsoft PDF to Image Converter is an advanced and professionally competent application to convert any PDF document into standard image file formats like TIF, TIFF, JPG, JPEG, PNG, GIF etc with minimum consumption of time.
+# iStonsoft PDF to Image Converter
+![iStonsoft PDF to Image Converter](https://mycommerce.akamaized.net/api/pimages/P300948125/BIG/300948125.JPG)
+iStonsoft PDF to Image Converter is an advanced and professionally competent application to convert any PDF document into standard image file formats like TIF, TIFF, JPG, JPEG, PNG, GIF etc with minimum consumption of time.
 
 With super fast PDF to image conversion speed and 1:1 output clear quality, PDF to Image Converter gets more and more popular with PDF users. Just by clicking several buttons and by dragging and dropping, with this helpful assistant, you can do a good job to finish converting PDF to image.
 
@@ -21,4 +23,5 @@ With the advanced encoding/decoding technology, the PDF to Image Converter assur
 * Accurate conversion
 Conversion performed by PDF to Image tool accurately transfers the contents of initial PDF document to an image file or files. The program supports any PDF format version and doesn't require any additional software or libraries to perform conversion. Output images can be viewed on any device even without Adobe Acrobat Reader installed, including tablet PCs.
 
-Forget complex PDF conversion tutorials. Our 3-steps PDF to Image conversion process works even with multiple PDFs and delivers extreme conversion quality. PDF to Image Converter is designed to work under any Windows system and is free to try!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948125&affiliateid=200057808)
+Forget complex PDF conversion tutorials. Our 3-steps PDF to Image conversion process works even with multiple PDFs and delivers extreme conversion quality. PDF to Image Converter is designed to work under any Windows system and is free to try!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948125&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Wondershare TunesGo (Mac) - iOS & Android Devices<br />![Wondershare TunesGo (Mac) - iOS & Android Devices](https://mycommerce.akamaized.net/api/pimages/P300947682/BIG/300947682.PNG)<br />Wondershare TunesGo(Mac) is a professional iPhone/iPod/iPad manager for Mac. It not only does what iTunes can do: transfer music, videos and photos to iPhone/iPod/iPad, but also does what iTunes can?t do: let you copy iPhone/ iPod/ iPad music to your iTunes Library or back up videos, photos, voice memos, Podcast and more on iPhone, iPod touch &iPad to your Mac. Now, you?ll no longer worry about issues when managing your songs, photos, and video.
+# Wondershare TunesGo (Mac) - iOS & Android Devices
+![Wondershare TunesGo (Mac) - iOS & Android Devices](https://mycommerce.akamaized.net/api/pimages/P300947682/BIG/300947682.PNG)
+Wondershare TunesGo(Mac) is a professional iPhone/iPod/iPad manager for Mac. It not only does what iTunes can do: transfer music, videos and photos to iPhone/iPod/iPad, but also does what iTunes can?t do: let you copy iPhone/ iPod/ iPad music to your iTunes Library or back up videos, photos, voice memos, Podcast and more on iPhone, iPod touch &iPad to your Mac. Now, you?ll no longer worry about issues when managing your songs, photos, and video.
 
 Key features of Wondershare TunesGo(Mac)
 
@@ -17,4 +19,5 @@ Convert videos in AVI, FLV, MPG,3GP, 3G2, 3GPP, TS, TP, TRP, M2TS, MTS, MKV, DV,
 Fully Manage Music, Videos, and Photos on iPhone, iPod & iPad
 Transfer music on iPhone, iPod touch, and iPad directly to your iTunes Library.
 Transfer music, videos, photos, and albums to your Mac for backup.
-Create new playlists on iPhone, iPod touch, and iPad music with drag-n-drop.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947682&affiliateid=200057808)
+Create new playlists on iPhone, iPod touch, and iPad music with drag-n-drop.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947682&affiliateid=200057808)

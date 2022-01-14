@@ -1,1 +1,3 @@
-# Stammbaum-Drucker<br />Create and print your family tree. You can enter the names the birth- and deathdays and the parents of all persons. Additionally you can save a picture and a resume for every person. Then you can arrange the persons in a tree structure. Finally you can print it out.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060482&affiliateid=200057808)
+# Stammbaum-Drucker
+Create and print your family tree. You can enter the names the birth- and deathdays and the parents of all persons. Additionally you can save a picture and a resume for every person. Then you can arrange the persons in a tree structure. Finally you can print it out.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060482&affiliateid=200057808)

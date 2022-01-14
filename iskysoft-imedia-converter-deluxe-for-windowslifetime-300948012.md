@@ -1,4 +1,6 @@
-# iSkysoft iMedia Converter Deluxe for Windows(Lifetime)<br />![iSkysoft iMedia Converter Deluxe for Windows(Lifetime)](https://mycommerce.akamaized.net/api/pimages/P300948012/BIG/300948012.PNG)<br />Why Choose iSkysoft Video Converter Ultimate
+# iSkysoft iMedia Converter Deluxe for Windows(Lifetime)
+![iSkysoft iMedia Converter Deluxe for Windows(Lifetime)](https://mycommerce.akamaized.net/api/pimages/P300948012/BIG/300948012.PNG)
+Why Choose iSkysoft Video Converter Ultimate
 
 When it comes to burning, converting and downloading video, a multi-purpose software program would be of great help. iSkysoft Video Converter Ultimate, a cool and snazzy software program that works as good as a handy Swiss knife. It is a software program that will aid you in converting videos and DVDs to any format you want and burning them onto DVD disc. There is also facility for downloading video files of different formats from the Internet. Could you ask for more? This program delivers bang for the buck to the people.
 
@@ -18,4 +20,5 @@ With the built-in video editor, you can edit virtually any aspects of your video
 3.Add subtitles to video.
 4.Spruce up video by cropping out unwanted objects.
 5.Adjust video aspect ratio.
-6.Add special effects.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948012&affiliateid=200057808)
+6.Add special effects.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948012&affiliateid=200057808)

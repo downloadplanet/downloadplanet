@@ -1,4 +1,6 @@
-# Password Officer 5.0 Standard<br />![Password Officer 5.0 Standard](https://mycommerce.akamaized.net/api/pimages/P221878/BIG/221878.GIF)<br />Logon anywhere quickly and securely!
+# Password Officer 5.0 Standard
+![Password Officer 5.0 Standard](https://mycommerce.akamaized.net/api/pimages/P221878/BIG/221878.GIF)
+Logon anywhere quickly and securely!
 
 Password Officer offers a professional solution for all your password issues: generating, entering, storing, securing, changing, transporting and accessing. Password Officer addresses each of these issues and makes your life simpler so you can be more productive and secure.
 
@@ -24,4 +26,5 @@ one-click to your favorite password
 complex, yet easy to use stylish interface
 Top security, maximum convenience, greater productivity, saves time every day - that's the new Password Officer.
 More product info at www.PasswordOfficer.com
- Version Standard is able to work with up to 40 passwords and logon sequences and does not support smart cards. If you want the unlimited solution, choose the version DeLuxe.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=221878&affiliateid=200057808)
+ Version Standard is able to work with up to 40 passwords and logon sequences and does not support smart cards. If you want the unlimited solution, choose the version DeLuxe.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=221878&affiliateid=200057808)

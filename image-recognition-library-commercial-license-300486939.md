@@ -1,4 +1,6 @@
-# Image Recognition Library Commercial License<br />![Image Recognition Library Commercial License](https://mycommerce.akamaized.net/api/pimages/P300486939/BIG/300486939.PNG)<br />Image Recognition Library is a component (.dll) for use in Win32 (2K/XP/Vista/7) and Win64 software.
+# Image Recognition Library Commercial License
+![Image Recognition Library Commercial License](https://mycommerce.akamaized.net/api/pimages/P300486939/BIG/300486939.PNG)
+Image Recognition Library is a component (.dll) for use in Win32 (2K/XP/Vista/7) and Win64 software.
 Makes it easy to add image recognition functionality to your application.
 
 Features:
@@ -10,4 +12,5 @@ Full unicode support
 
 Requirements: any dev. environment that supports the stdcall calling convention.
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300486939&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300486939&affiliateid=200057808)

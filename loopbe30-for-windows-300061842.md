@@ -1,4 +1,6 @@
-# LoopBe30 for Windows<br />![LoopBe30 for Windows](https://mycommerce.akamaized.net/api/pimages/P300061842/BIG/300061842.GIF)<br />LoopBe30
+# LoopBe30 for Windows
+![LoopBe30 for Windows](https://mycommerce.akamaized.net/api/pimages/P300061842/BIG/300061842.GIF)
+LoopBe30
 A virtual MIDI device for transferring MIDI data between applications.
 Basically LoopBe30 provides 30 independent "invisible cables" to connect MIDI outports of applications to any other application's MIDI inport.
 You may connect up to 8 applications to every single inport and up to 8 application to every single outport, all sending and receiving at the same time. Every port provides the full 16 MIDI channels.
@@ -14,4 +16,5 @@ With the shortcut detection switched off you can send more MIDI data than would 
 Simple Installation and Uninstallation.
 Double-click the LoopBe30 installer and you are ready to use it. That's all.
 Starting the uninstaller will completely remove LoopBe30 from your system.
-Free Evaluation Copy<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300061842&affiliateid=200057808)
+Free Evaluation Copy
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300061842&affiliateid=200057808)

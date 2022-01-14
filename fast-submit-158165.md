@@ -1,1 +1,3 @@
-# Fast Submit<br />The simplest and fastest way to submit your shareware products. Automatic, halfautomatic and manual filling of the forms, multithread mode of operations, 100 % support with the standard PAD XML, opportunity updating of a database of "known" sites, opportunity of creation of the description of "unknow" sites and much more!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=158165&affiliateid=200057808)
+# Fast Submit
+The simplest and fastest way to submit your shareware products. Automatic, halfautomatic and manual filling of the forms, multithread mode of operations, 100 % support with the standard PAD XML, opportunity updating of a database of "known" sites, opportunity of creation of the description of "unknow" sites and much more!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=158165&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# TVideoGrabber video SDK 15.1. Royalty free developer license. 2 years of upgrades and support included<br />TVideoGrabber SDK<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300963045&affiliateid=200057808)
+# TVideoGrabber video SDK 15.1. Royalty free developer license. 2 years of upgrades and support included
+TVideoGrabber SDK
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300963045&affiliateid=200057808)

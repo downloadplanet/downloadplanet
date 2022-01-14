@@ -1,1 +1,3 @@
-# PwlTool<br />If, while entering a password, you ask Windows to save it, Windows saves a password in a PWL file. PwlTool helps to obtain information from PWL files when Windows logon password is lost. PwlTool uses brute-force attack (fastest!) or dictionary search to recover a password. Both limited demo and fullspeed versions are available now!.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=101327&affiliateid=200057808)
+# PwlTool
+If, while entering a password, you ask Windows to save it, Windows saves a password in a PWL file. PwlTool helps to obtain information from PWL files when Windows logon password is lost. PwlTool uses brute-force attack (fastest!) or dictionary search to recover a password. Both limited demo and fullspeed versions are available now!.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=101327&affiliateid=200057808)

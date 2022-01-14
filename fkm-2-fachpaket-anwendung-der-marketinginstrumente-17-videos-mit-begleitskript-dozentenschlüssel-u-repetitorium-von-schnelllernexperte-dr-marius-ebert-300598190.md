@@ -1,1 +1,2 @@
-# FKM 2. Fachpaket: Anwendung der Marketing-Instrumente, 17 Videos mit Begleitskript, Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300598190&affiliateid=200057808)
+# FKM 2. Fachpaket: Anwendung der Marketing-Instrumente, 17 Videos mit Begleitskript, Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300598190&affiliateid=200057808)

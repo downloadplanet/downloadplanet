@@ -1,4 +1,6 @@
-# Tansee iOS Photo&Camera Transfer (Windows) 3 years License<br />![Tansee iOS Photo&Camera Transfer (Windows) 3 years License](https://mycommerce.akamaized.net/api/pimages/P300907965/BIG/300907965.PNG)<br />1,Backup iPhone/iPad/iPod:
+# Tansee iOS Photo&Camera Transfer (Windows) 3 years License
+![Tansee iOS Photo&Camera Transfer (Windows) 3 years License](https://mycommerce.akamaized.net/api/pimages/P300907965/BIG/300907965.PNG)
+1,Backup iPhone/iPad/iPod:
 - Photos Library
 - Camera Roll (Photos and Videos taken with iPhone Camera)
 - Photo Stream (iCloud Photos)
@@ -11,4 +13,5 @@
 - All Generations of iPad
 - All Generations of iPod Touch
 
-3,Tansee products can run on all the windows operating systems: Windows 10, Windows 8, Windows 7, Windows Vista, Windows 2000, Windows XP, Windows 2003 and Windows 98<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300907965&affiliateid=200057808)
+3,Tansee products can run on all the windows operating systems: Windows 10, Windows 8, Windows 7, Windows Vista, Windows 2000, Windows XP, Windows 2003 and Windows 98
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300907965&affiliateid=200057808)

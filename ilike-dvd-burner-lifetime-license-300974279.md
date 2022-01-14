@@ -1,1 +1,4 @@
-# iLike DVD Burner Lifetime License<br />![iLike DVD Burner Lifetime License](https://mycommerce.akamaized.net/api/pimages/P300974279/BIG/300974279.PNG)<br />Brun All Audio and Video Files (180+ Formats) to CD/DVD discs Fast, Safe and Easy. Convert data to CD/DVD Disc/ISO File/DVD Folder/Data Disc with Fast Burning Speed and High-Quality Output. Rip DVD to Popular Video Formats.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300974279&affiliateid=200057808)
+# iLike DVD Burner Lifetime License
+![iLike DVD Burner Lifetime License](https://mycommerce.akamaized.net/api/pimages/P300974279/BIG/300974279.PNG)
+Brun All Audio and Video Files (180+ Formats) to CD/DVD discs Fast, Safe and Easy. Convert data to CD/DVD Disc/ISO File/DVD Folder/Data Disc with Fast Burning Speed and High-Quality Output. Rip DVD to Popular Video Formats.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300974279&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# iSkysoft DVD Creator for Mac<br />![iSkysoft DVD Creator for Mac](https://mycommerce.akamaized.net/api/pimages/P300948011/BIG/300948011.PNG)<br />iSkysoft DVD Creator for Mac lets you burn downloaded movies, self-made videos, and slideshows into DVD disc, DVD Folder, ISO or dvdmedia file that can be played with Apple DVD Player directly. Apart from making DVDs, iSkysoft DVD Creator for Mac offers powerful editing functions, slideshow building techniques, and lots of gorgeous animated DVD menu templates for you to create a stylish DVD.
+# iSkysoft DVD Creator for Mac
+![iSkysoft DVD Creator for Mac](https://mycommerce.akamaized.net/api/pimages/P300948011/BIG/300948011.PNG)
+iSkysoft DVD Creator for Mac lets you burn downloaded movies, self-made videos, and slideshows into DVD disc, DVD Folder, ISO or dvdmedia file that can be played with Apple DVD Player directly. Apart from making DVDs, iSkysoft DVD Creator for Mac offers powerful editing functions, slideshow building techniques, and lots of gorgeous animated DVD menu templates for you to create a stylish DVD.
 
 Create a DVD with Videos and Photos
 
@@ -31,4 +33,5 @@ Offers useful editing functions let you crop black borders or unwanted parts; tr
 Easy to Use
 
 Easy-to-use interface and self-explanatory options, drag-and-drop functionality makes DVD creation with this DVD Creator for Mac a snap.
-Quickly search videos and photos with thumbnails, drag, drop and burn. DVD burning on Mac can't be easier and faster, just a few clicks away.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948011&affiliateid=200057808)
+Quickly search videos and photos with thumbnails, drag, drop and burn. DVD burning on Mac can't be easier and faster, just a few clicks away.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948011&affiliateid=200057808)

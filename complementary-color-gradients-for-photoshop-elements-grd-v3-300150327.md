@@ -1,4 +1,5 @@
-# Complementary Color Gradients for Photoshop & Elements (GRD) V3<br />www.graphicxtras.com -- Complementary Color Gradients Photoshop & Elements GRD V3
+# Complementary Color Gradients for Photoshop & Elements (GRD) V3
+www.graphicxtras.com -- Complementary Color Gradients Photoshop & Elements GRD V3
 
 1400 Stunning colorful gradients for Adobe (R) Photoshop (R) + Adobe (R) Photoshop (R) Elements
 Many different colorful gradients, complementary gradients, unusual gradients, mixed gradients, random gradients and many more gradients for Adobe (R) Photoshop (R) + Photoshop Elements
@@ -17,4 +18,5 @@ MENU:
 
 Please mail me with any questions
 Info on the gradients via http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300150327&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300150327&affiliateid=200057808)

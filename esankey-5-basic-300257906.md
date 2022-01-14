@@ -1,4 +1,6 @@
-# e!Sankey 5 basic<br />![e!Sankey 5 basic](https://mycommerce.akamaized.net/api/pimages/P300257906/BIG/300257906.PNG)<br />e!Sankey - a software tool to easily create Sankey diagrams.
+# e!Sankey 5 basic
+![e!Sankey 5 basic](https://mycommerce.akamaized.net/api/pimages/P300257906/BIG/300257906.PNG)
+e!Sankey - a software tool to easily create Sankey diagrams.
 
 Sankey diagrams are a useful way of visualizing material flows, energy or costs.
 
@@ -8,4 +10,5 @@ Numerous display and scaling options help you get the best Sankey diagram for yo
 
 Version 5 offers numerous features for making your Sankey diagram look nicer.
 
-Available with user interface in English, German, French, Spanish, Portuguese Chinese (simplified).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300257906&affiliateid=200057808)
+Available with user interface in English, German, French, Spanish, Portuguese Chinese (simplified).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300257906&affiliateid=200057808)

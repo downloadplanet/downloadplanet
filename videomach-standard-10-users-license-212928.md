@@ -1,1 +1,3 @@
-# VideoMach Standard - 10 Users License<br />Convert images to video, movies to other formats, add music to animations, decompile movies to images, extract music from videos, create web videos (OGV). Resize, crop, rotate, speed up, slow down and apply numerous effects to videos and images. Visit VideoMach.com for more details.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=212928&affiliateid=200057808)
+# VideoMach Standard - 10 Users License
+Convert images to video, movies to other formats, add music to animations, decompile movies to images, extract music from videos, create web videos (OGV). Resize, crop, rotate, speed up, slow down and apply numerous effects to videos and images. Visit VideoMach.com for more details.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=212928&affiliateid=200057808)

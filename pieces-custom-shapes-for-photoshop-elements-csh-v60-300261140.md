@@ -1,3 +1,5 @@
-# Pieces Custom shapes for Photoshop & Elements (CSH) V60<br />www.graphicxtras.com -- Pieces Custom shapes V60 Photoshop & Elements CSH PC & MAC
+# Pieces Custom shapes for Photoshop & Elements (CSH) V60
+www.graphicxtras.com -- Pieces Custom shapes V60 Photoshop & Elements CSH PC & MAC
 
-150 Pieces (abstract, linear, weird, icon, pictograph) Custom shapes Photoshop and Photoshop Elements, royalty-free. PC + MAC OS X. Easy to use vector designs, great toolkit for Adobe (R) Photoshop (R) + Photoshop elements. More info about the products - please visit graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300261140&affiliateid=200057808)
+150 Pieces (abstract, linear, weird, icon, pictograph) Custom shapes Photoshop and Photoshop Elements, royalty-free. PC + MAC OS X. Easy to use vector designs, great toolkit for Adobe (R) Photoshop (R) + Photoshop elements. More info about the products - please visit graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300261140&affiliateid=200057808)

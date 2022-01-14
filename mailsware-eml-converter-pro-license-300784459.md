@@ -1,1 +1,3 @@
-# Mailsware EML Converter - Pro License<br />Convert EML & EMLX Messages to Various File Types<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300784459&affiliateid=200057808)
+# Mailsware EML Converter - Pro License
+Convert EML & EMLX Messages to Various File Types
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300784459&affiliateid=200057808)

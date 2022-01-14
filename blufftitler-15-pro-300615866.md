@@ -1,1 +1,2 @@
-# BluffTitler 15 PRO<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300615866&affiliateid=200057808)
+# BluffTitler 15 PRO
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300615866&affiliateid=200057808)

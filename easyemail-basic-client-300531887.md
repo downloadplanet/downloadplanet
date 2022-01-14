@@ -1,4 +1,5 @@
-# EasyEmail Basic Client<br />EasyEmail Basic Client
+# EasyEmail Basic Client
+EasyEmail Basic Client
 
 Basic version of UtilStudio EasyEmail contains basic functionality of email client with side bar notifier. Notify you about incoming emails from unlimited number of buddies. Reading and write email messages is allowed. No filtering of buddies and emails and no block list is allowed.
 
@@ -25,4 +26,5 @@ And have an attachments viewer allows to preview, open, save or print email atta
 
 Very simple installation and autoupdate.
 
-Please check UtilStudio web site for new updates.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300531887&affiliateid=200057808)
+Please check UtilStudio web site for new updates.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300531887&affiliateid=200057808)

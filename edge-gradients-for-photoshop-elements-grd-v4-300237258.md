@@ -1,4 +1,5 @@
-# Edge Gradients for Photoshop & Elements (GRD) V4<br />www.graphicxtras.com -- Edge Gradients Photoshop & Elements GRD V4
+# Edge Gradients for Photoshop & Elements (GRD) V4
+www.graphicxtras.com -- Edge Gradients Photoshop & Elements GRD V4
 
 400 Stunning colorful gradients for Adobe (R) Photoshop (R) + Adobe (R) Photoshop (R) Elements
 Many different colorful gradients, all edged designs where the edge is 100% transparent (allowing for multiple gradients to be applied creating bubbled or button designs in seconds) and many more gradients for Adobe (R) Photoshop (R) + Adobe (R) Photoshop (R) Elements
@@ -16,4 +17,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 MENU:
 Please mail me with any questions
 Info on the gradients via http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300237258&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300237258&affiliateid=200057808)

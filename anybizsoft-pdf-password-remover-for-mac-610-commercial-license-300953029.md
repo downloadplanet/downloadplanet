@@ -1,4 +1,6 @@
-# AnyBizSoft PDF Password Remover for Mac - 6-10 Commercial License<br />![AnyBizSoft PDF Password Remover for Mac - 6-10 Commercial License](https://mycommerce.akamaized.net/api/pimages/P300953029/BIG/300953029.PNG)<br />AnyBizSoft PDF Password Remover for Mac is a small yet powerful PDF decryption tool on Mac OS X. It enables Mac users to remove copying and printing restrictions from encrypted PDF files. It's quick and easy-to-use. Batch decryption is supported.
+# AnyBizSoft PDF Password Remover for Mac - 6-10 Commercial License
+![AnyBizSoft PDF Password Remover for Mac - 6-10 Commercial License](https://mycommerce.akamaized.net/api/pimages/P300953029/BIG/300953029.PNG)
+AnyBizSoft PDF Password Remover for Mac is a small yet powerful PDF decryption tool on Mac OS X. It enables Mac users to remove copying and printing restrictions from encrypted PDF files. It's quick and easy-to-use. Batch decryption is supported.
 Remove PDF Password and Restrictions
 If the PDF file is protected by Owner Password: PDF Password Remover for Mac can unlock the PDF automatically and create unlocked PDF copy without entering the password.
 *Owner Password: Password which is used to protect PDF files from editing, copying and printing.
@@ -16,4 +18,5 @@ High Compatibility
 System Requirement
 * Operating System: Mac OS X 10.5 or later
 * CPU: Intel 512MHz
-* Hard Disk: 100M and above<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300953029&affiliateid=200057808)
+* Hard Disk: 100M and above
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300953029&affiliateid=200057808)

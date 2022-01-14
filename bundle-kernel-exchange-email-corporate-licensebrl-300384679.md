@@ -1,1 +1,2 @@
-# Bundle Kernel Exchange Email - Corporate License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384679&affiliateid=200057808)
+# Bundle Kernel Exchange Email - Corporate License[BRL]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384679&affiliateid=200057808)

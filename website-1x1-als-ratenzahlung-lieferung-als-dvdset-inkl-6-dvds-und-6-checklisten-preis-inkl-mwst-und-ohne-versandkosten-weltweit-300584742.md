@@ -1,1 +1,3 @@
-# Website 1x1 als Ratenzahlung: Lieferung als DVD-Set inkl. 6 DVDs und 6 Checklisten. Preis inkl. MwSt und ohne Versandkosten (weltweit)<br />Website 1x1 Professional als Ratenzahlung: Wir erstellen eine Webseite für Sie + inklusive dem Website 1x1 DVD-Set (bestehend aus 6 DVDs, 6 Checklisten, inkl. MwSt, weltweit ohne Versandkosten)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300584742&affiliateid=200057808)
+# Website 1x1 als Ratenzahlung: Lieferung als DVD-Set inkl. 6 DVDs und 6 Checklisten. Preis inkl. MwSt und ohne Versandkosten (weltweit)
+Website 1x1 Professional als Ratenzahlung: Wir erstellen eine Webseite für Sie + inklusive dem Website 1x1 DVD-Set (bestehend aus 6 DVDs, 6 Checklisten, inkl. MwSt, weltweit ohne Versandkosten)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300584742&affiliateid=200057808)

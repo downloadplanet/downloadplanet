@@ -1,3 +1,6 @@
-# Personal Translator Professional 20<br />![Personal Translator Professional 20](https://mycommerce.akamaized.net/api/pimages/P300848292/BIG/300848292.PNG)<br />Secure translations for professional requirements
+# Personal Translator Professional 20
+![Personal Translator Professional 20](https://mycommerce.akamaized.net/api/pimages/P300848292/BIG/300848292.PNG)
+Secure translations for professional requirements
 
-Personal Translator Professional 20 is an indispensable tool for swift and efficient translations. Leading companies worldwide rely on Personal Translator as their preferred translation tool thereby saving much time and money.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300848292&affiliateid=200057808)
+Personal Translator Professional 20 is an indispensable tool for swift and efficient translations. Leading companies worldwide rely on Personal Translator as their preferred translation tool thereby saving much time and money.
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300848292&affiliateid=200057808)

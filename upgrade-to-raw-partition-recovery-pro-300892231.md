@@ -1,1 +1,3 @@
-# Upgrade to RAW Partition Recovery Pro<br />Recover RAW Partition, RAW File System and Recover Data from IDE hard disk, SATA hard disk, SCSI hard disk, FireWire HDD, SSD, USB HDD, External HDD, Hardware RAID, USB flash drive, SD Card, CF Card, MicroSD, SDHC, Memory Card, Memory Stick, Micro Card, Pen Drive, and Other Storage Device.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300892231&affiliateid=200057808)
+# Upgrade to RAW Partition Recovery Pro
+Recover RAW Partition, RAW File System and Recover Data from IDE hard disk, SATA hard disk, SCSI hard disk, FireWire HDD, SSD, USB HDD, External HDD, Hardware RAID, USB flash drive, SD Card, CF Card, MicroSD, SDHC, Memory Card, Memory Stick, Micro Card, Pen Drive, and Other Storage Device.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300892231&affiliateid=200057808)

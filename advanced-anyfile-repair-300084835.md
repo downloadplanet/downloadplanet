@@ -1,1 +1,3 @@
-# Advanced AnyFile Repair<br />Data recovery service for any type of corrupt or damaged files. Our qualified engineers in file analysis center will analyze your corrupt file and provide the best data recovery solution.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300084835&affiliateid=200057808)
+# Advanced AnyFile Repair
+Data recovery service for any type of corrupt or damaged files. Our qualified engineers in file analysis center will analyze your corrupt file and provide the best data recovery solution.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300084835&affiliateid=200057808)

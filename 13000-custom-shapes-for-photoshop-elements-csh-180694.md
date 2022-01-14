@@ -1,4 +1,5 @@
-# 13000 Custom shapes for Photoshop & Elements (CSH)<br />www.graphicxtras.com -- 13000 Custom Shapes for Adobe Photoshop & Elements & Commercial use CSH PC & MAC OSX
+# 13000 Custom shapes for Photoshop & Elements (CSH)
+www.graphicxtras.com -- 13000 Custom Shapes for Adobe Photoshop & Elements & Commercial use CSH PC & MAC OSX
 
 13,000 Custom shapes for Photoshop and elements
 PC and MAC OS X - Windows 8.1, windows 7 Vista XP etc as well as MAC OS X etc
@@ -19,4 +20,5 @@ Export and use in other applications
 Commercial use, all royalty free, no time limits, no credit required, world wide use; use to create 1000s and 1000s of items in your projects such as scrap booking, documents, web pages, leaflets, adverts, packaging, cards, xmas cards, posters, shoes, ceramics, textiles etc
 All the custom shapes are by Andrew Buckle / graphicxtras.com
 Any questions, please contact us on support@graphicxtras.com
-You can find many free samplers on graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180694&affiliateid=200057808)
+You can find many free samplers on graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180694&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Dog Font / EPS Shapes for all apps V116<br />www.graphicxtras.com -- Dog Font PSP & Indesign & CorelDRAW & Pages & Xpress Animals Pets V116
+# Dog Font / EPS Shapes for all apps V116
+www.graphicxtras.com -- Dog Font PSP & Indesign & CorelDRAW & Pages & Xpress Animals Pets V116
 
 100 Dog shapes - many different dog designs included in the set. Font set include true type font and EPS shapes, for PC and MAC Photoshop, corelDRAW, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs. All the dog shapes can be used to create items for sale such as logos, illustrations, adverts, fashions etc. The dog shapes can be combined, blended, modified and much more. On buying the dog shapes / font set you receive the link to the shapes along with documentation and a gallery of all the shapes along with a serial number for updates of the dog font set.
- <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469391&affiliateid=200057808)
+ 
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469391&affiliateid=200057808)

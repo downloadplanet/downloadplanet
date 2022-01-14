@@ -1,1 +1,3 @@
-# BitRecover EML Converter Wizard - Pro License<br />EML messages converter software for Windows to convert .eml files to various files types<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300785388&affiliateid=200057808)
+# BitRecover EML Converter Wizard - Pro License
+EML messages converter software for Windows to convert .eml files to various files types
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300785388&affiliateid=200057808)

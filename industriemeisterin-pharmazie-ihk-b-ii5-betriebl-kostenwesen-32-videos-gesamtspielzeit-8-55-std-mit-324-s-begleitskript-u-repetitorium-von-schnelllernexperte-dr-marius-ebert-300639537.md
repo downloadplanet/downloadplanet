@@ -1,1 +1,2 @@
-# Industriemeister/in Pharmazie (IHK), B II.5. Betriebl. Kostenwesen, 32 Videos, Gesamtspielzeit 8 : 55 Std. mit 324 S. Begleitskript u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300639537&affiliateid=200057808)
+# Industriemeister/in Pharmazie (IHK), B II.5. Betriebl. Kostenwesen, 32 Videos, Gesamtspielzeit 8 : 55 Std. mit 324 S. Begleitskript u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300639537&affiliateid=200057808)

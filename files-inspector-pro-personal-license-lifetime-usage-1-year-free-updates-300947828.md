@@ -1,1 +1,3 @@
-# Files Inspector Pro - Personal License (Lifetime Usage + 1 Year Free Updates)<br />Files Inspector Pro is a utility for manual computer space cleanup. It allows you to analyze the space occupied by user data and delete unnecessary files and applications. It also has the function of compressing photos without losing quality.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947828&affiliateid=200057808)
+# Files Inspector Pro - Personal License (Lifetime Usage + 1 Year Free Updates)
+Files Inspector Pro is a utility for manual computer space cleanup. It allows you to analyze the space occupied by user data and delete unnecessary files and applications. It also has the function of compressing photos without losing quality.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947828&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Border symbols for Illustrator (AI) V28<br />www.graphicxtras.com -- Border Symbols for Adobe Illustrator Creative cloud Shapes Frames V28
+# Border symbols for Illustrator (AI) V28
+www.graphicxtras.com -- Border Symbols for Adobe Illustrator Creative cloud Shapes Frames V28
 
 100 Border symbols for Adobe (R) Illustrator (R) Creative Cloud CC and CS6-10 (Border and frame edge designs, overlay frames and many more symbols)
 
@@ -16,4 +17,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236403&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236403&affiliateid=200057808)

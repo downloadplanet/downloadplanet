@@ -1,4 +1,5 @@
-# Beratungspaket Controlling im Betrieb einführen - Erfolgskennzahlensystem 2014-2017 Hotel mit Restaurantbetrieb 1 Tag Beratung in 2014<br />Folgende Themen beinhaltet der Beratungstag:
+# Beratungspaket Controlling im Betrieb einführen - Erfolgskennzahlensystem 2014-2017 Hotel mit Restaurantbetrieb 1 Tag Beratung in 2014
+Folgende Themen beinhaltet der Beratungstag:
 
 Grundlagen des Controlling- und Erfolgskennzahlensystem im F&B
 Berechnung der Kennzahlenvorgabe laut Zielvorgaben des Unternehmens (Erfolgs-Budget)
@@ -48,4 +49,5 @@ inklusive Fahrtkosten (nur in Deutschland), zzgl. F&B und Übernachtung am Schul
 • Pivotauswertung für jede Kennzahl
 • Konzept Erfolgskennzahlensystem im F&B ca. 65 Seiten als PDF Datei
 • Kurzbeschreibung für das System ca. 5 Seiten
-• Videoanleitung für das Excelprogramm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585732&affiliateid=200057808)
+• Videoanleitung für das Excelprogramm
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585732&affiliateid=200057808)

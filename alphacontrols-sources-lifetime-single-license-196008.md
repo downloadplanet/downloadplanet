@@ -1,4 +1,5 @@
-# AlphaControls sources lifetime single license<br />A package of standard and unique components for professional UI design development using AlphaSkins. AlphaControls is an easy-to-use universal and powerful tool for developing original skinned and non-skinned business/media applications. We have also added some properties and components, which make AlphaControls (and the applications that use them) unique.
+# AlphaControls sources lifetime single license
+A package of standard and unique components for professional UI design development using AlphaSkins. AlphaControls is an easy-to-use universal and powerful tool for developing original skinned and non-skinned business/media applications. We have also added some properties and components, which make AlphaControls (and the applications that use them) unique.
 Professional looking applications!
 Over 80 skinable controls and invisible components + skinable standard Delphi controls and a lot of 3rd-party controls
 All elements of controls are drawn with alpha-channel using (control may be alpha-blended, can have realistic borders, shadows or other fine and unique effects)
@@ -23,4 +24,5 @@ No DLLs or any additional files are required for Exe deploying
 Changing of HUE and saturation for current skin in run-time
 Full standard windows help file describing all properties, events and methods of the component and related objects
 Possibility of the skins embedding in the single Exe-file by few mouse clicks
-A lot of additional useful and amazing features and possibilities, the list of them increases constantly<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=196008&affiliateid=200057808)
+A lot of additional useful and amazing features and possibilities, the list of them increases constantly
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=196008&affiliateid=200057808)

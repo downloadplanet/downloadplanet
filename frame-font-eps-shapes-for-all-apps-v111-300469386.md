@@ -1,3 +1,5 @@
-# Frame Font / EPS Shapes for all apps V111<br />www.graphicxtras.com -- Frame Font PSP & Indesign & CorelDRAW & Pages & Xpress V111
+# Frame Font / EPS Shapes for all apps V111
+www.graphicxtras.com -- Frame Font PSP & Indesign & CorelDRAW & Pages & Xpress V111
 
-Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469386&affiliateid=200057808)
+Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469386&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# WebHarvy 3 User License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300668509&affiliateid=200057808)
+# WebHarvy 3 User License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300668509&affiliateid=200057808)

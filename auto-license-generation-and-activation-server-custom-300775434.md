@@ -1,4 +1,6 @@
-# Auto License Generation and Activation Server (Custom)<br />![Auto License Generation and Activation Server (Custom)](https://mycommerce.akamaized.net/api/pimages/P300775434/BIG/300775434.GIF)<br />LICENSE4J Auto License Generation and Activation Server
+# Auto License Generation and Activation Server (Custom)
+![Auto License Generation and Activation Server (Custom)](https://mycommerce.akamaized.net/api/pimages/P300775434/BIG/300775434.GIF)
+LICENSE4J Auto License Generation and Activation Server
 
 License4J Auto License Generation and Activation Server is a web application which handles auto license generation and activation requests.
 
@@ -10,4 +12,5 @@ License4J Runtime Library has autoActivate method which sends activation request
 
 Auto License Generation and Activation Server has six different licensing roles. License generation, auto activation, manual activation, deactivation, online validation, and availability (blacklist) check.
 
-It is a Java web application and runs on a Tomcat container, so it can be run in clustered environments for fault-tolerance. Tomcat and Java embedded installation bundle is available for an easy installation.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300775434&affiliateid=200057808)
+It is a Java web application and runs on a Tomcat container, so it can be run in clustered environments for fault-tolerance. Tomcat and Java embedded installation bundle is available for an easy installation.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300775434&affiliateid=200057808)

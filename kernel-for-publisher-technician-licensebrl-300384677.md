@@ -1,1 +1,2 @@
-# Kernel for Publisher - Technician License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384677&affiliateid=200057808)
+# Kernel for Publisher - Technician License[BRL]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384677&affiliateid=200057808)

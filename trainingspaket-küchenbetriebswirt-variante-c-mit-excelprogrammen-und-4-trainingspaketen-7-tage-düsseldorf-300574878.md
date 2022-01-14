@@ -1,4 +1,5 @@
-# Trainingspaket "Küchenbetriebswirt" Variante C mit Excelprogrammen und 4 Trainingspaketen 7 Tage Düsseldorf<br />Folgende Seminare beinhaltet diese Weiterbildung:
+# Trainingspaket "Küchenbetriebswirt" Variante C mit Excelprogrammen und 4 Trainingspaketen 7 Tage Düsseldorf
+Folgende Seminare beinhaltet diese Weiterbildung:
 
 • "Rationelle Küchenorganisation" - 2 Tage
 • "Betriebswirtschaftliches Handeln in der Küche" - 2 Tage
@@ -18,4 +19,5 @@ Sie erhalten in diesen vier Seminaren folgende Unterlagen:
 • Fotoprotokoll von jedem Seminar
 
 Abschluß:
-Nach erfolgreicher Prüfung erhalten die Teilnehmer das Zertifikat "Küchenbetriebswirt (F&BS)".<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300574878&affiliateid=200057808)
+Nach erfolgreicher Prüfung erhalten die Teilnehmer das Zertifikat "Küchenbetriebswirt (F&BS)".
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300574878&affiliateid=200057808)

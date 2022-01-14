@@ -1,1 +1,3 @@
-# 2TIFF - Site license for one company<br />2TIFF is professional software for converting image files and PDF documents to the TIFF image format. 2TIFF provides full control over the output image size, TIFF file compression ratio and destination folder path from the command line interface.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300652628&affiliateid=200057808)
+# 2TIFF - Site license for one company
+2TIFF is professional software for converting image files and PDF documents to the TIFF image format. 2TIFF provides full control over the output image size, TIFF file compression ratio and destination folder path from the command line interface.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300652628&affiliateid=200057808)

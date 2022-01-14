@@ -1,2 +1,5 @@
-# Category Manager Enterprise (de)<br />![Category Manager Enterprise (de)](https://mycommerce.akamaized.net/api/pimages/P300182267/BIG/300182267.PNG)<br />Synchronize the master category list including colors with the Enterprise version. Additionally all features of the Professional version are available.
-All details | All product versions/licenses | Switch to English version<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300182267&affiliateid=200057808)
+# Category Manager Enterprise (de)
+![Category Manager Enterprise (de)](https://mycommerce.akamaized.net/api/pimages/P300182267/BIG/300182267.PNG)
+Synchronize the master category list including colors with the Enterprise version. Additionally all features of the Professional version are available.
+All details | All product versions/licenses | Switch to English version
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300182267&affiliateid=200057808)

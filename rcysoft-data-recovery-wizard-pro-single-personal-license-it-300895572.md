@@ -1,1 +1,4 @@
-# Rcysoft Data Recovery Wizard Pro - Single Personal License - IT<br />![Rcysoft Data Recovery Wizard Pro - Single Personal License - IT](https://mycommerce.akamaized.net/api/pimages/P300895572/BIG/300895572.PNG)<br />Il principale software di recupero file che recupera completamente tutti i dati persi da computer, laptop, hard disk (inclusi HDD, SSD e USB, pen drive, varie schede di memoria, fotocamere digitali e videocamere).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300895572&affiliateid=200057808)
+# Rcysoft Data Recovery Wizard Pro - Single Personal License - IT
+![Rcysoft Data Recovery Wizard Pro - Single Personal License - IT](https://mycommerce.akamaized.net/api/pimages/P300895572/BIG/300895572.PNG)
+Il principale software di recupero file che recupera completamente tutti i dati persi da computer, laptop, hard disk (inclusi HDD, SSD e USB, pen drive, varie schede di memoria, fotocamere digitali e videocamere).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300895572&affiliateid=200057808)

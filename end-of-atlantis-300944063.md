@@ -1,1 +1,4 @@
-# End Of Atlantis<br />![End Of Atlantis](https://mycommerce.akamaized.net/api/pimages/P300944063/BIG/300944063.GIF)<br />The planet of Atlantis is disintegrating and the only hope of your people surviving is to make it to the distant galaxies. Take control of the rockets or take a risk and space walk for it but be careful as there are monsters, space octopuses and aliens out there. But maybe you'll get lucky and hitch a ride on a friendly UFO.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300944063&affiliateid=200057808)
+# End Of Atlantis
+![End Of Atlantis](https://mycommerce.akamaized.net/api/pimages/P300944063/BIG/300944063.GIF)
+The planet of Atlantis is disintegrating and the only hope of your people surviving is to make it to the distant galaxies. Take control of the rockets or take a risk and space walk for it but be careful as there are monsters, space octopuses and aliens out there. But maybe you'll get lucky and hitch a ride on a friendly UFO.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300944063&affiliateid=200057808)

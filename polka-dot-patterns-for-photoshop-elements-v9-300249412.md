@@ -1,4 +1,6 @@
-# Polka dot Patterns for Photoshop & Elements V9<br />![Polka dot Patterns for Photoshop & Elements V9](https://mycommerce.akamaized.net/api/pimages/P300249412/BIG/300249412.PNG)<br />www.graphicxtras.com -- Polka dot Patterns Photoshop & Elements V9
+# Polka dot Patterns for Photoshop & Elements V9
+![Polka dot Patterns for Photoshop & Elements V9](https://mycommerce.akamaized.net/api/pimages/P300249412/BIG/300249412.PNG)
+www.graphicxtras.com -- Polka dot Patterns Photoshop & Elements V9
 
 100 Polka dot patterns Photoshop and Photoshop Elements + other applications such as Paint Shop Pro (R), PC + MAC OS X. Patterns include many different polka dots, random color polka dots, squares, triangles, stars, hexagons, overlapping shapes and more
 
@@ -18,4 +20,5 @@ Set is download, you are e-mailed the download link
 
 
 Any questions please mail me
-Pattern sets<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300249412&affiliateid=200057808)
+Pattern sets
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300249412&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# GpsTools Pro ActiveX + GpsGate Express for Pocket PC (OEM license)<br />GpsTools Pro ActiveX + GpsGate Express for Pocket PC (OEM license)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300005062&affiliateid=200057808)
+# GpsTools Pro ActiveX + GpsGate Express for Pocket PC (OEM license)
+GpsTools Pro ActiveX + GpsGate Express for Pocket PC (OEM license)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300005062&affiliateid=200057808)

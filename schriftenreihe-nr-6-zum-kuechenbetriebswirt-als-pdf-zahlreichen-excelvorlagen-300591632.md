@@ -1,4 +1,5 @@
-# Schriftenreihe Nr. 6 zum Kuechenbetriebswirt als PDF zahlreichen Excelvorlagen<br />Schriftenreihe Nr. 6 zum Küchenbetriebswirt
+# Schriftenreihe Nr. 6 zum Kuechenbetriebswirt als PDF zahlreichen Excelvorlagen
+Schriftenreihe Nr. 6 zum Küchenbetriebswirt
 - die Schriftenreihe Nr. 6 mit ca. 80 Seiten als PDF Datei mit zahlreichen Excelvorlagen
 
 Hier können Sie sich das Inhaltsverzeichnis der kompletten Schriftenreihe zum Küchenbetriebswirt anschauen!
@@ -26,4 +27,5 @@ Vorwort zur 6.Schriftenreihe
 6. Beschreibung Exceltabelle Erfolgskennzahlen
 7. Checkliste Erfolgskennzahlen einführen
 8. Mein Aktivitätenplan
-9.Lernfragen<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300591632&affiliateid=200057808)
+9.Lernfragen
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300591632&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# SysInfo Encase Data Recovery[Technician License]<br />SysInfoTools EnCase data recovery<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300743159&affiliateid=200057808)
+# SysInfo Encase Data Recovery[Technician License]
+SysInfoTools EnCase data recovery
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300743159&affiliateid=200057808)

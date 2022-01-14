@@ -1,4 +1,5 @@
-# CNC Syntax Editor Enterprise<br />These days, digital technologies are coming into use in almost every area of our life. High precision of machine-controlled operations coupled with extended overall reliability ensure optimum result. Almost everything from photos to financial reports becomes digital.
+# CNC Syntax Editor Enterprise
+These days, digital technologies are coming into use in almost every area of our life. High precision of machine-controlled operations coupled with extended overall reliability ensure optimum result. Almost everything from photos to financial reports becomes digital.
 
 However, some areas of process automation are somewhat neglected. Despite the fact, numeric control devices are an older technology than digital photography, there are not enough quality software solutions allowing NC editing. I bet, you can easily name several all-inclusive photo editing tools, while it is really a problem to find good low-cost CNC editing software. Will the situation ever change?
 
@@ -8,4 +9,5 @@ CNC Syntax Editor can highlight a program syntax: commands, coordinates etc, vis
 
 Another great feature of CNC Syntax Editor is the set of built-in tools. Thanks to set it is possible to mirror you coordinates, shift or scale axes value, switch axes etc.
 
-CNC Syntax Editor comes with flexible licensing options, volume discounts and even a FREE trial version! Thats right! You can try it before actually purchasing CNC Syntax Editor. So go ahead and download FREE trial version now!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300355262&affiliateid=200057808)
+CNC Syntax Editor comes with flexible licensing options, volume discounts and even a FREE trial version! Thats right! You can try it before actually purchasing CNC Syntax Editor. So go ahead and download FREE trial version now!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300355262&affiliateid=200057808)

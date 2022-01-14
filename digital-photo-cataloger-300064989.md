@@ -1,4 +1,7 @@
-# Digital Photo Cataloger<br />![Digital Photo Cataloger](https://mycommerce.akamaized.net/api/pimages/P300064989/BIG/300064989.GIF)<br />Digital Photo Cataloger is a photo catalog program (digital asset manager), that makes it easy to browse and search for any image file, even if it's located on a CD, DVD, an external hard drive, or any other disk media.
+# Digital Photo Cataloger
+![Digital Photo Cataloger](https://mycommerce.akamaized.net/api/pimages/P300064989/BIG/300064989.GIF)
+Digital Photo Cataloger is a photo catalog program (digital asset manager), that makes it easy to browse and search for any image file, even if it's located on a CD, DVD, an external hard drive, or any other disk media.
 To achieve this, you must first create a catalog that contains information and thumbnails of all the images on the cataloged disk.
 Later, instead of individually swapping and searching all your disks, you can locate files on all cataloged disks, in one pass, with a single mouse click. An operation that used to take forever can now be done in a few seconds.
-Digital Photo Cataloger is suitable for both amateurs and professional photographers that would rather spend their time shooting great photos than struggling in front of their computer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300064989&affiliateid=200057808)
+Digital Photo Cataloger is suitable for both amateurs and professional photographers that would rather spend their time shooting great photos than struggling in front of their computer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300064989&affiliateid=200057808)

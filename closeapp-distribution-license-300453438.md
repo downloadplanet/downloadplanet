@@ -1,2 +1,4 @@
-# CloseApp (Distribution License)<br />CloseApp was originally written to automatically close Acrobat after use when printing when scripting from dos .bat files, but CloseApp can used for any windows application or window. Example dos usage: CloseApp acrobat This license allows you to ditribute the software with your software package, by no means can this software be sold seperately.
-All Updates to 1.xx are free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300453438&affiliateid=200057808)
+# CloseApp (Distribution License)
+CloseApp was originally written to automatically close Acrobat after use when printing when scripting from dos .bat files, but CloseApp can used for any windows application or window. Example dos usage: CloseApp acrobat This license allows you to ditribute the software with your software package, by no means can this software be sold seperately.
+All Updates to 1.xx are free of charge.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300453438&affiliateid=200057808)

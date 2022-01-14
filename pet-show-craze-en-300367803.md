@@ -1,4 +1,6 @@
-# Pet Show Craze EN<br />![Pet Show Craze EN](https://mycommerce.akamaized.net/api/pimages/P300367803/BIG/300367803.JPG)<br />You like animals? Then this is your game!
+# Pet Show Craze EN
+![Pet Show Craze EN](https://mycommerce.akamaized.net/api/pimages/P300367803/BIG/300367803.JPG)
+You like animals? Then this is your game!
 
 Run a beauty-salon for animals, and meet their bizarre owners. The animals will need a lot of care and love. In order to keep your client's satisfied you need to always come up with new ideas. As long as you can offer always the „latest“ your customers will return happily!
 
@@ -8,4 +10,5 @@ Three salons
 Seven pets
 Seven additional mini-games
 12 products to sell
-More than 60 upgrades for your salon<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300367803&affiliateid=200057808)
+More than 60 upgrades for your salon
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300367803&affiliateid=200057808)

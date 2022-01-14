@@ -1,1 +1,4 @@
-# Amazing iPod to Computer Transfer<br />![Amazing iPod to Computer Transfer](https://mycommerce.akamaized.net/api/pimages/P300865047/BIG/300865047.PNG)<br />Easy and Free Transformation between iPhone, iPad & iPod and iTunes & Computer Unique Features of iOS Transfer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865047&affiliateid=200057808)
+# Amazing iPod to Computer Transfer
+![Amazing iPod to Computer Transfer](https://mycommerce.akamaized.net/api/pimages/P300865047/BIG/300865047.PNG)
+Easy and Free Transformation between iPhone, iPad & iPod and iTunes & Computer Unique Features of iOS Transfer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865047&affiliateid=200057808)

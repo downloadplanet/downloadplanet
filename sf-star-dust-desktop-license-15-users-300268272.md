@@ -1,1 +1,2 @@
-# SF Star Dust - Desktop License (1-5 Users)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300268272&affiliateid=200057808)
+# SF Star Dust - Desktop License (1-5 Users)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300268272&affiliateid=200057808)

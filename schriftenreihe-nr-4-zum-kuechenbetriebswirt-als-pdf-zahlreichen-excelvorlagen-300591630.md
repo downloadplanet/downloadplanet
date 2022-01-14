@@ -1,4 +1,5 @@
-# Schriftenreihe Nr. 4 zum Kuechenbetriebswirt als PDF zahlreichen Excelvorlagen<br />Schriftenreihe Nr. 4 zum Küchenbetriebswirt
+# Schriftenreihe Nr. 4 zum Kuechenbetriebswirt als PDF zahlreichen Excelvorlagen
+Schriftenreihe Nr. 4 zum Küchenbetriebswirt
 - die Schriftenreihe Nr. 4 mit ca. 80 Seiten als PDF Datei mit zahlreichen Excelvorlagen
 
 Hier können Sie sich das Inhaltsverzeichnis der kompletten Schriftenreihe zum Küchenbetriebswirt anschauen!
@@ -26,4 +27,5 @@ Vorwort zur 4.Schriftenreihe
 7. Convenience-Produkte in der Küche
 8. Food-Index Produktivität
 9. Mein Aktivitätenplan
-10. Lernfragen<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300591630&affiliateid=200057808)
+10. Lernfragen
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300591630&affiliateid=200057808)

@@ -1,3 +1,5 @@
-# Real PDF Writer Site License<br />Real PDF Writer is a quick solution for creating real PDF documents from any Windows program. The PDF files created with Real PDF Writer are really compliant to the Adobe PDF Specification, full-text searchable and totally vector-based.
+# Real PDF Writer Site License
+Real PDF Writer is a quick solution for creating real PDF documents from any Windows program. The PDF files created with Real PDF Writer are really compliant to the Adobe PDF Specification, full-text searchable and totally vector-based.
 Real PDF Writer allows you create and optimize PDF output for its intended use. You can make PDF documents small for Web display or high resolution for printing with this PDF Writer's powerful Compression features. You can also embed fonts, if needed, in the PDF document to ensure correct document display.
-Real PDF Writer makes the creation of PDF documents fairly easy. Just print to a RealPDF printer as you normally print to an inkjet or LaserJet printer, and you will get the PDF file you need.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300170455&affiliateid=200057808)
+Real PDF Writer makes the creation of PDF documents fairly easy. Just print to a RealPDF printer as you normally print to an inkjet or LaserJet printer, and you will get the PDF file you need.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300170455&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Predator soundbank Rob Fabrie<br />Soundbank for Rob Papen Predator by Rob Fabrie.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300423419&affiliateid=200057808)
+# Predator soundbank Rob Fabrie
+Soundbank for Rob Papen Predator by Rob Fabrie.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300423419&affiliateid=200057808)

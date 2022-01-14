@@ -1,1 +1,2 @@
-# TBW Komplett: 223 Videos, 25.434,2 MB, komplette Teilnehmerunterlagen, Dozentenschlüssel, Repetitorien u. Hörbuch (separate Auslieferung) Autor: Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300542765&affiliateid=200057808)
+# TBW Komplett: 223 Videos, 25.434,2 MB, komplette Teilnehmerunterlagen, Dozentenschlüssel, Repetitorien u. Hörbuch (separate Auslieferung) Autor: Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300542765&affiliateid=200057808)

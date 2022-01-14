@@ -1,4 +1,5 @@
-# Andrews Vector Plugins Point Effects for Illustrator CS5 - 10 V19<br />www.graphicxtras.com -- Andrews Vector Plugins Point Effects Illustrator CS 5 4 3 2 1 V19
+# Andrews Vector Plugins Point Effects for Illustrator CS5 - 10 V19
+www.graphicxtras.com -- Andrews Vector Plugins Point Effects Illustrator CS 5 4 3 2 1 V19
 
 Plug-in set containing 4 plug-ins for Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10
 Plugins work on selected paths or single path
@@ -20,4 +21,5 @@ MENU:
 
 For more information about the plug-in set as well as points demos and documentation
 If you wish to contact me about the plug-in set, please e-mail on Please e-mail us on support@graphicxtras.com
-Other plugins - more info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300023440&affiliateid=200057808)
+Other plugins - more info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300023440&affiliateid=200057808)

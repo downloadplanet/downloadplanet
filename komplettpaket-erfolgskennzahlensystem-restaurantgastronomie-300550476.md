@@ -1,4 +1,5 @@
-# Komplettpaket Erfolgskennzahlensystem Restaurant/Gastronomie<br />Folgende Unterlagen und Dateien erhalten Sie:
+# Komplettpaket Erfolgskennzahlensystem Restaurant/Gastronomie
+Folgende Unterlagen und Dateien erhalten Sie:
 
 Erfolgskennzahlensystem im Excelprogramm
 Grundgerüst Auswertung Vergleichskennzahlenmit Diagrammen
@@ -38,4 +39,5 @@ Food Index Produktivität/ Prime Cost
 Personalkosten pro Gast
 Personalkosten pro Arbeitsstunde
 Deckungsbeitrag 2
-Kennzahlen beliebig Erweiterungsfähig auf DB 3, DB4<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300550476&affiliateid=200057808)
+Kennzahlen beliebig Erweiterungsfähig auf DB 3, DB4
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300550476&affiliateid=200057808)

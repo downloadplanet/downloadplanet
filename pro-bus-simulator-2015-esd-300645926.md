@@ -1,1 +1,3 @@
-# Pro Bus Simulator 2015 (ESD)<br />Pro Bus Simulator<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300645926&affiliateid=200057808)
+# Pro Bus Simulator 2015 (ESD)
+Pro Bus Simulator
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300645926&affiliateid=200057808)

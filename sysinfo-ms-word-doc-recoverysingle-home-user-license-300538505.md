@@ -1,1 +1,3 @@
-# SysInfo MS Word DOC Recovery[Single Home User License]<br />Repair your corrupt Doc files with the help of SysInfoTools MS Word Doc Repair tool. This software program is an outstanding solution for repairing the corrupt .doc files and recovering valid data from damaged .doc files of MS Word.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300538505&affiliateid=200057808)
+# SysInfo MS Word DOC Recovery[Single Home User License]
+Repair your corrupt Doc files with the help of SysInfoTools MS Word Doc Repair tool. This software program is an outstanding solution for repairing the corrupt .doc files and recovering valid data from damaged .doc files of MS Word.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300538505&affiliateid=200057808)

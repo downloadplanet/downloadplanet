@@ -1,4 +1,5 @@
-# People Custom shapes for Photoshop & Elements (CSH) V34<br />www.graphicxtras.com -- People Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X CSH & Commercial use V34
+# People Custom shapes for Photoshop & Elements (CSH) V34
+www.graphicxtras.com -- People Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X CSH & Commercial use V34
 
 ** Add shapes set to shareit.com shopping cart (graphicxtras.com)
 Custom shapes for Adobe (R) Photoshop (R) + Adobe (R) Photoshop (R) Elements
@@ -22,4 +23,5 @@ MENU:
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300169835&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300169835&affiliateid=200057808)

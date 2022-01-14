@@ -1,4 +1,6 @@
-# InstrumentLab ( Delphi/C++Builder Edition ) Single License + Source Code<br />![InstrumentLab ( Delphi/C++Builder Edition ) Single License + Source Code](https://mycommerce.akamaized.net/api/pimages/P300311883/BIG/300311883.JPG)<br />InstrumentLab is a set of components, based on OpenWire technology for visual instrumentation.
+# InstrumentLab ( Delphi/C++Builder Edition ) Single License + Source Code
+![InstrumentLab ( Delphi/C++Builder Edition ) Single License + Source Code](https://mycommerce.akamaized.net/api/pimages/P300311883/BIG/300311883.JPG)
+InstrumentLab is a set of components, based on OpenWire technology for visual instrumentation.
 The library is fully multi-threaded safe, and integrates directly with VideoLab, AudioLab, SignalLab, VisionLab, PlotLab, IntelligenceLab, BasicVideo, BasicAudio.
 Also includes Visual Graphical Editor for Codeless Development and Visual Live Bindings.
 Contains:
@@ -24,4 +26,5 @@ VideoLab layering integration - All components can be rendered inside video as a
 VideoLab video display hosting and rendering - The components can contain image display, and use it as internal background. The Matrix can render video by using the ImageDisplay.
 PlotLab integration - All components can be rendered inside a Scope or Waterfall as backgrounds. The Waterfall and Scope can be hosted in InstrumentLab components.
 GDI+ rendered.
-Included counters and time measuring components.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300311883&affiliateid=200057808)
+Included counters and time measuring components.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300311883&affiliateid=200057808)

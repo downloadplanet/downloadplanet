@@ -1,4 +1,5 @@
-# HDD Regenerator<br />30-day money back guarantee
+# HDD Regenerator
+30-day money back guarantee
 Unlimited license period
 Free minor updates
 Large discounts on major upgrades
@@ -23,4 +24,5 @@ Normal scan mode has faster scanning speed
 Automatic process resume in any mode (except CD/DVD)
 Multiple hard drives better support
 Real-time hard drive condition monitor. HDD Regenerator realtime monitor is more poweful and precise than ever in timely prediction of hard drive problems.
-Other enhancements (including temperature indicator, convenient range of sectors selection, bad SMART status indication, overheating indication, etc.)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300913091&affiliateid=200057808)
+Other enhancements (including temperature indicator, convenient range of sectors selection, bad SMART status indication, overheating indication, etc.)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300913091&affiliateid=200057808)

@@ -1,3 +1,6 @@
-# Photos Tagger (Family pack)<br />![Photos Tagger (Family pack)](https://mycommerce.akamaized.net/api/pimages/P300923167/BIG/300923167.PNG)<br />No physical shipment
+# Photos Tagger (Family pack)
+![Photos Tagger (Family pack)](https://mycommerce.akamaized.net/api/pimages/P300923167/BIG/300923167.PNG)
+No physical shipment
 Please note that we do not ship physical products. Our software products can be downloaded easily from our website at any time. If you are already using the software in demo mode, there is no need to download it again.
-You are always welcome to download the latest version of Photos Tagger from here.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300923167&affiliateid=200057808)
+You are always welcome to download the latest version of Photos Tagger from here.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300923167&affiliateid=200057808)

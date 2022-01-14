@@ -1,4 +1,6 @@
-# Plugin Galaxy 3 (for Windows)<br />![Plugin Galaxy 3 (for Windows)](https://mycommerce.akamaized.net/api/pimages/P106651/BIG/106651.JPG)<br />Plugin Galaxy is set of 20 plugins which includes an incredible amount of over 120 basic effect. The product has often needed functions like transparency manipulation, bluring, texture and pattern generation, noise creation, mirroring and warping. It also includes amazing metal, chrome, neon, pop art, glass, rainbow, sunshine and star effects. Additionally you can enhance, colorize, add edges to your photos or even encrypt them. Last but not least, there are some effect that can be rarely found like feedbacks, grids or zooming.
+# Plugin Galaxy 3 (for Windows)
+![Plugin Galaxy 3 (for Windows)](https://mycommerce.akamaized.net/api/pimages/P106651/BIG/106651.JPG)
+Plugin Galaxy is set of 20 plugins which includes an incredible amount of over 120 basic effect. The product has often needed functions like transparency manipulation, bluring, texture and pattern generation, noise creation, mirroring and warping. It also includes amazing metal, chrome, neon, pop art, glass, rainbow, sunshine and star effects. Additionally you can enhance, colorize, add edges to your photos or even encrypt them. Last but not least, there are some effect that can be rarely found like feedbacks, grids or zooming.
 The over 120 basic effects of Plugin Galaxy can be adapted with the help of sliders, check boxes, color dialogs, color pickers and preview coordinates. This way you have access to thousands of potential effects. Additionally there are 4 interface types to match the different effect types.
 Plugin Galaxy works in over 20 different host applications including:
 
@@ -27,4 +29,5 @@ Plugin Galaxy works in over 20 different host applications including:
 * SPG Colorworks:WEB (Version 4 or higher)
 * Ulead PhotoImpact (Version 4 or higher, but only within selections)
 * Ulead PhotoExpress (Version 2 or higher, but only within selections)
-* Ulead Gif Animator (Version 3 or higher)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=106651&affiliateid=200057808)
+* Ulead Gif Animator (Version 3 or higher)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=106651&affiliateid=200057808)

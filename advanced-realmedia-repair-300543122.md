@@ -1,4 +1,5 @@
-# Advanced RealMedia Repair<br />Advanced Zip Repair (AZR) is a powerful tool to repair corrupted Zip and Self Extracting(SFX) files. It can scan the Zip archives and recover your data in them as much as possible, so to minimize the loss in file corruption.
+# Advanced RealMedia Repair
+Advanced Zip Repair (AZR) is a powerful tool to repair corrupted Zip and Self Extracting(SFX) files. It can scan the Zip archives and recover your data in them as much as possible, so to minimize the loss in file corruption.
 
 Main features:
 1. Can fix all sub-types of Zip files and all kinds of self-extracting files.
@@ -11,4 +12,5 @@ Main features:
 8. Provide an EXE stub when necessary.
 9. Integrated with Windows shell, so you can repair a file with context menu in the Explorer easily.
 10. Support drag & drop operation.
-11. Support command line parameters.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300543122&affiliateid=200057808)
+11. Support command line parameters.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300543122&affiliateid=200057808)

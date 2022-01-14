@@ -1,4 +1,5 @@
-# Webinar Controlling im F&B 2. Teil- die praktische Umsetzung am 07.11.2016 von 10:15 Uhr bis 11:15 Uhr<br />Webinar Controlling in der Gastronomie 2. Teil
+# Webinar Controlling im F&B 2. Teil- die praktische Umsetzung am 07.11.2016 von 10:15 Uhr bis 11:15 Uhr
+Webinar Controlling in der Gastronomie 2. Teil
 In diesem 2. Controlling Webinar befassen wir uns mit dem Kennzahlenschema und was machen Sie bei Abweichungen von Kennzahlen. Wir befassen uns mit dem wichtigsten Kennzahlenkreislaufpunkt der Kennzahlenbeurteilung. Sie werden in die Lage versetzt, die richtigen Maßnahmen für eine Verbesserung Ihres Deckungsbeitrag 2 Ergebnisses durchzuführen.
 Themen:
 Kennzahlenschema mit niedrig und hoch Abweichungen
@@ -13,4 +14,5 @@ Grundgerüst Auswertung Vergleichskennzahlen 2013 - 2015 mit Diagrammen
 Konzept Erfolgskennzahlensystem ca. 65 Seiten als PDF Datei
 Die 8 Controllingfehler
 Videoaufzeichnung vom Webinar
-Präsentation als pdf-Datei<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692934&affiliateid=200057808)
+Präsentation als pdf-Datei
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692934&affiliateid=200057808)

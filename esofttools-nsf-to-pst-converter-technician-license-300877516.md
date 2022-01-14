@@ -1,1 +1,3 @@
-# eSoftTools NSF to PST Converter - Technician License<br />eSoftTools Lotus Notes Export Software to easily export notes items to multiple formats.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300877516&affiliateid=200057808)
+# eSoftTools NSF to PST Converter - Technician License
+eSoftTools Lotus Notes Export Software to easily export notes items to multiple formats.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300877516&affiliateid=200057808)

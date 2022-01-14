@@ -1,1 +1,3 @@
-# Vibosoft Data Recovery Master<br />Recover data from deleted, corrupted, formatted portions and crashed drives. Recover from hard disk, card, USB drive, floppy disk or other portable devices Recover more then 550+ files: photos, video, music, emails, documents. etc. Recover file system: NTFS, FAT116, FAT32 and support IDE, SCSI, SATA<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300859740&affiliateid=200057808)
+# Vibosoft Data Recovery Master
+Recover data from deleted, corrupted, formatted portions and crashed drives. Recover from hard disk, card, USB drive, floppy disk or other portable devices Recover more then 550+ files: photos, video, music, emails, documents. etc. Recover file system: NTFS, FAT116, FAT32 and support IDE, SCSI, SATA
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300859740&affiliateid=200057808)

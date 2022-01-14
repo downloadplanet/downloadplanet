@@ -1,8 +1,11 @@
-# DRS 2006 V4 - Sublicense or Upgrade<br />![DRS 2006 V4 - Sublicense or Upgrade](https://mycommerce.akamaized.net/api/pimages/P300576234/BIG/300576234.JPG)<br />DRS 2006 - The radio automation software Version 4 - Sublicense or Upgrade
+# DRS 2006 V4 - Sublicense or Upgrade
+![DRS 2006 V4 - Sublicense or Upgrade](https://mycommerce.akamaized.net/api/pimages/P300576234/BIG/300576234.JPG)
+DRS 2006 - The radio automation software Version 4 - Sublicense or Upgrade
 DRS 2006 was developed by radio people for radio people and became generally accepted world-wide in the less than 3 years as leading the way in radio automation software world-wide. Each year approx 2000 more radio stations join the revolution and take part in the constant improvement and optimization of the system with great enthusiasm.
 
 Which Package should I order?
 • If you do not have any DRS 2006 Package yet, please order a primary license
 • If you already have a primary DRS 2006 V4 license or any previous DRS 2006 Package, you can order a sublicense or upgrade for a special upgrade price
 • Delivery is done through the DRS 2006 Support Center via email within 24 hours
-• If you are a citizen of the EU additional VAT/sales tax may be charged<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300576234&affiliateid=200057808)
+• If you are a citizen of the EU additional VAT/sales tax may be charged
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300576234&affiliateid=200057808)

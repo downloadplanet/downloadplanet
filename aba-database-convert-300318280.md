@@ -1,1 +1,3 @@
-# ABA Database Convert<br />ABA Database Convert allow to save the records from directory into another formats. Supported the most popular table formats including paradox, dBase, FoxPro, Clarion, MS Access, DBISAM, Advantage, ADO/ODBC. All features are available via command-line arguments so you could automate any your tasks<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300318280&affiliateid=200057808)
+# ABA Database Convert
+ABA Database Convert allow to save the records from directory into another formats. Supported the most popular table formats including paradox, dBase, FoxPro, Clarion, MS Access, DBISAM, Advantage, ADO/ODBC. All features are available via command-line arguments so you could automate any your tasks
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300318280&affiliateid=200057808)

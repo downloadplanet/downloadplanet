@@ -1,4 +1,5 @@
-# Protomissume Box Shot Maker Professional (Enterprise License)<br />Protomissume Professional is able to create realistic images of 3D software boxes from your existing logos and promotional materials. Protomissume delivers professional results by supporting the anti-aliasing feature.
+# Protomissume Box Shot Maker Professional (Enterprise License)
+Protomissume Professional is able to create realistic images of 3D software boxes from your existing logos and promotional materials. Protomissume delivers professional results by supporting the anti-aliasing feature.
 
 Features
 Written in .Net 3 and utilizes the strengths of WPF 3D.
@@ -11,4 +12,5 @@ Box Size
 Image Anti-Aliasing
 
 
-The Enterprise License allows the software to be used by multiple users on multiple computers within an organization.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300329222&affiliateid=200057808)
+The Enterprise License allows the software to be used by multiple users on multiple computers within an organization.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300329222&affiliateid=200057808)

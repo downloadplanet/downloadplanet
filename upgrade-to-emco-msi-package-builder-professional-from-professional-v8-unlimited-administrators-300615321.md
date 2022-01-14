@@ -1,1 +1,2 @@
-# Upgrade to EMCO MSI Package Builder Professional from Professional v.8 (Unlimited Administrators)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300615321&affiliateid=200057808)
+# Upgrade to EMCO MSI Package Builder Professional from Professional v.8 (Unlimited Administrators)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300615321&affiliateid=200057808)

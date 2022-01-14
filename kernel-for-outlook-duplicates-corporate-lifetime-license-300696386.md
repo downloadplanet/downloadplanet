@@ -1,1 +1,2 @@
-# Kernel for Outlook Duplicates - Corporate Lifetime License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300696386&affiliateid=200057808)
+# Kernel for Outlook Duplicates - Corporate Lifetime License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300696386&affiliateid=200057808)

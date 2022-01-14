@@ -1,5 +1,8 @@
-# Online Desktop Presenter - Single (1 PC)<br />![Online Desktop Presenter - Single (1 PC)](https://mycommerce.akamaized.net/api/pimages/P300153141/BIG/300153141.JPG)<br />Licenses for more than one PC available:
+# Online Desktop Presenter - Single (1 PC)
+![Online Desktop Presenter - Single (1 PC)](https://mycommerce.akamaized.net/api/pimages/P300153141/BIG/300153141.JPG)
+Licenses for more than one PC available:
 Online Desktop Presenter - Business (10 PCs): License for up to 10 PCs within the same company
 Online Desktop Presenter - Corporate (11+ PCs): License for unlimited number of PCs within the same company
 
-Online Desktop Presenter presents your windows desktop via Internet to any other user without any problems of firewalls nor any other security related installations. Transmit your screen content online via Internet or Intranet for presentations, trainings, sales conversations etc. to one or several remote Internet users.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300153141&affiliateid=200057808)
+Online Desktop Presenter presents your windows desktop via Internet to any other user without any problems of firewalls nor any other security related installations. Transmit your screen content online via Internet or Intranet for presentations, trainings, sales conversations etc. to one or several remote Internet users.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300153141&affiliateid=200057808)

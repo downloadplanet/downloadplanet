@@ -1,1 +1,3 @@
-# Kernel Recovery for Outlook Password - Home User License<br />Kernel Recovery for Outlook Password restores passwords of PST files. The demo version only displays first two characters of the password whereas Full version of the Kernel software recovers the complete password.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136821&affiliateid=200057808)
+# Kernel Recovery for Outlook Password - Home User License
+Kernel Recovery for Outlook Password restores passwords of PST files. The demo version only displays first two characters of the password whereas Full version of the Kernel software recovers the complete password.
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136821&affiliateid=200057808)

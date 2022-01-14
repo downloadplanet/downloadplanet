@@ -1,4 +1,5 @@
-# Easter egg symbols for IllustratorV27<br />www.graphicxtras.com -- Easter egg symbols Illustrator PC & MAC OSX V27
+# Easter egg symbols for IllustratorV27
+www.graphicxtras.com -- Easter egg symbols Illustrator PC & MAC OSX V27
 
 220 symbols for Adobe (R) Illustrator (R) Creative Cloud CC and CS6-10 (Easter eggs designs, many different designs and different wrappings including embellish designs, glow designs, gradient designs, heart designs, star designs, sketch designs and many more)
 
@@ -16,4 +17,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300224766&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300224766&affiliateid=200057808)

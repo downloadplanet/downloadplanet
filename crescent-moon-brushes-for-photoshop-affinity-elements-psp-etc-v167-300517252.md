@@ -1,3 +1,5 @@
-# Crescent / Moon brushes for Photoshop, Affinity, Elements, PSP, etc V167<br />www.graphicxtras.com -- Crescent Brushes for Adobe Photoshop & Elements & PSP Lunar & Moon V167
+# Crescent / Moon brushes for Photoshop, Affinity, Elements, PSP, etc V167
+www.graphicxtras.com -- Crescent Brushes for Adobe Photoshop & Elements & PSP Lunar & Moon V167
 
-100 Crescents brushes for use in Photoshop, Photoshop Elements, PaintShop Pro and many other applications. 300 DPI. The brushes are in ABR PNG EPS format - all for license commercial use (all by graphicxtras - check us out for more info) - Released April 6th 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300517252&affiliateid=200057808)
+100 Crescents brushes for use in Photoshop, Photoshop Elements, PaintShop Pro and many other applications. 300 DPI. The brushes are in ABR PNG EPS format - all for license commercial use (all by graphicxtras - check us out for more info) - Released April 6th 2012
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300517252&affiliateid=200057808)

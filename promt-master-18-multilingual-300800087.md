@@ -1,4 +1,6 @@
-# PROMT Master 18 Multilingual<br />![PROMT Master 18 Multilingual](https://mycommerce.akamaized.net/api/pimages/P300800087/BIG/300800087.PNG)<br />Der ideale Textübersetzer für Privatanwender. Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse und angepassten Übersetzungsprofilen werden sogar komplizierte Satzstrukturen korrekt übersetzt. Schnell und effizient übersetzen Sie Ihre Korrespondenz, Webseiten, Bedienungsanleitungen, markierte Texte und sogar einen Bildschirmbereich in jeder Windows-Anwendung. Es sind bis zu 850.000 Wörter und Wendungen pro Sprachpaar enthalten.
+# PROMT Master 18 Multilingual
+![PROMT Master 18 Multilingual](https://mycommerce.akamaized.net/api/pimages/P300800087/BIG/300800087.PNG)
+Der ideale Textübersetzer für Privatanwender. Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse und angepassten Übersetzungsprofilen werden sogar komplizierte Satzstrukturen korrekt übersetzt. Schnell und effizient übersetzen Sie Ihre Korrespondenz, Webseiten, Bedienungsanleitungen, markierte Texte und sogar einen Bildschirmbereich in jeder Windows-Anwendung. Es sind bis zu 850.000 Wörter und Wendungen pro Sprachpaar enthalten.
 
 Unterstützte Übersetzungsrichtungen:
 Englisch -> Deutsch, Deutsch -> Englisch
@@ -35,4 +37,5 @@ ISBN
 
 Systemvoraussetzungen
 Microsoft Windows® 10, 8, und 7 (32-/64-bit)
-Kann nicht in einer Domänenumgebung eines Unternehmensnetzwerkes verwendet werden.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300800087&affiliateid=200057808)
+Kann nicht in einer Domänenumgebung eines Unternehmensnetzwerkes verwendet werden.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300800087&affiliateid=200057808)

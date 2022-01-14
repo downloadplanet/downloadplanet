@@ -1,1 +1,3 @@
-# Envision Image Library 4 - Site License<br />The Envision Image Library augments Embarcadero's Delphi with powerful imaging capabilities. The library provides image file I/O for popular file formats, printing, scanning, OCR interface, image processing features, and a media player based on VLC, for 32 and 64 bit Windows applications.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870525&affiliateid=200057808)
+# Envision Image Library 4 - Site License
+The Envision Image Library augments Embarcadero's Delphi with powerful imaging capabilities. The library provides image file I/O for popular file formats, printing, scanning, OCR interface, image processing features, and a media player based on VLC, for 32 and 64 bit Windows applications.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870525&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Checkerboard Pattern swatches for Illustrator V4<br />www.graphicxtras.com -- 510 Pattern Swatches for Adobe Illustrator CC 2017 2015 2014 CS6 CS5 etc PC & MAC OS X V4 ---
+# Checkerboard Pattern swatches for Illustrator V4
+www.graphicxtras.com -- 510 Pattern Swatches for Adobe Illustrator CC 2017 2015 2014 CS6 CS5 etc PC & MAC OS X V4 ---
 
 510 Pattern swatches inc. check, checkerboards, diamonds, squares, etc
 For Adobe (R) Illustrator (R) CC 2017 2015 214 CS6 CS5 CS4 CS3 CS2 CS1 10
@@ -19,4 +20,5 @@ Use to create 1000s and 1000s of designs such as t-shirts, books, illustrations,
 Download only
 
 
-Find out more via graphicxtras.com along with youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300144235&affiliateid=200057808)
+Find out more via graphicxtras.com along with youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300144235&affiliateid=200057808)

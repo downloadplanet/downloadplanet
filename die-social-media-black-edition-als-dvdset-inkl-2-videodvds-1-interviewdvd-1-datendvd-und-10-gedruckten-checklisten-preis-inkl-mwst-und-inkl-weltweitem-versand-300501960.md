@@ -1,1 +1,3 @@
-# Die Social Media Black Edition - als DVD-Set inkl. 2 Video-DVDs, 1 Interview-DVD, 1 Daten-DVD und 10 gedruckten Checklisten (Preis inkl. MwSt. und inkl. weltweitem Versand)<br />Die Social Media Black Edition - als DVD-Set inkl. 2 Video-DVDs, 1 Interview-DVD, 1 Daten-DVD und 10 gedruckten Checklisten (Preis inkl. MwSt. und inkl. weltweitem Versand)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300501960&affiliateid=200057808)
+# Die Social Media Black Edition - als DVD-Set inkl. 2 Video-DVDs, 1 Interview-DVD, 1 Daten-DVD und 10 gedruckten Checklisten (Preis inkl. MwSt. und inkl. weltweitem Versand)
+Die Social Media Black Edition - als DVD-Set inkl. 2 Video-DVDs, 1 Interview-DVD, 1 Daten-DVD und 10 gedruckten Checklisten (Preis inkl. MwSt. und inkl. weltweitem Versand)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300501960&affiliateid=200057808)

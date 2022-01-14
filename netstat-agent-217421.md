@@ -1,4 +1,5 @@
-# NetStat Agent<br />NetStat Agent is a powerful TCP/IP troubleshooting tool for diagnosing and monitoring network. It includes:
+# NetStat Agent
+NetStat Agent is a powerful TCP/IP troubleshooting tool for diagnosing and monitoring network. It includes:
 Netstat: displays list of network connections, including the information on open TCP and UDP ports, country for remote IP and connection states. It displays protocol statistics.
 Ping: this tool helps to detect computer's or host's activity.
 Tracer: allows you to know what hops are being used to route a packet of data from your computer to the end point.
@@ -12,4 +13,5 @@ Screen Shot
 
 To find more information about Netstat Agent.
 
-Please, visit our homepage: flexbyte.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=217421&affiliateid=200057808)
+Please, visit our homepage: flexbyte.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=217421&affiliateid=200057808)

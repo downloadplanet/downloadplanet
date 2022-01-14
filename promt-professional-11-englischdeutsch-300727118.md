@@ -1,4 +1,6 @@
-# PROMT Professional 11 Englisch-Deutsch<br />![PROMT Professional 11 Englisch-Deutsch](https://mycommerce.akamaized.net/api/pimages/P300727118/BIG/300727118.PNG)<br />Übersetzungssoftware für alle anspruchsvollen Anwender, die viel mit fremdsprachigen Dokumenten zu tun haben. PROMT Professional beschleunigt um bis zu 90 % die Bearbeitung der fremdsprachigen Korrespondenz und unterstützt Sie effizient bei Ihrer Übersetzungsarbeit. Höchste Übersetzungsqualität und der gewaltige Wortschatz von 1.150.000 Wörtern gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt. Mit dem Datei-Übersetzer werden große Mengen von Dateien im Stapelverfahren schnell und effizient übersetzt.
+# PROMT Professional 11 Englisch-Deutsch
+![PROMT Professional 11 Englisch-Deutsch](https://mycommerce.akamaized.net/api/pimages/P300727118/BIG/300727118.PNG)
+Übersetzungssoftware für alle anspruchsvollen Anwender, die viel mit fremdsprachigen Dokumenten zu tun haben. PROMT Professional beschleunigt um bis zu 90 % die Bearbeitung der fremdsprachigen Korrespondenz und unterstützt Sie effizient bei Ihrer Übersetzungsarbeit. Höchste Übersetzungsqualität und der gewaltige Wortschatz von 1.150.000 Wörtern gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt. Mit dem Datei-Übersetzer werden große Mengen von Dateien im Stapelverfahren schnell und effizient übersetzt.
 
 HIGHLIGHTS UND FUNKTIONEN IM ÜBERBLICK
 Ein Offline-Übersetzer Mehr Sicherheit für Ihre Privatsphäre: alle Übersetzungen erfolgen lokal auf Ihrem PC. Keine Internetverbindung erforderlich.
@@ -13,4 +15,5 @@ Nachschlagewörterbuch als zusätzliche Anwendung um jederzeit unbekannte Wörte
 Verschiedene Sprachvarianten: britisches oder amerikanisches Englisch, Hochdeutsch oder Schweizerdeutsch.
 PROMT Backup speichert alle benutzerdefinierten Einstellungen wie die Themenvorlagen, Übersetzungsalgorithmen, Benutzerwörterbücher und Datenbanken in einem Archiv.
 Automatische Übersetzung von E-Mails in MS Outlook 2007/2010/2013/2016 (32 Bit).
-Automatische Stapelübersetzung mehrerer Dateien nacheinander.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300727118&affiliateid=200057808)
+Automatische Stapelübersetzung mehrerer Dateien nacheinander.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300727118&affiliateid=200057808)

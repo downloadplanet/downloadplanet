@@ -1,4 +1,6 @@
-# Debt Manager Professional - 5 User Pack<br />![Debt Manager Professional - 5 User Pack](https://mycommerce.akamaized.net/api/pimages/P193643/BIG/193643.JPG)<br />Debt Manager Professional gives you the most powerful tool set available for developing rapid debt repayment plans. Only Debt Manager Professional combines ease of use, the flexibility of unlimited payoff scenarios, and custom crafted reports that are sure to make a lasting impression.
+# Debt Manager Professional - 5 User Pack
+![Debt Manager Professional - 5 User Pack](https://mycommerce.akamaized.net/api/pimages/P193643/BIG/193643.JPG)
+Debt Manager Professional gives you the most powerful tool set available for developing rapid debt repayment plans. Only Debt Manager Professional combines ease of use, the flexibility of unlimited payoff scenarios, and custom crafted reports that are sure to make a lasting impression.
   The Personal Financial Profile combines debt management with wealth building on the same page. This drives home a powerful message to your client.
   Features:
 Store client's information
@@ -11,4 +13,5 @@ Custom background color shading
 Custom graph colors
 Report Builder to customize printed reports
   System Requirements: Microsoft Windows 7/8/10
- <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=193643&affiliateid=200057808)
+ 
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=193643&affiliateid=200057808)

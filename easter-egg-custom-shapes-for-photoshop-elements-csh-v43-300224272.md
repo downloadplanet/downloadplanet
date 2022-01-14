@@ -1,4 +1,5 @@
-# Easter egg Custom shapes for Photoshop & Elements (CSH) V43<br />www.graphicxtras.com -- Easter egg Custom Shapes for Adobe Photoshop & Elements CSH V43
+# Easter egg Custom shapes for Photoshop & Elements (CSH) V43
+www.graphicxtras.com -- Easter egg Custom Shapes for Adobe Photoshop & Elements CSH V43
 
 100 Easter eggs custom shapes (Many different designs such as embellish shapes, heart shapes, star shapes, dot shapes covering the Easter eggs) for use in Photoshop and Photoshop Elements, all the shapes are royalty-free for use in commercial as well as hobby projects. Many different designs of custom shapes are included, as well as gallery and documentation and serial number. The shapes are a superb toolkit for Adobe (R) Photoshop (R), use as vector layers, paths and selections, or as a fill design. Use the shapes in many different designs such as fashions, leaflets, books, CDs, illustrations, stamps, scrap booking and others
 
@@ -14,4 +15,5 @@ To purchase the set, please click the add to cart button, this requires cookies 
 
 The custom shapes are part of an ongoing series of custom shapes designs for Adobe (R) Photoshop (R) and Elements. If you have any questions about the shapes pack, please contact me on support account. The other shapes can be found via shape packs on graphicxtras.com Many samplers as well as galleries of the shapes can be found along with example pictures and additional information about the custom shapes. All the shapes are by graphicxtras.com (Andrew Buckle)
 
-Many other shapes and brushes and styles are available on graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300224272&affiliateid=200057808)
+Many other shapes and brushes and styles are available on graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300224272&affiliateid=200057808)

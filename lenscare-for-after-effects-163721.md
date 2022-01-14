@@ -1,1 +1,4 @@
-# Lenscare for After Effects<br />![Lenscare for After Effects](https://mycommerce.akamaized.net/api/pimages/P163721/BIG/163721.GIF)<br />Our Lenscare plugins move depth of field and out of focus generation to post production. Knowing that there is a lack of solutions for real camera blurs we tried to work out our algorithms to come as close to the real thing as possible.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=163721&affiliateid=200057808)
+# Lenscare for After Effects
+![Lenscare for After Effects](https://mycommerce.akamaized.net/api/pimages/P163721/BIG/163721.GIF)
+Our Lenscare plugins move depth of field and out of focus generation to post production. Knowing that there is a lack of solutions for real camera blurs we tried to work out our algorithms to come as close to the real thing as possible.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=163721&affiliateid=200057808)

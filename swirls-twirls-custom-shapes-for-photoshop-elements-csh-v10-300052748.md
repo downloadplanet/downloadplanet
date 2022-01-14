@@ -1,4 +1,5 @@
-# Swirls & Twirls Custom Shapes for Photoshop & Elements (CSH) V10<br />www.graphicxtras.com -- Swirls & Twirls Custom Shapes Photoshop & Elements PC & MAC OS X CSH CC 2017 2015 2014 & CS 6 5 4 3 2 1 V10
+# Swirls & Twirls Custom Shapes for Photoshop & Elements (CSH) V10
+www.graphicxtras.com -- Swirls & Twirls Custom Shapes Photoshop & Elements PC & MAC OS X CSH CC 2017 2015 2014 & CS 6 5 4 3 2 1 V10
 
 Custom shapes for Photoshop and Photoshop Elements
 ** Add shapes set to shareit.com shopping cart (graphicxtras.com)
@@ -21,4 +22,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 
 Any questions about the custom shapes??
 Swirls
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300052748&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300052748&affiliateid=200057808)

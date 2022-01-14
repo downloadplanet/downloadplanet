@@ -1,4 +1,5 @@
-# Brush Stroke Displacements for Photoshop & Elements & PSP (PSD) V3<br />www.graphicxtras.com -- Brush Stroke Displacements Photoshop & Elements & PSP PSD Textures & Distortions V3
+# Brush Stroke Displacements for Photoshop & Elements & PSP (PSD) V3
+www.graphicxtras.com -- Brush Stroke Displacements Photoshop & Elements & PSP PSD Textures & Distortions V3
 
 Displacement maps for Adobe (R) Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 6 + Adobe (R) Photoshop (R) Elements + Corel (R) Paint Shop Pro (R)
 100 Brush strokes mixed displacement maps for Adobe (R) Photoshop (R)
@@ -23,4 +24,5 @@ MENU:
 Any questions, please mail us on support@graphicxtras.com
 on http://www.graphicxtras.com
 
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300151081&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300151081&affiliateid=200057808)

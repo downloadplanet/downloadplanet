@@ -1,4 +1,6 @@
-# MobiKin Eraser for Android - Lifetime, 26-30PCs License<br />![MobiKin Eraser for Android - Lifetime, 26-30PCs License](https://mycommerce.akamaized.net/api/pimages/P300883533/BIG/300883533.PNG)<br />Erase All Files & Histories on Your Android Devices Permanently
+# MobiKin Eraser for Android - Lifetime, 26-30PCs License
+![MobiKin Eraser for Android - Lifetime, 26-30PCs License](https://mycommerce.akamaized.net/api/pimages/P300883533/BIG/300883533.PNG)
+Erase All Files & Histories on Your Android Devices Permanently
 To protect privacy, you are strongly recommended to erase the files and searching histories saved on your Android device before giving away or selling it. To achieve this goal, you can turn to Eraser for Android which can help you erase or wipe all your Android data and history with simple clicks. After the erasure, your device is just like a brand new device and no one can steal any information from it. (The data erased by this tool is 100% unrecoverable so please backup the important files on your Android beforehand.)
 Erase all kinds of data: All the files on your Android phone or tablet will be erased without chance to be recovered, including contacts, text messages, call logs, photos, videos, music, calendars, notes, Apps, books, etc.
 Erase deleted files: Not only the existing files, this program can even scan and overwrite the deleted files on your Android device, which ensures that the erased data won't be recovered.
@@ -16,4 +18,5 @@ High Level: The safest option to wipe the device - it will overwrite the data on
 Supported Files & Devices
 As a professional Android data eraser software, MobiKin Eraser for Android supports to remove different kinds of files on Android devices. Meanwhile, it is compatible with almost all the Android devices.
 Supported Files: Contacts, text messages, call history, photos, music, videos, documents, Google history/search history, Google account, Apps, email address & password, voicemail, cookies, and so on.
-Supported Devices: Almost all popular Android devices on the market are supported, including Samsung, Xiaomi, Huawei, LG, Motorola, HTC, Sony, ZTE, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300883533&affiliateid=200057808)
+Supported Devices: Almost all popular Android devices on the market are supported, including Samsung, Xiaomi, Huawei, LG, Motorola, HTC, Sony, ZTE, etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300883533&affiliateid=200057808)

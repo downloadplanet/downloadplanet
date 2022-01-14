@@ -1,1 +1,4 @@
-# PDF to Word Converter<br />![PDF to Word Converter](https://mycommerce.akamaized.net/api/pimages/P300500162/BIG/300500162.PNG)<br />Our PDF to Word converter will convert your PDF documents to Microsoft Word format. It is simple to use event though it is feature rich.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300500162&affiliateid=200057808)
+# PDF to Word Converter
+![PDF to Word Converter](https://mycommerce.akamaized.net/api/pimages/P300500162/BIG/300500162.PNG)
+Our PDF to Word converter will convert your PDF documents to Microsoft Word format. It is simple to use event though it is feature rich.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300500162&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# DataNumen BKF Repair<br />![DataNumen BKF Repair](https://mycommerce.akamaized.net/api/pimages/P300031012/BIG/300031012.GIF)<br />DataNumen BKF Repair(DBKFR) (formerly Advanced BKF Repair) is a powerful tool to repair corrupt or damaged Microsoft backup(BKF) files. It uses advanced technologies to scan the corrupt or damaged Microsoft backup files and recover your backuped files in them as much as possible, so to minimize the loss in file corruption.
+# DataNumen BKF Repair
+![DataNumen BKF Repair](https://mycommerce.akamaized.net/api/pimages/P300031012/BIG/300031012.GIF)
+DataNumen BKF Repair(DBKFR) (formerly Advanced BKF Repair) is a powerful tool to repair corrupt or damaged Microsoft backup(BKF) files. It uses advanced technologies to scan the corrupt or damaged Microsoft backup files and recover your backuped files in them as much as possible, so to minimize the loss in file corruption.
 Main Features:
 1. Support to repair Microsoft Backup(BKF) files created with Windows 95, 98, ME, NT, 2000, XP and 2003 Server Server backup utilities.
 2. Support to repair BKF files created with Backup Exec by VERITAS Software, under NT, Netware, OS/2 or Macintosh.
@@ -11,4 +13,5 @@ Main Features:
 9. Support to find and select the BKF files to be repaired on the local computer.
 10. Support integration with Windows Explorer, so you can repair a Microsoft Backup file with the context menu of Windows Explorer easily.
 11. Support drag & drop operation.
-12. Support command line parameters.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300031012&affiliateid=200057808)
+12. Support command line parameters.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300031012&affiliateid=200057808)

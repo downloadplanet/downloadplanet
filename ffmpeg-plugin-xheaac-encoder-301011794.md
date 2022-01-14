@@ -1,1 +1,3 @@
-# FFmpeg Plugin - xHE-AAC Encoder<br />The MainConcept xHE-AAC Encoder Plugin for FFmpeg is a simple and convenient way to generate content featuring the new audio industry-standard xHE-AAC as well as the legacy AAC formats, AAC-LC, HE-AAC v1 and HE-AAC v2 within the popular FFmpeg framework.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=301011794&affiliateid=200057808)
+# FFmpeg Plugin - xHE-AAC Encoder
+The MainConcept xHE-AAC Encoder Plugin for FFmpeg is a simple and convenient way to generate content featuring the new audio industry-standard xHE-AAC as well as the legacy AAC formats, AAC-LC, HE-AAC v1 and HE-AAC v2 within the popular FFmpeg framework.
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=301011794&affiliateid=200057808)

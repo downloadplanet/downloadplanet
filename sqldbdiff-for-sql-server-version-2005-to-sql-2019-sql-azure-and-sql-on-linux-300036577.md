@@ -1,4 +1,5 @@
-# SQLDBDiff for SQL Server Version 2005 to SQL 2019, SQL Azure and SQL on Linux<br />SQLDBDiff is a powerful and intuitive tool that allow you to:
+# SQLDBDiff for SQL Server Version 2005 to SQL 2019, SQL Azure and SQL on Linux
+SQLDBDiff is a powerful and intuitive tool that allow you to:
   Ø       Compare the schema and the data of SQL Server databases, the following SQL objects are supported
 Tables and columns (with the possibility to respect or not columns order);
 Views (including their indexes and triggers);
@@ -37,4 +38,5 @@ SQLDBDiffConsole ServerName1 DBName1 User1 Password1 AuthWin1 ServerName2 DBName
 SQLDBDiff Freeware version is completely free without any evaluation period, this is my small contribution to SQL Server community.
 
 By Ordering SQLDBDiff Shareware version , you'll get access to more advanced features, free upcoming updates and technical support by e-mail.
-For more information please visit : http://www.sqldbtools.com web site.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300036577&affiliateid=200057808)
+For more information please visit : http://www.sqldbtools.com web site.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300036577&affiliateid=200057808)

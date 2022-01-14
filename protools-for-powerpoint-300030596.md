@@ -1,3 +1,5 @@
-# ProTools for PowerPoint<br />OfficeOne ProTools for PowerPoint add-in introduces professional features in the PowerPoint environment. These features enable you to quickly create professional looking PowerPoint presentations.
+# ProTools for PowerPoint
+OfficeOne ProTools for PowerPoint add-in introduces professional features in the PowerPoint environment. These features enable you to quickly create professional looking PowerPoint presentations.
 OfficeOne ProTools for PowerPoint introduces its features through a new Tools ribbon tab in PowerPoint.
-OfficeOne ProTools for PowerPoint works with Microsoft PowerPoint 2013, Microsoft PowerPoint 2010 and Microsoft Office PowerPoint 2007.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300030596&affiliateid=200057808)
+OfficeOne ProTools for PowerPoint works with Microsoft PowerPoint 2013, Microsoft PowerPoint 2010 and Microsoft Office PowerPoint 2007.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300030596&affiliateid=200057808)

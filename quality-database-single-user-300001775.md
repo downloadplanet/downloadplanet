@@ -1,4 +1,6 @@
-# Quality DataBase (Single User)<br />![Quality DataBase (Single User)](https://mycommerce.akamaized.net/api/pimages/P300001775/BIG/300001775.PNG)<br />Key Features
+# Quality DataBase (Single User)
+![Quality DataBase (Single User)](https://mycommerce.akamaized.net/api/pimages/P300001775/BIG/300001775.PNG)
+Key Features
 Corrective Actions
 Preventive Actions
 Risk Management
@@ -24,4 +26,5 @@ Tracks customer complaints
 Helps organize and document management review meetings
 A vital tool to ensure ISO9001:2015 compliance
 Paperless system
-Scan and link digital photographs or other electronic documents<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300001775&affiliateid=200057808)
+Scan and link digital photographs or other electronic documents
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300001775&affiliateid=200057808)

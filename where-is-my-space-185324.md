@@ -1,1 +1,3 @@
-# Where Is My Space?!<br />Disk Space Analyzer is an easy to use the program that can help you analyze disk space usage. It shows directory tree along with the size information (including graphical diagrams). You can use Disk Space Analyzer to easily explore and analyze disk space (network disks as well) and search for duplicated files on your disks.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=185324&affiliateid=200057808)
+# Where Is My Space?!
+Disk Space Analyzer is an easy to use the program that can help you analyze disk space usage. It shows directory tree along with the size information (including graphical diagrams). You can use Disk Space Analyzer to easily explore and analyze disk space (network disks as well) and search for duplicated files on your disks.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=185324&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# PROMT Personal 10 Gigant<br />![PROMT Personal 10 Gigant](https://mycommerce.akamaized.net/api/pimages/P300628460/BIG/300628460.PNG)<br />Der ideale Textübersetzer für Zuhause. Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt.
+# PROMT Personal 10 Gigant
+![PROMT Personal 10 Gigant](https://mycommerce.akamaized.net/api/pimages/P300628460/BIG/300628460.PNG)
+Der ideale Textübersetzer für Zuhause. Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt.
 
 Schnell und preiswert übersetzen Sie Ihre Korrespondenz, Bedienungsanleitungen, Windows-Hilfe, Internetseiten und PDF Dokumente. PROMT Personal leistet sowohl im privaten als auch im beruflichen Alltag eine unersetzliche Hilfe. Es sind bis zu 850.000 Wörter und Wendungen pro Sprachpaar enthalten.
 
@@ -37,4 +39,5 @@ Umfangreiches Nachschlagewörterbuch
 Neben der automatischen Textübersetzung enthält PROMT Personal auch ein Wörterbuch als zusätzliche Anwendung um jederzeit unbekannte Wörter nachschlagen zu können. Zu den einzelnen Wörtern erhalten Sie Nachschlageinformationen wie Übersetzungsvarianten und die Wortart.
 
 Systemvoraussetzungen
-Microsoft Windows® 8, 7, Vista™ und XP in den Varianten (32-/64-bit)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300628460&affiliateid=200057808)
+Microsoft Windows® 8, 7, Vista™ und XP in den Varianten (32-/64-bit)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300628460&affiliateid=200057808)

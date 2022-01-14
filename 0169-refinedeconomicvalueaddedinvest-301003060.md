@@ -1,1 +1,3 @@
-# 0169 - Refined-Economic-Value-Added-Invest<br />0169 - Refined-Economic-Value-Added-Invest<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301003060&affiliateid=200057808)
+# 0169 - Refined-Economic-Value-Added-Invest
+0169 - Refined-Economic-Value-Added-Invest
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301003060&affiliateid=200057808)

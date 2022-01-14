@@ -1,1 +1,3 @@
-# Kernel Recovery for Macintosh - Corporate License<br />Kernel Recovery for Macintosh recovers data from the crashed Macintosh drives of eMac, iMac, iBook, and iPod. Deleted data from the formatted, damaged or corrupt volumes and even the initialized disks can be recovered effectively.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136768&affiliateid=200057808)
+# Kernel Recovery for Macintosh - Corporate License
+Kernel Recovery for Macintosh recovers data from the crashed Macintosh drives of eMac, iMac, iBook, and iPod. Deleted data from the formatted, damaged or corrupt volumes and even the initialized disks can be recovered effectively.
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136768&affiliateid=200057808)

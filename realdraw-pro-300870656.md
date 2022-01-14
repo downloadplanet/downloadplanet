@@ -1,3 +1,6 @@
-# Real-Draw PRO<br />![Real-Draw PRO](https://mycommerce.akamaized.net/api/pimages/P300870656/BIG/300870656.JPG)<br />Real-Draw will change the way you think about vector and bitmap graphic with natural paint styles, liquid shapes and other innovations that you had not seen elsewhere.
+# Real-Draw PRO
+![Real-Draw PRO](https://mycommerce.akamaized.net/api/pimages/P300870656/BIG/300870656.JPG)
+Real-Draw will change the way you think about vector and bitmap graphic with natural paint styles, liquid shapes and other innovations that you had not seen elsewhere.
 You can create anything from simple graphics, banners and buttons to complex hand-drawn-like illustrations and interactive web page.. and all editing is always non- destructive and fully editable
-The world’s first Natural Paint Rendering Styles turns the whole drawing into watercolor paint, oils canvas, ink, crayons, pencils, scrap-book and much more with just single click.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870656&affiliateid=200057808)
+The world’s first Natural Paint Rendering Styles turns the whole drawing into watercolor paint, oils canvas, ink, crayons, pencils, scrap-book and much more with just single click.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870656&affiliateid=200057808)

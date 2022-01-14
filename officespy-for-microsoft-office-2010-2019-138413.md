@@ -1,5 +1,8 @@
-# OfficeSpy for Microsoft Office 2010 - 2019<br />![OfficeSpy for Microsoft Office 2010 - 2019](https://mycommerce.akamaized.net/api/pimages/P138413/BIG/138413.PNG)<br />Office Spy is the ultimate Microsoft Office developer tool; integrated directly into all Office applications (Outlook is supported by a separate product - OutlookSpy), it provides fast and convenient access to all Object Model interfaces, lets you examine values of the properties, call functions, browse object hierarchy and monitor live events!
+# OfficeSpy for Microsoft Office 2010 - 2019
+![OfficeSpy for Microsoft Office 2010 - 2019](https://mycommerce.akamaized.net/api/pimages/P138413/BIG/138413.PNG)
+Office Spy is the ultimate Microsoft Office developer tool; integrated directly into all Office applications (Outlook is supported by a separate product - OutlookSpy), it provides fast and convenient access to all Object Model interfaces, lets you examine values of the properties, call functions, browse object hierarchy and monitor live events!
 
 Forget about tutorials: simply select an object in any Office application and click one of the Office Spy Ribbon buttons - whether it is an active cell on an Excel spreadsheet, paragraph in a Word document, presentation in PowerPoint or an object in Publisher, Office Spy will show you everything you want to know about that object and more!
 
-Office Development has never been easier.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=138413&affiliateid=200057808)
+Office Development has never been easier.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=138413&affiliateid=200057808)

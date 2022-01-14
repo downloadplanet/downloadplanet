@@ -1,3 +1,6 @@
-# Live File Backup - Corporate (11+ PCs)<br />![Live File Backup - Corporate (11+ PCs)](https://mycommerce.akamaized.net/api/pimages/P300251017/BIG/300251017.JPG)<br />Corporate License - unlimited number of PCs/Users within the same company.
+# Live File Backup - Corporate (11+ PCs)
+![Live File Backup - Corporate (11+ PCs)](https://mycommerce.akamaized.net/api/pimages/P300251017/BIG/300251017.JPG)
+Corporate License - unlimited number of PCs/Users within the same company.
 
-Live File Backup is the user-friendly real-time/live backup program for your home and business PC! While you are working the software backups continuously your important data to external storage media (locally as well as over the network). If required, the backup software restores your lost or corrupted data including its older versions (generations) as well.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300251017&affiliateid=200057808)
+Live File Backup is the user-friendly real-time/live backup program for your home and business PC! While you are working the software backups continuously your important data to external storage media (locally as well as over the network). If required, the backup software restores your lost or corrupted data including its older versions (generations) as well.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300251017&affiliateid=200057808)

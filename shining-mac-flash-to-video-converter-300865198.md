@@ -1,1 +1,4 @@
-# Shining Mac Flash to Video Converter<br />![Shining Mac Flash to Video Converter](https://mycommerce.akamaized.net/api/pimages/P300865198/BIG/300865198.PNG)<br />Best SWF Converter for Mac software helps you convert Flash (.SWF) file to any video/audio formats compatible with players/editor software for playing/editing on Mac.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865198&affiliateid=200057808)
+# Shining Mac Flash to Video Converter
+![Shining Mac Flash to Video Converter](https://mycommerce.akamaized.net/api/pimages/P300865198/BIG/300865198.PNG)
+Best SWF Converter for Mac software helps you convert Flash (.SWF) file to any video/audio formats compatible with players/editor software for playing/editing on Mac.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865198&affiliateid=200057808)

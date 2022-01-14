@@ -1,4 +1,6 @@
-# My Philately<br />![My Philately](https://mycommerce.akamaized.net/api/pimages/P300376072/BIG/300376072.JPG)<br />"My philately" was created to help philatelists with organizing and managing an electronic catalogue of their collection.
+# My Philately
+![My Philately](https://mycommerce.akamaized.net/api/pimages/P300376072/BIG/300376072.JPG)
+"My philately" was created to help philatelists with organizing and managing an electronic catalogue of their collection.
 
 Basic features of the program:
 Adding information on unlimited amount of collection objects
@@ -15,4 +17,5 @@ Creating reports with the ability to save as MS Excel and MS Word documents
 Importing data from text files and MS Excel files
 Collection archiving
 
-http://www.hobbykeeper.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300376072&affiliateid=200057808)
+http://www.hobbykeeper.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300376072&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# MeshFlatten for Rhino 4 and 5<br />MeshFlatten for Rhino is a plug-in for Rhinoceros 4.0. This plug-in gives Rhino the ability to unroll the selected mesh model. MeshFlatten for Rhino is designed to be extremely user friendly, user just select a mesh and click right-mouse button, the flatten result will be calculated automatically. Command: RsMeshFlatten<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300316296&affiliateid=200057808)
+# MeshFlatten for Rhino 4 and 5
+MeshFlatten for Rhino is a plug-in for Rhinoceros 4.0. This plug-in gives Rhino the ability to unroll the selected mesh model. MeshFlatten for Rhino is designed to be extremely user friendly, user just select a mesh and click right-mouse button, the flatten result will be calculated automatically. Command: RsMeshFlatten
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300316296&affiliateid=200057808)

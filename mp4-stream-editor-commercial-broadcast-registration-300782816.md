@@ -1,4 +1,6 @@
-# MP4 Stream Editor Commercial Broadcast Registration<br />![MP4 Stream Editor Commercial Broadcast Registration](https://mycommerce.akamaized.net/api/pimages/P300782816/BIG/300782816.JPG)<br />MP3 Stream Editor is an all in one tool for your MP3s. Main advantage over other MP3 tools is the ability to visually edit (cut join) MP3 audio without decoding and quality loss on a 3D sample display. Encode, re-encode, convert to WAV/WMA or any other command line encoder, record MP3/WMA/Flac streams, burn AudioCD or MP3 CD/DVD compilations, professional ID3v2 Tag editor, CD ripper with cddb/freedb support.
+# MP4 Stream Editor Commercial Broadcast Registration
+![MP4 Stream Editor Commercial Broadcast Registration](https://mycommerce.akamaized.net/api/pimages/P300782816/BIG/300782816.JPG)
+MP3 Stream Editor is an all in one tool for your MP3s. Main advantage over other MP3 tools is the ability to visually edit (cut join) MP3 audio without decoding and quality loss on a 3D sample display. Encode, re-encode, convert to WAV/WMA or any other command line encoder, record MP3/WMA/Flac streams, burn AudioCD or MP3 CD/DVD compilations, professional ID3v2 Tag editor, CD ripper with cddb/freedb support.
 
 Main features:
 Visually edit (cut join) without decoding and quality loss, MP3 audio files on a 3D sample display with mouse (MPEG1 LayerII, III; MPEG2 LayerII, III; WAV PCM; Ogg Vorbis)
@@ -39,4 +41,5 @@ BASS requires DirectX 3 or above. BASS does not require that a soundcard with Di
 The Windows Media Format modules are also required to be installed on the user's system. They are installed with Windows Media player, so will already be on most users' systems, but they can also be installed separately (WMFDIST.EXE).
 Minimal screen resolution of 1024x768
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300782816&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300782816&affiliateid=200057808)

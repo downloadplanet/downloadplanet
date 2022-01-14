@@ -1,1 +1,3 @@
-# ABA Spreadsheet Convert<br />ABA Spreadsheet Convert allow to save the workbooks from directory into another formats. Supported the most popular workbook formats including MS Excel, Lotus 1-2-3, Quattro Pro, Open Office. All features are available via command-line arguments so you could automate any your tasks<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300318284&affiliateid=200057808)
+# ABA Spreadsheet Convert
+ABA Spreadsheet Convert allow to save the workbooks from directory into another formats. Supported the most popular workbook formats including MS Excel, Lotus 1-2-3, Quattro Pro, Open Office. All features are available via command-line arguments so you could automate any your tasks
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300318284&affiliateid=200057808)

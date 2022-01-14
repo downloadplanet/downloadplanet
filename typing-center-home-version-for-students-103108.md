@@ -1,3 +1,6 @@
-# Typing Center (Home version for Students)<br />![Typing Center (Home version for Students)](https://mycommerce.akamaized.net/api/pimages/P103108/BIG/103108.GIF)<br />Ease of use and quick results make the original Typing Center one of the most successful instructional programs for learning touch typing. Using a variety of practice methods, Typing Center combines learning, enjoyment and gameplay. You have the option of following a series of lessons that gradually introduce new material while building on what you have learned, or testing your ability to correctly copy a text.
+# Typing Center (Home version for Students)
+![Typing Center (Home version for Students)](https://mycommerce.akamaized.net/api/pimages/P103108/BIG/103108.GIF)
+Ease of use and quick results make the original Typing Center one of the most successful instructional programs for learning touch typing. Using a variety of practice methods, Typing Center combines learning, enjoyment and gameplay. You have the option of following a series of lessons that gradually introduce new material while building on what you have learned, or testing your ability to correctly copy a text.
 
-This license allows all students enrolled in a typing course at a given educational institution to install this version at home. It is valid until the end of the school year in August.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=103108&affiliateid=200057808)
+This license allows all students enrolled in a typing course at a given educational institution to install this version at home. It is valid until the end of the school year in August.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=103108&affiliateid=200057808)

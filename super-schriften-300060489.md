@@ -1,1 +1,3 @@
-# Super Schriften<br />Text creation tool that produces graphics for use in presentations and on the Web. You can deform the text and use textures. Use shadow and edge effects to make the text look fantastic! You can also add a border and a background texture. The result can be printed or saved.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060489&affiliateid=200057808)
+# Super Schriften
+Text creation tool that produces graphics for use in presentations and on the Web. You can deform the text and use textures. Use shadow and edge effects to make the text look fantastic! You can also add a border and a background texture. The result can be printed or saved.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060489&affiliateid=200057808)

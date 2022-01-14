@@ -1,4 +1,6 @@
-# SignalLab ( .NET Edition ) Single License + Source Code<br />![SignalLab ( .NET Edition ) Single License + Source Code](https://mycommerce.akamaized.net/api/pimages/P300108845/BIG/300108845.JPG)<br />The SignalLab is a set of components, based on OpenWire technology for fast Digital Signal Processing (DSP), analysis and data visualization.
+# SignalLab ( .NET Edition ) Single License + Source Code
+![SignalLab ( .NET Edition ) Single License + Source Code](https://mycommerce.akamaized.net/api/pimages/P300108845/BIG/300108845.JPG)
+The SignalLab is a set of components, based on OpenWire technology for fast Digital Signal Processing (DSP), analysis and data visualization.
 Allows fast complex signal manipulations with zero lines of program code.
 The library is fully multithreaded, utilizes well modern multi-core systems, and runs at full native performance.
 Also includes a Visual Graphical Editor for Codeless Development.
@@ -18,4 +20,5 @@ Snapshot - takes a snapshot(Sample) buffer of the data
 Scope Component - data plotting component.
 Waterfall Component - Waterfall component for Spectrum, FFT data representation.
 Composite components - Allows embedding component into each other.
-Compatible with the .NET versions of VideoLab, VisionLab, AudioLab, InstrumentLab, IntelligenceLab, PlotLab, BasicAudio, and BasicVideo.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108845&affiliateid=200057808)
+Compatible with the .NET versions of VideoLab, VisionLab, AudioLab, InstrumentLab, IntelligenceLab, PlotLab, BasicAudio, and BasicVideo.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108845&affiliateid=200057808)

@@ -1,4 +1,7 @@
-# Voice Reader Studio 15 ROR / Român/Romanian<br />![Voice Reader Studio 15 ROR / Român/Romanian](https://mycommerce.akamaized.net/api/pimages/P300625045/BIG/300625045.PNG)<br />Professional Text-to-Speech
+# Voice Reader Studio 15 ROR / Român/Romanian
+![Voice Reader Studio 15 ROR / Român/Romanian](https://mycommerce.akamaized.net/api/pimages/P300625045/BIG/300625045.PNG)
+Professional Text-to-Speech
 
 High quality voice output with unrivaled pronunciation accuracy and natural sounding voices. Almost impossible to tell the difference from a real human voice. Convert your training documents or presentations, create audio books or traffic announcements and save time and money for expensive recording studios.
-Speech synthesis has never been so perfect and easy to use!<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300625045&affiliateid=200057808)
+Speech synthesis has never been so perfect and easy to use!
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300625045&affiliateid=200057808)

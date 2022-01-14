@@ -1,1 +1,2 @@
-# MailBee.NET PDF Converter (1 Developer)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300484547&affiliateid=200057808)
+# MailBee.NET PDF Converter (1 Developer)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300484547&affiliateid=200057808)

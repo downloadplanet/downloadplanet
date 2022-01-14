@@ -1,3 +1,6 @@
-# Phone Dial by PC - Business (10 PCs)<br />![Phone Dial by PC - Business (10 PCs)](https://mycommerce.akamaized.net/api/pimages/P300479161/BIG/300479161.JPG)<br />Business License - up to 10 PCs within the same company.
+# Phone Dial by PC - Business (10 PCs)
+![Phone Dial by PC - Business (10 PCs)](https://mycommerce.akamaized.net/api/pimages/P300479161/BIG/300479161.JPG)
+Business License - up to 10 PCs within the same company.
 
-Phone Dial by PC can dial/operate a phone that is using the serial interface RS-232 connected to the PC COM port. Phone numbers can be dialed and redialed from any application via customizable hotkeys.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300479161&affiliateid=200057808)
+Phone Dial by PC can dial/operate a phone that is using the serial interface RS-232 connected to the PC COM port. Phone numbers can be dialed and redialed from any application via customizable hotkeys.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300479161&affiliateid=200057808)

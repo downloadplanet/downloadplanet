@@ -1,4 +1,5 @@
-# Gears / Cogs Truetype font / EPS Shapes for all apps V208<br />www.graphicxtras.com -- Gears Font Shapes Truetype & EPS Cogs CorelDRAW & PSP & Word & Painter V208
+# Gears / Cogs Truetype font / EPS Shapes for all apps V208
+www.graphicxtras.com -- Gears Font Shapes Truetype & EPS Cogs CorelDRAW & PSP & Word & Painter V208
 
 Gears font set
 150 Gears shapes in true type font- TTF and EPS format - many different gear designs for all kinds of work. All the gear shapes are for commercial use, all royalty-free, all can be used to create items for sale
@@ -12,4 +13,5 @@ Set also includes the gears in eps format that can be loaded via the file open c
 added July 25th, 2012
 
 
-any questions, please contact us on support@graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534527&affiliateid=200057808)
+any questions, please contact us on support@graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534527&affiliateid=200057808)

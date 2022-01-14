@@ -1,1 +1,3 @@
-# Rcysoft GoPro Video Recovery Pro - Commercial License - JP<br />プロフェッショナルGoPro MP4ビデオリカバリソフトウェアにより、GoProユーザは完全に削除、フォーマット、または失われたMP4ビデオを回復できます。 GoProヒーロー4シルバー、GoProヒーロー4セッション、GoProヒーロー3ブラック、GoProヒーロー3ホワイト、GoPro Hero 3シルバー、GoPro Hero 2屋外エディション、GoPro Hero 2 Motorsportsエディション、GoPro Hero 2サーフエディション、GoProヘルメットヒーロー、GoPro Motorsports HeroとGoPro Surf Heroです。<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915117&affiliateid=200057808)
+# Rcysoft GoPro Video Recovery Pro - Commercial License - JP
+プロフェッショナルGoPro MP4ビデオリカバリソフトウェアにより、GoProユーザは完全に削除、フォーマット、または失われたMP4ビデオを回復できます。 GoProヒーロー4シルバー、GoProヒーロー4セッション、GoProヒーロー3ブラック、GoProヒーロー3ホワイト、GoPro Hero 3シルバー、GoPro Hero 2屋外エディション、GoPro Hero 2 Motorsportsエディション、GoPro Hero 2サーフエディション、GoProヘルメットヒーロー、GoPro Motorsports HeroとGoPro Surf Heroです。
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915117&affiliateid=200057808)

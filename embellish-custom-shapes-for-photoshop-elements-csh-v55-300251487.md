@@ -1,4 +1,5 @@
-# Embellish Custom shapes for Photoshop & Elements (CSH) V55<br />www.graphicxtras.com -- Embellish Custom Shapes for Adobe Photoshop & Elements CSH PC & MAC OS X V55
+# Embellish Custom shapes for Photoshop & Elements (CSH) V55
+www.graphicxtras.com -- Embellish Custom Shapes for Adobe Photoshop & Elements CSH PC & MAC OS X V55
 
 100 Embellishment custom shapes (Many different designs of embellish shapes, fleur de lis, ornamental, emblems and more) for use in Photoshop and Photoshop Elements, all the shapes are royalty-free for use in commercial as well as hobby projects. Many different designs of custom shapes are included, as well as gallery and documentation and serial number. The shapes are a superb toolkit for Adobe (R) Photoshop (R), use as vector layers, paths and selections, or as a fill design. Use the shapes in many different designs such as fashions, leaflets, books, CDs, illustrations, stamps, scrap booking and others
 
@@ -12,4 +13,5 @@ To purchase the set, please click the add to cart button, this requires cookies 
 
 The custom shapes are part of an ongoing series of custom shapes designs for Adobe (R) Photoshop (R) and Elements. To find out more information about the custom shapes pack, please check out the shapes on graphicxtras.com. If you have any questions about the shapes pack, please contact me on support account. The other shapes can be found via shape packs on graphicxtras.com Many samplers as well as galleries of the shapes can be found along with example pictures and additional information about the custom shapes. All the shapes are by graphicxtras.com (Andrew Buckle)
 
-Many other shapes and brushes and styles are available on graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300251487&affiliateid=200057808)
+Many other shapes and brushes and styles are available on graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300251487&affiliateid=200057808)

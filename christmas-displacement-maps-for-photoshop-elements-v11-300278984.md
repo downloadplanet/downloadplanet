@@ -1,4 +1,5 @@
-# Christmas displacement maps for Photoshop & Elements V11<br />www.graphicxtras.com -- Christmas dispacement maps Photoshop & Elements Textures & Glass Distortion V11
+# Christmas displacement maps for Photoshop & Elements V11
+www.graphicxtras.com -- Christmas dispacement maps Photoshop & Elements Textures & Glass Distortion V11
 
 100 Festive / snowflake / Christmas displacements / glass distortions / textures
 
@@ -14,4 +15,5 @@ Royalty-free for Adobe (R) Photoshop (R) + Paint Shop Pro and others.
 
 For commercial and non commercial work such as for use with items for sale, scrap booking and much more
 
-Thumbnail Gallery of snow flake displacements for Photoshop<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300278984&affiliateid=200057808)
+Thumbnail Gallery of snow flake displacements for Photoshop
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300278984&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Kombi-Fachpaket Meister f. Veranstaltungstechnik, Videocoaching, 102 Videos und komplette Begleitskripte von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300784522&affiliateid=200057808)
+# Kombi-Fachpaket Meister f. Veranstaltungstechnik, Videocoaching, 102 Videos und komplette Begleitskripte von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300784522&affiliateid=200057808)

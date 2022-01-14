@@ -1,2 +1,5 @@
-# USB for Remote Desktop - Update Subscription<br />![USB for Remote Desktop - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300630132/BIG/300630132.GIF)<br />USB for Remote Desktop allows you to work with USB devices at Terminal Server, while they are connected to your local workstation.
-The devices appear as if they were plugged directly to the Server.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300630132&affiliateid=200057808)
+# USB for Remote Desktop - Update Subscription
+![USB for Remote Desktop - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300630132/BIG/300630132.GIF)
+USB for Remote Desktop allows you to work with USB devices at Terminal Server, while they are connected to your local workstation.
+The devices appear as if they were plugged directly to the Server.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300630132&affiliateid=200057808)

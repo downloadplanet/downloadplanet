@@ -1,1 +1,2 @@
-# PFK, Organisation der Personalarbeit, 1. Fachpaket, Videocoaching 29 Videos mit Begleitskript u. Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300596380&affiliateid=200057808)
+# PFK, Organisation der Personalarbeit, 1. Fachpaket, Videocoaching 29 Videos mit Begleitskript u. Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300596380&affiliateid=200057808)

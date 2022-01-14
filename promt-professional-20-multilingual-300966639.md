@@ -1,4 +1,6 @@
-# PROMT Professional 20 Multilingual<br />![PROMT Professional 20 Multilingual](https://mycommerce.akamaized.net/api/pimages/P300966639/BIG/300966639.JPG)<br />Übersetzungssoftware für alle anspruchsvollen Anwender, die viel mit fremdsprachigen Dokumenten zu tun haben. PROMT Professional beschleunigt um bis zu 90 % die Bearbeitung der fremdsprachigen Korrespondenz und unterstützt Sie effizient bei Ihrer Übersetzungsarbeit. Höchste Übersetzungsqualität und der gewaltige Wortschatz von bis zu 1.150.000 Wörtern pro Sprachpaar gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt. Mit dem Datei-Übersetzer werden große Mengen von Dateien im Stapelverfahren schnell und effizient übersetzt.
+# PROMT Professional 20 Multilingual
+![PROMT Professional 20 Multilingual](https://mycommerce.akamaized.net/api/pimages/P300966639/BIG/300966639.JPG)
+Übersetzungssoftware für alle anspruchsvollen Anwender, die viel mit fremdsprachigen Dokumenten zu tun haben. PROMT Professional beschleunigt um bis zu 90 % die Bearbeitung der fremdsprachigen Korrespondenz und unterstützt Sie effizient bei Ihrer Übersetzungsarbeit. Höchste Übersetzungsqualität und der gewaltige Wortschatz von bis zu 1.150.000 Wörtern pro Sprachpaar gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt. Mit dem Datei-Übersetzer werden große Mengen von Dateien im Stapelverfahren schnell und effizient übersetzt.
 
 Unterstützte Übersetzungsrichtungen:
 Englisch -> Deutsch, Deutsch -> Englisch
@@ -36,4 +38,5 @@ Linguistischer Editor. Durch die farbliche Hervorhebung des gerade bearbeiteten 
 Automatische Stapelübersetzung mehrerer mehrerer MS Office, PDF, HTML, XML oder RTF Dateien nacheinander.
 Erfahren Sie mehr >>>
 Systemvoraussetzungen
-Microsoft Windows® 10, 8, und 7<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300966639&affiliateid=200057808)
+Microsoft Windows® 10, 8, und 7
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300966639&affiliateid=200057808)

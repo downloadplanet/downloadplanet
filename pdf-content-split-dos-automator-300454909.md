@@ -1,2 +1,4 @@
-# PDF Content Split DOS Automator<br />PDF Content Split Dos Automator automates PDF Content Split processing so you can run from the command line unattended, it can be run from other software programs & it's also Microsoft scheduler compatible.
-NOTE: this includes all future upgrades to v1.xx versions for free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300454909&affiliateid=200057808)
+# PDF Content Split DOS Automator
+PDF Content Split Dos Automator automates PDF Content Split processing so you can run from the command line unattended, it can be run from other software programs & it's also Microsoft scheduler compatible.
+NOTE: this includes all future upgrades to v1.xx versions for free of charge.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300454909&affiliateid=200057808)

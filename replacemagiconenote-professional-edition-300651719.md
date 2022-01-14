@@ -1,4 +1,6 @@
-# ReplaceMagic.OneNote Professional Edition<br />![ReplaceMagic.OneNote Professional Edition](https://mycommerce.akamaized.net/api/pimages/P300651719/BIG/300651719.JPG)<br />ReplaceMagic - search and replace all over in your OneNote documents
+# ReplaceMagic.OneNote Professional Edition
+![ReplaceMagic.OneNote Professional Edition](https://mycommerce.akamaized.net/api/pimages/P300651719/BIG/300651719.JPG)
+ReplaceMagic - search and replace all over in your OneNote documents
 
 Package 2 - 5-user license is 2 times the single-license price
 Package 3 - 10-user license is 3 times the single-license price
@@ -28,4 +30,5 @@ As a matter of fact our prices start from $119...
 
 By using standard Office search&replace functionality you are very limited and we removed those limits.
 
-If you did not download/buy ReplaceMagic until now test it and see how powerful application it is.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300651719&affiliateid=200057808)
+If you did not download/buy ReplaceMagic until now test it and see how powerful application it is.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300651719&affiliateid=200057808)

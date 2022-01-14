@@ -1,1 +1,3 @@
-# Cute PDF/RTF Converter Source Code License<br />The Source code license includes the full C#, ASPX and Java Script code of the control. It includes all of the benefits of the Enterprise license and Redistributable license and is best for companies that plan to modify the control or simply wish to have access to the code for security reasons.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300226068&affiliateid=200057808)
+# Cute PDF/RTF Converter Source Code License
+The Source code license includes the full C#, ASPX and Java Script code of the control. It includes all of the benefits of the Enterprise license and Redistributable license and is best for companies that plan to modify the control or simply wish to have access to the code for security reasons.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300226068&affiliateid=200057808)

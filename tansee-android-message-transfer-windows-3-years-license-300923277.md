@@ -1,4 +1,5 @@
-# Tansee Android Message Transfer (Windows) 3 years License<br />1,Features
+# Tansee Android Message Transfer (Windows) 3 years License
+1,Features
 Backup Android phone
 a.SMS & MMS
 b.Contacts & Contacts Photos
@@ -7,4 +8,5 @@ b.Contacts & Contacts Photos
 2,Multiple Device Compatibility
 - All Generations of Android phone
 3,Requirement & Platform
-- Support Windows 10, Windows 8, Windows 7, Windows98, 2000, XP, 2003, Vista<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300923277&affiliateid=200057808)
+- Support Windows 10, Windows 8, Windows 7, Windows98, 2000, XP, 2003, Vista
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300923277&affiliateid=200057808)

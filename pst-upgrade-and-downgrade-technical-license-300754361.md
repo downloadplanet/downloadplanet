@@ -1,1 +1,2 @@
-# PST Upgrade and Downgrade - Technical License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300754361&affiliateid=200057808)
+# PST Upgrade and Downgrade - Technical License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300754361&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# BarcodeOCR Enterprise - Maintenance 12 months<br />![BarcodeOCR Enterprise - Maintenance 12 months](https://mycommerce.akamaized.net/api/pimages/P300624187/BIG/300624187.PNG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300624187&affiliateid=200057808)
+# BarcodeOCR Enterprise - Maintenance 12 months
+![BarcodeOCR Enterprise - Maintenance 12 months](https://mycommerce.akamaized.net/api/pimages/P300624187/BIG/300624187.PNG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300624187&affiliateid=200057808)

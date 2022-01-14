@@ -1,1 +1,4 @@
-# AnyMusic Win Lifetime (DE)<br />![AnyMusic Win Lifetime (DE)](https://mycommerce.akamaized.net/api/pimages/P300799017/BIG/300799017.PNG)<br />AnyMusic covers all the powerful features you love - discover free songs, download MP3 songs, play music, convert videos to audio files, and manage music library. Best of all, it’s 100% safe & ad-free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799017&affiliateid=200057808)
+# AnyMusic Win Lifetime (DE)
+![AnyMusic Win Lifetime (DE)](https://mycommerce.akamaized.net/api/pimages/P300799017/BIG/300799017.PNG)
+AnyMusic covers all the powerful features you love - discover free songs, download MP3 songs, play music, convert videos to audio files, and manage music library. Best of all, it’s 100% safe & ad-free.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799017&affiliateid=200057808)

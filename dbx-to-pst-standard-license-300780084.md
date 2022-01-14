@@ -1,1 +1,3 @@
-# DBX to PST - Standard License<br />Software to Convert DBX to Various Files Types<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300780084&affiliateid=200057808)
+# DBX to PST - Standard License
+Software to Convert DBX to Various Files Types
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300780084&affiliateid=200057808)

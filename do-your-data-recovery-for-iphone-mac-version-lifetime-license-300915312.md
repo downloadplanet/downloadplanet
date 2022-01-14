@@ -1,1 +1,4 @@
-# Do Your Data Recovery for iPhone (Mac Version) Lifetime License<br />![Do Your Data Recovery for iPhone (Mac Version) Lifetime License](https://mycommerce.akamaized.net/api/pimages/P300915312/BIG/300915312.PNG)<br />Recover lost contacts, SMS, notes, photos, videos, call history and more from iPhone or iPad. Do Your Data Recovery for iPhone (Mac version) is a good choice for Mac users to recover deleted or lost iPhone data under Mac OS.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915312&affiliateid=200057808)
+# Do Your Data Recovery for iPhone (Mac Version) Lifetime License
+![Do Your Data Recovery for iPhone (Mac Version) Lifetime License](https://mycommerce.akamaized.net/api/pimages/P300915312/BIG/300915312.PNG)
+Recover lost contacts, SMS, notes, photos, videos, call history and more from iPhone or iPad. Do Your Data Recovery for iPhone (Mac version) is a good choice for Mac users to recover deleted or lost iPhone data under Mac OS.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915312&affiliateid=200057808)

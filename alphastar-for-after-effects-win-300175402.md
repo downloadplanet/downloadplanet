@@ -1,1 +1,4 @@
-# AlphaStar for After Effects (Win)<br />![AlphaStar for After Effects (Win)](https://mycommerce.akamaized.net/api/pimages/P300175402/BIG/300175402.GIF)<br />AlphaStar is a set of additional plug-in modules for Adobe After Effects. It is most effective in creating various types of special video effects such as stars, highlights, lens flares, rays, and shines. This bundle covers all possible special lighting effects necessary for each video painter.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300175402&affiliateid=200057808)
+# AlphaStar for After Effects (Win)
+![AlphaStar for After Effects (Win)](https://mycommerce.akamaized.net/api/pimages/P300175402/BIG/300175402.GIF)
+AlphaStar is a set of additional plug-in modules for Adobe After Effects. It is most effective in creating various types of special video effects such as stars, highlights, lens flares, rays, and shines. This bundle covers all possible special lighting effects necessary for each video painter.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300175402&affiliateid=200057808)

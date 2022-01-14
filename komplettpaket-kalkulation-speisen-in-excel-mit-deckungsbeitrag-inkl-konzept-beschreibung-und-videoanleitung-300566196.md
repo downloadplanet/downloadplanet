@@ -1,4 +1,5 @@
-# Komplettpaket Kalkulation Speisen in Excel mit Deckungsbeitrag, inkl. Konzept, Beschreibung und Videoanleitung<br />Folgende Inhalte, Tabellenblätter und Vorlagen sind in der Exceldatei enthalten:
+# Komplettpaket Kalkulation Speisen in Excel mit Deckungsbeitrag, inkl. Konzept, Beschreibung und Videoanleitung
+Folgende Inhalte, Tabellenblätter und Vorlagen sind in der Exceldatei enthalten:
 
 => Stammdaten für MwSt. und Einstellungen
 =>Artikelliste Beispiel
@@ -28,4 +29,5 @@ Folgende Unterlagen erhalten Sie:
 =>Link für Videoanleitung Excelschema mit Deckungsbeitrag
 =>Link für Videoanleitung Excelschema mit WE% Vorgabe
 
-Unter folgendem Link erhalten Sie die Kurzanleitung für das Kalkulationsprogramm und die Videoanleitung für das Programm. http://www.f-bsupport.de/index.php?seite=bedienungsanleitung-excelprogramm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300566196&affiliateid=200057808)
+Unter folgendem Link erhalten Sie die Kurzanleitung für das Kalkulationsprogramm und die Videoanleitung für das Programm. http://www.f-bsupport.de/index.php?seite=bedienungsanleitung-excelprogramm
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300566196&affiliateid=200057808)

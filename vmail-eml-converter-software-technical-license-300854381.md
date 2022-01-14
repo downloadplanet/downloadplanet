@@ -1,1 +1,3 @@
-# vMail EML Converter Software - Technical License<br />vMail EML Converter Software is a useful utility that is able to perform the conversion of EML data to Outlook PST data, while maintaining the structure during the conversion process.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854381&affiliateid=200057808)
+# vMail EML Converter Software - Technical License
+vMail EML Converter Software is a useful utility that is able to perform the conversion of EML data to Outlook PST data, while maintaining the structure during the conversion process.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854381&affiliateid=200057808)

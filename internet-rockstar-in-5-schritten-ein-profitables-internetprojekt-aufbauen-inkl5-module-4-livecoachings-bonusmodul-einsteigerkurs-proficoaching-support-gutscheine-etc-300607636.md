@@ -1,1 +1,3 @@
-# Internet Rockstar: In 5 Schritten ein profitables Internet-Projekt aufbauen (inkl.5 Module, 4 Live-Coachings, Bonus-Modul, Einsteigerkurs, Profi-Coaching, Support, Gutscheine, etc).<br />Internet Rockstar: In 5 Schritten ein profitables Internet-Projekt aufbauen (inkl.5 Module, 4 Live-Coachings, Bonus-Modul, Einsteigerkurs, Profi-Coaching, Support, Gutscheine, etc).<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300607636&affiliateid=200057808)
+# Internet Rockstar: In 5 Schritten ein profitables Internet-Projekt aufbauen (inkl.5 Module, 4 Live-Coachings, Bonus-Modul, Einsteigerkurs, Profi-Coaching, Support, Gutscheine, etc).
+Internet Rockstar: In 5 Schritten ein profitables Internet-Projekt aufbauen (inkl.5 Module, 4 Live-Coachings, Bonus-Modul, Einsteigerkurs, Profi-Coaching, Support, Gutscheine, etc).
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300607636&affiliateid=200057808)

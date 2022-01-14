@@ -1,2 +1,5 @@
-# Scanner for Remote Desktop (Monthly)<br />![Scanner for Remote Desktop (Monthly)](https://mycommerce.akamaized.net/api/pimages/P300798344/BIG/300798344.GIF)<br />Scanner for Remote Desktop allows you to work with scanners at Terminal Server, while they are connected to your local workstation.
-Scanners appear as if they were plugged directly to the Server.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300798344&affiliateid=200057808)
+# Scanner for Remote Desktop (Monthly)
+![Scanner for Remote Desktop (Monthly)](https://mycommerce.akamaized.net/api/pimages/P300798344/BIG/300798344.GIF)
+Scanner for Remote Desktop allows you to work with scanners at Terminal Server, while they are connected to your local workstation.
+Scanners appear as if they were plugged directly to the Server.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300798344&affiliateid=200057808)

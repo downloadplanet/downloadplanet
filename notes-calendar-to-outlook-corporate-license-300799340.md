@@ -1,1 +1,2 @@
-# Notes Calendar to Outlook - Corporate License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799340&affiliateid=200057808)
+# Notes Calendar to Outlook - Corporate License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799340&affiliateid=200057808)

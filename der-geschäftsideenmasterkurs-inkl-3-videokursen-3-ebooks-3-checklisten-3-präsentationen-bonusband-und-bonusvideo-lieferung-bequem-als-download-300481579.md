@@ -1,1 +1,3 @@
-# Der Geschäftsideen-Masterkurs (inkl. 3 Videokursen, 3 E-Books, 3 Checklisten, 3 Präsentationen, Bonusband und Bonusvideo). Lieferung bequem als Download.<br />Der Geschäftsideen-Masterkurs (inkl. 3 Videokursen, 3 E-Books, 3 Checklisten, 3 Präsentationen, Bonusband und Bonusvideo). Lieferung bequem als Download.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300481579&affiliateid=200057808)
+# Der Geschäftsideen-Masterkurs (inkl. 3 Videokursen, 3 E-Books, 3 Checklisten, 3 Präsentationen, Bonusband und Bonusvideo). Lieferung bequem als Download.
+Der Geschäftsideen-Masterkurs (inkl. 3 Videokursen, 3 E-Books, 3 Checklisten, 3 Präsentationen, Bonusband und Bonusvideo). Lieferung bequem als Download.
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300481579&affiliateid=200057808)

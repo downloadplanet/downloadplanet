@@ -1,1 +1,3 @@
-# SMScheme suite<br />SMScheme suite is a components for data modeling, flowchart and block/scheme engineering: - TSchemaDesignArea: visual design pane to draw the model - TSQLBuilderDialog: Visual Query Builder to construct the SQL-statement Custom engines for databases allow to use any data source (BDE, ADO, dbExpress, memory etc)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=204682&affiliateid=200057808)
+# SMScheme suite
+SMScheme suite is a components for data modeling, flowchart and block/scheme engineering: - TSchemaDesignArea: visual design pane to draw the model - TSQLBuilderDialog: Visual Query Builder to construct the SQL-statement Custom engines for databases allow to use any data source (BDE, ADO, dbExpress, memory etc)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=204682&affiliateid=200057808)

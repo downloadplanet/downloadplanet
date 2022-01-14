@@ -1,1 +1,4 @@
-# Amazing Screen Recorder<br />![Amazing Screen Recorder](https://mycommerce.akamaized.net/api/pimages/P300860086/BIG/300860086.PNG)<br />World's Professional and Easy-to-use Video Capture Software Lets You Record Everything Including Webinars, webcam, Games, Skype Videos, Online Videos, Making Tutorials, create software demos in HD on Your Screen with Original Picture in Picture and Rich Video Editing Features.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300860086&affiliateid=200057808)
+# Amazing Screen Recorder
+![Amazing Screen Recorder](https://mycommerce.akamaized.net/api/pimages/P300860086/BIG/300860086.PNG)
+World's Professional and Easy-to-use Video Capture Software Lets You Record Everything Including Webinars, webcam, Games, Skype Videos, Online Videos, Making Tutorials, create software demos in HD on Your Screen with Original Picture in Picture and Rich Video Editing Features.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300860086&affiliateid=200057808)

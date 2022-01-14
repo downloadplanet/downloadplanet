@@ -1,1 +1,3 @@
-# Die Internet Erfolgsformel PREMIUM-Version 2 als DVD-Set (3 weitere Module inkl. Videokursen, E-Books, Checklisten, Präsentationen, Gutscheinen und Bonusmaterial).<br />Die Internet Erfolgsformel PREMIUM-Version (13 Module inkl. Videokursen, E-Books, Checklisten, Präsentationen, Gutscheinen und Bonusmaterial).<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300458446&affiliateid=200057808)
+# Die Internet Erfolgsformel PREMIUM-Version 2 als DVD-Set (3 weitere Module inkl. Videokursen, E-Books, Checklisten, Präsentationen, Gutscheinen und Bonusmaterial).
+Die Internet Erfolgsformel PREMIUM-Version (13 Module inkl. Videokursen, E-Books, Checklisten, Präsentationen, Gutscheinen und Bonusmaterial).
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300458446&affiliateid=200057808)

@@ -1,1 +1,4 @@
-# Internet Musik Wiederholung<br />![Internet Musik Wiederholung](https://mycommerce.akamaized.net/api/pimages/P300423634/BIG/300423634.JPG)<br />Auto repeat of music in an internet portal<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300423634&affiliateid=200057808)
+# Internet Musik Wiederholung
+![Internet Musik Wiederholung](https://mycommerce.akamaized.net/api/pimages/P300423634/BIG/300423634.JPG)
+Auto repeat of music in an internet portal
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300423634&affiliateid=200057808)

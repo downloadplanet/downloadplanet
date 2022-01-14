@@ -1,1 +1,3 @@
-# Upgrade VBto Converter<br />VBto Converter is converter Microsoft Visual Basic 6.0 project (including source code) to resource and source files MS VB.NET, MS C# .NET, MS VC.NET, MS J#.NET, MS VC++ (MFC), Borland C++ Builder, Borland Delphi. This license allows you to use the product on five different computers.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300036579&affiliateid=200057808)
+# Upgrade VBto Converter
+VBto Converter is converter Microsoft Visual Basic 6.0 project (including source code) to resource and source files MS VB.NET, MS C# .NET, MS VC.NET, MS J#.NET, MS VC++ (MFC), Borland C++ Builder, Borland Delphi. This license allows you to use the product on five different computers.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300036579&affiliateid=200057808)

@@ -1,3 +1,6 @@
-# Serial Port Control (OEM License) - Update Subscription<br />![Serial Port Control (OEM License) - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300277149/BIG/300277149.GIF)<br />Serial Port Control is easy to use control that simplifies asynchronous, multithreaded COM port communication tasks in your projects.
+# Serial Port Control (OEM License) - Update Subscription
+![Serial Port Control (OEM License) - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300277149/BIG/300277149.GIF)
+Serial Port Control is easy to use control that simplifies asynchronous, multithreaded COM port communication tasks in your projects.
 It allows you to overcome the complexity of the Win32 Serial Communications API so you can write to and read from your serial port by using direct and powerful commands.
-The control comes in different forms and supports wide variety of popular development environments like Microsoft Visual C++, Microsoft C#, Visual Basic, Visual Basic .Net, Borland Builder, Borlan Delphi and so on.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277149&affiliateid=200057808)
+The control comes in different forms and supports wide variety of popular development environments like Microsoft Visual C++, Microsoft C#, Visual Basic, Visual Basic .Net, Borland Builder, Borlan Delphi and so on.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277149&affiliateid=200057808)

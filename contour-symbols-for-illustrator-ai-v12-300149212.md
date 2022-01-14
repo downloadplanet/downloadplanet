@@ -1,4 +1,5 @@
-# Contour symbols for Illustrator (AI) V12<br />www.graphicxtras.com -- Contour symbols Illustrator Creative Cloud PC & MAC OS X Shapes V12
+# Contour symbols for Illustrator (AI) V12
+www.graphicxtras.com -- Contour symbols Illustrator Creative Cloud PC & MAC OS X Shapes V12
 
 Symbols set for Illustrator PC + MAC OS X
 200 Contour design symbols for Adobe (R) Illustrator
@@ -20,4 +21,5 @@ MENU:
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300149212&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300149212&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# DataNumen Outlook Repair 64bit<br />![DataNumen Outlook Repair 64bit](https://mycommerce.akamaized.net/api/pimages/P300630816/BIG/300630816.JPG)<br />DataNumen Outlook Repair(formerly Advanced Outlook Repair) is the best Microsoft outlook recovery tool. It uses advanced technologies to scan the corrupt or damaged personal folder files(.pst) and recover your mail messages and all other items as much as possible, so to minimize the loss in file corruption.
+# DataNumen Outlook Repair 64bit
+![DataNumen Outlook Repair 64bit](https://mycommerce.akamaized.net/api/pimages/P300630816/BIG/300630816.JPG)
+DataNumen Outlook Repair(formerly Advanced Outlook Repair) is the best Microsoft outlook recovery tool. It uses advanced technologies to scan the corrupt or damaged personal folder files(.pst) and recover your mail messages and all other items as much as possible, so to minimize the loss in file corruption.
 Main Features:
 1. Support Outlook 97 to 2013.
 2. Support to recover mail messages, folders, posts, appointments, meeting requests, contacts, distribution lists, tasks, task requests, journals and notes in PST files. All properties, such as subject, to, from, cc, bcc, date, etc., are recovered.
@@ -15,4 +17,5 @@ Main Features:
 14. Support to find and select the PST files to be repaired on the local computer, according to some search criteria.
 15. Support integration with Windows Explorer, so you can repair an Outlook PST file with the context menu of Windows Explorer easily.
 16. Support drag & drop operation.
-17. Support command line parameters.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300630816&affiliateid=200057808)
+17. Support command line parameters.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300630816&affiliateid=200057808)

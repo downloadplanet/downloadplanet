@@ -1,4 +1,5 @@
-# Embellish symbols for Illustrator (AI) V29<br />www.graphicxtras.com -- Embellish Symbols for Adobe Illustrator Shapes Flourish and swirls Creative Cloud CC and CS6 CS5 CS4 V29
+# Embellish symbols for Illustrator (AI) V29
+www.graphicxtras.com -- Embellish Symbols for Adobe Illustrator Shapes Flourish and swirls Creative Cloud CC and CS6 CS5 CS4 V29
 
 Many colorful embellishment symbols for Adobe (R) Illustrator (R) Creative Cloud CC 2017 2015 2014 and CS6-10 (Many flourish symbols, foliage symbols, scroll symbols, emboss symbols and more)
 
@@ -16,4 +17,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300247534&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300247534&affiliateid=200057808)

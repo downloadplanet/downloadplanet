@@ -1,4 +1,5 @@
-# Spiral Scroll Preset Shapes for Paint Shop Pro (PSPShape) V13<br />www.graphicxtras.com -- Spiral Scroll Preset Shapes Paint Shop Pro PSPShape V13
+# Spiral Scroll Preset Shapes for Paint Shop Pro (PSPShape) V13
+www.graphicxtras.com -- Spiral Scroll Preset Shapes Paint Shop Pro PSPShape V13
 
 165 Embellishment preset shapes for use in Corel (R) Paint Shop Pro (R) Photo . Many different embellishment designs, foliage shapes, flourish shapes, swirl shapes, scroll shapes and many more, all vector shapes. All for commercial and hobby projects, use in designs, packaging, scrapbooks and others. Easy to use via the preset shapes tool / tool options. Includes documentation and gallery.
 
@@ -14,4 +15,5 @@ MENU:
 
 Please mail me with any questionsOther shapes can be found on graphicxtras.com
 
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300247235&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300247235&affiliateid=200057808)

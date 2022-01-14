@@ -1,1 +1,3 @@
-# energyXT student license UK<br />energyXT is a powerful, yet easy to use application for music creation and production on your Mac or PC. Record instruments such as guitar and keyboards, play virtual instruments and make drum beats with the built-in drum machine. Mix your tune with professional sounding effects, save as MP3, and share it online.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300456113&affiliateid=200057808)
+# energyXT student license UK
+energyXT is a powerful, yet easy to use application for music creation and production on your Mac or PC. Record instruments such as guitar and keyboards, play virtual instruments and make drum beats with the built-in drum machine. Mix your tune with professional sounding effects, save as MP3, and share it online.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300456113&affiliateid=200057808)

@@ -1,2 +1,5 @@
-# Adorage Effectpackage Vol. 5<br />![Adorage Effectpackage Vol. 5](https://mycommerce.akamaized.net/api/pimages/P532170/BIG/532170.JPG)<br />Diamond Composits
- Get more informations about this product, samples and descriptions...<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=532170&affiliateid=200057808)
+# Adorage Effectpackage Vol. 5
+![Adorage Effectpackage Vol. 5](https://mycommerce.akamaized.net/api/pimages/P532170/BIG/532170.JPG)
+Diamond Composits
+ Get more informations about this product, samples and descriptions...
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=532170&affiliateid=200057808)

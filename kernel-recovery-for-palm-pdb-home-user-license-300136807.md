@@ -1,1 +1,3 @@
-# Kernel Recovery for Palm PDB - Home User License<br />Kernel Recovery for Palm PDB recovers information from the .pdb database<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136807&affiliateid=200057808)
+# Kernel Recovery for Palm PDB - Home User License
+Kernel Recovery for Palm PDB recovers information from the .pdb database
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136807&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Wondershare DVD Creator for Windows<br />![Wondershare DVD Creator for Windows](https://mycommerce.akamaized.net/api/pimages/P300947687/BIG/300947687.PNG)<br />Want to keep all those good times and create DVDs by your own?Wondershare DVD Creator is an interesting video burner application that helps you burn multiple SD and HD video formats like MP4, M4V, M4A,3GP, MOV, MPG, MTS, VOB, FLV, MKV, RM, RMVB to DVD disc, DVD folder and ISO.
+# Wondershare DVD Creator for Windows
+![Wondershare DVD Creator for Windows](https://mycommerce.akamaized.net/api/pimages/P300947687/BIG/300947687.PNG)
+Want to keep all those good times and create DVDs by your own?Wondershare DVD Creator is an interesting video burner application that helps you burn multiple SD and HD video formats like MP4, M4V, M4A,3GP, MOV, MPG, MTS, VOB, FLV, MKV, RM, RMVB to DVD disc, DVD folder and ISO.
 
 This video to DVD converter also allows you to customize DVD menu using your favorite song and picture as background music and image for your DVD menu. All these editing effects can be previewed before burning.
 
@@ -16,4 +18,5 @@ Key Features:
 
 6. Before burning, you can adjust video resolution as 16:9 or 4:3 to fit player screen size.
 
-7. You are free to select burning video to DVD disc (DVD-5 or DVD-9), DVD folder or to ISO image file with high output quality.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947687&affiliateid=200057808)
+7. You are free to select burning video to DVD disc (DVD-5 or DVD-9), DVD folder or to ISO image file with high output quality.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947687&affiliateid=200057808)

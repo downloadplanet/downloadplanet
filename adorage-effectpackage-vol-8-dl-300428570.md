@@ -1,3 +1,6 @@
-# Adorage Effectpackage Vol. 8 (DL)<br />![Adorage Effectpackage Vol. 8 (DL)](https://mycommerce.akamaized.net/api/pimages/P300428570/BIG/300428570.JPG)<br />More than 1500 new effect presettings for Adorage !
+# Adorage Effectpackage Vol. 8 (DL)
+![Adorage Effectpackage Vol. 8 (DL)](https://mycommerce.akamaized.net/api/pimages/P300428570/BIG/300428570.JPG)
+More than 1500 new effect presettings for Adorage !
 Special offer! All-Plugins-Collection already included for free!
- Get more informations about this product, samples and descriptions...<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428570&affiliateid=200057808)
+ Get more informations about this product, samples and descriptions...
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428570&affiliateid=200057808)

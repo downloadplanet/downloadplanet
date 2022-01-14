@@ -1,2 +1,4 @@
-# Plasticlicks<br />Plasticlicks - Drum Sounds Collection - is the set of the finest, prepared completely from scratch synthetic drum samples, over 1500 patches ready to use. To read about its content, formats'specifications, license agreement, please visit a web site:
-http://www.d16.pl/plasticlicks<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300392505&affiliateid=200057808)
+# Plasticlicks
+Plasticlicks - Drum Sounds Collection - is the set of the finest, prepared completely from scratch synthetic drum samples, over 1500 patches ready to use. To read about its content, formats'specifications, license agreement, please visit a web site:
+http://www.d16.pl/plasticlicks
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300392505&affiliateid=200057808)

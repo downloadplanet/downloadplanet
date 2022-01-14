@@ -1,1 +1,2 @@
-# TouFW, 3. Personalführung u. -entwicklung, Videocoaching, 19 Videos und Begleitskripte von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300617121&affiliateid=200057808)
+# TouFW, 3. Personalführung u. -entwicklung, Videocoaching, 19 Videos und Begleitskripte von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300617121&affiliateid=200057808)

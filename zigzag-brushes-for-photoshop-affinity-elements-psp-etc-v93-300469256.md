@@ -1,3 +1,5 @@
-# Zigzag brushes for Photoshop, Affinity, Elements, PSP, etc V93<br />www.graphicxtras.com -- Zigzag Brushes for Adobe Photoshop & Elements & PSP Lightning V93
+# Zigzag brushes for Photoshop, Affinity, Elements, PSP, etc V93
+www.graphicxtras.com -- Zigzag Brushes for Adobe Photoshop & Elements & PSP Lightning V93
 
-Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469256&affiliateid=200057808)
+Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469256&affiliateid=200057808)

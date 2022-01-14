@@ -1,1 +1,3 @@
-# EMS SQL Manager for Oracle (Business) + 2 Year Maintenance<br />Simplify and automate your Oracle database development process, design, explore and maintain existing Oracle databases, build compound Oracle SQL query statements, manage Oracle database user rights and manipulate data in different ways.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300125174&affiliateid=200057808)
+# EMS SQL Manager for Oracle (Business) + 2 Year Maintenance
+Simplify and automate your Oracle database development process, design, explore and maintain existing Oracle databases, build compound Oracle SQL query statements, manage Oracle database user rights and manipulate data in different ways.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300125174&affiliateid=200057808)

@@ -1,6 +1,8 @@
-# 1st Autorun Express Enterprise (25 Users Pack)<br />Let your CD or DVD automatically open your documents or display a menu when your disk is inserted into the user's computer. Create autorun disks in a few clicks, no design or programming required! All you need to do is to specify your documents, web pages and presentations in this easy step-by-step wizard. You can create autorun disks from scratch or add autorun capabilities to the files already prepared for your CD.
+# 1st Autorun Express Enterprise (25 Users Pack)
+Let your CD or DVD automatically open your documents or display a menu when your disk is inserted into the user's computer. Create autorun disks in a few clicks, no design or programming required! All you need to do is to specify your documents, web pages and presentations in this easy step-by-step wizard. You can create autorun disks from scratch or add autorun capabilities to the files already prepared for your CD.
 You can ensure that your users will read your documents! If your user does not have the necessary software to open your documents, then your autorun disk will let the user know where to download a viewer software or even install this software automatically.
 Your menus will automatically adapt its look to user's operating system and font settings. You don't need to manually position your buttons, just drag your documents to the wizard and let it do all the hard work for you!
 Once you complete the wizard, you can burn your CD right from the program or test autorun without burning.
 Enterprise version allows you to customize icon, file name and version info of the autorun launcher executable.
-25 Users Pack allows up to 25 users in a company to install the software and use it for any needs, including commercial.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300326667&affiliateid=200057808)
+25 Users Pack allows up to 25 users in a company to install the software and use it for any needs, including commercial.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300326667&affiliateid=200057808)

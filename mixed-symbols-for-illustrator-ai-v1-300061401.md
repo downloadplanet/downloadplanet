@@ -1,4 +1,5 @@
-# Mixed symbols for Illustrator (AI) V1<br />www.graphicxtras.com -- Mixed Symbols for Adobe Illustrator Creative Cloud PC & MAC OS X Vectors V1
+# Mixed symbols for Illustrator (AI) V1
+www.graphicxtras.com -- Mixed Symbols for Adobe Illustrator Creative Cloud PC & MAC OS X Vectors V1
 
 1000 Royalty-free symbols for Adobe (R) Illustrator (R)
 + additional material
@@ -21,4 +22,5 @@ MENU:
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300061401&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300061401&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Avalon SysInfo<br />.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300965332&affiliateid=200057808)
+# Avalon SysInfo
+.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300965332&affiliateid=200057808)

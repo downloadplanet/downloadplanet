@@ -1,1 +1,4 @@
-# eSoftTools PDF Password Remover - Corporate License<br />![eSoftTools PDF Password Remover - Corporate License](https://mycommerce.akamaized.net/api/pimages/P300878187/BIG/300878187.GIF)<br />Software to remove password from PDF file and enable copy, edit, print etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300878187&affiliateid=200057808)
+# eSoftTools PDF Password Remover - Corporate License
+![eSoftTools PDF Password Remover - Corporate License](https://mycommerce.akamaized.net/api/pimages/P300878187/BIG/300878187.GIF)
+Software to remove password from PDF file and enable copy, edit, print etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300878187&affiliateid=200057808)

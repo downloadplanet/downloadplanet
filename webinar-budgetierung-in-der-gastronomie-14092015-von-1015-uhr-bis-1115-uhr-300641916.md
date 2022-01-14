@@ -1,4 +1,5 @@
-# Webinar Budgetierung in der Gastronomie 14.09.2015 von 10:15 Uhr bis 11:15 Uhr<br />Seminarbeschreibung
+# Webinar Budgetierung in der Gastronomie 14.09.2015 von 10:15 Uhr bis 11:15 Uhr
+Seminarbeschreibung
 In diesem Webinar wird der Ablauf der Budgetierung beschrieben. Es wird den Teilnehmern aufgezeigt, welche Unterlagen, Formeln und Berechnungen notwendig sind, um ein Budget zu erstellen. Weiterhin lernen sie, wie man mit wenig Zeitaufwand ein Budget in Excel erarbeitet. Nach dem Webinar sind sie in der Lage, ihr Budget in Excel selbstständig zu erstellen.
 
 Inhalte
@@ -26,4 +27,5 @@ Voraussetzung zur Teilnahme:
 
 Internetverbindung über Kabel
 Lautsprecher
-Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300641916&affiliateid=200057808)
+Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300641916&affiliateid=200057808)

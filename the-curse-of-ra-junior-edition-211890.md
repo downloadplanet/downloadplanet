@@ -1,2 +1,4 @@
-# The Curse Of Ra - Junior Edition<br />"The Curse Of Ra - Junior Edition" is a mission pack for The Curse Of Ra. It features 50 brand new levels for you to solve. All 50 levels are of a lower difficulty than the standard "The Curse Of Ra", making them easy to solve and fun to play.
-The Curse Of Ra is a next generation version of the classic mahjongg game. It introduces new elements such as bombs, magnets and walls, and uses the one-layer two-angles arcade rules.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=211890&affiliateid=200057808)
+# The Curse Of Ra - Junior Edition
+"The Curse Of Ra - Junior Edition" is a mission pack for The Curse Of Ra. It features 50 brand new levels for you to solve. All 50 levels are of a lower difficulty than the standard "The Curse Of Ra", making them easy to solve and fun to play.
+The Curse Of Ra is a next generation version of the classic mahjongg game. It introduces new elements such as bombs, magnets and walls, and uses the one-layer two-angles arcade rules.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=211890&affiliateid=200057808)

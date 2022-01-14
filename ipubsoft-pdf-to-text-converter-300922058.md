@@ -1,4 +1,6 @@
-# iPubsoft PDF to Text Converter<br />![iPubsoft PDF to Text Converter](https://mycommerce.akamaized.net/api/pimages/P300922058/BIG/300922058.PNG)<br />iPubsoft PDF to Text Converter - Best Solution to Convert PDF to Text Easily!
+# iPubsoft PDF to Text Converter
+![iPubsoft PDF to Text Converter](https://mycommerce.akamaized.net/api/pimages/P300922058/BIG/300922058.PNG)
+iPubsoft PDF to Text Converter - Best Solution to Convert PDF to Text Easily!
 
 Text or Txt, is a common format for editing or creating files. Sometimes it is necessary to convert Adobe PDF to plain text file. After that, you can edit, copy, print or reuse the PDF contents as you like. iPubsoft PDF to Text Converter is a handy yet professional PDF to TXT Conversion tool, aiming to extract text or txt documents from read-only PDF without the need of Adobe Acrobat.
 
@@ -21,4 +23,5 @@ The output text files will accurately retain the original file layouts. So it is
 
 Convenient Operation
 
-With the precise and concise design, you can finish the conversion just within several clicks. No matter you are a beginner or an advanced user, you can handle this program quickly.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300922058&affiliateid=200057808)
+With the precise and concise design, you can finish the conversion just within several clicks. No matter you are a beginner or an advanced user, you can handle this program quickly.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300922058&affiliateid=200057808)

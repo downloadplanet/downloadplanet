@@ -1,4 +1,6 @@
-# AnyCount - Corporate License (9 PCs): Upgrade to Version 6<br />![AnyCount - Corporate License (9 PCs): Upgrade to Version 6](https://mycommerce.akamaized.net/api/pimages/P300133256/BIG/300133256.GIF)<br />AnyCount is automatic text count software. AnyCount is automatic line count, character count and word count software for all common file formats.
+# AnyCount - Corporate License (9 PCs): Upgrade to Version 6
+![AnyCount - Corporate License (9 PCs): Upgrade to Version 6](https://mycommerce.akamaized.net/api/pimages/P300133256/BIG/300133256.GIF)
+AnyCount is automatic text count software. AnyCount is automatic line count, character count and word count software for all common file formats.
 Supported text count formats:.RTF, .DOC, .WPD, .XLS, .PPT, .PPS, .PDF, .CSV, .HTM, .HTML, .XML, .MIF, .TXT, .ZIP, .ODT, .SDW, .SXW, .ODS, .SDC, .SXC, .ODP, .SDD, .SXI, .HLP, .CHM. Supported volume units: words, characters, lines, pages, custom count units. Text Count Software, Word Count Software, and Line Count Software.
 After text count is completed, you can:
 В· view count results on the screen;
@@ -22,4 +24,5 @@ AnyCount is Text Count Program, Word Count Program, and Line Count Program. New 
 4. Re-counting of the previously counted files.
 5. Total calculated for each column of the table of results.
 6. Sorting in each column of the table of results.
-7. Enhanced procedure of selecting files to be counted: you can now select several files at a time using Shift key.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300133256&affiliateid=200057808)
+7. Enhanced procedure of selecting files to be counted: you can now select several files at a time using Shift key.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300133256&affiliateid=200057808)

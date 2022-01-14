@@ -1,2 +1,5 @@
-# Printer for Remote Desktop - Update Subscription<br />![Printer for Remote Desktop - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300630123/BIG/300630123.GIF)<br />Printer for Remote Desktop allows you to work with printers at Terminal Server, while they are connected to your local workstation.
-Printers appear as if they were plugged directly to the Server.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300630123&affiliateid=200057808)
+# Printer for Remote Desktop - Update Subscription
+![Printer for Remote Desktop - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300630123/BIG/300630123.GIF)
+Printer for Remote Desktop allows you to work with printers at Terminal Server, while they are connected to your local workstation.
+Printers appear as if they were plugged directly to the Server.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300630123&affiliateid=200057808)

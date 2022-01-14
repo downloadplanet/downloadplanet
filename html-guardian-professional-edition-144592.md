@@ -1,4 +1,6 @@
-# HTML Guardian Professional Edition<br />![HTML Guardian Professional Edition](https://mycommerce.akamaized.net/api/pimages/P144592/BIG/144592.GIF)<br />ProtWare's HTML Guardian ™
+# HTML Guardian Professional Edition
+![HTML Guardian Professional Edition](https://mycommerce.akamaized.net/api/pimages/P144592/BIG/144592.GIF)
+ProtWare's HTML Guardian ™
 <!-- the recognized leader in web site protection since 1997 -->
 
 Encrypt HTML, Javascript, ASP, VBScript, CSS, PHP code. Protect images & links.
@@ -18,4 +20,5 @@ HTML Guardian includes many advanced tools for automation of encryption tasks, s
 Today, HTML Guardian is world-wide adopted as a web site protection standard.
 
 
-Visit http://www.protware.com for more information.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=144592&affiliateid=200057808)
+Visit http://www.protware.com for more information.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=144592&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# DRS PST Compress and Compact For Windows[Single User License]<br />DRS PST Compress and Compact For Windows<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004398&affiliateid=200057808)
+# DRS PST Compress and Compact For Windows[Single User License]
+DRS PST Compress and Compact For Windows
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004398&affiliateid=200057808)

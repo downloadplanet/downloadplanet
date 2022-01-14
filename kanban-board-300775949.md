@@ -1,2 +1,4 @@
-# Kanban board<br />Have the total overview of your assignments: what is in progress right now, what has been already done and what is going to be done.
-Kanban board is plug-in for Windows-version of LeaderTask software (ID 300627106).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300775949&affiliateid=200057808)
+# Kanban board
+Have the total overview of your assignments: what is in progress right now, what has been already done and what is going to be done.
+Kanban board is plug-in for Windows-version of LeaderTask software (ID 300627106).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300775949&affiliateid=200057808)

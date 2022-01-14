@@ -1,1 +1,3 @@
-# EMS Data Generator for DB2 (Business) + 2 Year Maintenance<br />Generate test data for DB2 database for testing purposes in a simple and direct way. Wide range of data generation parameters, user-friendly wizard interface and useful console utility to automate DB2 test data generation.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300262249&affiliateid=200057808)
+# EMS Data Generator for DB2 (Business) + 2 Year Maintenance
+Generate test data for DB2 database for testing purposes in a simple and direct way. Wide range of data generation parameters, user-friendly wizard interface and useful console utility to automate DB2 test data generation.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300262249&affiliateid=200057808)

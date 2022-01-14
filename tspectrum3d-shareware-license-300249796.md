@@ -1,3 +1,6 @@
-# TSpectrum3D Shareware License<br />![TSpectrum3D Shareware License](https://mycommerce.akamaized.net/api/pimages/P300249796/BIG/300249796.JPG)<br />TSpectrum3D is a Delphi component and a DLL for use in Win32 and Win64 (Windows Vista/7/8/10) software with BASS with a purpose to provide 3D audio FFT spectrum display for audio streams. All on a powerful and compact DirectX 11 3D surface, that you have full access to. This is a component that you put on a form, and have instantly a 3D audio FFT spectrum display for an audio stream.
+# TSpectrum3D Shareware License
+![TSpectrum3D Shareware License](https://mycommerce.akamaized.net/api/pimages/P300249796/BIG/300249796.JPG)
+TSpectrum3D is a Delphi component and a DLL for use in Win32 and Win64 (Windows Vista/7/8/10) software with BASS with a purpose to provide 3D audio FFT spectrum display for audio streams. All on a powerful and compact DirectX 11 3D surface, that you have full access to. This is a component that you put on a form, and have instantly a 3D audio FFT spectrum display for an audio stream.
 
-Note: If you plan using TSpectrum3D in you programs, you'll also need a BASS license available from: http://www.un4seen.com/ separatelly.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300249796&affiliateid=200057808)
+Note: If you plan using TSpectrum3D in you programs, you'll also need a BASS license available from: http://www.un4seen.com/ separatelly.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300249796&affiliateid=200057808)

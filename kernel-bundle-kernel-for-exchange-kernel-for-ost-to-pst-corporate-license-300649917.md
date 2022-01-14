@@ -1,1 +1,2 @@
-# Kernel Bundle ( Kernel for Exchange + Kernel for OST to PST ) - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300649917&affiliateid=200057808)
+# Kernel Bundle ( Kernel for Exchange + Kernel for OST to PST ) - Corporate License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300649917&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Mercalli Expert<br />![Mercalli Expert](https://mycommerce.akamaized.net/api/pimages/P300175822/BIG/300175822.GIF)<br />How does Mercalli work? (Demonstration video)
+# Mercalli Expert
+![Mercalli Expert](https://mycommerce.akamaized.net/api/pimages/P300175822/BIG/300175822.GIF)
+How does Mercalli work? (Demonstration video)
 Mercalli analyses every frame in a video clip.
 
 
@@ -12,4 +14,5 @@ Although Mercalli is fully automatic, it lets you make specific recommendations 
 Mercalli is easy to use
 The consistent integration of the plugin ensures maximum ease of use. Mercalli integrates directly with your video editing solution. You can access it just like our other program filters or video effects and apply it to a video clip. With other stabilisation programs, you still have to run imports/exports, configure codecs, etc ...
 Mercalli is fast!
-On up-to-date systems, Mercalli will even run in real time. Where similar programs process 3-4 frames per second, Mercalli simply tears through the frames of a video sequence. Even multicore support is included as standard, so Mercalli uses all of your current system capacity and will be an optimum solution for future hardware upgrades.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300175822&affiliateid=200057808)
+On up-to-date systems, Mercalli will even run in real time. Where similar programs process 3-4 frames per second, Mercalli simply tears through the frames of a video sequence. Even multicore support is included as standard, so Mercalli uses all of your current system capacity and will be an optimum solution for future hardware upgrades.
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300175822&affiliateid=200057808)

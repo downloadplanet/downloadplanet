@@ -1,1 +1,3 @@
-# SysInfo IMAP Backup For Windows[Single User License]<br />SysInfo IMAP Backup For Windows<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004284&affiliateid=200057808)
+# SysInfo IMAP Backup For Windows[Single User License]
+SysInfo IMAP Backup For Windows
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004284&affiliateid=200057808)

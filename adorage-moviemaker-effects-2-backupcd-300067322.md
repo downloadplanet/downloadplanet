@@ -1,1 +1,2 @@
-# Adorage Moviemaker Effects # 2 Backup-CD<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300067322&affiliateid=200057808)
+# Adorage Moviemaker Effects # 2 Backup-CD
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300067322&affiliateid=200057808)

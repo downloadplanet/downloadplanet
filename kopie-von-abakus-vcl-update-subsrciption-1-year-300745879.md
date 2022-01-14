@@ -1,1 +1,3 @@
-# Kopie von Abakus VCL update subsrciption (1 year)<br />Abakus VCL Update from previous version<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300745879&affiliateid=200057808)
+# Kopie von Abakus VCL update subsrciption (1 year)
+Abakus VCL Update from previous version
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300745879&affiliateid=200057808)

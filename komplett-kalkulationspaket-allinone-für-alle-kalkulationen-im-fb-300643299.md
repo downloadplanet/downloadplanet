@@ -1,4 +1,5 @@
-# Komplett Kalkulationspaket All-in-one für alle Kalkulationen im F&B<br />Folgende Kalkulationsprogramme sind im Kalkulationspaket All-in-one enthalten:
+# Komplett Kalkulationspaket All-in-one für alle Kalkulationen im F&B
+Folgende Kalkulationsprogramme sind im Kalkulationspaket All-in-one enthalten:
 
 =>Komplett Kalkulation von Speisen
 =>Komplett Kalkulation Speisen mit Deckungsbeitrag
@@ -12,4 +13,5 @@ Folgende Unterlagen erhalten Sie:
 =>Beschreibung der Excelprogramme als PDF-Datei
 =>Link für Videoanleitung des jeweiligen Excelprogramm
 
-Unter folgendem Link erhalten Sie die Kurzanleitung für die Kalkulationsprogramme und die Videoanleitung für das Programm. http://www.f-bsupport.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300643299&affiliateid=200057808)
+Unter folgendem Link erhalten Sie die Kurzanleitung für die Kalkulationsprogramme und die Videoanleitung für das Programm. http://www.f-bsupport.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300643299&affiliateid=200057808)

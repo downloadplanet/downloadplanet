@@ -1,4 +1,5 @@
-# Küchenbetriebswirt F&BS<br />Folgende Seminare beinhaltet diese Weiterbildung:
+# Küchenbetriebswirt F&BS
+Folgende Seminare beinhaltet diese Weiterbildung:
 
 • "Effiziente Küchenorganisation" - 2 Tage
 • "Betriebswirtschaftliches Handeln in der Küche" - 2 Tage
@@ -18,4 +19,5 @@ Sie erhalten in diesen vier Seminaren folgende Unterlagen:
 • Fotoprotokoll von jedem Seminar
 
 Abschluß:
-Nach erfolgreicher Prüfung erhalten die Teilnehmer das Zertifikat "Küchenbetriebswirt (F&BS)".<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300607120&affiliateid=200057808)
+Nach erfolgreicher Prüfung erhalten die Teilnehmer das Zertifikat "Küchenbetriebswirt (F&BS)".
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300607120&affiliateid=200057808)

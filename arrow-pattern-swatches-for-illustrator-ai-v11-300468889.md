@@ -1,3 +1,5 @@
-# Arrow pattern swatches for Illustrator (AI) V11<br />www.graphicxtras.com -- 315 Arrow Pattern Swatches for Adobe Illustrator CC 2017 2015 2014 CS6 CS5 CS4 etc V11
+# Arrow pattern swatches for Illustrator (AI) V11
+www.graphicxtras.com -- 315 Arrow Pattern Swatches for Adobe Illustrator CC 2017 2015 2014 CS6 CS5 CS4 etc V11
 
-315 Arrow Patterns swatches for Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10, PC + MAC OS X. License - commercial use OK, royalty-free, all by graphicxtras.com. For more information, please check out the graphicxtras.com website along with our video tutorials on youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468889&affiliateid=200057808)
+315 Arrow Patterns swatches for Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10, PC + MAC OS X. License - commercial use OK, royalty-free, all by graphicxtras.com. For more information, please check out the graphicxtras.com website along with our video tutorials on youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468889&affiliateid=200057808)

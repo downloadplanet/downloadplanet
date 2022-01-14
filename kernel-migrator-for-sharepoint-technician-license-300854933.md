@@ -1,1 +1,3 @@
-# Kernel Migrator for SharePoint - Technician License<br />![Kernel Migrator for SharePoint - Technician License](https://mycommerce.akamaized.net/api/pimages/P300854933/BIG/300854933.PNG)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300854933&affiliateid=200057808)
+# Kernel Migrator for SharePoint - Technician License
+![Kernel Migrator for SharePoint - Technician License](https://mycommerce.akamaized.net/api/pimages/P300854933/BIG/300854933.PNG)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300854933&affiliateid=200057808)

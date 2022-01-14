@@ -1,1 +1,4 @@
-# Donemax Data Eraser for Windows 1 Month<br />![Donemax Data Eraser for Windows 1 Month](https://mycommerce.akamaized.net/api/pimages/P301012652/BIG/301012652.PNG)<br />Donemax Data Eraser for Windows is able to help you securely and permanently erase data from computer, HDD, SSD, memory card, USB drive, digital camera, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301012652&affiliateid=200057808)
+# Donemax Data Eraser for Windows 1 Month
+![Donemax Data Eraser for Windows 1 Month](https://mycommerce.akamaized.net/api/pimages/P301012652/BIG/301012652.PNG)
+Donemax Data Eraser for Windows is able to help you securely and permanently erase data from computer, HDD, SSD, memory card, USB drive, digital camera, etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301012652&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Outlook Management Toolkit[Single User License]<br />Outlook Management Toolkit<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870319&affiliateid=200057808)
+# Outlook Management Toolkit[Single User License]
+Outlook Management Toolkit
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870319&affiliateid=200057808)

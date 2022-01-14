@@ -1,1 +1,3 @@
-# VBA Password Recovery (for business use)<br />VBA Password Recovery is a program that recovers lost or forgotten passwords to all types of documents with VBA (Visual Basic for Applications) code. The program supports all applications of the Microsoft Office suite, Corel WordPerfect Office, AutoCAD, and others that use VBA projects.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300166663&affiliateid=200057808)
+# VBA Password Recovery (for business use)
+VBA Password Recovery is a program that recovers lost or forgotten passwords to all types of documents with VBA (Visual Basic for Applications) code. The program supports all applications of the Microsoft Office suite, Corel WordPerfect Office, AutoCAD, and others that use VBA projects.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300166663&affiliateid=200057808)

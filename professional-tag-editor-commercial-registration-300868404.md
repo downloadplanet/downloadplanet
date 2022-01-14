@@ -1,4 +1,6 @@
-# Professional Tag Editor Commercial Registration<br />![Professional Tag Editor Commercial Registration](https://mycommerce.akamaized.net/api/pimages/P300868404/BIG/300868404.PNG)<br />Professional Tag Editor is a powerful tag editor for audio and video files.
+# Professional Tag Editor Commercial Registration
+![Professional Tag Editor Commercial Registration](https://mycommerce.akamaized.net/api/pimages/P300868404/BIG/300868404.PNG)
+Professional Tag Editor is a powerful tag editor for audio and video files.
 
 Features:
 Edit tags ID3v1, ID3v2, APEv2, MP4, Flac, Ogg Flac, Ogg Vorbis, Opus, Ogg Theora, WMA, WMV,
@@ -16,4 +18,5 @@ Registration modes:
 Registration: For home use.
 Commercial Registration: For commercial use, using Professional Tag Editor for commercial purposes inside a commercial company (for money making use).
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300868404&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300868404&affiliateid=200057808)

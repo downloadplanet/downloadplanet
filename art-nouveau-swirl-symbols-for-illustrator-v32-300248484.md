@@ -1,4 +1,5 @@
-# Art nouveau swirl symbols for Illustrator V32<br />www.graphicxtras.com -- Art nouveau shapes Symbols for Adobe Illustrator PC & MAC OS X Swirls & Flourishes V32
+# Art nouveau swirl symbols for Illustrator V32
+www.graphicxtras.com -- Art nouveau shapes Symbols for Adobe Illustrator PC & MAC OS X Swirls & Flourishes V32
 
 330 Colorful embellishment symbols for Adobe (R) Illustrator (R) Creative Cloud CC 2017 2015 2014 and CS6-10 (Many flourish symbols, foliage symbols, floral symbols, art nouveau symbols and more)
 
@@ -8,4 +9,5 @@ The art nouveau symbols are all royalty-free, for use in commercial and hobby pr
 
 The symbols are all in native format AI files, easy to use and install. To install in Illustrator, simply place the files in the symbols folder and access via the Illustrator symbols palette. Symbols are resolution free, use to any size.
 
-Find out more via graphicxtras.com as well as youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300248484&affiliateid=200057808)
+Find out more via graphicxtras.com as well as youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300248484&affiliateid=200057808)

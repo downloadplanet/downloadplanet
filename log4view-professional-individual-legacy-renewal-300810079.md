@@ -1,1 +1,4 @@
-# Log4View Professional - Individual Legacy Renewal<br />![Log4View Professional - Individual Legacy Renewal](https://mycommerce.akamaized.net/api/pimages/P300810079/BIG/300810079.PNG)<br />LOG4VIEW V2 Professional Individual: Support and update for another year. Applicable for legacy licenses dated before October 2016.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300810079&affiliateid=200057808)
+# Log4View Professional - Individual Legacy Renewal
+![Log4View Professional - Individual Legacy Renewal](https://mycommerce.akamaized.net/api/pimages/P300810079/BIG/300810079.PNG)
+LOG4VIEW V2 Professional Individual: Support and update for another year. Applicable for legacy licenses dated before October 2016.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300810079&affiliateid=200057808)

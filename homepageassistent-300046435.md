@@ -1,1 +1,3 @@
-# Homepage-Assistent<br />![Homepage-Assistent](https://mycommerce.akamaized.net/api/pimages/P300046435/BIG/300046435.JPG)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300046435&affiliateid=200057808)
+# Homepage-Assistent
+![Homepage-Assistent](https://mycommerce.akamaized.net/api/pimages/P300046435/BIG/300046435.JPG)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300046435&affiliateid=200057808)

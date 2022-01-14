@@ -1,4 +1,5 @@
-# Andrews Plugins Blur effects plug-ins for Photoshop & PSP (PC only) V11<br />www.graphicxtras.com -- Andrews Plugins Blurry plug-ins Adobe Photoshop & PSP Blur effects filters PC V11
+# Andrews Plugins Blur effects plug-ins for Photoshop & PSP (PC only) V11
+www.graphicxtras.com -- Andrews Plugins Blurry plug-ins Adobe Photoshop & PSP Blur effects filters PC V11
 
 Andrew's' Plug-ins volume 11 GXBlurry includes seven powerful plug-ins for use in Paint Shop Pro (R) Photo and Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 etc 64bit and 32bit + Painter and others, PC only
 
@@ -20,4 +21,5 @@ To purchase the plug-in set, please select the add to cart button (cookies are r
 
 Plug-in set also contains PDF documentation explaining the plug-in functionality as well as hints and tips. Corel and Paint Shop Pro and Painter are registered trademarks or trademarks of the Corel Corporation.
 
-Home page is http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=181621&affiliateid=200057808)
+Home page is http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=181621&affiliateid=200057808)

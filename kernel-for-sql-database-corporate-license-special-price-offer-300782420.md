@@ -1,1 +1,2 @@
-# Kernel for SQL Database - Corporate License ( Special Price Offer )<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300782420&affiliateid=200057808)
+# Kernel for SQL Database - Corporate License ( Special Price Offer )
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300782420&affiliateid=200057808)

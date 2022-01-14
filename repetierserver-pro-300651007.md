@@ -1,4 +1,6 @@
-# Repetier-Server Pro<br />![Repetier-Server Pro](https://mycommerce.akamaized.net/api/pimages/P300651007/BIG/300651007.PNG)<br />Repetier-Server is the comfortable solution for position independent controlling of your 3D printers.
+# Repetier-Server Pro
+![Repetier-Server Pro](https://mycommerce.akamaized.net/api/pimages/P300651007/BIG/300651007.PNG)
+Repetier-Server is the comfortable solution for position independent controlling of your 3D printers.
 
 Features & Benefits:
 Full Flexibility - Access your 3D printers from anywhere.
@@ -15,4 +17,5 @@ Multi Printer Support - Connects and prints on multiple printers simultaneously.
 Heatup and Cooldown Wizard - This feature measures heating and cooling speed needed for accurate printing time prediction.
 Autoupdating - Just confirm the update and the server does the rest.
 Firmware Upload – Upload your new printer firmware via Repetier-Server – updating was never easier.
-Touchscreen Optimization - Optimized interface for printer mounted touchscreens.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300651007&affiliateid=200057808)
+Touchscreen Optimization - Optimized interface for printer mounted touchscreens.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300651007&affiliateid=200057808)

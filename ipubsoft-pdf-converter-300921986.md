@@ -1,4 +1,6 @@
-# iPubsoft PDF Converter<br />![iPubsoft PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300921986/BIG/300921986.PNG)<br />iPubsoft PDF Converter - A smart and integrated program for converting PDF to Word, Image, ePub, HTML, TXT, etc.!
+# iPubsoft PDF Converter
+![iPubsoft PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300921986/BIG/300921986.PNG)
+iPubsoft PDF Converter - A smart and integrated program for converting PDF to Word, Image, ePub, HTML, TXT, etc.!
 
 PDF is the most common format in our daily life and it brings lots of benefits to us, but we also want to convert PDF files to other formats in some cases. iPubsoft PDF Converter is specially developed for converting Adobe PDF documents to various formats on Windows platform. Trusted by millions of customers for easy PDF conversion solution, our easy to use PDF software has numerous features.
 
@@ -18,4 +20,5 @@ Batch conversion: Simultaneously convert multiple PDF documents at one time.
 Partial conversion: Specify a certain page range to be converted if you don?t want to convert all pages.
 
 Preview makes it easy to view input PDF
-The PDF conversion program is built with a preview thumbnail window on the right, which lets you quick preview the imported PDF documents page by page.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921986&affiliateid=200057808)
+The PDF conversion program is built with a preview thumbnail window on the right, which lets you quick preview the imported PDF documents page by page.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921986&affiliateid=200057808)

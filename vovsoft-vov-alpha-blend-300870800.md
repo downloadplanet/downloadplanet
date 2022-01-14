@@ -1,1 +1,3 @@
-# Vovsoft Vov Alpha Blend<br />Merge two images with transparency using alpha blending.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870800&affiliateid=200057808)
+# Vovsoft Vov Alpha Blend
+Merge two images with transparency using alpha blending.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870800&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Webinar Portfolioanalyse der Hauptgerichte zur Erhöhung des Deckungsbeitrags am 04.04.2016 von 10:15 Uhr bis 11:15 Uhr<br />Seminarbeschreibung:
+# Webinar Portfolioanalyse der Hauptgerichte zur Erhöhung des Deckungsbeitrags am 04.04.2016 von 10:15 Uhr bis 11:15 Uhr
+Seminarbeschreibung:
 Mit diesem Webinar erhalten Sie ein Handwerkszeug in MS Excel, um zukünftig die Nachfrage Ihrer Gäste in der Preispolitik zu berücksichtigen. Sie werden für Ihr Speisenangebot die „Gewinner“, „Renner“, „Verlierer“ und „Schläfer“ ermitteln und sind in der Lage, Maßnahmen zu ergreifen, um den Deckungsbeitrag erheblich zu steigern. Zusätzlich erhalten Sie eine Excelvorlage, die Sie sofort im Betrieb einsetzen können. Sie werden so mit wenig Zeitaufwand sehr schnell Ergebnisse für Ihre Preis- und Angebotsgestaltung erhalten.
 
 Inhalte:
@@ -25,4 +26,5 @@ Voraussetzung zur Teilnahme:
 Internetverbindung über Kabel
 Lautsprecher
 
-Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692923&affiliateid=200057808)
+Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692923&affiliateid=200057808)

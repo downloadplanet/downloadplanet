@@ -1,1 +1,4 @@
-# Shining Mac Video Converter Pro<br />![Shining Mac Video Converter Pro](https://mycommerce.akamaized.net/api/pimages/P300865225/BIG/300865225.PNG)<br />All-in-one Mac Video Converter, Mac UHD 4K Video Converter, Mac 2D to 3D Converter, Mac Audio Converter, Mac DVD Converter, Mac Blu-ray Ripper and Mac Video Editor software.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865225&affiliateid=200057808)
+# Shining Mac Video Converter Pro
+![Shining Mac Video Converter Pro](https://mycommerce.akamaized.net/api/pimages/P300865225/BIG/300865225.PNG)
+All-in-one Mac Video Converter, Mac UHD 4K Video Converter, Mac 2D to 3D Converter, Mac Audio Converter, Mac DVD Converter, Mac Blu-ray Ripper and Mac Video Editor software.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865225&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Shortcut Manager for SharePoint Designer<br />Shortcut Manager for SharePoint Designer enables you to:
+# Shortcut Manager for SharePoint Designer
+Shortcut Manager for SharePoint Designer enables you to:
 Define your own keyboard shortcuts to menu items and recorded macros.
 Define shortcuts to commands that aren't available directly through the SharePoint Designer User Interface.
-Shortcut Manager for Expression Web works with Microsoft Office SharePoint Designer 2007. Download the addin and install it in your machine. After the addin is loaded successfully, you can start assigning shortcuts using the customize shortcuts dialog. The customize shortcuts dialog can be invoked by selecting (Tools | Customize Shortcuts...).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300326361&affiliateid=200057808)
+Shortcut Manager for Expression Web works with Microsoft Office SharePoint Designer 2007. Download the addin and install it in your machine. After the addin is loaded successfully, you can start assigning shortcuts using the customize shortcuts dialog. The customize shortcuts dialog can be invoked by selecting (Tools | Customize Shortcuts...).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300326361&affiliateid=200057808)

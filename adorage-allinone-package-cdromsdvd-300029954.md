@@ -1,4 +1,6 @@
-# Adorage ALL-IN-ONE package (CD-ROMs/DVD)<br />![Adorage ALL-IN-ONE package (CD-ROMs/DVD)](https://mycommerce.akamaized.net/api/pimages/P300029954/BIG/300029954.JPG)<br /> Get more informations about this product series, samples and descriptions...
+# Adorage ALL-IN-ONE package (CD-ROMs/DVD)
+![Adorage ALL-IN-ONE package (CD-ROMs/DVD)](https://mycommerce.akamaized.net/api/pimages/P300029954/BIG/300029954.JPG)
+ Get more informations about this product series, samples and descriptions...
 
 Order Information
 ALL PLUGINS and all available EFFECTPACKAGES in one single package!!!
@@ -61,4 +63,5 @@ Perfect effects for your travel documentation and holiday film
 More than 2000 great effects for your travel documentation. Effects with Tourist attractions, Skylines and Shapes related to traveling.
 
 Order Now
-Request Quote<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300029954&affiliateid=200057808)
+Request Quote
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300029954&affiliateid=200057808)

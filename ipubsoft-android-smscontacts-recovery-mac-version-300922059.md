@@ -1,5 +1,8 @@
-# iPubsoft Android SMS+Contacts Recovery (Mac Version)<br />![iPubsoft Android SMS+Contacts Recovery (Mac Version)](https://mycommerce.akamaized.net/api/pimages/P300922059/BIG/300922059.PNG)<br />Mac Android Data Recovery Tool to Rescue Your Lost Contacts & Messages!
+# iPubsoft Android SMS+Contacts Recovery (Mac Version)
+![iPubsoft Android SMS+Contacts Recovery (Mac Version)](https://mycommerce.akamaized.net/api/pimages/P300922059/BIG/300922059.PNG)
+Mac Android Data Recovery Tool to Rescue Your Lost Contacts & Messages!
 Android mobile phone users may encounter such situation that accidentally delete their contacts or SMS messages from Android phone and look around for a way to get them back. When you delete files from Android, they were not really gone, but only marked as useless and could be overwritten by new data. You’d better stop using the phone to ensure a higher rate of recovery with iPubsoft Android SMS+Contacts Recovery for Mac.
 Hassle-freely to restore text messages and contacts from Android mobiles on Mac.
 Preview the scanned out recoverable data one by one before the recovery started.
-Turn the recovered data into readable and printable file type for further use.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300922059&affiliateid=200057808)
+Turn the recovered data into readable and printable file type for further use.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300922059&affiliateid=200057808)

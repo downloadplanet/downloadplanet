@@ -1,1 +1,3 @@
-# MOBILedit Phone Manager Family Edition<br />-<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=221005&affiliateid=200057808)
+# MOBILedit Phone Manager Family Edition
+-
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=221005&affiliateid=200057808)

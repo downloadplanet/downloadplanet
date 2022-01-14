@@ -1,2 +1,5 @@
-# SAM Professional (en)<br />![SAM Professional (en)](https://mycommerce.akamaized.net/api/pimages/P300377329/BIG/300377329.PNG)<br />Determine the "identity" of your emails. Set with SAM the sender, signature and folder for sent items. For that several rules are available.
-All details | All product versions/licenses | Switch to German version<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300377329&affiliateid=200057808)
+# SAM Professional (en)
+![SAM Professional (en)](https://mycommerce.akamaized.net/api/pimages/P300377329/BIG/300377329.PNG)
+Determine the "identity" of your emails. Set with SAM the sender, signature and folder for sent items. For that several rules are available.
+All details | All product versions/licenses | Switch to German version
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300377329&affiliateid=200057808)

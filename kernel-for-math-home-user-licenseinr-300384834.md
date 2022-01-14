@@ -1,1 +1,2 @@
-# kernel for math - home user license[INR]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384834&affiliateid=200057808)
+# kernel for math - home user license[INR]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384834&affiliateid=200057808)

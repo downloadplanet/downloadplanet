@@ -1,4 +1,6 @@
-# Auto Backup for MySQL Standard Edition Non-Commercial License<br />![Auto Backup for MySQL Standard Edition Non-Commercial License](https://mycommerce.akamaized.net/api/pimages/P300067646/BIG/300067646.JPG)<br />SwordSky Software
+# Auto Backup for MySQL Standard Edition Non-Commercial License
+![Auto Backup for MySQL Standard Edition Non-Commercial License](https://mycommerce.akamaized.net/api/pimages/P300067646/BIG/300067646.JPG)
+SwordSky Software
 
 http://www.swordsky.com
 
@@ -43,4 +45,5 @@ Compression protocol and SSL protocol supported.
 Powerful task log manager.
 Auto run when Windows user log in.
 User defined date and time format.
-Limit the maximum size of each task log file.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067646&affiliateid=200057808)
+Limit the maximum size of each task log file.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067646&affiliateid=200057808)

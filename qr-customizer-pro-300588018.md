@@ -1,4 +1,6 @@
-# QR Customizer Pro<br />![QR Customizer Pro](https://mycommerce.akamaized.net/api/pimages/P300588018/BIG/300588018.PNG)<br />QR Codes offer a number of application purposes and with the smartphone boom they gain in importance. You can import a link, a complete business card, a WLAN access or an address for with just one scan.
+# QR Customizer Pro
+![QR Customizer Pro](https://mycommerce.akamaized.net/api/pimages/P300588018/BIG/300588018.PNG)
+QR Codes offer a number of application purposes and with the smartphone boom they gain in importance. You can import a link, a complete business card, a WLAN access or an address for with just one scan.
 
 With QR Customizer Pro you can create and design your QR Codes for the following purposes:
 
@@ -25,4 +27,5 @@ Overlay the QR Code with predefined or your own glossy effects.
 Add a nice frame to highlight your QR Code from the background.
 Export your QR Codes in PNG format with alpha channel transparency.
 
-The included graphics, patterns, effects, textures and frames can be used for private and commercial purposes without restrictions or fees.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300588018&affiliateid=200057808)
+The included graphics, patterns, effects, textures and frames can be used for private and commercial purposes without restrictions or fees.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300588018&affiliateid=200057808)

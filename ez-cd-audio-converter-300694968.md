@@ -1,4 +1,6 @@
-# EZ CD Audio Converter<br />![EZ CD Audio Converter](https://mycommerce.akamaized.net/api/pimages/P300694968/BIG/300694968.PNG)<br />Easy-to-use, all-in-one music converter software with professional audio quality.
+# EZ CD Audio Converter
+![EZ CD Audio Converter](https://mycommerce.akamaized.net/api/pimages/P300694968/BIG/300694968.PNG)
+Easy-to-use, all-in-one music converter software with professional audio quality.
 · Batch convert audio files between all audio file formats with superb audio quality
 · Secure rip audio CDs in bit perfect audio quality
 · Burn audio CDs, MP3 CD/DVDs, and Data CD/DVDs
@@ -22,4 +24,5 @@ Sample rates: 8 kHz - 384 kHz, DSD64 (2.8224 MHz), DSD128 (5.6448 MHz), DSD256 (
 Convert audio files to:
 CD-DA (audio CD cda) AAC (aac m4a m4b), HE AAC (aac m4a m4b), Apple AAC, FhG FDK AAC, AC-3 (ac3), Apple Lossless (m4a), FLAC (flac), Opus (opus), DSD (dff dsf wv), DSDIFF (dff), DSD Stream File (dsf), DXD, PCM, Wave (wav RIFF RF64), AU/SND (au), AIFF (aiff), Vorbis (ogg), MPEG Layer-3 (mp3), LAME MP3, Monkey's Audio (ape), Windows Media Audio (wma), WavPack (wv), WavPack DSD (wv), Wave64 (w64), Musepack (mpc), True Audio (tta)
 Convert audio files from:
-CD-DA (audio CD cda) AAC (aac m4a 3g2 3ga 3gp m4b mp4), HE AAC (aac m4a 3g2 3ga 3gp m4b mp4), xHE-AAC, (m4a), FLAC (flac), Opus (opus ogg), Wave (wav RIFF RF64), DSD (dsf dff wv), Super Audio CD ISO (SACD ISO), Apple Lossless (m4a), MPEG Layer-3 (mp3), MPEG Layer-2 (mp2), MPEG Layer-1 (mp1), Monkey's Audio (ape), AC-3 (ac3), DTS (dts dtshd), TrueHD (thd truehd), Atmos, Windows Media Audio (wma asf wmv), Vorbis (ogg), WavPack (wv), Musepack (mpc), True Audio (tta), Adaptive Multi-Rate NB+WB (amr), AIFF (aif aiff), AU (au), avi, caf, cue, divx, dv, eac3, flv, m2ts, m3u, m3u8, mka, mkv, mov, mpeg, mpg, oma, omg, Real Audio (ra ram rm), Shorten (shn), Speex (spx), TAK (tak), vob, Wave64 (w64), webm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300694968&affiliateid=200057808)
+CD-DA (audio CD cda) AAC (aac m4a 3g2 3ga 3gp m4b mp4), HE AAC (aac m4a 3g2 3ga 3gp m4b mp4), xHE-AAC, (m4a), FLAC (flac), Opus (opus ogg), Wave (wav RIFF RF64), DSD (dsf dff wv), Super Audio CD ISO (SACD ISO), Apple Lossless (m4a), MPEG Layer-3 (mp3), MPEG Layer-2 (mp2), MPEG Layer-1 (mp1), Monkey's Audio (ape), AC-3 (ac3), DTS (dts dtshd), TrueHD (thd truehd), Atmos, Windows Media Audio (wma asf wmv), Vorbis (ogg), WavPack (wv), Musepack (mpc), True Audio (tta), Adaptive Multi-Rate NB+WB (amr), AIFF (aif aiff), AU (au), avi, caf, cue, divx, dv, eac3, flv, m2ts, m3u, m3u8, mka, mkv, mov, mpeg, mpg, oma, omg, Real Audio (ra ram rm), Shorten (shn), Speex (spx), TAK (tak), vob, Wave64 (w64), webm
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300694968&affiliateid=200057808)

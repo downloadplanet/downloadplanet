@@ -1,5 +1,7 @@
-# PDF Secure SA<br />PDF Secure software automates the process of password protecting pdf's, encrypting pdf's, adding permissions, batch list processing support included up to 2 billion files, Save and load lists of files to process, Optional Random password generation, quick and easy to use interface. Includes Encrypt RC 40 bit and RC 128 bit support.
+# PDF Secure SA
+PDF Secure software automates the process of password protecting pdf's, encrypting pdf's, adding permissions, batch list processing support included up to 2 billion files, Save and load lists of files to process, Optional Random password generation, quick and easy to use interface. Includes Encrypt RC 40 bit and RC 128 bit support.
 All permission levels that are available in Acrobat can be set:-
 Disallow all permissions Disallow all print permissions Disallow print permissions except low quality print Disallow changing the document Disallow document Assembly (also must include changing the document) Disallow content copying or extraction Disallow content extraction for accessibility (also must include content copying or extraction) Disallow commenting (also must include filling of form fields) Disallow filling of form fields (also must include commenting & changing the document) Disallow signing (also must include filling of form fields, commenting & changing the document) Disallow creation of template pages (also must include changing the document & filling of form fields)
 NOTE: SA version is standalone i.e. Adobe Acrobat is NOT required.
-All future updates to v1.xx version are free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300450834&affiliateid=200057808)
+All future updates to v1.xx version are free of charge.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300450834&affiliateid=200057808)

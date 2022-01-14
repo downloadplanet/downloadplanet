@@ -1,1 +1,3 @@
-# Ajax Uploader 4.0 IP License Upgrade<br />You may also install and use the Software on an unlimited number of developer workstations (but not on a development server) for use in connection with the same single website host name when accessed by the http://localhost/Webapplication<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300748494&affiliateid=200057808)
+# Ajax Uploader 4.0 IP License Upgrade
+You may also install and use the Software on an unlimited number of developer workstations (but not on a development server) for use in connection with the same single website host name when accessed by the http://localhost/Webapplication
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300748494&affiliateid=200057808)

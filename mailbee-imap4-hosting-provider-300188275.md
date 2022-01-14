@@ -1,2 +1,4 @@
-# MailBee IMAP4 (Hosting Provider)<br />MailBee IMAP4 allows you to easily develop e-mail managing and retrieving engine which takes full advantage of advanced features of IMAP4 protocol. Select and manage mailboxes, retrieve envelopes, body structures, full or partial messages, perform message search (including search for new messages), manage and delete mail in a few lines of code.
-Messages are retrieved as easy-to-use Message objects which can be saved messages to disk, converted into plain-text of html presentation and much more.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300188275&affiliateid=200057808)
+# MailBee IMAP4 (Hosting Provider)
+MailBee IMAP4 allows you to easily develop e-mail managing and retrieving engine which takes full advantage of advanced features of IMAP4 protocol. Select and manage mailboxes, retrieve envelopes, body structures, full or partial messages, perform message search (including search for new messages), manage and delete mail in a few lines of code.
+Messages are retrieved as easy-to-use Message objects which can be saved messages to disk, converted into plain-text of html presentation and much more.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300188275&affiliateid=200057808)

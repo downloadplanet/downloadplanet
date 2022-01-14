@@ -1,4 +1,6 @@
-# Log Parser Lizard - Standard Edition - Single User License<br />![Log Parser Lizard - Standard Edition - Single User License](https://mycommerce.akamaized.net/api/pimages/P300952518/BIG/300952518.JPG)<br />Your Swiss army knife for system logs and SQL databases. Log Parser Lizard is a powerful GUI for Microsoft Log Parser engine and powerful log analyzer. Analyze your log files and create Excel and PDF reports in seconds. Log Parser is a very powerful, free and versatile tool that provides universal query access to text based data, such as log files, XML files, and CSV files, as well as key data sources on the Microsoft Windows operating system, such as the event log, IIS log, the registry, the file system, and the Active Directory directory service. Becouse the command line interface is not very intuitive, we have created Log Parser Lizard, a GUI tool for managing queries, exporting results to Excel, PDF, charts, etc... In addition it provides input filters for log4net file format (with support for regular expressions), SQL server T-SQL, OLEDB, Google BigQuery and Facebook Query Language (FQL).
+# Log Parser Lizard - Standard Edition - Single User License
+![Log Parser Lizard - Standard Edition - Single User License](https://mycommerce.akamaized.net/api/pimages/P300952518/BIG/300952518.JPG)
+Your Swiss army knife for system logs and SQL databases. Log Parser Lizard is a powerful GUI for Microsoft Log Parser engine and powerful log analyzer. Analyze your log files and create Excel and PDF reports in seconds. Log Parser is a very powerful, free and versatile tool that provides universal query access to text based data, such as log files, XML files, and CSV files, as well as key data sources on the Microsoft Windows operating system, such as the event log, IIS log, the registry, the file system, and the Active Directory directory service. Becouse the command line interface is not very intuitive, we have created Log Parser Lizard, a GUI tool for managing queries, exporting results to Excel, PDF, charts, etc... In addition it provides input filters for log4net file format (with support for regular expressions), SQL server T-SQL, OLEDB, Google BigQuery and Facebook Query Language (FQL).
 
 Managing millions of logs. Loved by over 150.000 people worldwide
 
@@ -22,4 +24,5 @@ A company license allows you to install and register this product on up to 60 co
 
 Purchase 2 or more licenses and receive 20% off each license.
 
-For current prices and additional information visit our web site www.lizard-labs.com.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952518&affiliateid=200057808)
+For current prices and additional information visit our web site www.lizard-labs.com.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952518&affiliateid=200057808)

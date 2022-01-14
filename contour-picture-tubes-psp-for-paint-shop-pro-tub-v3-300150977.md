@@ -1,4 +1,5 @@
-# Contour Picture tubes PSP for Paint Shop Pro (TUB) V3<br />www.graphicxtras.com -- Contour Picture tubes PSP Paint Shop Pro TUB PC V3
+# Contour Picture tubes PSP for Paint Shop Pro (TUB) V3
+www.graphicxtras.com -- Contour Picture tubes PSP Paint Shop Pro TUB PC V3
 
 100 Contour and inset picture tubes for Corel (R) Paint Shop Pro (R) Photo (+7)
 Colorful selection of mixed contour and inset and circular zoom design picture tubes for Corel (R) Paint Shop Pro (R)
@@ -21,4 +22,5 @@ MENU:
 
 Please mail me with any questions
 
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300150977&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300150977&affiliateid=200057808)

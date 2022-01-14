@@ -1,4 +1,5 @@
-# Wave tubes for Paint Shop Pro (TUB) V2<br />www.graphicxtras.com -- Wave Tubes for PaintShop Pro PSP Painting tools TUB Wavy V2
+# Wave tubes for Paint Shop Pro (TUB) V2
+www.graphicxtras.com -- Wave Tubes for PaintShop Pro PSP Painting tools TUB Wavy V2
 
 130 Wavy and wave picture tubes for Corel (R) Paint Shop Pro (R) Photo + 40 bonus brushes
 Colorful selection of mixed wavy themed / wave design picture tubes for Corel (R) Paint Shop Pro (R)
@@ -20,4 +21,5 @@ MENU:
 
 Please mail me with any questionshttp://www.graphicxtras.com/wave-wavy.htm
 
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300063200&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300063200&affiliateid=200057808)

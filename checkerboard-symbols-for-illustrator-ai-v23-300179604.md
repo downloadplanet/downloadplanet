@@ -1,4 +1,5 @@
-# Checkerboard symbols for Illustrator (AI) V23<br />www.graphicxtras.com -- Checkerboard Symbols for Adobe Illustrator Creative Cloud Shapes V23
+# Checkerboard symbols for Illustrator (AI) V23
+www.graphicxtras.com -- Checkerboard Symbols for Adobe Illustrator Creative Cloud Shapes V23
 
 350 Symbols for Adobe Illustrator (Checkerboard symbols, square checks, 60s symbols, go go symbols, flag symbols, board symbols, unusual checks symbols, check symbols and many more
 
@@ -11,4 +12,5 @@ The symbols are all in native format AI files, easy to use and install. To insta
 To buy, click the buy button - secure sales - download only
 
 
-Any questions, please e-mail me on Please e-mail us on support on the graphicxtras.com site or check our site, graphicxtras.com as well as our videos on youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300179604&affiliateid=200057808)
+Any questions, please e-mail me on Please e-mail us on support on the graphicxtras.com site or check our site, graphicxtras.com as well as our videos on youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300179604&affiliateid=200057808)

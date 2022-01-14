@@ -1,4 +1,6 @@
-# Dynamic Photo HDR 6<br />![Dynamic Photo HDR 6](https://mycommerce.akamaized.net/api/pimages/P300870562/BIG/300870562.JPG)<br />Many times you see a beautiful scene and of course you take a picture! The result is often far from being the magical scene you remember.
+# Dynamic Photo HDR 6
+![Dynamic Photo HDR 6](https://mycommerce.akamaized.net/api/pimages/P300870562/BIG/300870562.JPG)
+Many times you see a beautiful scene and of course you take a picture! The result is often far from being the magical scene you remember.
 
 Our eyes are very adaptive and they are also more sensitive to intensity than color. It is estimated that our eye can see over a dynamic range of nearly 24 f-stops while a digital camera can capture a dynamic range around 6 to 9 f-stops.
 
@@ -20,4 +22,5 @@ Live HDR preview during various steps, you can see tonemapped image preview even
 Dynamic Photo HDR has already few very interesting build-in filters for Orton Effect or to create eye-catching B/W photos.
 You can use new FITYMI Pseudo-HDR process on a single 8-bit source
 More cool effects such as Vignette or Mysterious light.
-Match Color will allow you to match your new tonemapped image to any other photo or painting.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870562&affiliateid=200057808)
+Match Color will allow you to match your new tonemapped image to any other photo or painting.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870562&affiliateid=200057808)

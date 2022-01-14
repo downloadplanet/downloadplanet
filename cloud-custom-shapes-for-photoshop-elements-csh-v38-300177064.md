@@ -1,4 +1,5 @@
-# Cloud Custom shapes for Photoshop & Elements (CSH) V38<br />www.graphicxtras.com -- Cloud Custom Shapes for Adobe Photoshop & Elements Sketchy & Cartoon CSH V38
+# Cloud Custom shapes for Photoshop & Elements (CSH) V38
+www.graphicxtras.com -- Cloud Custom Shapes for Adobe Photoshop & Elements Sketchy & Cartoon CSH V38
 
 Custom shapes Photoshop and Photoshop Elements
 140 Clouds shapes for Adobe (R) Photoshop (R)
@@ -20,4 +21,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300177064&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300177064&affiliateid=200057808)

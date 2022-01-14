@@ -1,5 +1,8 @@
-# HelpNDoc Professional Edition (Named License)<br />![HelpNDoc Professional Edition (Named License)](https://mycommerce.akamaized.net/api/pimages/P300316750/BIG/300316750.PNG)<br />HelpNDoc is an easy to use yet powerful help authoring environment which can generate various documentation formats from a single source.
+# HelpNDoc Professional Edition (Named License)
+![HelpNDoc Professional Edition (Named License)](https://mycommerce.akamaized.net/api/pimages/P300316750/BIG/300316750.PNG)
+HelpNDoc is an easy to use yet powerful help authoring environment which can generate various documentation formats from a single source.
 HelpNDoc provides a clear and efficient interface to build the most amazing help files, manuals, documentations and eBooks without worrying about the inner working of documentation generation. You just have to enter your content in the built-in word processor and hit the "Generate" button to obtain a fully functional help file, user manual or eBook which looks exactly as you designed it.
 Forget about bloated user interfaces and incomprehensible tools. HelpNDoc has been engineered to provide the most advanced functionalities in their simplest form: creating html help files is usually a painful process but thanks to HelpNDoc you may surprise yourself enjoying it!
 You know how to use windows explorer and your favourite word processor? Then you already know how to use HelpNDoc: it's that easy! Add to that many powerful features such as live spell checking in a fully WYSIWYG (What You See Is What You Get) environment and you'll begin to imagine how fast and easy it will be for you to create your next help file and how professional it will look like.
-It's time to stop paying for overpriced and useless tools!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300316750&affiliateid=200057808)
+It's time to stop paying for overpriced and useless tools!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300316750&affiliateid=200057808)

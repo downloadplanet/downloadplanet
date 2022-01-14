@@ -1,1 +1,3 @@
-# Bundle Offer BitRecover - (EML Converter + EML to XPS + EML to PDF + EML to Gmail + EML to Yahoo + EML to CSV) Wizard - Personal License<br />(EML Converter + EML to XPS + EML to PDF + EML to Gmail + EML to Yahoo + EML to CSV) Wizard - Bundle Offer<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998734&affiliateid=200057808)
+# Bundle Offer BitRecover - (EML Converter + EML to XPS + EML to PDF + EML to Gmail + EML to Yahoo + EML to CSV) Wizard - Personal License
+(EML Converter + EML to XPS + EML to PDF + EML to Gmail + EML to Yahoo + EML to CSV) Wizard - Bundle Offer
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998734&affiliateid=200057808)

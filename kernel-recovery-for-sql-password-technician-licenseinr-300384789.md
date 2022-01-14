@@ -1,1 +1,2 @@
-# Kernel Recovery for SQL Password - Technician License[INR]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384789&affiliateid=200057808)
+# Kernel Recovery for SQL Password - Technician License[INR]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384789&affiliateid=200057808)

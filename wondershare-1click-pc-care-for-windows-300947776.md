@@ -1,4 +1,6 @@
-# Wondershare 1-Click PC Care for Windows<br />![Wondershare 1-Click PC Care for Windows](https://mycommerce.akamaized.net/api/pimages/P300947776/BIG/300947776.PNG)<br />Why choose Wondershare Kinager?
+# Wondershare 1-Click PC Care for Windows
+![Wondershare 1-Click PC Care for Windows](https://mycommerce.akamaized.net/api/pimages/P300947776/BIG/300947776.PNG)
+Why choose Wondershare Kinager?
 
 Computer Slow, Unstable, Vulnerable to Attack? Do not ignore it.
 Most of slow computers are affected by various hidden Windows errors. They firstly become slow, and then freeze up now and then. One day they crash all of sudden.
@@ -24,4 +26,5 @@ Android Phone Management
 
 Easily import or export contacts to let you record your contacts when you change a new phone. You can also add, delete, group and back up your contacts.
 Convert, transfer your multimedia files to your phone. No need to be worried about file format incompatibility.
-Fast backup or restore your contacts, SMS, APK applications from your mobile to PC whenever you want change your phone.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947776&affiliateid=200057808)
+Fast backup or restore your contacts, SMS, APK applications from your mobile to PC whenever you want change your phone.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947776&affiliateid=200057808)

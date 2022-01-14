@@ -1,2 +1,5 @@
-# LED professional Review (LpR) - FULL VERSION - Digital Magazine - Annual Subscription<br />![LED professional Review (LpR) - FULL VERSION - Digital Magazine - Annual Subscription](https://mycommerce.akamaized.net/api/pimages/P300180361/BIG/300180361.PNG)<br />6 Issues per Year incl. Shipment
-LED professional Review (LpR) *** Digital Magazine Subscription *** 6 issues per year *** Complete article content *** Commercial use *** Printable *** High resolution pictures & graphs *** Access to the complete LpR archives *** Easy cancellation at any time *** info@lugerresearch.com *** +43 5572 394489 *** Luger Research e.U. - Publisher (Austria/Europe)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300180361&affiliateid=200057808)
+# LED professional Review (LpR) - FULL VERSION - Digital Magazine - Annual Subscription
+![LED professional Review (LpR) - FULL VERSION - Digital Magazine - Annual Subscription](https://mycommerce.akamaized.net/api/pimages/P300180361/BIG/300180361.PNG)
+6 Issues per Year incl. Shipment
+LED professional Review (LpR) *** Digital Magazine Subscription *** 6 issues per year *** Complete article content *** Commercial use *** Printable *** High resolution pictures & graphs *** Access to the complete LpR archives *** Easy cancellation at any time *** info@lugerresearch.com *** +43 5572 394489 *** Luger Research e.U. - Publisher (Austria/Europe)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300180361&affiliateid=200057808)

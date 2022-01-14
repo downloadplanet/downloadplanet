@@ -1,4 +1,5 @@
-# Trainingspaket "Das Einmaleins der Kennzahlen im F&B-Bereich" vom 20.09.- 21.09.2016 in Frankfurt<br />Folgende Produkte erhalten Sie von uns:
+# Trainingspaket "Das Einmaleins der Kennzahlen im F&B-Bereich" vom 20.09.- 21.09.2016 in Frankfurt
+Folgende Produkte erhalten Sie von uns:
 
 Komplettpaket Soll Umsatz pro Mitarbeiterstunde und Ermittlung der Arbeitsgruppenkosten
 Komplettpaket Erfolgskennzahlensystem 2015-2018
@@ -26,4 +27,5 @@ Beginn: Dienstag, 20.09.2016 10.00 - 18.00 Uhr
 Ende: Mittwoch, 21.09.2016 09.00 - 17.00 Uhr
 
 Seminarort: siehe bitte Homepage
-Übernachtungsmöglichkeiten: Siehe bitte Homepage<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671877&affiliateid=200057808)
+Übernachtungsmöglichkeiten: Siehe bitte Homepage
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671877&affiliateid=200057808)

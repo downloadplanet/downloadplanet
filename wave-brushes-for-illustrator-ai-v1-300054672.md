@@ -1,4 +1,5 @@
-# Wave Brushes for Illustrator (AI) V1<br />www.graphicxtras.com -- Wave brushes for Adobe Illustrator CC & CS6 5 4 3 2 1 PC & MAC OS X Lines & Wavy V1
+# Wave Brushes for Illustrator (AI) V1
+www.graphicxtras.com -- Wave brushes for Adobe Illustrator CC & CS6 5 4 3 2 1 PC & MAC OS X Lines & Wavy V1
 
 COMMERCIAL USE OK ================= All designs by graphicxtras.com Use items to create products for sale, hobby items and more 150 Wavy line brushes for Adobe (R) Illustrator (R) CC Creative Cloud 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 10 9 8, PC + MAC OS X. Brushes pack includes slow wave brushes, colorful wave brushes, unusual wavy brushes, extreme wavy brushes and many more
 
@@ -14,4 +15,5 @@ To purchase, please click the add to cart (cookies are required for this operati
 
 
 Mail me if you have any questions
-Brushes for Illustratorbr><br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300054672&affiliateid=200057808)
+Brushes for Illustratorbr>
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300054672&affiliateid=200057808)

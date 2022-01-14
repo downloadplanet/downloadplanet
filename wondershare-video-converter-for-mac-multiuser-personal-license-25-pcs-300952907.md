@@ -1,4 +1,6 @@
-# Wondershare Video Converter for Mac - Multi-User Personal License (2-5 PCs)<br />![Wondershare Video Converter for Mac - Multi-User Personal License (2-5 PCs)](https://mycommerce.akamaized.net/api/pimages/P300952907/BIG/300952907.PNG)<br />Wondershare Video Converter for Mac provides you a really easy solution for converting various video and audio formats on Mac OS. This Mac video converter can convert different video (HD video, camera video, web video) and audio files for importing to sorts of mobile players, applications and website, such as the latest iPhone4, iPad, iPod, iPhone, Apple TV, PSP, iTunes, iMovie, YouTube (web), etc on Mac OS X.
+# Wondershare Video Converter for Mac - Multi-User Personal License (2-5 PCs)
+![Wondershare Video Converter for Mac - Multi-User Personal License (2-5 PCs)](https://mycommerce.akamaized.net/api/pimages/P300952907/BIG/300952907.PNG)
+Wondershare Video Converter for Mac provides you a really easy solution for converting various video and audio formats on Mac OS. This Mac video converter can convert different video (HD video, camera video, web video) and audio files for importing to sorts of mobile players, applications and website, such as the latest iPhone4, iPad, iPod, iPhone, Apple TV, PSP, iTunes, iMovie, YouTube (web), etc on Mac OS X.
 
 The Video Converter for Mac can convert not only standard definition videos (AVI, MP4, MPG, WMV, MOV, etc), but also high definition videos (MTS, M2TS, TS, HD AVI, etc), and output video formats including MOV, FLV, MP4, etc. and other HD videos (HD MP4, HD WMV, HD MOV, etc). It also extracts and converts audio track from your video files as WAV, MKA, OGG, 3GP, Mp3 and M4A.
 
@@ -40,4 +42,5 @@ The built-in player in this video converter for Mac enables you to preview video
 --Merge more than one video files into a single file.
 
 --Easy to use
-Batch conversion, subtitle setting and drag-drop functions make everything much easier.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952907&affiliateid=200057808)
+Batch conversion, subtitle setting and drag-drop functions make everything much easier.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952907&affiliateid=200057808)

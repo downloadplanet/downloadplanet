@@ -1,1 +1,3 @@
-# Elecard AVC PlugIn<br />The AVC plug-in allows you to playback files compatible with the AVC/H.264 (MPEG-4 part 10) standard in Elecard's products: MPEG Player, DVD Player, XMuxer Pro and XMuxer Lite. To install AVC plugIn, download and unzip the pack, run the installer and follow the onscreen instructions.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300144095&affiliateid=200057808)
+# Elecard AVC PlugIn
+The AVC plug-in allows you to playback files compatible with the AVC/H.264 (MPEG-4 part 10) standard in Elecard's products: MPEG Player, DVD Player, XMuxer Pro and XMuxer Lite. To install AVC plugIn, download and unzip the pack, run the installer and follow the onscreen instructions.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300144095&affiliateid=200057808)

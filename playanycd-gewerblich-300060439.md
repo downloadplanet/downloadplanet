@@ -1,1 +1,3 @@
-# PlayAnyCD gewerblich<br />helps you to play music CD's on your PC. If your CD drives can detect the CD your chances are good to play it on your PC! You can save the tracks as WAV files. The program has a Karaoke mode in which you hear only the background music.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060439&affiliateid=200057808)
+# PlayAnyCD gewerblich
+helps you to play music CD's on your PC. If your CD drives can detect the CD your chances are good to play it on your PC! You can save the tracks as WAV files. The program has a Karaoke mode in which you hear only the background music.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060439&affiliateid=200057808)

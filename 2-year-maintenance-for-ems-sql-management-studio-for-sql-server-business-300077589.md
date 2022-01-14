@@ -1,1 +1,3 @@
-# 2 Year Maintenance for EMS SQL Management Studio for SQL Server (Business)<br />EMS SQL Management Studio for SQL Server is a complete solution for SQL Server database administration and development. SQL Studio unites the must-have SQL Server tools in one powerful and easy-to-use environment that will make you more productive than ever before!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300077589&affiliateid=200057808)
+# 2 Year Maintenance for EMS SQL Management Studio for SQL Server (Business)
+EMS SQL Management Studio for SQL Server is a complete solution for SQL Server database administration and development. SQL Studio unites the must-have SQL Server tools in one powerful and easy-to-use environment that will make you more productive than ever before!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300077589&affiliateid=200057808)

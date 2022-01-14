@@ -1,4 +1,5 @@
-# Zoom font / EPS shapes V4<br />www.graphicxtras.com -- Zoom font CorelDRAW & Painter & Publisher & Indesign Shapes Manga & Comics & Effects Lines V4
+# Zoom font / EPS shapes V4
+www.graphicxtras.com -- Zoom font CorelDRAW & Painter & Publisher & Indesign Shapes Manga & Comics & Effects Lines V4
 
 Zoom and manga and focus line designs: TTF (true type font set) + EPS (vector shape set)
 Includes 92 unique designs and exciting and useful design elements
@@ -22,4 +23,5 @@ Open or place or import EPS designs into many different applications
 Fonts are stored in normal true type font format
 Adobe and Photoshop and Illustrator and Fireworks and Flash are registered trademarks of Adobe Systems Incorporated; Corel and Paint Shop Pro and CorelDRAW and Photo-Paint and Painter are registered trademarks of Corel Corporation; other trademarks are owned by their respective owners
 http://www.graphicxtras.com for more details about font sets such as see examples of the designs as well as a thumbnail gallery of many of the designs as well as many additional examples of the vector designs.
-Mail any questions to support at graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300070394&affiliateid=200057808)
+Mail any questions to support at graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300070394&affiliateid=200057808)

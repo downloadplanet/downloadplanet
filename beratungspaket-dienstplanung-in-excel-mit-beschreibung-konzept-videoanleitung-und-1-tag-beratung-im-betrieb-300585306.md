@@ -1,4 +1,5 @@
-# Beratungspaket Dienstplanung in Excel mit Beschreibung, Konzept, Videoanleitung und 1 Tag Beratung im Betrieb<br />Folgende Themen beinhaltet der Beratungstag:
+# Beratungspaket Dienstplanung in Excel mit Beschreibung, Konzept, Videoanleitung und 1 Tag Beratung im Betrieb
+Folgende Themen beinhaltet der Beratungstag:
 
 Grundlagen der Dienstplangestaltung
 Ermitteln der Arbeitsgruppenkosten und PKproStd pro Mitarbeiter
@@ -33,4 +34,5 @@ Excelprogramm Ermittlung der Arbeitsgruppenkosten
 Konzept wirtschaftliche Dienstplanung
 Beschreibung Excelschema Dienstplanung
 Videoanleitung Excelschema
-Videoaufzeichnung vom Webinar wirtschaftliche Dienstplanung<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585306&affiliateid=200057808)
+Videoaufzeichnung vom Webinar wirtschaftliche Dienstplanung
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585306&affiliateid=200057808)

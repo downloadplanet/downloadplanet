@@ -1,4 +1,7 @@
-# MobiKin Doctor for Android - 1 Year, 9 Devices, 3 PCs License<br />![MobiKin Doctor for Android - 1 Year, 9 Devices, 3 PCs License](https://mycommerce.akamaized.net/api/pimages/P300788987/BIG/300788987.PNG)<br />Recover Deleted Contacts, SMS, Photos and More from Android Devices Freely
+# MobiKin Doctor for Android - 1 Year, 9 Devices, 3 PCs License
+![MobiKin Doctor for Android - 1 Year, 9 Devices, 3 PCs License](https://mycommerce.akamaized.net/api/pimages/P300788987/BIG/300788987.PNG)
+Recover Deleted Contacts, SMS, Photos and More from Android Devices Freely
 Android devices have become one of the most popular devices in the nowadays' digital life. So it is inevitable that unlimited files like phone numbers, email address, messages, holiday photos, music or more be saved in these portable devices. However, there are so many reasons will result in data losing on your Android cell phones or tablets, then what will you do? Obviously, if you don't want to lose these data permanently, then you need to ask help from this professional iOS Data Recovery program. With it, you can:
 Be capable of recovering up to 8 types of Android data including: Contacts, Messages, Media Files (Photos, Movies, Music), Documents, etc.
-Work well with all Android devices manufactured by Samsung, HTC, Motorola, LG, Sony, Google, Asus, and so forth.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300788987&affiliateid=200057808)
+Work well with all Android devices manufactured by Samsung, HTC, Motorola, LG, Sony, Google, Asus, and so forth.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300788987&affiliateid=200057808)

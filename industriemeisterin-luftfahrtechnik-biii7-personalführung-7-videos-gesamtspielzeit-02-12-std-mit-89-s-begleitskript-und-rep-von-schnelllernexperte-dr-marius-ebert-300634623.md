@@ -1,1 +1,2 @@
-# Industriemeister/in - Luftfahrtechnik, B.III.7., Personalführung, 7 Videos, Gesamtspielzeit 02 : 12 Std. mit 89 S. Begleitskript und Rep. von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634623&affiliateid=200057808)
+# Industriemeister/in - Luftfahrtechnik, B.III.7., Personalführung, 7 Videos, Gesamtspielzeit 02 : 12 Std. mit 89 S. Begleitskript und Rep. von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634623&affiliateid=200057808)

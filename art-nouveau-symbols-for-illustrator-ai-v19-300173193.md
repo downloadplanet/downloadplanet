@@ -1,4 +1,5 @@
-# Art Nouveau Symbols for Illustrator (AI) V19<br />www.graphicxtras.com -- Art Nouveau Symbols Shapes V19 Illustrator PC & MAC OS X
+# Art Nouveau Symbols for Illustrator (AI) V19
+www.graphicxtras.com -- Art Nouveau Symbols Shapes V19 Illustrator PC & MAC OS X
 
 300+ Art nouveau symbols for Adobe (R) Illustrator (R) (art nouveau symbols, flowing designs, circa 1900 symbols, embellishment symbols, colorful symbols)
 
@@ -16,4 +17,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300173193&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300173193&affiliateid=200057808)

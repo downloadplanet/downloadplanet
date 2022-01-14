@@ -1,4 +1,5 @@
-# Andrews Plugins Distortion Tricks for Photoshop, psp, Painter etc V2<br />www.graphicxtras.com -- Andrews Plugins Distortion Tricks Adobe Photoshop & PSP & Elements PC Filters V2
+# Andrews Plugins Distortion Tricks for Photoshop, psp, Painter etc V2
+www.graphicxtras.com -- Andrews Plugins Distortion Tricks Adobe Photoshop & PSP & Elements PC Filters V2
 
 Andrew' Plug-ins volume 2 includes 16 powerful plug-ins for use in Paint Shop Pro (R) Photo and Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 etc + Painter PaintShop Pro and others, PC only
 
@@ -19,4 +20,5 @@ Plug-in set is a new plug-in set from the creator of the Andrew's Filters series
 To purchase the plug-in set, please select the add to cart button (cookies are required to use the cart) or quick buy. After purchase, you will be sent the download link to the plug-in set
 
 Plug-in set also contains PDF documentation explaining the plug-in functionality as well as hints and tips. Corel and Paint Shop Pro and Painter are registered trademarks or trademarks of the Corel Corporation.
-Home page is http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=147342&affiliateid=200057808)
+Home page is http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=147342&affiliateid=200057808)

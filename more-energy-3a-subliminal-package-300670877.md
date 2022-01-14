@@ -1,2 +1,5 @@
-# More Energy 3A Subliminal Package<br />![More Energy 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300670877/BIG/300670877.JPG)<br />More Energy 3A Subliminal With more energy you achieve more in life. Charge yourself with energy steadily and keep your level of energy high with the support of the More Energy 3A Subliminal.
-Find the affirmations used in the More Energy 3A Subliminal at More Energy  <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300670877&affiliateid=200057808)
+# More Energy 3A Subliminal Package
+![More Energy 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300670877/BIG/300670877.JPG)
+More Energy 3A Subliminal With more energy you achieve more in life. Charge yourself with energy steadily and keep your level of energy high with the support of the More Energy 3A Subliminal.
+Find the affirmations used in the More Energy 3A Subliminal at More Energy  
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300670877&affiliateid=200057808)

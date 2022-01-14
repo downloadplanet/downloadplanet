@@ -1,4 +1,7 @@
-# Mise à jour version antérieure à n-1 vers GstarCAD STD Monoposte<br />![Mise à jour version antérieure à n-1 vers GstarCAD STD Monoposte](https://mycommerce.akamaized.net/api/pimages/P300734298/BIG/300734298.JPG)<br />Mise à jour vers la dernière version de GstarCAD pour la première année puis souscription annuelle pour le logiciel GstarCAD STD Monoposte.
+# Mise à jour version antérieure à n-1 vers GstarCAD STD Monoposte
+![Mise à jour version antérieure à n-1 vers GstarCAD STD Monoposte](https://mycommerce.akamaized.net/api/pimages/P300734298/BIG/300734298.JPG)
+Mise à jour vers la dernière version de GstarCAD pour la première année puis souscription annuelle pour le logiciel GstarCAD STD Monoposte.
 GstarCAD est un logiciel de dessin au format DWG compatible AutoCAD.
 Cet achat permet pour la première année la mise à jour en dernière version de GstarCAD. Il se prolonge les années suivantes par un abonnement annuel permettant la mise à jour de GstarCAD STD ayant une licence monoposte. Il n'y a pas de durée minimum d'engagement. L'abonnement peut être arrêté à tout moment. GstarCAD ne sera alors plus mis à jour et continuera à fonctionner sans limitation de temps.
-ATTENTION cet achat n'est possible que si vous avez déjà une licence GstarCAD STD active<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300734298&affiliateid=200057808)
+ATTENTION cet achat n'est possible que si vous avez déjà une licence GstarCAD STD active
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300734298&affiliateid=200057808)

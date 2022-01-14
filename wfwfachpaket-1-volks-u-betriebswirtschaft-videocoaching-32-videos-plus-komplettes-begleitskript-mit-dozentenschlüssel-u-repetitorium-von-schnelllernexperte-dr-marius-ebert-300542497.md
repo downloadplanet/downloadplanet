@@ -1,1 +1,2 @@
-# WFW-Fachpaket: 1. Volks- u. Betriebswirtschaft, Videocoaching, 32 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300542497&affiliateid=200057808)
+# WFW-Fachpaket: 1. Volks- u. Betriebswirtschaft, Videocoaching, 32 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300542497&affiliateid=200057808)

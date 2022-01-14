@@ -1,1 +1,3 @@
-# vMail NSF to PST Converter - Technical License<br />NSF to PST Converter Software easy to convert lotus notes (*.NSF) Files into Outlook PST, MBOX, Windows Live Mail (*.eml), Outlook Seprate Message(*.msg) file. NSF to PST Converter also Supported Lotus Notes Version like as:- 9.0.1, 9.0, 8.5, 8.0.2, 7.0, 6.5 and 6.0. etc<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854370&affiliateid=200057808)
+# vMail NSF to PST Converter - Technical License
+NSF to PST Converter Software easy to convert lotus notes (*.NSF) Files into Outlook PST, MBOX, Windows Live Mail (*.eml), Outlook Seprate Message(*.msg) file. NSF to PST Converter also Supported Lotus Notes Version like as:- 9.0.1, 9.0, 8.5, 8.0.2, 7.0, 6.5 and 6.0. etc
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854370&affiliateid=200057808)

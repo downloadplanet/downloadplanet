@@ -1,7 +1,10 @@
-# Image Repainter<br />![Image Repainter](https://mycommerce.akamaized.net/api/pimages/P300074426/BIG/300074426.GIF)<br />ImageSkill Image Repainter
+# Image Repainter
+![Image Repainter](https://mycommerce.akamaized.net/api/pimages/P300074426/BIG/300074426.GIF)
+ImageSkill Image Repainter
 Image Repainter is Photoshop-compatible plug-in for Windows that borrows prototype’s image color characteristics to change colors of a source image. Image Repainter allows the user to express pleasing colors from desirable prototype image to images to be corrected.
 It is very useful for recoloring of a series of image shots, especially where slightly different lighting and camera settings produced different color appearance in each photo.
 It is based on the modified method of matching color histogram statistics of the source image to those of prototype image. Running the plug-in the image to be changed color is appeared in the main window. Image Repainter has user-friendly interface. The user can set the folder with desirable template images and select any of them as prototype. It is viewed in the small preview window to the right of the main one.
 The plug-in has three modes of operating: “Normal Mode”, “Only Brightness”, and “Only Colors”. The first one corresponds to the borrowing from the prototype image all statistical information (both chromatic and brightness). The second one is relevant to borrowing from it only brightness statistical information, and the third one – borrowing from it only chromatic content. Under given mode the statistical characteristics of the source image are changed automatically according to those of the prototype image. To make the result more perceptual an user can adjust its brightness and color by appropriate setting the “Brightness” and “Color Intensity” controls.
 The plug-in has a simple install and uninstall procedures and is supplied by brief help description.
-More information about our products you can find ImageSkill site (www.imageskill.com).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300074426&affiliateid=200057808)
+More information about our products you can find ImageSkill site (www.imageskill.com).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300074426&affiliateid=200057808)

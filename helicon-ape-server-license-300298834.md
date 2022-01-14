@@ -1,4 +1,5 @@
-# Helicon Ape (server license)<br />Overview
+# Helicon Ape (server license)
+Overview
 Apache emulator for IIS 7. Implements .htaccess configurations inside IIS. 
 Includes following modules: mod_rewrite, mod_proxy, mod_auth, mod_gzip, mod_headers, mod_cache, mod_expires, mod_developer, mod_replace, mod_so, mod_speling, mod_usertrack and others. 
 35 total modules available.
@@ -24,4 +25,5 @@ reverse and forward proxy features available for your web server;
 low level controls over web site behavior, optimization, security and performance;
 protection from DOS and injection attacks.
 Requirements
-Windows Server 2008, Windows Vista or Windows Seven with IIS 7 native (not IIS 6 emulation mode).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300298834&affiliateid=200057808)
+Windows Server 2008, Windows Vista or Windows Seven with IIS 7 native (not IIS 6 emulation mode).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300298834&affiliateid=200057808)

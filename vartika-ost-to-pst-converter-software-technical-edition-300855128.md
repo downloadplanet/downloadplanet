@@ -1,1 +1,3 @@
-# Vartika OST to PST Converter Software - Technical Edition<br />OST to PST Converter Software converted Exchange OST file to PST,EML,MSG, MBOX Format and Imported to Office365 account.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300855128&affiliateid=200057808)
+# Vartika OST to PST Converter Software - Technical Edition
+OST to PST Converter Software converted Exchange OST file to PST,EML,MSG, MBOX Format and Imported to Office365 account.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300855128&affiliateid=200057808)

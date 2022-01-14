@@ -1,4 +1,5 @@
-# Greek ornament displacements / textures (PSD) V10<br />www.graphicxtras.com -- Greek ornament displacement maps Photoshop & Elements & PSP PSD Textures & Distortions V10
+# Greek ornament displacements / textures (PSD) V10
+www.graphicxtras.com -- Greek ornament displacement maps Photoshop & Elements & PSP PSD Textures & Distortions V10
 
 160 Ancient Greek ornament displacements / glass distortions / textures
 
@@ -12,4 +13,5 @@ Royalty-free for Adobe (R) Photoshop (R) + Paint Shop Pro and others.
 
 300 DPI, variable sizes
 
-For commercial and non commercial work such as for use with items for sale, scrap booking and much more<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277750&affiliateid=200057808)
+For commercial and non commercial work such as for use with items for sale, scrap booking and much more
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277750&affiliateid=200057808)

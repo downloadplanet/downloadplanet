@@ -1,4 +1,6 @@
-# WAV Tag Library Shareware License<br />![WAV Tag Library Shareware License](https://mycommerce.akamaized.net/api/pimages/P300625530/BIG/300625530.PNG)<br />WAV Tag Library is a component for use in Win32, Win64, OSX, iOS and Android software.
+# WAV Tag Library Shareware License
+![WAV Tag Library Shareware License](https://mycommerce.akamaized.net/api/pimages/P300625530/BIG/300625530.PNG)
+WAV Tag Library is a component for use in Win32, Win64, OSX, iOS and Android software.
 Reads and writes WAV tags.
 
 Features:
@@ -19,4 +21,5 @@ Commercial License: for usage of the component in a single commercial product.
 For the shareware license, the product must sell for no more than €40 each. The price limit can be raised by purchasing duplicate licences, eg. 2 licences doubles it.
 In all cases there are no royalties to pay, and you can use all future updates without further cost, all you need to do is just obtain the newest version.
 
-If none of these licenses match your requirements, or if you have any questions, get in touch (3delite@3delite.hu).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300625530&affiliateid=200057808)
+If none of these licenses match your requirements, or if you have any questions, get in touch (3delite@3delite.hu).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300625530&affiliateid=200057808)

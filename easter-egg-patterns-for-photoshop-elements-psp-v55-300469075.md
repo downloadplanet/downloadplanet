@@ -1,3 +1,5 @@
-# Easter Egg Patterns for Photoshop & Elements & PSP V55<br />www.graphicxtras.com -- Easter Egg patterns for Adobe Photoshop & Elements & PSP Seamless tiles V55
+# Easter Egg Patterns for Photoshop & Elements & PSP V55
+www.graphicxtras.com -- Easter Egg patterns for Adobe Photoshop & Elements & PSP Seamless tiles V55
 
-Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by graphicxtras (Andrew Buckle)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469075&affiliateid=200057808)
+Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by graphicxtras (Andrew Buckle)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469075&affiliateid=200057808)

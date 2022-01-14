@@ -1,4 +1,6 @@
-# Grid Truetype font / EPS Shapes VS3<br />![Grid Truetype font / EPS Shapes VS3](https://mycommerce.akamaized.net/api/pimages/P300395789/BIG/300395789.PNG)<br />www.graphicxtras.com -- Grid font Shapes Truetype & EPS CorelDRAW & PSP & Pages VS3
+# Grid Truetype font / EPS Shapes VS3
+![Grid Truetype font / EPS Shapes VS3](https://mycommerce.akamaized.net/api/pimages/P300395789/BIG/300395789.PNG)
+www.graphicxtras.com -- Grid font Shapes Truetype & EPS CorelDRAW & PSP & Pages VS3
 
 Grid font set
 100 Themed grid font designs for Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 etc, Paint Shop Pro X5 X4 X3 etc, Illustrator (R), Fireworks (R), CorelDRAW (R) Xpress (R) Xara (R) Painter (R) Freehand (R), Microsoft Word and others all stored in a single true type font.
@@ -11,4 +13,5 @@ Easy to install, right click the design to display the font installer or the fon
 
 Adobe and Photoshop and Illustrator are registered trademarks of Adobe Systems Incorporated. Corel and Paint Shop Pro and CorelDRAW and Photo-Paint and Painter are registered trademarks of Corel Incorporated
 
-Manual<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300395789&affiliateid=200057808)
+Manual
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300395789&affiliateid=200057808)

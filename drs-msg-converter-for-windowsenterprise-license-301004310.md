@@ -1,1 +1,3 @@
-# DRS MSG Converter For Windows[Enterprise License]<br />DRS MSG Converter for Windows<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004310&affiliateid=200057808)
+# DRS MSG Converter For Windows[Enterprise License]
+DRS MSG Converter for Windows
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004310&affiliateid=200057808)

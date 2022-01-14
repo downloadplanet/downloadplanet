@@ -1,4 +1,6 @@
-# CloudBerry Backup Desktop Edition<br />![CloudBerry Backup Desktop Edition](https://mycommerce.akamaized.net/api/pimages/P300319766/BIG/300319766.PNG)<br />Information on the subscription: we charge an annual maintenance fee of 20%. This includes free upgrades and support for the subsequent years. If you don't want to pay the maintenance fee you can keep using the previous version, there is no limitation, it is just that you can't upgrade in one year.
+# CloudBerry Backup Desktop Edition
+![CloudBerry Backup Desktop Edition](https://mycommerce.akamaized.net/api/pimages/P300319766/BIG/300319766.PNG)
+Information on the subscription: we charge an annual maintenance fee of 20%. This includes free upgrades and support for the subsequent years. If you don't want to pay the maintenance fee you can keep using the previous version, there is no limitation, it is just that you can't upgrade in one year.
 CloudBerry Online Backup provides a powerful Backup and Restore program designed to leverage Amazon S3 storage to make your disaster recovery plan simple, reliable, and affordable.
 
 Disaster recovery planning is often times an afterthought that comes to light when disaster strikes.
@@ -23,4 +25,5 @@ Strong data encryption protects your data from unauthorized access
 Scheduling capabilities automate the backup process
 Backups are available for recovery 24/7
 Intuitive interface provides easy file and folder selection capabilities
-No proprietary storage format. You can access your files using other Amazon S3 tools.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300319766&affiliateid=200057808)
+No proprietary storage format. You can access your files using other Amazon S3 tools.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300319766&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Amacsoft Image to PDF for Mac<br />![Amacsoft Image to PDF for Mac](https://mycommerce.akamaized.net/api/pimages/P300924566/BIG/300924566.PNG)<br />Amacsoft Image to PDF for Mac - High-performanced app for changing a batch of images to PDF files on a Mac within seconds!
+# Amacsoft Image to PDF for Mac
+![Amacsoft Image to PDF for Mac](https://mycommerce.akamaized.net/api/pimages/P300924566/BIG/300924566.PNG)
+Amacsoft Image to PDF for Mac - High-performanced app for changing a batch of images to PDF files on a Mac within seconds!
 
 Even images come in different formats are really convenient to be opened and viewed on a PC with specific Image Viewers supported, they are not accepted by most portable electronics besides their own shot photos. Amacsoft Image to PDF for Mac is just such a tool which can assist you to change those incompatible pics to PDF so that you can view or browse them with your handheld devices leisurely and freely.
 
@@ -27,4 +29,5 @@ Flexible Output Destination
 
 Speedy Conversion
 
-* Ultra working speed is highly supported by this Mac picture to PDF conversion tool for the entire workflow.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924566&affiliateid=200057808)
+* Ultra working speed is highly supported by this Mac picture to PDF conversion tool for the entire workflow.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924566&affiliateid=200057808)

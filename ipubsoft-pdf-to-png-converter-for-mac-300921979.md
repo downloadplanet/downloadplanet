@@ -1,4 +1,6 @@
-# iPubsoft PDF to PNG Converter for Mac<br />![iPubsoft PDF to PNG Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300921979/BIG/300921979.PNG)<br />Designed for converting Adobe PDF to PNG on Mac OS X instantly!
+# iPubsoft PDF to PNG Converter for Mac
+![iPubsoft PDF to PNG Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300921979/BIG/300921979.PNG)
+Designed for converting Adobe PDF to PNG on Mac OS X instantly!
 
 Have you ever wanted to view or read PDF documents on Mac without the need to download and install any third-party programs such as Adobe Reader? If yes, iPubsoft PDF to PNG Converter for Mac can meet all your demands. After conversion, you can read all your PDF files in PNG format on your Mac with its built-in capability without limitation.
 
@@ -27,4 +29,5 @@ Standalone Program
 
 This software is an independent program which can help users to save Adobe PDF as PNG format without installing additional programs. Preview ability
 
-The built-in PDF reader of the program enables you to preview the imported PDF documents. Just click the left or right arrow to view PDF page by page.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921979&affiliateid=200057808)
+The built-in PDF reader of the program enables you to preview the imported PDF documents. Just click the left or right arrow to view PDF page by page.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921979&affiliateid=200057808)

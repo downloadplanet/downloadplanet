@@ -1,1 +1,3 @@
-# AM-Notebook PRO<br />AM-Notebook is a fine system tray utility that provides an easy way to store notes, TODOs and other data. Another nice features are the integrated Address-Book and the Alarm-Clock, which doesn't let you forget entered dates. Important notes can be encrypted, when you open a note you must enter the password.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=143843&affiliateid=200057808)
+# AM-Notebook PRO
+AM-Notebook is a fine system tray utility that provides an easy way to store notes, TODOs and other data. Another nice features are the integrated Address-Book and the Alarm-Clock, which doesn't let you forget entered dates. Important notes can be encrypted, when you open a note you must enter the password.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=143843&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Custom Development<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300908981&affiliateid=200057808)
+# Custom Development
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300908981&affiliateid=200057808)

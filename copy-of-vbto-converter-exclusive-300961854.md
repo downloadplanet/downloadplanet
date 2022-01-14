@@ -1,1 +1,3 @@
-# Copy of VBto Converter Exclusive<br />VBto Converter Light is able to convert MS Visual Basic 6.0 project (including source code) to resource and source code files C#.NET(and MS VB.NET) or Visual J# or VC.NET or MS VC++ (MFC) or Borland C++ Builder or Borland Delphi. This license allows you to use the product on three different computers.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300961854&affiliateid=200057808)
+# Copy of VBto Converter Exclusive
+VBto Converter Light is able to convert MS Visual Basic 6.0 project (including source code) to resource and source code files C#.NET(and MS VB.NET) or Visual J# or VC.NET or MS VC++ (MFC) or Borland C++ Builder or Borland Delphi. This license allows you to use the product on three different computers.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300961854&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Vovsoft Directory Monitor<br />Monitor what happens in a folder.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301015331&affiliateid=200057808)
+# Vovsoft Directory Monitor
+Monitor what happens in a folder.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301015331&affiliateid=200057808)

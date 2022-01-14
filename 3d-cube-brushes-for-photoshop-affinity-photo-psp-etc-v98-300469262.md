@@ -1,1 +1,3 @@
-# 3D Cube brushes for Photoshop / Affinity Photo / PSP etc V98<br />Cube / 3D themed brushes for use in Photoshop, Affinity Photo, Elements, Krita, Painter, etc - all by graphicxtras / Andrew Buckle, all for royalty free, commercial and personal use. PC and MAC. Check out our graphicxtras channel on youtube for more information about the different designs<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469262&affiliateid=200057808)
+# 3D Cube brushes for Photoshop / Affinity Photo / PSP etc V98
+Cube / 3D themed brushes for use in Photoshop, Affinity Photo, Elements, Krita, Painter, etc - all by graphicxtras / Andrew Buckle, all for royalty free, commercial and personal use. PC and MAC. Check out our graphicxtras channel on youtube for more information about the different designs
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469262&affiliateid=200057808)

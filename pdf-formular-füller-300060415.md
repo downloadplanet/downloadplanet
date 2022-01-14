@@ -1,1 +1,3 @@
-# PDF Formular Füller<br />Fill pdf forms<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060415&affiliateid=200057808)
+# PDF Formular Füller
+Fill pdf forms
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060415&affiliateid=200057808)

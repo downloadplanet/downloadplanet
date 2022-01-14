@@ -1,4 +1,5 @@
-# SysInfo PDF Repair[Technician License]<br />SysInfoTools is the name you can really trust upon in the situation pertaining to PDF file corruption as our PDF recovery tool will help you repair PDF files and recover PDF files' contents. The process to repair corrupt PDF files by using our software will appear to be a child's play to you. SysInfoTools PDF Repair tool is very user-friendly in nature and self descriptive kind of as it guides or gives instructions to users while using this tool. All you need to do just follow the steps asked by the tool.
+# SysInfo PDF Repair[Technician License]
+SysInfoTools is the name you can really trust upon in the situation pertaining to PDF file corruption as our PDF recovery tool will help you repair PDF files and recover PDF files' contents. The process to repair corrupt PDF files by using our software will appear to be a child's play to you. SysInfoTools PDF Repair tool is very user-friendly in nature and self descriptive kind of as it guides or gives instructions to users while using this tool. All you need to do just follow the steps asked by the tool.
 Key Features of SysInfoTools PDF Recovery:-
 It exceedingly recovers images, text, table, graphic etc with utmost accuracy.
 DUAL Recovery modes to recover maximum data from your corrupt PDF files.
@@ -20,4 +21,5 @@ Advance mode:- This feature of the PDF Recovery tool is ideal for extremely corr
 The new search option allows users to search PDF files directly from the directory which helps the users in saving their valuable time.
 The new save data option allows user to save their recovered .pdf files in the source file or it creates a new folder to save the recovered .pdf file data.
 The SysInfoTools PDF Repair tool has a unique informative interface that helps users to understand the entire process of PDF recovery.
-Graphical preview section shows users a graphical preview of the corrupted PDF file.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534206&affiliateid=200057808)
+Graphical preview section shows users a graphical preview of the corrupted PDF file.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534206&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Skeez Filesystem & Pictures Freeware License<br />![Skeez Filesystem & Pictures Freeware License](https://mycommerce.akamaized.net/api/pimages/P300953226/BIG/300953226.PNG)<br />Skeez is an animated list view component for Delphi (Win32, Win64) based on Graphics32. The package includes derived components: filesystem browser, picture list viewer and audio file list viewer.
+# Skeez Filesystem & Pictures Freeware License
+![Skeez Filesystem & Pictures Freeware License](https://mycommerce.akamaized.net/api/pimages/P300953226/BIG/300953226.PNG)
+Skeez is an animated list view component for Delphi (Win32, Win64) based on Graphics32. The package includes derived components: filesystem browser, picture list viewer and audio file list viewer.
 
 Features:
 Animated list view component
@@ -31,4 +33,5 @@ If none of these licenses match your requirements, or if you have any questions,
 
 If you plan using BASS in you programs (shareware or commercial), you'll also need a BASS license available separatelly from: www.un4seen.com
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300953226&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300953226&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# BitRecover PST Repair - Standard License<br />Software to Repair Outlook Data Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854253&affiliateid=200057808)
+# BitRecover PST Repair - Standard License
+Software to Repair Outlook Data Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854253&affiliateid=200057808)

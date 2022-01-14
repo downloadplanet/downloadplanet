@@ -1,4 +1,6 @@
-# SignalLab ( Delphi/C++Builder Edition ) UPGRADE to Source Code-Single License<br />![SignalLab ( Delphi/C++Builder Edition ) UPGRADE to Source Code-Single License](https://mycommerce.akamaized.net/api/pimages/P187707/BIG/187707.JPG)<br />The SignalLab is a set of components, based on OpenWire technology for fast Digital Signal Processing (DSP), analysis and data visualization.
+# SignalLab ( Delphi/C++Builder Edition ) UPGRADE to Source Code-Single License
+![SignalLab ( Delphi/C++Builder Edition ) UPGRADE to Source Code-Single License](https://mycommerce.akamaized.net/api/pimages/P187707/BIG/187707.JPG)
+The SignalLab is a set of components, based on OpenWire technology for fast Digital Signal Processing (DSP), analysis and data visualization.
 Allows fast complex signal manipulations with zero lines of program code.
 The library is fully multithreaded, utilizes well modern multi-core systems, and runs at full native performance.
 Also includes Visual Graphical Editor for Codeless Development and Visual Live Bindings.
@@ -18,4 +20,5 @@ Snapshot - takes a snapshot(Sample) buffer of the data
 Scope Component - data plotting component.
 Waterfall Component - Waterfall component for Spectrum, FFT data representation.
 Composite components - Allows embedding component into each other.
-Compatible with VideoLab, AudioLab, PlotLab, VisionLab, InstrumentLab, IntelligenceLab, BasicVideo, BasicAudio.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=187707&affiliateid=200057808)
+Compatible with VideoLab, AudioLab, PlotLab, VisionLab, InstrumentLab, IntelligenceLab, BasicVideo, BasicAudio.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=187707&affiliateid=200057808)

@@ -1,1 +1,4 @@
-# VORG Express<br />![VORG Express](https://mycommerce.akamaized.net/api/pimages/P300061109/BIG/300061109.PNG)<br />VORG Express the personal information manager designed for individual users provides an integrated solution for managing and organizing schedules, tasks, notes, contacts, documents and other information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300061109&affiliateid=200057808)
+# VORG Express
+![VORG Express](https://mycommerce.akamaized.net/api/pimages/P300061109/BIG/300061109.PNG)
+VORG Express the personal information manager designed for individual users provides an integrated solution for managing and organizing schedules, tasks, notes, contacts, documents and other information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300061109&affiliateid=200057808)

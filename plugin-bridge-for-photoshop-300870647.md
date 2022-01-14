@@ -1,2 +1,5 @@
-# Plugin Bridge for Photoshop<br />![Plugin Bridge for Photoshop](https://mycommerce.akamaized.net/api/pimages/P300870647/BIG/300870647.JPG)<br />The 32 to 64 Plugin Bridge allows you to run most old 32-bit plugins natively and directly from inside 64-bit Adobe Photoshop.
-The Plugin Bridge runs the 32-bit plugins inside a safe memory space so an unsafely written plugin cannot crash Photoshop. Thanks to the Plugin Bridge it is actually much safer to run the 32-bit plugins inside the 64-bit Photoshop than it was inside 32-bit Photoshop<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870647&affiliateid=200057808)
+# Plugin Bridge for Photoshop
+![Plugin Bridge for Photoshop](https://mycommerce.akamaized.net/api/pimages/P300870647/BIG/300870647.JPG)
+The 32 to 64 Plugin Bridge allows you to run most old 32-bit plugins natively and directly from inside 64-bit Adobe Photoshop.
+The Plugin Bridge runs the 32-bit plugins inside a safe memory space so an unsafely written plugin cannot crash Photoshop. Thanks to the Plugin Bridge it is actually much safer to run the 32-bit plugins inside the 64-bit Photoshop than it was inside 32-bit Photoshop
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870647&affiliateid=200057808)

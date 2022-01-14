@@ -1,1 +1,2 @@
-# Angebot Webinare Erstellung Pivottabellen, Controlling in der Gastronomie 1. Teil und 2. Teil<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300589126&affiliateid=200057808)
+# Angebot Webinare Erstellung Pivottabellen, Controlling in der Gastronomie 1. Teil und 2. Teil
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300589126&affiliateid=200057808)

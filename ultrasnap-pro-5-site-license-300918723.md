@@ -1,4 +1,6 @@
-# UltraSnap PRO 5 site license<br />![UltraSnap PRO 5 site license](https://mycommerce.akamaized.net/api/pimages/P300918723/BIG/300918723.JPG)<br />UltraSnap PRO, our graphic clipboard processor and a screen capture.
+# UltraSnap PRO 5 site license
+![UltraSnap PRO 5 site license](https://mycommerce.akamaized.net/api/pimages/P300918723/BIG/300918723.JPG)
+UltraSnap PRO, our graphic clipboard processor and a screen capture.
 It has full non-destructive WYSIWYG editor, with multiple anti-aliasing for perfect output, with many effects like shadows, bevels, objects and more.
 
 
@@ -13,4 +15,5 @@ The best thing is that the quick effects are like a properties. Once you set the
 
 Full WYSIWYG Editing mode
 
-We were tired of going to editing program to combine multiple captures or photos into one image, adding cursors, texts, captions or arrows. So we build full WYSIWYG editor directly into UltraSnap.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300918723&affiliateid=200057808)
+We were tired of going to editing program to combine multiple captures or photos into one image, adding cursors, texts, captions or arrows. So we build full WYSIWYG editor directly into UltraSnap.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300918723&affiliateid=200057808)

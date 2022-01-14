@@ -1,4 +1,6 @@
-# iPubsoft PDF to TIFF Converter<br />![iPubsoft PDF to TIFF Converter](https://mycommerce.akamaized.net/api/pimages/P300921974/BIG/300921974.PNG)<br />iPubsoft PDF to TIFF Converter for Windows - Smart Tool to Convert PDF Documents to TIFF Format!
+# iPubsoft PDF to TIFF Converter
+![iPubsoft PDF to TIFF Converter](https://mycommerce.akamaized.net/api/pimages/P300921974/BIG/300921974.PNG)
+iPubsoft PDF to TIFF Converter for Windows - Smart Tool to Convert PDF Documents to TIFF Format!
 
 This PDF to TIFF utility can turn Adobe PDF into TIFF image format fast and easily. The flexible settings make it capable for you to transform all the PDF pages or only the current page to TIFF format as you like. Furthermore, it allows you to customize page numbers or page ranges separated by commas.
 
@@ -25,4 +27,5 @@ Convenient to Use
 Drag-drop operation, User-friendly interface, Flexible options, make the conversion become a piece of cake.
 
 No 3rd Software Required
-This stand-alone program can run without having to install Adobe Acrobat or other extra programs.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921974&affiliateid=200057808)
+This stand-alone program can run without having to install Adobe Acrobat or other extra programs.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921974&affiliateid=200057808)

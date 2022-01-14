@@ -1,4 +1,6 @@
-# Wondershare Video Converter Ultimate for Windows<br />![Wondershare Video Converter Ultimate for Windows](https://mycommerce.akamaized.net/api/pimages/P300947685/BIG/300947685.PNG)<br />Wondershare Video Converter Ultimate is an all-in-one DVD & Video converter tool, video editor, DVD burner to help you to convert videos to 1000+ formats like AVI, WMV, MP4, MKV, FLV, 3GP, MPG etc., download & record videos from YouTube and other 10,000+ online, customize your videos with powerful editing functions. 
+# Wondershare Video Converter Ultimate for Windows
+![Wondershare Video Converter Ultimate for Windows](https://mycommerce.akamaized.net/api/pimages/P300947685/BIG/300947685.PNG)
+Wondershare Video Converter Ultimate is an all-in-one DVD & Video converter tool, video editor, DVD burner to help you to convert videos to 1000+ formats like AVI, WMV, MP4, MKV, FLV, 3GP, MPG etc., download & record videos from YouTube and other 10,000+ online, customize your videos with powerful editing functions. 
 
 Key features of Wondershare Video Converter Ultimate:
   Enjoy Video to Any Format You Want.
@@ -49,4 +51,5 @@ Upgrade any 2D video to 3D with ease.
 1.Convert any normal video to 3D with ultrafast speed, for true theater entertainment at home. Forget that expensive 3D theater ticket!
 2.Create 3D video files to share on YouTube 3D movie channel with thanks to included preset formats for YouTube.
 3.Compatible a wide range of 3D media players available supports playback in 3D MKV, 3D MP4, 3D AVI, and 3D WMV video.
-4.Enjoy 3D action with whatever technology you have, including polarization glasses, shutter technology, and anaglyph 3D glasses.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947685&affiliateid=200057808)
+4.Enjoy 3D action with whatever technology you have, including polarization glasses, shutter technology, and anaglyph 3D glasses.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947685&affiliateid=200057808)

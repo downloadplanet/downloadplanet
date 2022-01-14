@@ -1,1 +1,3 @@
-# Copy of Advik MDaemon to DOC - Personal License<br />Software to Migrate MDaemon Email Account to Office 365<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300857084&affiliateid=200057808)
+# Copy of Advik MDaemon to DOC - Personal License
+Software to Migrate MDaemon Email Account to Office 365
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300857084&affiliateid=200057808)

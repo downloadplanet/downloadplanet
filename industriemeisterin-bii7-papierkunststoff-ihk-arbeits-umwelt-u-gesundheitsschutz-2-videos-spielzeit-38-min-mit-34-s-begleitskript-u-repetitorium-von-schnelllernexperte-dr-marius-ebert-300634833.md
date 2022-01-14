@@ -1,1 +1,2 @@
-# Industriemeister/in B.II.7 Papier/Kunststoff (IHK), Arbeits-, Umwelt- u. Gesundheitsschutz, 2 Videos, Spielzeit 38 min mit 34 S. Begleitskript u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634833&affiliateid=200057808)
+# Industriemeister/in B.II.7 Papier/Kunststoff (IHK), Arbeits-, Umwelt- u. Gesundheitsschutz, 2 Videos, Spielzeit 38 min mit 34 S. Begleitskript u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634833&affiliateid=200057808)

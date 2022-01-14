@@ -1,1 +1,2 @@
-# GroupWise to Exchange Server Migration - Technical License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300767602&affiliateid=200057808)
+# GroupWise to Exchange Server Migration - Technical License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300767602&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Kernel for OST to PST ( Technician License ) + Kernel for Outlook PST Repair ( Technician License )<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300693372&affiliateid=200057808)
+# Kernel for OST to PST ( Technician License ) + Kernel for Outlook PST Repair ( Technician License )
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300693372&affiliateid=200057808)

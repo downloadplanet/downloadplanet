@@ -1,1 +1,2 @@
-# Bundle MS Office Repair (Basic) - Corporate License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384681&affiliateid=200057808)
+# Bundle MS Office Repair (Basic) - Corporate License[BRL]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384681&affiliateid=200057808)

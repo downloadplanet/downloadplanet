@@ -1,1 +1,3 @@
-# SysInfo PDF Image Extractor[Administrator License]<br />SysInfoTools PDF Image Extractor is a highly advanced recovery and utility program for extracting images, pictures and graphics from corrupted as well as normal PDF (Portable Document Format) file.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300612756&affiliateid=200057808)
+# SysInfo PDF Image Extractor[Administrator License]
+SysInfoTools PDF Image Extractor is a highly advanced recovery and utility program for extracting images, pictures and graphics from corrupted as well as normal PDF (Portable Document Format) file.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300612756&affiliateid=200057808)

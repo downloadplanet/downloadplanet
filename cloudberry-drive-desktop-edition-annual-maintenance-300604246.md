@@ -1,4 +1,6 @@
-# CloudBerry Drive Desktop Edition - annual maintenance<br />![CloudBerry Drive Desktop Edition - annual maintenance](https://mycommerce.akamaized.net/api/pimages/P300604246/BIG/300604246.PNG)<br />CloudBerry Online Backup provides a powerful Backup and Restore program designed to leverage Amazon S3 storage to make your disaster recovery plan simple, reliable, and affordable.
+# CloudBerry Drive Desktop Edition - annual maintenance
+![CloudBerry Drive Desktop Edition - annual maintenance](https://mycommerce.akamaized.net/api/pimages/P300604246/BIG/300604246.PNG)
+CloudBerry Online Backup provides a powerful Backup and Restore program designed to leverage Amazon S3 storage to make your disaster recovery plan simple, reliable, and affordable.
 
 Disaster recovery planning is often times an afterthought that comes to light when disaster strikes.
 Very seldom do companies fully recover from loss of critical data which could lead to loss of business.
@@ -22,4 +24,5 @@ Strong data encryption protects your data from unauthorized access
 Scheduling capabilities automate the backup process
 Backups are available for recovery 24/7
 Intuitive interface provides easy file and folder selection capabilities
-No proprietary storage format. You can access your files using other Amazon S3 tools.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300604246&affiliateid=200057808)
+No proprietary storage format. You can access your files using other Amazon S3 tools.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300604246&affiliateid=200057808)

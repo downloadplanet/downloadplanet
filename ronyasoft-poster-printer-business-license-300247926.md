@@ -1,5 +1,8 @@
-# RonyaSoft Poster Printer (Business license)<br />![RonyaSoft Poster Printer (Business license)](https://mycommerce.akamaized.net/api/pimages/P300247926/BIG/300247926.JPG)<br />RonyaSoft Poster Printer is software for large format poster and banner printing, big sign and mural creation. Software is compatible with standard printers and does not require special plotters. Any picture, digital photo, Microsoft Word or Excel document can be used to make the poster. Moreover, it is possible to acquire image from a scanner or a camera.
+# RonyaSoft Poster Printer (Business license)
+![RonyaSoft Poster Printer (Business license)](https://mycommerce.akamaized.net/api/pimages/P300247926/BIG/300247926.JPG)
+RonyaSoft Poster Printer is software for large format poster and banner printing, big sign and mural creation. Software is compatible with standard printers and does not require special plotters. Any picture, digital photo, Microsoft Word or Excel document can be used to make the poster. Moreover, it is possible to acquire image from a scanner or a camera.
 With a convenient and easy-to-use interface, you will create a huge high-quality poster in no time. Just select an image, specify the size and send the print job to the printer. Use glue to put separate parts together and your poster is ready. Make a great poster yourself!
 Poster Printer allows printing posters with the size up to 10 x 10 meters;
 The application supports popular image formats (bmp, gif, jpg, png, tiff, wmf, emf);
-Built–in scaling algorithms enlarge the image with little to no loss of quality.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300247926&affiliateid=200057808)
+Built–in scaling algorithms enlarge the image with little to no loss of quality.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300247926&affiliateid=200057808)

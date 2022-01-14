@@ -1,1 +1,4 @@
-# Deli PDF Converter Annual Membership<br />![Deli PDF Converter Annual Membership](https://mycommerce.akamaized.net/api/pimages/P300740624/BIG/300740624.PNG)<br />Deli PDF Converter is able to convert PDF to DOCX, DOC, TXT, RTF, HTML, PNG, JPG, etc. in 3 steps with a high conversion success rate.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300740624&affiliateid=200057808)
+# Deli PDF Converter Annual Membership
+![Deli PDF Converter Annual Membership](https://mycommerce.akamaized.net/api/pimages/P300740624/BIG/300740624.PNG)
+Deli PDF Converter is able to convert PDF to DOCX, DOC, TXT, RTF, HTML, PNG, JPG, etc. in 3 steps with a high conversion success rate.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300740624&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Contour symbols for Fireworks V2<br />www.graphicxtras.com -- Contour symbols Adobe Fireworks CS 6 5 4 3 MX PC & MAC OS X Shapes PNG V2
+# Contour symbols for Fireworks V2
+www.graphicxtras.com -- Contour symbols Adobe Fireworks CS 6 5 4 3 MX PC & MAC OS X Shapes PNG V2
 
 Symbols for Adobe (R) Fireworks (R)
 200 contour themed symbols for use in Adobe (R) / Macromedia (R) Fireworks (R)
@@ -21,4 +22,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 GRAPHICXTRAS.COM
 
 Any questions, please mail us on support@graphicxtras.comon http://www.graphicxtras.com
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300149378&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300149378&affiliateid=200057808)

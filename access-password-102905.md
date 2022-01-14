@@ -1,1 +1,3 @@
-# Access Password<br />Recovers lost passwords for MS Access databases<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=102905&affiliateid=200057808)
+# Access Password
+Recovers lost passwords for MS Access databases
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=102905&affiliateid=200057808)

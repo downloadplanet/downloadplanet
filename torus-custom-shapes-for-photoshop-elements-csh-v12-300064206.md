@@ -1,4 +1,5 @@
-# Torus Custom shapes for Photoshop & Elements (CSH) V12<br />www.graphicxtras.com -- Torus Custom Shapes for Adobe Photoshop & Elements CSH Curved & Unusual Vectors V12
+# Torus Custom shapes for Photoshop & Elements (CSH) V12
+www.graphicxtras.com -- Torus Custom Shapes for Adobe Photoshop & Elements CSH Curved & Unusual Vectors V12
 
 Custom shapes Photoshop and Photoshop Elements
 200 Custom shapes 'torus' designs
@@ -21,4 +22,5 @@ MENU:
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300064206&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300064206&affiliateid=200057808)

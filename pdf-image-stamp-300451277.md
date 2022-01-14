@@ -1,2 +1,4 @@
-# PDF Image Stamp<br />PDF Image Stamp is an Acrobat plug-in tool which is used to automatically image stamp your documents quickly and easily, you can put customizable Images on the page in any x,y position, PDF Image Stamp supports gif, jpeg, bmp & png image formats, other main features include image scaling on the fly, image opacity for watermarking, saving settings for later use for other pdf's, page start & end ranges & 1 in nth pages stamping for n-up documents.
-NOTE: this includes all future upgrades to v1.xx versions for free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300451277&affiliateid=200057808)
+# PDF Image Stamp
+PDF Image Stamp is an Acrobat plug-in tool which is used to automatically image stamp your documents quickly and easily, you can put customizable Images on the page in any x,y position, PDF Image Stamp supports gif, jpeg, bmp & png image formats, other main features include image scaling on the fly, image opacity for watermarking, saving settings for later use for other pdf's, page start & end ranges & 1 in nth pages stamping for n-up documents.
+NOTE: this includes all future upgrades to v1.xx versions for free of charge.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300451277&affiliateid=200057808)

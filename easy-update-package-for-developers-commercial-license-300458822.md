@@ -1,4 +1,6 @@
-# Easy Update Package for Developers Commercial License<br />![Easy Update Package for Developers Commercial License](https://mycommerce.akamaized.net/api/pimages/P300458822/BIG/300458822.JPG)<br />Easy Update Package for Developers is a software solution for updating software packages easily. It consists of two main components: Easy Update software for end users and Easy Update Information File Manager for editing update information files and publishing updates to FTP servers easily for developers (software publishers).
+# Easy Update Package for Developers Commercial License
+![Easy Update Package for Developers Commercial License](https://mycommerce.akamaized.net/api/pimages/P300458822/BIG/300458822.JPG)
+Easy Update Package for Developers is a software solution for updating software packages easily. It consists of two main components: Easy Update software for end users and Easy Update Information File Manager for editing update information files and publishing updates to FTP servers easily for developers (software publishers).
 
 Easy Update features:
 
@@ -21,4 +23,5 @@ Full unicode support
 Easy Update Package can be used for programs written in any language. There are no components that you have to compile in your program, it's completly independent from programs.
 Easy Update Package for Developers comes with an example Inno Setup script file on how to configure an installer to use Easy Update but any installer can be used just a couple of registry settings are needed to be set.
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300458822&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300458822&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# SBS Asset Tracking Database<br />![SBS Asset Tracking Database](https://mycommerce.akamaized.net/api/pimages/P300003609/BIG/300003609.JPG)<br />Key Features
+# SBS Asset Tracking Database
+![SBS Asset Tracking Database](https://mycommerce.akamaized.net/api/pimages/P300003609/BIG/300003609.JPG)
+Key Features
 Control of Calibrated Equipment
 Preventive Maintenance
 Unscheduled Maintenance
@@ -13,4 +15,5 @@ Helps control calibrated equipment
 Reports Calibration / Maintenance Due Shows the status of your equipment with a click of a button
 A vital tool to ensure ISO9001:2015 compliance
 Paperless system
-Scan and link digital photographs, calibration certificates, or other electronic documents<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300003609&affiliateid=200057808)
+Scan and link digital photographs, calibration certificates, or other electronic documents
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300003609&affiliateid=200057808)

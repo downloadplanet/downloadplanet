@@ -1,4 +1,5 @@
-# Orbit Custom shapes for Photoshop & Elements (CSH) V33<br />www.graphicxtras.com -- Orbit Custom Shapes for Adobe Photoshop & Elements Commercial use CSH V33
+# Orbit Custom shapes for Photoshop & Elements (CSH) V33
+www.graphicxtras.com -- Orbit Custom Shapes for Adobe Photoshop & Elements Commercial use CSH V33
 
 COMMERCIAL USE OK ================= A) All designs by graphicxtras.com (Andrew Buckle) B) Use items to create products for sale, hobby items and more C) PC + MAC OS X - cross platform D) Royalty-free
 ** Add shapes set to shareit.com shopping cart (graphicxtras.com)
@@ -23,4 +24,5 @@ MENU:
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300168569&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300168569&affiliateid=200057808)

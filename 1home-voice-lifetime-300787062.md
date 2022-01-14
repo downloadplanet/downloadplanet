@@ -1,1 +1,3 @@
-# 1Home Voice / life-time<br />1Home enables voice control of KNX and Loxone Smart Homes without any additional hardware installation. Control your KNX and Loxone Smart Home with the most natural of interfaces - your voice. A hands-free experience for turning on lights, increasing the temperature or trigger relaxation mode, instantly. All you have to do is ask!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300787062&affiliateid=200057808)
+# 1Home Voice / life-time
+1Home enables voice control of KNX and Loxone Smart Homes without any additional hardware installation. Control your KNX and Loxone Smart Home with the most natural of interfaces - your voice. A hands-free experience for turning on lights, increasing the temperature or trigger relaxation mode, instantly. All you have to do is ask!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300787062&affiliateid=200057808)

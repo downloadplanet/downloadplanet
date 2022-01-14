@@ -1,1 +1,3 @@
-# WSL-Rock Hard Vol 1<br />![WSL-Rock Hard Vol 1](https://mycommerce.akamaized.net/api/pimages/P300488647/BIG/300488647.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300488647&affiliateid=200057808)
+# WSL-Rock Hard Vol 1
+![WSL-Rock Hard Vol 1](https://mycommerce.akamaized.net/api/pimages/P300488647/BIG/300488647.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300488647&affiliateid=200057808)

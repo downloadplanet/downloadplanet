@@ -1,1 +1,3 @@
-# Mercalli V5 Suite for EDIUS<br />Mercalli V5 Suite for EDIUS: +Mercalli Stabilizr PRO for EDIUS +Mercalli CMOS-Fixr PRO for EDIUS +Mercalli RT for EDIUS +Mercalli Autocorrect +Mercalli Standalone Version (SAL)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300967834&affiliateid=200057808)
+# Mercalli V5 Suite for EDIUS
+Mercalli V5 Suite for EDIUS: +Mercalli Stabilizr PRO for EDIUS +Mercalli CMOS-Fixr PRO for EDIUS +Mercalli RT for EDIUS +Mercalli Autocorrect +Mercalli Standalone Version (SAL)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300967834&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Eight Points Custom shapes for Photoshop & Elements (CSH) V2<br />www.graphicxtras.com -- Eight Points Custom Shapes for Adobe Photoshop & Elements CSH Abstract vector designs PV & MAC OS X V2
+# Eight Points Custom shapes for Photoshop & Elements (CSH) V2
+www.graphicxtras.com -- Eight Points Custom Shapes for Adobe Photoshop & Elements CSH Abstract vector designs PV & MAC OS X V2
 
 230 Eight shapes for Adobe (R) Photoshop (R) + Photoshop Elements PC MAC OS X
 Many mixed designs, all royalty-free, vector designs, resolution-free
@@ -18,4 +19,5 @@ MENU:
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=213726&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=213726&affiliateid=200057808)

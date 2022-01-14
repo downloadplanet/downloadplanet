@@ -1,4 +1,6 @@
-# Actual Title Buttons<br />![Actual Title Buttons](https://mycommerce.akamaized.net/api/pimages/P158218/BIG/158218.GIF)<br />Actual Title Buttons is intended both for home and corporate users who would like to optimize daily window management chores by utilizing the hidden power of modern operating systems with just one mouse-click!
+# Actual Title Buttons
+![Actual Title Buttons](https://mycommerce.akamaized.net/api/pimages/P158218/BIG/158218.GIF)
+Actual Title Buttons is intended both for home and corporate users who would like to optimize daily window management chores by utilizing the hidden power of modern operating systems with just one mouse-click!
 Actual Title Buttons lets you add the new Minimize to Tray, Rollup, Stay-on-Top, Change Transparency and many other buttons to any program's title bar next to the Windows standard Minimize/Maximize/Close buttons.
 The new buttons are as easy to use as the standard ones: you can minimize any window to system tray, force it to stay on top of other windows, make it semi-transparent, or roll up it with a single mouse click.
 The Minimize to Tray feature lets you save the taskbar space by hiding window to a tray icon. Make your own taskbar less cluttered and more handy!
@@ -15,4 +17,5 @@ Added dialog for choosing a window among existing windows to apply individual se
 Replaced rollup\unroll engine with newer, faster engine.
 Improved Windows XP Visual Styles support for new title buttons.
 ...and much more!
-You can find more information about Actual Title Buttons and download it at http://www.ActualTools.com/<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=158218&affiliateid=200057808)
+You can find more information about Actual Title Buttons and download it at http://www.ActualTools.com/
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=158218&affiliateid=200057808)

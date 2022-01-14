@@ -1,1 +1,4 @@
-# Reverse Gif Maker<br />![Reverse Gif Maker](https://mycommerce.akamaized.net/api/pimages/P300876868/BIG/300876868.PNG)<br />Reverse GIF Maker provides you the smart way to reverse GIF and create perfect loop GIF. 100% original quality, no quality loss, no special skills required. It makes the functionality simple to accomplish. Create your reversed GIF now and share your amazing work on the internet.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300876868&affiliateid=200057808)
+# Reverse Gif Maker
+![Reverse Gif Maker](https://mycommerce.akamaized.net/api/pimages/P300876868/BIG/300876868.PNG)
+Reverse GIF Maker provides you the smart way to reverse GIF and create perfect loop GIF. 100% original quality, no quality loss, no special skills required. It makes the functionality simple to accomplish. Create your reversed GIF now and share your amazing work on the internet.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300876868&affiliateid=200057808)

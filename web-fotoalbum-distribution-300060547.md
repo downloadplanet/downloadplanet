@@ -1,1 +1,3 @@
-# Web FotoAlbum Distribution<br />Publish your digitally photos on your Internet site. The program creates a ready to use website from your photos. It creates a overview site with thumbnails of the photos. To see the full sized picture you have to click on a thumbnail<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060547&affiliateid=200057808)
+# Web FotoAlbum Distribution
+Publish your digitally photos on your Internet site. The program creates a ready to use website from your photos. It creates a overview site with thumbnails of the photos. To see the full sized picture you have to click on a thumbnail
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060547&affiliateid=200057808)

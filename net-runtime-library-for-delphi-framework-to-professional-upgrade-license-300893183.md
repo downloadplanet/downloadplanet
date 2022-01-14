@@ -1,4 +1,5 @@
-# .Net Runtime Library for Delphi Framework to Professional Upgrade license<br />The .Net Runtime Library for Delphi (CNClrLibrary) is the best library to work with .Net framework and .Net libraries from Delphi. It is designed to provide a way to interact with applications written in anyone of the .Net languages (such as C#, Visual Basic.Net, Delphi.Net, JScript.Net, etc) from Delphi.
+# .Net Runtime Library for Delphi Framework to Professional Upgrade license
+The .Net Runtime Library for Delphi (CNClrLibrary) is the best library to work with .Net framework and .Net libraries from Delphi. It is designed to provide a way to interact with applications written in anyone of the .Net languages (such as C#, Visual Basic.Net, Delphi.Net, JScript.Net, etc) from Delphi.
 The .Net Runtime Library for Delphi (CNClrLibrary) allows Delphi to use .Net libraries without the need for registry entries, COM registrations, or changes to the .NET libraries.
 Applications built with the .Net Runtime Library for Delphi will not require any dll files when deployed.
 CNClrLibrary allows developers to create applications that can mix managed (.NET) and unmanaged ("native" Delphi) code in the same project.
@@ -45,4 +46,5 @@ ADO.Net VCL for Delphi - Allows developers to create fastest and most reliable d
 Deployment
 Microsoft .Net Framework (Latest versions of Windows have .Net Framework pre-installed)
 Basic Copy Deployment
-Your application<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300893183&affiliateid=200057808)
+Your application
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300893183&affiliateid=200057808)

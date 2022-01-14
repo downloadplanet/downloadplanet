@@ -1,3 +1,6 @@
-# Adorage Effectpackage Vol. 7 Backup-CD<br />![Adorage Effectpackage Vol. 7 Backup-CD](https://mycommerce.akamaized.net/api/pimages/P532159/BIG/532159.GIF)<br />High Quality! Detailed Motifs! Unbelievable effect sequences! From the makers of high professionel effects for Final Cut Pro now accessable in Adorage also: incredible Flagg effects, detailed album effects, Traveling target-Wipe ins, Lightshows, Cinema stages - just in high quality - but Adorage-like extreme easy to use. Unique effects for a real fair price. All over 1600 effects are ready to be used by one single mouseclick and can being directly integrated in your video editing solution by using the optional "Adorage All Plugins Collection"
+# Adorage Effectpackage Vol. 7 Backup-CD
+![Adorage Effectpackage Vol. 7 Backup-CD](https://mycommerce.akamaized.net/api/pimages/P532159/BIG/532159.GIF)
+High Quality! Detailed Motifs! Unbelievable effect sequences! From the makers of high professionel effects for Final Cut Pro now accessable in Adorage also: incredible Flagg effects, detailed album effects, Traveling target-Wipe ins, Lightshows, Cinema stages - just in high quality - but Adorage-like extreme easy to use. Unique effects for a real fair price. All over 1600 effects are ready to be used by one single mouseclick and can being directly integrated in your video editing solution by using the optional "Adorage All Plugins Collection"
  Product Website
- Demos<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=532159&affiliateid=200057808)
+ Demos
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=532159&affiliateid=200057808)

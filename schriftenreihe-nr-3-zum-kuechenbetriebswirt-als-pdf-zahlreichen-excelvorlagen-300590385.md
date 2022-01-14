@@ -1,4 +1,5 @@
-# Schriftenreihe Nr. 3 zum Kuechenbetriebswirt als PDF zahlreichen Excelvorlagen<br />Schriftenreihe Nr. 3 zum Küchenbetriebswirt
+# Schriftenreihe Nr. 3 zum Kuechenbetriebswirt als PDF zahlreichen Excelvorlagen
+Schriftenreihe Nr. 3 zum Küchenbetriebswirt
 - die Schriftenreihe Nr. 3 mit ca. 80 Seiten als PDF Datei mit zahlreichen Excelvorlagen
 
 Hier können Sie sich das Inhaltsverzeichnis der kompletten Schriftenreihe zum Küchenbetriebswirt anschauen!
@@ -24,4 +25,5 @@ Vorwort zur 3.Schriftenreihe
 4. Speisendiagnose
 5. Ist-Stand-meines wirtschaftlichen Handelns
 6. Mein Aktivitätenplan
-7.Lernfragen<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300590385&affiliateid=200057808)
+7.Lernfragen
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300590385&affiliateid=200057808)

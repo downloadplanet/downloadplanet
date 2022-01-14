@@ -1,4 +1,6 @@
-# ReplaceMagic.PowerPoint Professional Edition<br />![ReplaceMagic.PowerPoint Professional Edition](https://mycommerce.akamaized.net/api/pimages/P300147370/BIG/300147370.JPG)<br />ReplaceMagic - search and replace all over in your Powerpoint documents
+# ReplaceMagic.PowerPoint Professional Edition
+![ReplaceMagic.PowerPoint Professional Edition](https://mycommerce.akamaized.net/api/pimages/P300147370/BIG/300147370.JPG)
+ReplaceMagic - search and replace all over in your Powerpoint documents
 
 Package 2 - 5-user license is 2 times the single-license price
 Package 3 - 10-user license is 3 times the single-license price
@@ -28,4 +30,5 @@ As a matter of fact our prices start from $119...
 
 By using standard Microsoft Office you cannot do anything what ReplaceMagic can.
 
-If you did not download/buy ReplaceMagic until now test it and see how powerful application it is.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300147370&affiliateid=200057808)
+If you did not download/buy ReplaceMagic until now test it and see how powerful application it is.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300147370&affiliateid=200057808)

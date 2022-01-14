@@ -1,4 +1,6 @@
-# iPubsoft PDF to ePub Converter<br />![iPubsoft PDF to ePub Converter](https://mycommerce.akamaized.net/api/pimages/P300921967/BIG/300921967.PNG)<br />iPubsoft PDF to ePub Converter - A fast and effective solution to convert PDF files to ePub with ease!
+# iPubsoft PDF to ePub Converter
+![iPubsoft PDF to ePub Converter](https://mycommerce.akamaized.net/api/pimages/P300921967/BIG/300921967.PNG)
+iPubsoft PDF to ePub Converter - A fast and effective solution to convert PDF files to ePub with ease!
 
 A fast and effective solution to convert PDF files to ePub with ease!
 
@@ -30,4 +32,5 @@ Easy and Fast Operation
 
 Feature in an extremely concise interface and high working speed that you can easily get your task with hassle-free.
 
-Batch converting Adobe PDF files is also available that you can directly choose to add an entire file folder of PDF files to get your task in one time with leisure.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921967&affiliateid=200057808)
+Batch converting Adobe PDF files is also available that you can directly choose to add an entire file folder of PDF files to get your task in one time with leisure.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921967&affiliateid=200057808)

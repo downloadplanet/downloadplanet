@@ -1,4 +1,5 @@
-# Paint displacement maps and textures for Photoshop & Elements V6<br />www.graphicxtras.com -- Paint Displacement maps Photoshop & Elements & PSP PSD Textures & Distortions PC & OS X V6
+# Paint displacement maps and textures for Photoshop & Elements V6
+www.graphicxtras.com -- Paint Displacement maps Photoshop & Elements & PSP PSD Textures & Distortions PC & OS X V6
 
 Displacement maps for Adobe (R) Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 6 + Photoshop Elements + Corel (R) Paint Shop Pro (R)
 100 Paint / scratched / rough/ distress / grunge / oil / water / ink displacement maps for Adobe (R) Photoshop (R)
@@ -24,4 +25,5 @@ MENU:
 Any questions, please mail us on support@graphicxtras.com
 
 
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300194937&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300194937&affiliateid=200057808)

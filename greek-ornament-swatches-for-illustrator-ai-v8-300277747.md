@@ -1,4 +1,5 @@
-# Greek Ornament swatches for Illustrator (AI) V8<br />www.graphicxtras.com -- Greek Ornament Swatches for Adobe Illustrator Pattern seamless tiles V8
+# Greek Ornament swatches for Illustrator (AI) V8
+www.graphicxtras.com -- Greek Ornament Swatches for Adobe Illustrator Pattern seamless tiles V8
 
 160 Ancient Greek ornament swatches for Adobe (R) Illustrator (R) CC Creative Cloud CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 10, PC + MAC OS X.
 
@@ -12,4 +13,5 @@ To purchase, please click the add to cart (cookies are required for this) and go
 
 This product is download only, part of an ongoing series of items for Adobe (R) Illustrator (R)
 
-For more info, please check out graphicxtras.com as well as video sections on youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277747&affiliateid=200057808)
+For more info, please check out graphicxtras.com as well as video sections on youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277747&affiliateid=200057808)

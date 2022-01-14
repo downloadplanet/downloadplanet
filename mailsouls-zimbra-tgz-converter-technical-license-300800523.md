@@ -1,1 +1,3 @@
-# MailSouls Zimbra TGZ Converter - Technical License<br />Zimbra TGZ Converter is an smart email converter tool that allow users to do the following task very smartly - - Convert Zimbra emails to PST, PDF, MBOX, NSF, EML, MSG etc. - Convert Zimbra clendars to ICS format. - Convert Zimbra contacts to Outlook contacts, vCard, CSV files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300800523&affiliateid=200057808)
+# MailSouls Zimbra TGZ Converter - Technical License
+Zimbra TGZ Converter is an smart email converter tool that allow users to do the following task very smartly - - Convert Zimbra emails to PST, PDF, MBOX, NSF, EML, MSG etc. - Convert Zimbra clendars to ICS format. - Convert Zimbra contacts to Outlook contacts, vCard, CSV files.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300800523&affiliateid=200057808)

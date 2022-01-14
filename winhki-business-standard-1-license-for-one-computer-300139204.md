@@ -1,4 +1,5 @@
-# WinHKI Business - Standard - 1 license for one computer<br />WinHKI Office
+# WinHKI Business - Standard - 1 license for one computer
+WinHKI Office
 
 Finance software for entrepreneur, household and hobby.
 
@@ -16,4 +17,5 @@ Modules:
 - Open bill issue
 - Statistics
 - Calories list
-- and more...<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300139204&affiliateid=200057808)
+- and more...
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300139204&affiliateid=200057808)

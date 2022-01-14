@@ -1,4 +1,6 @@
-# SourceArmor .NET<br />![SourceArmor .NET](https://mycommerce.akamaized.net/api/pimages/P300449693/BIG/300449693.PNG)<br />SourceArmor obfuscator will transform your application, by applying obfuscating transformations and by keeping its functionally identical but in the same time much more difficult to reverse engineer.
+# SourceArmor .NET
+![SourceArmor .NET](https://mycommerce.akamaized.net/api/pimages/P300449693/BIG/300449693.PNG)
+SourceArmor obfuscator will transform your application, by applying obfuscating transformations and by keeping its functionally identical but in the same time much more difficult to reverse engineer.
 
 This includes overloaded renaming of types, methods, events, properties, parameters, fields and events, resources, encryption of strings, control flow obfuscation, metadata pruning, insertion of invalid IL instructions, suppression of disassemblers and many other techniques.
 
@@ -24,4 +26,5 @@ Features:
 - Custom naming policy.
 - Strong name signature management (strong name signature removal and re-signing of obfuscated assemblies).
 - GUI and command line interface.
-- Detailed obfuscation reporting.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300449693&affiliateid=200057808)
+- Detailed obfuscation reporting.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300449693&affiliateid=200057808)

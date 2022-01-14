@@ -1,4 +1,6 @@
-# Easy Plan Pro<br />![Easy Plan Pro](https://mycommerce.akamaized.net/api/pimages/P300037575/BIG/300037575.JPG)<br />Many CAD programs are designed for architects and engineers. These can be expensive, as well as hard to learn, and difficult to use. Easy Plan Pro is designed to easily draw good-quality,straightforward designs.
+# Easy Plan Pro
+![Easy Plan Pro](https://mycommerce.akamaized.net/api/pimages/P300037575/BIG/300037575.JPG)
+Many CAD programs are designed for architects and engineers. These can be expensive, as well as hard to learn, and difficult to use. Easy Plan Pro is designed to easily draw good-quality,straightforward designs.
 Quick and Easy to Use
 Integrated on-line help
 Automatically downloads and installs program updates
@@ -37,4 +39,5 @@ Resolutions down to 1/16 of an Inch when zoomed in
 Save Drawing in bitmap or vector format
 Optional, Adjustable Snap Grid
 keep an Activity Log to track your time on each plan
-Select Metric or USA Measurement System<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300037575&affiliateid=200057808)
+Select Metric or USA Measurement System
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300037575&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Heart patterns for Photoshop & Elements V5<br />www.graphicxtras.com -- Heart patterns for Adobe Photoshop & Elements Seamless tiles Valentine & Love & Romance Seamless tiles V5
+# Heart patterns for Photoshop & Elements V5
+www.graphicxtras.com -- Heart patterns for Adobe Photoshop & Elements Seamless tiles Valentine & Love & Romance Seamless tiles V5
 
 120 Hearts patterns Photoshop and Photoshop Elements, PC + MAC OS X. Patterns include many different mixed designs such as calligraphic hearts, colorful heart designs, sketchy hearts, 3D heart designs, heart transparency designs, mixed hearts designs and many more
 
@@ -18,4 +19,5 @@ Set is download, you are e-mailed the download link
 
 
 Any questions please mail me
-http://www.graphicxtras.com/shapes-collection.htm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300186692&affiliateid=200057808)
+http://www.graphicxtras.com/shapes-collection.htm
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300186692&affiliateid=200057808)

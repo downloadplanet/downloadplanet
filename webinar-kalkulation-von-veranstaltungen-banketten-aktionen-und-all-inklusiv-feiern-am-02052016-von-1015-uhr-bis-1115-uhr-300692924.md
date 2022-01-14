@@ -1,4 +1,5 @@
-# Webinar Kalkulation von Veranstaltungen, Banketten, Aktionen und all inklusiv Feiern am 02.05.2016 von 10:15 Uhr bis 11:15 Uhr<br />Seminarbeschreibung
+# Webinar Kalkulation von Veranstaltungen, Banketten, Aktionen und all inklusiv Feiern am 02.05.2016 von 10:15 Uhr bis 11:15 Uhr
+Seminarbeschreibung
 Beim aktiven Verkauf von Veranstaltungen muss der Veranstaltungsleiter in der Lage sein, dem Gast, entsprechend seinen unterschiedlichen Wünschen und Leistungen, die er beanspruchen will, die unterschiedlichen Verkaufspreise pro Person zu nennen.
 Damit diese Preise sowohl für den Gast als auch für den Betrieb zufriedenstellend sind, ist die Veranstaltungskalkulation auf Grundlage der Deckungsbeitragsflussrechnung ein zuverlässiges Hilfsmittel.
 
@@ -27,4 +28,5 @@ Voraussetzung zur Teilnahme:
 
 Internetverbindung über Kabel
 Lautsprecher
-Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692924&affiliateid=200057808)
+Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692924&affiliateid=200057808)

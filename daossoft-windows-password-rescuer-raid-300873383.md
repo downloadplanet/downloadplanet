@@ -1,1 +1,3 @@
-# Daossoft Windows Password Rescuer Raid<br />Daossoft Windows Password Rescuer Raid is comprehensive Windows reset Raid software. It distinguishes itself by its function to reset lost or forgotten Windows local and domain password for all Windows and Windows Server system on Raid 1, 2, 3, 4, 5, 6, 10 storage easily with bootable CD/DVD or USB flash drive.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300873383&affiliateid=200057808)
+# Daossoft Windows Password Rescuer Raid
+Daossoft Windows Password Rescuer Raid is comprehensive Windows reset Raid software. It distinguishes itself by its function to reset lost or forgotten Windows local and domain password for all Windows and Windows Server system on Raid 1, 2, 3, 4, 5, 6, 10 storage easily with bootable CD/DVD or USB flash drive.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300873383&affiliateid=200057808)

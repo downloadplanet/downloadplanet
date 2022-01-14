@@ -1,4 +1,5 @@
-# SysInfoTools DBX Recovery[Single Home User License]<br />DBX Recovery Tool from SysInfoTools is highly efficient and powerful tool that enables users to recover their important emails easily from corrupt or damaged Outlook Express’s DBX files. The main task of DBX Recovery tool from SysInfoTools is to restore the out of order DBX files that are unable to read by Outlook Express and when a range of other programs are not capable for restoring the information contained in these files.
+# SysInfoTools DBX Recovery[Single Home User License]
+DBX Recovery Tool from SysInfoTools is highly efficient and powerful tool that enables users to recover their important emails easily from corrupt or damaged Outlook Express’s DBX files. The main task of DBX Recovery tool from SysInfoTools is to restore the out of order DBX files that are unable to read by Outlook Express and when a range of other programs are not capable for restoring the information contained in these files.
 Key Features of DBX Recovery Tool:-
 Recovers mail messages in plain text, RTF and HTML format.
 Recovers all properties such as subject, to, from, cc, bcc, date, etc.
@@ -22,4 +23,5 @@ Save as EML
 Save as DBX
 Save as MSG
 Save as RTF
-Save as PST<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534021&affiliateid=200057808)
+Save as PST
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534021&affiliateid=200057808)

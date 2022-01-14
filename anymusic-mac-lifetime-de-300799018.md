@@ -1,1 +1,4 @@
-# AnyMusic Mac Lifetime (DE)<br />![AnyMusic Mac Lifetime (DE)](https://mycommerce.akamaized.net/api/pimages/P300799018/BIG/300799018.PNG)<br />AnyMusic contains all the amazing features you love, such as searching music, downloading songs, playing soundtracks, converting video to audio and managing playlist. Most of all, it’s affordable and safe.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799018&affiliateid=200057808)
+# AnyMusic Mac Lifetime (DE)
+![AnyMusic Mac Lifetime (DE)](https://mycommerce.akamaized.net/api/pimages/P300799018/BIG/300799018.PNG)
+AnyMusic contains all the amazing features you love, such as searching music, downloading songs, playing soundtracks, converting video to audio and managing playlist. Most of all, it’s affordable and safe.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799018&affiliateid=200057808)

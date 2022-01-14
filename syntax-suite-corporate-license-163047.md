@@ -1,4 +1,5 @@
-# Syntax Suite (Corporate License)<br />Syntax Suite provide some tools for performing syntax highlighting tasks for Borland Delphi/C++Builder development.
+# Syntax Suite (Corporate License)
+Syntax Suite provide some tools for performing syntax highlighting tasks for Borland Delphi/C++Builder development.
 The Syntax Suite contents:
 *) TsxEditor is powerful multiline edit control for plain text. It is suitable for editing the source text of many programming languages and scripts. It has: Syntax highlighting,Bookmarks,Simple and Vertical blocks,drag-and-drop, Undo,Gutter,Line markers,Line numbers,Built-in output to printer,Compatibility with the standard actions TEditCopy, TEditUndo, ... and much more.
 *) TsxListBox is powerful list box with:Syntax highlighting,3D and 2D Checks
@@ -14,4 +15,5 @@ Screenshot of runned demo project:
 http://www.deepsoftware.ru/nrsxs/sxsdemo1.gif
 
 More information you can find at SxSuite home page:
-http://www.deepsoftware.ru/nrsxs/<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=163047&affiliateid=200057808)
+http://www.deepsoftware.ru/nrsxs/
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=163047&affiliateid=200057808)

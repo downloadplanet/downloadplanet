@@ -1,1 +1,3 @@
-# Geprüfter Energiefachwirt - Recht und Steuern<br />![Geprüfter Energiefachwirt - Recht und Steuern](https://mycommerce.akamaized.net/api/pimages/P300481217/BIG/300481217.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300481217&affiliateid=200057808)
+# Geprüfter Energiefachwirt - Recht und Steuern
+![Geprüfter Energiefachwirt - Recht und Steuern](https://mycommerce.akamaized.net/api/pimages/P300481217/BIG/300481217.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300481217&affiliateid=200057808)

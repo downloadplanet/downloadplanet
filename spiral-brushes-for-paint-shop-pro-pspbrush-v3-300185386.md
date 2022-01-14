@@ -1,4 +1,5 @@
-# Spiral brushes for Paint Shop Pro (PSPBrush) V3<br />www.graphicxtras.com -- Spiral brushes Paint Shop Pro PSPBrush V3
+# Spiral brushes for Paint Shop Pro (PSPBrush) V3
+www.graphicxtras.com -- Spiral brushes Paint Shop Pro PSPBrush V3
 
 120 Spiral brushes for Corel (R) Paint Shop Pro (R) Photo PC
 Hi-impact set of brushes: many mixed brush designs including basic spiral brushes, unusual spiral brushes, mixed spirals, tangle spirals, intense spiral brushes and many more. Brushes sized approx 500 x 500
@@ -20,4 +21,5 @@ MENU:
 Any questions about the brushes
 
 For more brushes, http://www.graphicxtras.com
-Find out more on graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300185386&affiliateid=200057808)
+Find out more on graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300185386&affiliateid=200057808)

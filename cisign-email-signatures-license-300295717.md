@@ -1,4 +1,6 @@
-# CI-Sign: Email signatures license<br />![CI-Sign: Email signatures license](https://mycommerce.akamaized.net/api/pimages/P300295717/BIG/300295717.PNG)<br />Manage email signatures - centrally and dynamically in a network environment.
+# CI-Sign: Email signatures license
+![CI-Sign: Email signatures license](https://mycommerce.akamaized.net/api/pimages/P300295717/BIG/300295717.PNG)
+Manage email signatures - centrally and dynamically in a network environment.
 CI-Sign enables you to use uniform and automated signatures - throughout your company. You can automatically have the required statutory information added to your emails and at the same time comply with your company’s corporate identity guidelines. Central management will also save you a great deal of valuable time!
 Signature marketing will help you to advertise products along with trade fair dates. With an expiry date, of course, to automate the marketing process.
 Functions at a glance:
@@ -35,4 +37,5 @@ No local installation required
 No local administrator rights required
 Time and cost savings
 Profit from our experience with 300,000 users
-Awarded the Industry Prize 2008<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300295717&affiliateid=200057808)
+Awarded the Industry Prize 2008
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300295717&affiliateid=200057808)

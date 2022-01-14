@@ -1,1 +1,3 @@
-# TLex Suite Lexicography Software (TLex+tlTerm+tlCorpus) (Commercial/Government License, Support Separate)<br />![TLex Suite Lexicography Software (TLex+tlTerm+tlCorpus) (Commercial/Government License, Support Separate)](https://mycommerce.akamaized.net/api/pimages/P300375836/BIG/300375836.PNG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300375836&affiliateid=200057808)
+# TLex Suite Lexicography Software (TLex+tlTerm+tlCorpus) (Commercial/Government License, Support Separate)
+![TLex Suite Lexicography Software (TLex+tlTerm+tlCorpus) (Commercial/Government License, Support Separate)](https://mycommerce.akamaized.net/api/pimages/P300375836/BIG/300375836.PNG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300375836&affiliateid=200057808)

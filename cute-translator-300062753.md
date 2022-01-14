@@ -1,4 +1,5 @@
-# Cute Translator<br />Cute Translator is a powerful handy program to translate text, documents between 53 major languages. Supported languages include English, French, German, Italian, Spanish, Portuguese, Dutch, Greek, Russian, Japanese, Korean, Simplified Chinese, and Traditional Chinese, with new languages being added all the time.
+# Cute Translator
+Cute Translator is a powerful handy program to translate text, documents between 53 major languages. Supported languages include English, French, German, Italian, Spanish, Portuguese, Dutch, Greek, Russian, Japanese, Korean, Simplified Chinese, and Traditional Chinese, with new languages being added all the time.
 Supported applications and formats are doubled in this new version,
 
 Adobe Acrobat (PDF)
@@ -39,4 +40,5 @@ Automatically download required components such as Microsoft Text-To-Speech engi
 
 Various options such as copy result to clipboard after translation, read aloud result after translation
 
-Live updater to detect new version available on this web site.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300062753&affiliateid=200057808)
+Live updater to detect new version available on this web site.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300062753&affiliateid=200057808)

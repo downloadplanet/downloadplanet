@@ -1,4 +1,5 @@
-# Zoom Custom shapes for Photoshop & Elements (CSH) V14<br />www.graphicxtras.com -- Zoom Custom Shapes for Adobe Photoshop & Elements Manga & Effects Lines & Comics V14
+# Zoom Custom shapes for Photoshop & Elements (CSH) V14
+www.graphicxtras.com -- Zoom Custom Shapes for Adobe Photoshop & Elements Manga & Effects Lines & Comics V14
 
 Zoom custom shapes for Photoshop etc
 500 Zoom line and focus line hi-impact custom shapes for Photoshop and elements - many different manga zoom and effect line designs are included in he set. The zoom lines can be combined in zillions of different ways to create many amazing designs
@@ -14,4 +15,5 @@ The zoom line shapes are easy to load and install, add to presets shapes folder.
 Photoshop is registered trademark of Adobe Systems Incorporated.
 
 Any questions about the custom shapes??. Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300069994&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300069994&affiliateid=200057808)

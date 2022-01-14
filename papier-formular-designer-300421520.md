@@ -1,1 +1,3 @@
-# Papier Formular Designer<br />Create your own paper forms. You does not need to care about the layout. Simply enter all information you want to query. Like name, street, city etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300421520&affiliateid=200057808)
+# Papier Formular Designer
+Create your own paper forms. You does not need to care about the layout. Simply enter all information you want to query. Like name, street, city etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300421520&affiliateid=200057808)

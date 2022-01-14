@@ -1,4 +1,5 @@
-# Andrews Plugins Blur / smears factory (PC only) V4<br />www.graphicxtras.com -- Andrews Plugins Blur factory Adobe Photoshop & PSP & Elements Filters & Plug-ins & Effects Blurs and smears PC V4
+# Andrews Plugins Blur / smears factory (PC only) V4
+www.graphicxtras.com -- Andrews Plugins Blur factory Adobe Photoshop & PSP & Elements Filters & Plug-ins & Effects Blurs and smears PC V4
 
 20 plug-ins (PC) for Adobe (R) Photoshop (R) and Corel (R) Paint Shop Pro (R) and many other graphic applications
 Themed 'blurs' and 'lines' and 'emboss' and line plug-in effects
@@ -10,4 +11,5 @@ Check out the www.graphicxtras.com for a free sampler or two
 If you would like to see some tutorials on the subject, please check out http://www.youtube.com/graphicxtras
 
 
-Home page is http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=147344&affiliateid=200057808)
+Home page is http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=147344&affiliateid=200057808)

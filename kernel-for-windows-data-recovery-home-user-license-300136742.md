@@ -1,1 +1,3 @@
-# Kernel for Windows Data Recovery - Home User License<br />Kernel Recovery for FAT & NTFS is a windows recovery solution for FAT and NTFS partitions. The software effectively recovers inaccessible data from the damaged and formatted partitions.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136742&affiliateid=200057808)
+# Kernel for Windows Data Recovery - Home User License
+Kernel Recovery for FAT & NTFS is a windows recovery solution for FAT and NTFS partitions. The software effectively recovers inaccessible data from the damaged and formatted partitions.
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136742&affiliateid=200057808)

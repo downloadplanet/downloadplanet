@@ -1,1 +1,2 @@
-# KM-Fachtpaket: 3. Recht/Steuern, Videocoaching, 24 Videos plus komplettes Begleitskript mit Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300602567&affiliateid=200057808)
+# KM-Fachtpaket: 3. Recht/Steuern, Videocoaching, 24 Videos plus komplettes Begleitskript mit Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300602567&affiliateid=200057808)

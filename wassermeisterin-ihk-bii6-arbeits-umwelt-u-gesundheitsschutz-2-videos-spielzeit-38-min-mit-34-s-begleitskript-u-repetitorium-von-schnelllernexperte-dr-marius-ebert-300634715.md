@@ -1,1 +1,2 @@
-# Wassermeister/in (IHK), B.II.6. Arbeits-, Umwelt- u. Gesundheitsschutz, 2 Videos, Spielzeit 38 min mit 34 S. Begleitskript u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634715&affiliateid=200057808)
+# Wassermeister/in (IHK), B.II.6. Arbeits-, Umwelt- u. Gesundheitsschutz, 2 Videos, Spielzeit 38 min mit 34 S. Begleitskript u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634715&affiliateid=200057808)

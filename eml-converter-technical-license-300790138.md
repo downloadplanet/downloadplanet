@@ -1,1 +1,2 @@
-# EML Converter - Technical License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300790138&affiliateid=200057808)
+# EML Converter - Technical License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300790138&affiliateid=200057808)

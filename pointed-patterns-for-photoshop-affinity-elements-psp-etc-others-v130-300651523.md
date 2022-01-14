@@ -1,4 +1,5 @@
-# Pointed Patterns for Photoshop, Affinity, Elements, PSP, etc & Others V130<br />www.graphicxtras.com -- Pointed / arrow patterns for Adobe Photoshop & Elements & Painter & PSP
+# Pointed Patterns for Photoshop, Affinity, Elements, PSP, etc & Others V130
+www.graphicxtras.com -- Pointed / arrow patterns for Adobe Photoshop & Elements & Painter & PSP
 
 90 Pointed / arrow themed patterns for use in Photoshop, PSP, Elements etc
 Gallery of all the pointed arrows thumbnail tiles
@@ -26,4 +27,5 @@ Fill content of the arrow pointed pattern - in red, you can use adjustment layer
 
 
 
-Text can be filled with the arrow pointed patterns via pattern overlay in layer effects<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300651523&affiliateid=200057808)
+Text can be filled with the arrow pointed patterns via pattern overlay in layer effects
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300651523&affiliateid=200057808)

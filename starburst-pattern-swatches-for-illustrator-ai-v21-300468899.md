@@ -1,3 +1,5 @@
-# Starburst Pattern Swatches for Illustrator (AI) V21<br />www.graphicxtras.com -- 380 Starburst Pattern Swatches for Adobe Illustrator CC 2017 2015 2014 & CS 6 5 4 3 2 1 PC & MAC O S X V21 ----
+# Starburst Pattern Swatches for Illustrator (AI) V21
+www.graphicxtras.com -- 380 Starburst Pattern Swatches for Adobe Illustrator CC 2017 2015 2014 & CS 6 5 4 3 2 1 PC & MAC O S X V21 ----
 
-380 Patterns swatches for Adobe Illustrator, PC + MAC OS X. License - commercial use OK, royalty-free, all by graphicxtras.com. Find out more about the pattern swatches via the graphicxtras.com site as well as youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468899&affiliateid=200057808)
+380 Patterns swatches for Adobe Illustrator, PC + MAC OS X. License - commercial use OK, royalty-free, all by graphicxtras.com. Find out more about the pattern swatches via the graphicxtras.com site as well as youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468899&affiliateid=200057808)

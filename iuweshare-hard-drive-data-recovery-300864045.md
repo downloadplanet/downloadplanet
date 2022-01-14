@@ -1,1 +1,4 @@
-# IUWEshare Hard Drive Data Recovery<br />![IUWEshare Hard Drive Data Recovery](https://mycommerce.akamaized.net/api/pimages/P300864045/BIG/300864045.JPG)<br />IUWEshare Hard Drive Data Recovery can recover your important photos, videos, music files, documents, data files and other multimedia type of files from any Windows system hard drive; keeping the original formatting & details intact.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300864045&affiliateid=200057808)
+# IUWEshare Hard Drive Data Recovery
+![IUWEshare Hard Drive Data Recovery](https://mycommerce.akamaized.net/api/pimages/P300864045/BIG/300864045.JPG)
+IUWEshare Hard Drive Data Recovery can recover your important photos, videos, music files, documents, data files and other multimedia type of files from any Windows system hard drive; keeping the original formatting & details intact.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300864045&affiliateid=200057808)

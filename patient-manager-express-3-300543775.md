@@ -1,1 +1,4 @@
-# Patient Manager Express 3<br />![Patient Manager Express 3](https://mycommerce.akamaized.net/api/pimages/P300543775/BIG/300543775.PNG)<br />Patient Manager Express is a High Quality Medical Billing Software that includes Electronic Medical Records (EMR), Patient Management and Medical Schedule capabilities.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300543775&affiliateid=200057808)
+# Patient Manager Express 3
+![Patient Manager Express 3](https://mycommerce.akamaized.net/api/pimages/P300543775/BIG/300543775.PNG)
+Patient Manager Express is a High Quality Medical Billing Software that includes Electronic Medical Records (EMR), Patient Management and Medical Schedule capabilities.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300543775&affiliateid=200057808)

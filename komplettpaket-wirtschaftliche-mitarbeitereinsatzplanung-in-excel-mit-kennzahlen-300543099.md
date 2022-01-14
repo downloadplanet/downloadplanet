@@ -1,4 +1,5 @@
-# Komplettpaket wirtschaftliche Mitarbeitereinsatzplanung in Excel mit Kennzahlen<br />Folgende Inhalte, Beschreibungen und Vorlagen sind im Excelprogramm wirtschaftliche Mitarbeitereinsatzplanung enthalten:
+# Komplettpaket wirtschaftliche Mitarbeitereinsatzplanung in Excel mit Kennzahlen
+Folgende Inhalte, Beschreibungen und Vorlagen sind im Excelprogramm wirtschaftliche Mitarbeitereinsatzplanung enthalten:
 
 => Excelprogramm für eine Abteilung Küche und/ oder Service und für ein komplettes Restaurant mit Gesamtauswertung
 => Excelprogramm für die Berechnung der PK pro Stunde und Umsatz pro Mitarbeiterstunde
@@ -13,4 +14,5 @@
 => Auswertungen Täglich und für die komplette Kalenderwoche
 => Auswertung in farblicher Kennzeichnung
 => Automatisierte Programmabläufe (z.b löschen von Werten) durch Makrobefehle und Schaltflächen
-=> Tabelle kann durch Felder und Zusätzliche Informationen erweitert werden<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300543099&affiliateid=200057808)
+=> Tabelle kann durch Felder und Zusätzliche Informationen erweitert werden
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300543099&affiliateid=200057808)

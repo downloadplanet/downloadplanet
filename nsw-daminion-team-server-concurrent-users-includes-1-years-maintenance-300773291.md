@@ -1,1 +1,3 @@
-# NSW. Daminion Team Server - Concurrent Users (Includes 1 Year's Maintenance)<br />Multi-user digital photo management software that makes ALL digital assets EASILY searchable by anyone in your organization and protects your digital archive library from damages and unwanted access.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300773291&affiliateid=200057808)
+# NSW. Daminion Team Server - Concurrent Users (Includes 1 Year's Maintenance)
+Multi-user digital photo management software that makes ALL digital assets EASILY searchable by anyone in your organization and protects your digital archive library from damages and unwanted access.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300773291&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Trainingspaket "MS Excel Anwendungen im F&B-Bereich" Kalkulation Speisen-Getraenke, Controlling, Speisendiagnose und Training am 11.04.2016 in Köln<br />Folgende Produkte erhalten Sie von uns:
+# Trainingspaket "MS Excel Anwendungen im F&B-Bereich" Kalkulation Speisen-Getraenke, Controlling, Speisendiagnose und Training am 11.04.2016 in Köln
+Folgende Produkte erhalten Sie von uns:
 
 Excelvorlage Kalkulation Speisen
 Excelvorlage Kalkulation Getränke
@@ -30,4 +31,5 @@ Gottfried-Hagen Straße 60
 51105 Köln
 Tel.: 0221 - 42 29 29 0
 
-Übernachtungsmöglichkeiten: Köln<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671875&affiliateid=200057808)
+Übernachtungsmöglichkeiten: Köln
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671875&affiliateid=200057808)

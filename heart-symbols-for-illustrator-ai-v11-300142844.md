@@ -1,4 +1,5 @@
-# Heart symbols for Illustrator (AI) V11<br />www.graphicxtras.com -- Heart Symbols for Adobe Illustrator Creative Cloud PC & MAC OS X V11
+# Heart symbols for Illustrator (AI) V11
+www.graphicxtras.com -- Heart Symbols for Adobe Illustrator Creative Cloud PC & MAC OS X V11
 
 Symbols set for Adobe Illustrator PC + MAC OS X
 160 Heart design symbols for Adobe (R) Illustrator
@@ -20,4 +21,5 @@ MENU:
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300142844&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300142844&affiliateid=200057808)

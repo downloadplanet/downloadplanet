@@ -1,1 +1,4 @@
-# Make Right Decisions Silent Subliminal Package<br />![Make Right Decisions Silent Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300906240/BIG/300906240.JPG)<br />Make for you and your life right decisions thanks to the Make Right Decisions 3A Subliminal. Listen to this Subliminal once or twice a day for several weeks.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300906240&affiliateid=200057808)
+# Make Right Decisions Silent Subliminal Package
+![Make Right Decisions Silent Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300906240/BIG/300906240.JPG)
+Make for you and your life right decisions thanks to the Make Right Decisions 3A Subliminal. Listen to this Subliminal once or twice a day for several weeks.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300906240&affiliateid=200057808)

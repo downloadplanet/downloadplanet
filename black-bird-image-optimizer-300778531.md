@@ -1,1 +1,4 @@
-# Black Bird Image Optimizer<br />![Black Bird Image Optimizer](https://mycommerce.akamaized.net/api/pimages/P300778531/BIG/300778531.PNG)<br />Black Bird Image Optimizer is one of the best tools to optimize images. Unlike other image optimizers, Black Bird Image Optimizer does some transformations and then chooses the best colortype for this image.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778531&affiliateid=200057808)
+# Black Bird Image Optimizer
+![Black Bird Image Optimizer](https://mycommerce.akamaized.net/api/pimages/P300778531/BIG/300778531.PNG)
+Black Bird Image Optimizer is one of the best tools to optimize images. Unlike other image optimizers, Black Bird Image Optimizer does some transformations and then chooses the best colortype for this image.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778531&affiliateid=200057808)

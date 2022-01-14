@@ -1,4 +1,6 @@
-# Amacsoft PDF to HTML for Mac<br />![Amacsoft PDF to HTML for Mac](https://mycommerce.akamaized.net/api/pimages/P300924570/BIG/300924570.PNG)<br />Amacsoft PDF to HTML for Mac is a practical PDF solution program that can help to convert PDF files to HTML web pages for easily making your PDF documents visible and fully searchable on the web. PDF to HTML Converter for Mac can preserve the initial formatting, bookmarks, images, vector graphics, fonts and extended alphabet characters and even automatically links page numbers to all generated pages after conversion.
+# Amacsoft PDF to HTML for Mac
+![Amacsoft PDF to HTML for Mac](https://mycommerce.akamaized.net/api/pimages/P300924570/BIG/300924570.PNG)
+Amacsoft PDF to HTML for Mac is a practical PDF solution program that can help to convert PDF files to HTML web pages for easily making your PDF documents visible and fully searchable on the web. PDF to HTML Converter for Mac can preserve the initial formatting, bookmarks, images, vector graphics, fonts and extended alphabet characters and even automatically links page numbers to all generated pages after conversion.
 
 * No change of text content, page layouts, images vector graphics, fonts and bookmarks;
 * No limitation of PDF conversion pages;
@@ -18,4 +20,5 @@ Accurate preview
 You are allowed to preview the PDF file page by page through the preview window.
 
 Simple and Easy-to-use
-Easy to use using its intuitive and user-friendly interface, finish the conversion job with only several clicks.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924570&affiliateid=200057808)
+Easy to use using its intuitive and user-friendly interface, finish the conversion job with only several clicks.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924570&affiliateid=200057808)

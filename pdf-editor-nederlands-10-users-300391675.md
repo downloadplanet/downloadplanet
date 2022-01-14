@@ -1,1 +1,2 @@
-# PDF Editor Nederlands 10 users<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300391675&affiliateid=200057808)
+# PDF Editor Nederlands 10 users
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300391675&affiliateid=200057808)

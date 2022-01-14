@@ -1,4 +1,6 @@
-# iStonsoft MOBI to ePub Converter for Mac<br />![iStonsoft MOBI to ePub Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917068/BIG/300917068.PNG)<br />iStonsoft MOBI to ePub Converter for Mac converts MOBI to ePub for Mac.
+# iStonsoft MOBI to ePub Converter for Mac
+![iStonsoft MOBI to ePub Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917068/BIG/300917068.PNG)
+iStonsoft MOBI to ePub Converter for Mac converts MOBI to ePub for Mac.
 
 ePub is a common format used on almost all eBook readers, such as iPad, iPad 2, iPod touch, Nook, Sony Reader, Kobo, iriver Story HD, and so on. If you downloaded or purchased books from Amazon.com or other sites, you will possibly get a MOBI book. To read MOBI books on ePub-friendly devices, you need a MOBI to ePub Converter.
 
@@ -16,4 +18,5 @@ Preserve all original contents
 The outputted ePub file will be exactly the same with the original MOBI file. The original make-up, texts, images... will be kept intact. It can retain the original text, layouts, images, and hyperlinks in the output ePub eBooks.
 
 Simple to Use
-The user-friendly interface of the Mac MOBI to ePub Converter makes the operation quite easy for both beginners and advanced users. After a few clicks, this magic software will do the rest work for you.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917068&affiliateid=200057808)
+The user-friendly interface of the Mac MOBI to ePub Converter makes the operation quite easy for both beginners and advanced users. After a few clicks, this magic software will do the rest work for you.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917068&affiliateid=200057808)

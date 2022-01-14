@@ -1,1 +1,3 @@
-# Outlook Express Password Recovery (for business use)<br />Outlook Express Password Recovery is a program to recover the server name, login and lost password for e-mail accounts and Outlook Express Identities. All passwords are recovered instantly regardless of length (including the multilingual passwords). All versions of Outlook Express are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=217828&affiliateid=200057808)
+# Outlook Express Password Recovery (for business use)
+Outlook Express Password Recovery is a program to recover the server name, login and lost password for e-mail accounts and Outlook Express Identities. All passwords are recovered instantly regardless of length (including the multilingual passwords). All versions of Outlook Express are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=217828&affiliateid=200057808)

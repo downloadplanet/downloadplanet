@@ -1,1 +1,4 @@
-# Easy-Gastro POS Gastronomie<br />![Easy-Gastro POS Gastronomie](https://mycommerce.akamaized.net/api/pimages/P300532716/BIG/300532716.JPG)<br />Point of Sale Software for the gastronomie. Can be used for restaurants,pizzerias aso. Full touchscreenable. Overview of income. Easy visual tableadministration. Daily accounting. Itemjournal and export to excel. integrated onlinehelp. Autosave of database. And much more.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300532716&affiliateid=200057808)
+# Easy-Gastro POS Gastronomie
+![Easy-Gastro POS Gastronomie](https://mycommerce.akamaized.net/api/pimages/P300532716/BIG/300532716.JPG)
+Point of Sale Software for the gastronomie. Can be used for restaurants,pizzerias aso. Full touchscreenable. Overview of income. Easy visual tableadministration. Daily accounting. Itemjournal and export to excel. integrated onlinehelp. Autosave of database. And much more.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300532716&affiliateid=200057808)

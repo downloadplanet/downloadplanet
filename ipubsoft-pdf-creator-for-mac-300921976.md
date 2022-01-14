@@ -1,4 +1,6 @@
-# iPubsoft PDF Creator for Mac<br />![iPubsoft PDF Creator for Mac](https://mycommerce.akamaized.net/api/pimages/P300921976/BIG/300921976.PNG)<br />iPubsoft PDF Creator for Mac - Fast and Accurate PDF Creation from Text and Image!
+# iPubsoft PDF Creator for Mac
+![iPubsoft PDF Creator for Mac](https://mycommerce.akamaized.net/api/pimages/P300921976/BIG/300921976.PNG)
+iPubsoft PDF Creator for Mac - Fast and Accurate PDF Creation from Text and Image!
 
 Portable Document Format (PDF) is a commonly used format for the secure and reliable distribution and exchange of electronic documents and forms around the world. So creating PDF documents is needed by many people. iPubsoft PDF Creator for Mac is an application running on Mac OS X to help you create Adobe PDF files conveniently and efficiently.
 
@@ -21,4 +23,5 @@ In addition to creating PDF documents on Mac, the software also allows you to cu
 
 Simple to use
 
-The intuitive interface is suitable for both experts and novices. Just within several clicks, all can be done! Brief introductions in the screen will benefit you much. Dragging-dropping operation is also supported. Extremely convenient.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921976&affiliateid=200057808)
+The intuitive interface is suitable for both experts and novices. Just within several clicks, all can be done! Brief introductions in the screen will benefit you much. Dragging-dropping operation is also supported. Extremely convenient.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921976&affiliateid=200057808)

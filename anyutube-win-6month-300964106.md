@@ -1,1 +1,4 @@
-# AnyUTube Win 6-Month<br />![AnyUTube Win 6-Month](https://mycommerce.akamaized.net/api/pimages/P300964106/BIG/300964106.PNG)<br />Fire-new YouTube video helper with powerful functions: search all YouTube videos, play and download videos in HD, convert YouTube video to MP3. Foremost, virus-free and ad-free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300964106&affiliateid=200057808)
+# AnyUTube Win 6-Month
+![AnyUTube Win 6-Month](https://mycommerce.akamaized.net/api/pimages/P300964106/BIG/300964106.PNG)
+Fire-new YouTube video helper with powerful functions: search all YouTube videos, play and download videos in HD, convert YouTube video to MP3. Foremost, virus-free and ad-free.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300964106&affiliateid=200057808)

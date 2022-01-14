@@ -1,4 +1,6 @@
-# Heroglyph V2 RAPID<br />![Heroglyph V2 RAPID](https://mycommerce.akamaized.net/api/pimages/P300030281/BIG/300030281.JPG)<br />Heroglyph Version 2 : easier - more effects - far-reaching - kindlier !
+# Heroglyph V2 RAPID
+![Heroglyph V2 RAPID](https://mycommerce.akamaized.net/api/pimages/P300030281/BIG/300030281.JPG)
+Heroglyph Version 2 : easier - more effects - far-reaching - kindlier !
 Version 1 already got good reviews : the tenor: "Heroglyph - a good program with good capabilities for perfect quality videotitels and trailerproductions".
 
 Only the handling was considered critical some times...
@@ -76,4 +78,5 @@ Price Product
 119 Euro Upgrade CD
 99 Euro Upgrade Download
 more Animations
-show website<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300030281&affiliateid=200057808)
+show website
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300030281&affiliateid=200057808)

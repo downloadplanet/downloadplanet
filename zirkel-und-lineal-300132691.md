@@ -1,1 +1,3 @@
-# Zirkel und Lineal<br />Draw with dividers, ruler, protractor, pencil and rubber on the screen as you would do it on a sheet of paper. You see a real ruler on the screen which you can move and rotate. You can then draw along the ruler. If you want to make constructions on the computer this is the easiest way.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300132691&affiliateid=200057808)
+# Zirkel und Lineal
+Draw with dividers, ruler, protractor, pencil and rubber on the screen as you would do it on a sheet of paper. You see a real ruler on the screen which you can move and rotate. You can then draw along the ruler. If you want to make constructions on the computer this is the easiest way.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300132691&affiliateid=200057808)

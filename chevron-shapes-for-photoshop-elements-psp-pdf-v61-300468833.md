@@ -1,4 +1,6 @@
-# Chevron Shapes for Photoshop & Elements & PSP PDF V61<br />www.graphicxtras.com -- Chevron Vector Shapes Photoshop & Elements & PSP PDF V61
+# Chevron Shapes for Photoshop & Elements & PSP PDF V61
+www.graphicxtras.com -- Chevron Vector Shapes Photoshop & Elements & PSP PDF V61
 
 100 Chevron shapes (many different chevron designs such as scratchy chevron shapes, rounded chevron shapes, multiple stripes chevrons and many more). Graphics artwork PDF designs (vector) for Photoshop, PSP, Indesign, Xara, GIMP and others PC and MAC OS X - royalty-free. All the designs can be used to create items for sale. The designs are all vectors for any size of work. The chevrons can be re-colored, modified, distorted, transformed, edited and more. Questions, please contact us on support@graphicxtras.com
- <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468833&affiliateid=200057808)
+ 
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468833&affiliateid=200057808)

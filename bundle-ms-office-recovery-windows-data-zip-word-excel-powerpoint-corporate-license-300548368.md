@@ -1,1 +1,2 @@
-# Bundle MS Office Recovery ( Windows Data + Zip + Word + Excel + Powerpoint ) - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300548368&affiliateid=200057808)
+# Bundle MS Office Recovery ( Windows Data + Zip + Word + Excel + Powerpoint ) - Corporate License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300548368&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# 0179 - Unternehmenskulturportfolio - 03<br />0179 - Unternehmenskulturportfolio - 03<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301007766&affiliateid=200057808)
+# 0179 - Unternehmenskulturportfolio - 03
+0179 - Unternehmenskulturportfolio - 03
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301007766&affiliateid=200057808)

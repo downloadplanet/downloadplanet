@@ -1,4 +1,6 @@
-# Wise Care 365 Pro (3 PCs Lifetime)<br />![Wise Care 365 Pro (3 PCs Lifetime)](https://mycommerce.akamaized.net/api/pimages/P300949058/BIG/300949058.PNG)<br />Wise Care 365 Pro is an all-in-one windows maintenance & optimization software. It is a combination of Wise Disk Cleaner and Wise Registry Cleaner. However, with other attractive and exciting features such as privacy protector, disk defrag, startup manager, file shredder, big file manager, etc., it is far more than that.
+# Wise Care 365 Pro (3 PCs Lifetime)
+![Wise Care 365 Pro (3 PCs Lifetime)](https://mycommerce.akamaized.net/api/pimages/P300949058/BIG/300949058.PNG)
+Wise Care 365 Pro is an all-in-one windows maintenance & optimization software. It is a combination of Wise Disk Cleaner and Wise Registry Cleaner. However, with other attractive and exciting features such as privacy protector, disk defrag, startup manager, file shredder, big file manager, etc., it is far more than that.
 
 Wise Care 365 Pro now can promise a dead easy use, a blazing fast speed, and an overall health care for your PC, for it adopted new advanced algorithms. As a tuneup utility, Wise Care 365 Pro is comprehensive and full-featured, practical and economical. It will keep your PC in tiptop shape and at peak performance!
 
@@ -20,4 +22,5 @@ Wise Utilities collects all Wise products together for you.
 Besides, a portable version can be created easily and automatically just by one click. Restore function and Scheduler function are both included in Wise Care 365.
 Avatars and free technical support are provided for registered users. Skins and help files are provided for all Wise users.
 
-Wise Care 365 Pro can run on XP, Vista, Win7, Win 8 and Win 10 (both 32 bits and 64 bits).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949058&affiliateid=200057808)
+Wise Care 365 Pro can run on XP, Vista, Win7, Win 8 and Win 10 (both 32 bits and 64 bits).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949058&affiliateid=200057808)

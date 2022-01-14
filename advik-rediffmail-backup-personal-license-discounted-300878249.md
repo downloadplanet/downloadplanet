@@ -1,1 +1,3 @@
-# Advik Rediffmail Backup - Personal License (discounted)<br />Software to Backup Email Account<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300878249&affiliateid=200057808)
+# Advik Rediffmail Backup - Personal License (discounted)
+Software to Backup Email Account
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300878249&affiliateid=200057808)

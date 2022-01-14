@@ -1,1 +1,4 @@
-# PLUS600 professional<br />![PLUS600 professional](https://mycommerce.akamaized.net/api/pimages/P141749/BIG/141749.GIF)<br />Proffesional edition of PLUS600 draughts game<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=141749&affiliateid=200057808)
+# PLUS600 professional
+![PLUS600 professional](https://mycommerce.akamaized.net/api/pimages/P141749/BIG/141749.GIF)
+Proffesional edition of PLUS600 draughts game
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=141749&affiliateid=200057808)

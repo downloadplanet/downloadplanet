@@ -1,1 +1,3 @@
-# Geprüfter Wassermeister - Information, Kommunikation und Planung<br />![Geprüfter Wassermeister - Information, Kommunikation und Planung](https://mycommerce.akamaized.net/api/pimages/P300579742/BIG/300579742.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300579742&affiliateid=200057808)
+# Geprüfter Wassermeister - Information, Kommunikation und Planung
+![Geprüfter Wassermeister - Information, Kommunikation und Planung](https://mycommerce.akamaized.net/api/pimages/P300579742/BIG/300579742.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300579742&affiliateid=200057808)

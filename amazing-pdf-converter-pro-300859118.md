@@ -1,1 +1,3 @@
-# Amazing PDF Converter Pro<br />Quickly convert PDF files to text format for further editing and accurately back up your PDF files to editable Microsoft Word. It can convert PDFs to image formats including JPEG, PNG, GIF, BMP, PCX, and allows you to adjust the image size and color before converting PDFs.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300859118&affiliateid=200057808)
+# Amazing PDF Converter Pro
+Quickly convert PDF files to text format for further editing and accurately back up your PDF files to editable Microsoft Word. It can convert PDFs to image formats including JPEG, PNG, GIF, BMP, PCX, and allows you to adjust the image size and color before converting PDFs.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300859118&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Hg2.5Upd+CP1+CP2+MB_pers<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300060586&affiliateid=200057808)
+# Hg2.5Upd+CP1+CP2+MB_pers
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300060586&affiliateid=200057808)

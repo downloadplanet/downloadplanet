@@ -1,1 +1,2 @@
-# Bundle Data Recovery & File Repairing Tools ( Windows Data + Zip + Word + Excel + Powerpoint + OST + Outlook Express ) - Technician License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300548382&affiliateid=200057808)
+# Bundle Data Recovery & File Repairing Tools ( Windows Data + Zip + Word + Excel + Powerpoint + OST + Outlook Express ) - Technician License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300548382&affiliateid=200057808)

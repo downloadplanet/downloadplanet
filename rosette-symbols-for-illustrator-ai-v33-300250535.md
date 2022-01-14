@@ -1,4 +1,5 @@
-# Rosette symbols for Illustrator (AI) V33<br />www.graphicxtras.com -- Rosette Symbols for Adobe Illustrator Creative cloud Shapes Vectors V33
+# Rosette symbols for Illustrator (AI) V33
+www.graphicxtras.com -- Rosette Symbols for Adobe Illustrator Creative cloud Shapes Vectors V33
 
 100 Rosettes symbols for Adobe (R) Illustrator (R) Creative Cloud CC and CS6-10 (many different designs including basic and complex designs, drop shadow designs and more)
 
@@ -16,4 +17,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300250535&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300250535&affiliateid=200057808)

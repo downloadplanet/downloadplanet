@@ -1,1 +1,2 @@
-# PST Merge - Personal License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300790177&affiliateid=200057808)
+# PST Merge - Personal License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300790177&affiliateid=200057808)

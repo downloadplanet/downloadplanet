@@ -1,4 +1,6 @@
-# Tansee iOS Message Transfer (Windows) 1 year License<br />![Tansee iOS Message Transfer (Windows) 1 year License](https://mycommerce.akamaized.net/api/pimages/P300907970/BIG/300907970.PNG)<br />1,Features
+# Tansee iOS Message Transfer (Windows) 1 year License
+![Tansee iOS Message Transfer (Windows) 1 year License](https://mycommerce.akamaized.net/api/pimages/P300907970/BIG/300907970.PNG)
+1,Features
 Backup iPhone/iPod/iPad
 a.SMS & iMessage & MMS
 b.Photos in Messages
@@ -18,4 +20,5 @@ e.Contacts & Contacts Photos
 3,Requirement & Platform
 - iTunes required
 - Support Windows 10, Windows 8, Windows 7, Windows98, 2000, XP, 2003, Vista
-- Support iOS 1 to iOS 14<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300907970&affiliateid=200057808)
+- Support iOS 1 to iOS 14
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300907970&affiliateid=200057808)

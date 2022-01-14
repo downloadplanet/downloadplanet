@@ -1,1 +1,2 @@
-# PFK, Organisations- u. Personalentwicklung, 4. Fachpaket, Videocoaching 18 Videos mit Begleitskript u. Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300597751&affiliateid=200057808)
+# PFK, Organisations- u. Personalentwicklung, 4. Fachpaket, Videocoaching 18 Videos mit Begleitskript u. Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300597751&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Batch & Print Enterprise DOC Addon<br />Batch & Print Enterprise DOC Addon is a plugin for Batch & Print Enterprise that gives the user more control over the print process. options include page start and end,in the Batch & Print Enterprise environment.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300632912&affiliateid=200057808)
+# Batch & Print Enterprise DOC Addon
+Batch & Print Enterprise DOC Addon is a plugin for Batch & Print Enterprise that gives the user more control over the print process. options include page start and end,in the Batch & Print Enterprise environment.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300632912&affiliateid=200057808)

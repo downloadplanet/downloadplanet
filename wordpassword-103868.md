@@ -1,1 +1,3 @@
-# WordPassword<br />Recover lost password for MS WinWord (all versions)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=103868&affiliateid=200057808)
+# WordPassword
+Recover lost password for MS WinWord (all versions)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=103868&affiliateid=200057808)

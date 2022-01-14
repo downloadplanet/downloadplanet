@@ -1,1 +1,2 @@
-# Employee Desktop Live Viewer - 3 License Pack[INR]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384871&affiliateid=200057808)
+# Employee Desktop Live Viewer - 3 License Pack[INR]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384871&affiliateid=200057808)

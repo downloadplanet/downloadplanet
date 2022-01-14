@@ -1,4 +1,6 @@
-# iStonsoft PDF Password Remover for Mac<br />![iStonsoft PDF Password Remover for Mac](https://mycommerce.akamaized.net/api/pimages/P300917139/BIG/300917139.PNG)<br />iStonsoft PDF Password Remover for Mac - Crack PDF Password Mac Easily!
+# iStonsoft PDF Password Remover for Mac
+![iStonsoft PDF Password Remover for Mac](https://mycommerce.akamaized.net/api/pimages/P300917139/BIG/300917139.PNG)
+iStonsoft PDF Password Remover for Mac - Crack PDF Password Mac Easily!
 
 iStonsoft PDF Password Remover for Mac is an easy-to-use PDF Password Cracker Mac tool to help you remove PDF password Mac and restrictions Mac.
 
@@ -21,4 +23,5 @@ High Efficiency
 The Mac PDF Password Remover supports batch decryption. This means Mac users can remove PDF password Mac and restrictions for numerous protected PDF files (maximum 50 files) at one time. This will be able to easily and highly improve the working efficiency when you have large quantity of PDF files needed to be dealt with.
 
 Easy to Handle
-- Crack PDF password and restrictions with only 3 simple steps: Launch - Import - Decrypt. - Support drag-and-drop operation. So Mac users can rapidly add or remove PDF files for decryption by dragging and dropping them in or out of the panel.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917139&affiliateid=200057808)
+- Crack PDF password and restrictions with only 3 simple steps: Launch - Import - Decrypt. - Support drag-and-drop operation. So Mac users can rapidly add or remove PDF files for decryption by dragging and dropping them in or out of the panel.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917139&affiliateid=200057808)

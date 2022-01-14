@@ -1,1 +1,2 @@
-# Kernel for PST Compress and Compact - Technician<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300696389&affiliateid=200057808)
+# Kernel for PST Compress and Compact - Technician
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300696389&affiliateid=200057808)

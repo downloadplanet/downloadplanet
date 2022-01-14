@@ -1,1 +1,3 @@
-# MacUncle EverNote Converter - Pro License<br />Best EverNote Converter<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010233&affiliateid=200057808)
+# MacUncle EverNote Converter - Pro License
+Best EverNote Converter
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010233&affiliateid=200057808)

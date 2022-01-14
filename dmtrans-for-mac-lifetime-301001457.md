@@ -1,1 +1,4 @@
-# DMtrans for Mac Lifetime<br />![DMtrans for Mac Lifetime](https://mycommerce.akamaized.net/api/pimages/P301001457/BIG/301001457.PNG)<br />DMtrans is one of the best iOS data transfer software. It supports data transfer between iPhone or other iOS devices. Also, it can transfer data between iOS device and PC.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301001457&affiliateid=200057808)
+# DMtrans for Mac Lifetime
+![DMtrans for Mac Lifetime](https://mycommerce.akamaized.net/api/pimages/P301001457/BIG/301001457.PNG)
+DMtrans is one of the best iOS data transfer software. It supports data transfer between iPhone or other iOS devices. Also, it can transfer data between iOS device and PC.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301001457&affiliateid=200057808)

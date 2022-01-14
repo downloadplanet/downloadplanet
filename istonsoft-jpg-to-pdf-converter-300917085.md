@@ -1,4 +1,6 @@
-# iStonsoft JPG to PDF Converter<br />![iStonsoft JPG to PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300917085/BIG/300917085.PNG)<br />Effectual and user-friendly program to convert JPG JPEG images to PDF!
+# iStonsoft JPG to PDF Converter
+![iStonsoft JPG to PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300917085/BIG/300917085.PNG)
+Effectual and user-friendly program to convert JPG JPEG images to PDF!
 
 What can you do with JPG to PDF Converter?
 
@@ -28,4 +30,5 @@ Select the JPG or JPEG image files in Windows Explorer and drag&drop them to the
 
 JPG To PDF Converter has a stand-alone conversion engine, which works without Acrobat PDF or other PDF software.
 
-Designed with user-friendly interface to convert JPG, JPEG to PDF with quick action.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917085&affiliateid=200057808)
+Designed with user-friendly interface to convert JPG, JPEG to PDF with quick action.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917085&affiliateid=200057808)

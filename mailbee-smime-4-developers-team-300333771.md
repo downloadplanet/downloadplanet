@@ -1,1 +1,3 @@
-# MailBee S/MIME (4 Developers Team)<br />Enables MailBee Objects to communicate to SSL/TLS secured email servers like Gmail and process secure mail using S/MIME<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333771&affiliateid=200057808)
+# MailBee S/MIME (4 Developers Team)
+Enables MailBee Objects to communicate to SSL/TLS secured email servers like Gmail and process secure mail using S/MIME
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333771&affiliateid=200057808)

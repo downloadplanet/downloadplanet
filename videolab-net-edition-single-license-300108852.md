@@ -1,4 +1,6 @@
-# VideoLab ( .NET Edition ) Single License<br />![VideoLab ( .NET Edition ) Single License](https://mycommerce.akamaized.net/api/pimages/P300108852/BIG/300108852.JPG)<br />VideoLab is a set of components, based on OpenWire technology for fast video capture, playback, broadcasting and processing. They allow fast complex video manipulations with zero lines of program code.
+# VideoLab ( .NET Edition ) Single License
+![VideoLab ( .NET Edition ) Single License](https://mycommerce.akamaized.net/api/pimages/P300108852/BIG/300108852.JPG)
+VideoLab is a set of components, based on OpenWire technology for fast video capture, playback, broadcasting and processing. They allow fast complex video manipulations with zero lines of program code.
 VideoLab supports both the old fashion Win32 API (VFW), Audio ACM and DirectShow (DirectX), and even allows if needed any mixture of them. The developer can choose to go with any of them, to use both, or can switch from the one to the other at any moment. The components hide the complexity of both approaches, and make them look almost identical from the users prospective.
 The library is fully multithreaded, utilizes well modern multi-core systems, and runs at full native performance.
 Also includes a Visual Graphical Editor for Codeless Development.
@@ -30,4 +32,5 @@ Color splitters - split the video into colors in different colors spaces - RGB, 
 Video Histogram - generates video histograms from the video in different colors spaces - RGB, YUV, XYZ, HLS and many more.
 Vector Scope - generates vector scope from the video.
 Audio Output - sends audio to output device as speaker, or modem (DirectShow and WaveAPI)
-Scope and Waterfall - Wave, spectrum, histogram and more plotting<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108852&affiliateid=200057808)
+Scope and Waterfall - Wave, spectrum, histogram and more plotting
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108852&affiliateid=200057808)

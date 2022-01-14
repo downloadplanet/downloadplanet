@@ -1,4 +1,5 @@
-# People Symbols for Flash (FLA) V6<br />www.graphicxtras.com -- People symbols for Adobe Flash FLA Vector designs V6
+# People Symbols for Flash (FLA) V6
+www.graphicxtras.com -- People symbols for Adobe Flash FLA Vector designs V6
 
 320 Male / people silhouette symbols for Adobe (R) Flash (R)
 Royalty-free, use in commercial or hobby projects
@@ -18,4 +19,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 
 
 Any questions, please mail us on support@graphicxtras.comFlash symbols on http://www.graphicxtras.com
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300193678&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300193678&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Shield Shapes for Photoshop & Elements & PSP (PDF) V59<br />www.graphicxtras.com -- Shield Vector Shapes Photoshop & Elements & PSP PDF V59
+# Shield Shapes for Photoshop & Elements & PSP (PDF) V59
+www.graphicxtras.com -- Shield Vector Shapes Photoshop & Elements & PSP PDF V59
 
 100 Shield shapes - Graphics artwork PDF designs (vector) for Photoshop, PSP and others PC and MAC OS X - royalty-free. All the designs are by graphicxtras.com (Andrew Buckle). The shapes can be also quickly converted to shields in JPG and TIFF etc. The shields can be re-colored, modified, distorted, blended etc. If you have any questions about the shield vector shapes, please contact us on support@graphicxtras.com. Many different wonderful shield designs included in the set. On buying, you receive the download link to all the wonderful designs as well as documentation and serial and gallery
- <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468831&affiliateid=200057808)
+ 
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468831&affiliateid=200057808)

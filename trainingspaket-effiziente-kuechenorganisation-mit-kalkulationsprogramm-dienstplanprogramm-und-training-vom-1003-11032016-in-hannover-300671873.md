@@ -1,4 +1,5 @@
-# Trainingspaket "Effiziente Kuechenorganisation" mit Kalkulationsprogramm, Dienstplanprogramm und Training vom 10.03.- 11.03.2016 in Hannover<br />Folgende Produkte erhalten Sie von uns:
+# Trainingspaket "Effiziente Kuechenorganisation" mit Kalkulationsprogramm, Dienstplanprogramm und Training vom 10.03.- 11.03.2016 in Hannover
+Folgende Produkte erhalten Sie von uns:
 
 Komplettpaket Kalkulation Speisen mit Deckungsbeitrag
 Komplettpaket Dienstplanprogramm in Excel
@@ -20,4 +21,5 @@ Ende: Freitag, 11.03.2016, 09.00 - 17.00 Uhr
 
 Seminarort: Hannover
 
-Übernachtungsmöglichkeiten:<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671873&affiliateid=200057808)
+Übernachtungsmöglichkeiten:
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671873&affiliateid=200057808)

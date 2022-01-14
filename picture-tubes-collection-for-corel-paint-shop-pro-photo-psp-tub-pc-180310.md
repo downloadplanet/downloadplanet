@@ -1,4 +1,5 @@
-# Picture Tubes Collection for Corel Paint Shop Pro Photo PSP (TUB) PC<br />www.graphicxtras.com -- Picture Tubes Collection Corel Paint Shop Pro Photo PSP TUB PC & Commercial use
+# Picture Tubes Collection for Corel Paint Shop Pro Photo PSP (TUB) PC
+www.graphicxtras.com -- Picture Tubes Collection Corel Paint Shop Pro Photo PSP TUB PC & Commercial use
 
 Tubes collection for Corel PaintShop Pro
 Exciting and powerful toolkit for use in Corel (R) Paint Shop Pro (R) Photo
@@ -18,4 +19,5 @@ To purchase, click add to cart or buy now - e-mail means digital download
 
 Any questions, e-mail support@graphicxtras.com - commercial use, digital downloads, royalty-free
 MENU:
-on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180310&affiliateid=200057808)
+on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180310&affiliateid=200057808)

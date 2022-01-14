@@ -1,1 +1,3 @@
-# Umfrage Formulare<br />Create survey forms as exe file<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300062644&affiliateid=200057808)
+# Umfrage Formulare
+Create survey forms as exe file
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300062644&affiliateid=200057808)

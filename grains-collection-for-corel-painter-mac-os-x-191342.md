@@ -1,4 +1,5 @@
-# Grains Collection for Corel Painter MAC OS X<br />www.graphicxtras.com -- Grains Collection MAC OS X X3 12 11 10 9 8 7 6 Corel Painter
+# Grains Collection for Corel Painter MAC OS X
+www.graphicxtras.com -- Grains Collection MAC OS X X3 12 11 10 9 8 7 6 Corel Painter
 
 PLEASE NOTE - THERE IS A DIFFERENT VERSION AVAILABLE FOR 12+
 Paper grains collection for Corel (R) Painter (TM) OS X version
@@ -22,4 +23,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 MENU:
 
 Mail me if you have any questions about the grains
-on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=191342&affiliateid=200057808)
+on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=191342&affiliateid=200057808)

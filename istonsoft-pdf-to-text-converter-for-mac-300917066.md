@@ -1,4 +1,6 @@
-# iStonsoft PDF to Text Converter for Mac<br />![iStonsoft PDF to Text Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917066/BIG/300917066.PNG)<br />iStonsoft PDF to Text Converter for Mac is one efficient software to convert Adobe Acrobat PDF files to plain text on Mac OS, the obvious feature of iStonsoft PDF to Text Converter is that it can fulfill the conversion task perfectly on Mac OS with its professional manner.
+# iStonsoft PDF to Text Converter for Mac
+![iStonsoft PDF to Text Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917066/BIG/300917066.PNG)
+iStonsoft PDF to Text Converter for Mac is one efficient software to convert Adobe Acrobat PDF files to plain text on Mac OS, the obvious feature of iStonsoft PDF to Text Converter is that it can fulfill the conversion task perfectly on Mac OS with its professional manner.
 
 With iStonsoft PDF to Text Converter Mac, you can:
 
@@ -20,4 +22,5 @@ Convert Specific Pages on Mac
 Allows partial document conversion. Supports to convert any specific pages by setting the "Page Range" to specify the pages if you do not want to convert the whole PDF file to Text documents on Mac.
 
 Simple to Handle
-The intuitive interface and user-friendly operation can help you easily convert your PDF files to txt format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917066&affiliateid=200057808)
+The intuitive interface and user-friendly operation can help you easily convert your PDF files to txt format.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917066&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# GpsGate Standard Windows + Pocket PC (user license)<br />GpsGate Standard Windows + Pocket PC (user license)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=225621&affiliateid=200057808)
+# GpsGate Standard Windows + Pocket PC (user license)
+GpsGate Standard Windows + Pocket PC (user license)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=225621&affiliateid=200057808)

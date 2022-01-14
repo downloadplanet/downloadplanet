@@ -1,4 +1,6 @@
-# Actual Transparent Window<br />![Actual Transparent Window](https://mycommerce.akamaized.net/api/pimages/P163722/BIG/163722.GIF)<br />Actual Transparent Window lets you apply a transparency effect to any window in Windows 2000 and Windows XP. The transparency effect looks very impressive and can be highly useful with such windows as the Windows Taskbar, WinAmp, the Start menu, drop-down menus and lists, any Instant Messenger and even application windows. Some examples:
+# Actual Transparent Window
+![Actual Transparent Window](https://mycommerce.akamaized.net/api/pimages/P163722/BIG/163722.GIF)
+Actual Transparent Window lets you apply a transparency effect to any window in Windows 2000 and Windows XP. The transparency effect looks very impressive and can be highly useful with such windows as the Windows Taskbar, WinAmp, the Start menu, drop-down menus and lists, any Instant Messenger and even application windows. Some examples:
 A transparent Taskbar doesn't hide any part of your desktop wallpaper!
 A transparent Start menu does not obscure icons on your desktop.
 Do you like changing skins on Winamp? A semi-transparent Winamp looks really stylish and impressive! You can add different transparency rate for each Winamp window such as Winamp Main Window, Winamp Playlist Editor, Winamp Equalizer and so on.
@@ -6,4 +8,5 @@ A transparent drop-down menu does not obscure the main program window.
 A transparent window need not obscure another window below. For example, you can be keying in notes to Notepad, while reading the contents of the window beneath! A simple setting will adjust the transparency of either window - or any other window you wish!
 Actual Transparent Window lets you set individual transparency rate for each window. You can change transparency from 0% (fully transparent) to 100% (solid) to achieve the desired effect.
 Actual Transparent Window also has the option to set transparency so it occurs only when window becomes inactive. And when you activate this window it becomes solid. This option can be especially useful for your Instant Messenger (Windows Messenger, Yahoo Messenger or any other).
-Actual Transparent Window saves all your settings so that you need to set the transparency only once for each window. Or, tinker with your settings as often as you like. This is an attractive, handy and fun utility!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=163722&affiliateid=200057808)
+Actual Transparent Window saves all your settings so that you need to set the transparency only once for each window. Or, tinker with your settings as often as you like. This is an attractive, handy and fun utility!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=163722&affiliateid=200057808)

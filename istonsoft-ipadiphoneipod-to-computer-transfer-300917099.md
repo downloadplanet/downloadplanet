@@ -1,4 +1,6 @@
-# iStonsoft iPad/iPhone/iPod to Computer Transfer<br />![iStonsoft iPad/iPhone/iPod to Computer Transfer](https://mycommerce.akamaized.net/api/pimages/P300917099/BIG/300917099.PNG)<br />iStonsoft iPad/iPhone/iPod to Computer Transfer is an easy to use iPad/iPod/iPhone to PC Transfer designed to help you back up all your files from your iPod, iPhone, iPad or iPod Touch.
+# iStonsoft iPad/iPhone/iPod to Computer Transfer
+![iStonsoft iPad/iPhone/iPod to Computer Transfer](https://mycommerce.akamaized.net/api/pimages/P300917099/BIG/300917099.PNG)
+iStonsoft iPad/iPhone/iPod to Computer Transfer is an easy to use iPad/iPod/iPhone to PC Transfer designed to help you back up all your files from your iPod, iPhone, iPad or iPod Touch.
 
 Compared with other similar iPad to PC Transfer software, iStonsoft iPad/iPhone/iPod to Computer Transfer can transfer your favorite music and videos from iPad to PC, iPhone to PC and iPod to PC. This iPad/iPod/iPhone to PC Transfer also enables you to use your iPad/iPhone/iPod as a portable hard drive.
 
@@ -22,4 +24,5 @@ Different View Modes
 Supports two modes for viewing music, movies and photos, creating new playlist, adding illustration for video in thumbnail mode.
 
 Quick Filter and Search
-iStonsoft iPad/iPhone/iPod to Computer Transfer supports search through your files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917099&affiliateid=200057808)
+iStonsoft iPad/iPhone/iPod to Computer Transfer supports search through your files.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917099&affiliateid=200057808)

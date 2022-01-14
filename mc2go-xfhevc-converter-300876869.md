@@ -1,4 +1,5 @@
-# MC2GO XF-HEVC Converter<br />MainConceptⓇ 2GO Canon XF-HEVC Converter is an optimized Docker container for ingesting XF-HEVC files created with the new professional Canon XF705 camcorder that can be transcoded into readable AVC/H.264 / PCM in MXF streams for further processing in video editing solutions like Adobe Premiere Pro, Apple Final Cut Pro, Avid Media Composer, etc, incl. REST API control.
+# MC2GO XF-HEVC Converter
+MainConceptⓇ 2GO Canon XF-HEVC Converter is an optimized Docker container for ingesting XF-HEVC files created with the new professional Canon XF705 camcorder that can be transcoded into readable AVC/H.264 / PCM in MXF streams for further processing in video editing solutions like Adobe Premiere Pro, Apple Final Cut Pro, Avid Media Composer, etc, incl. REST API control.
 
 The demo version of the MC2GO XF-HEVC Converter is fully functional. It only has an audio encoding limitation of recurring silence, i.e. after some time audio will be muted and continues again, etc.
 
@@ -8,4 +9,5 @@ Once the order process has been completed, you get an e-mail containing the link
 
 While ordering the product you have the opportunity to additionally choose the option “CD on demand“. This is a backup CD which we can send you for a small charge for production and email order.
 
-Furthermore, you are authorized to obtain all following updates of MC2GO XF-HEVC Converter within version 1.xx free of charge. You only have to download the full version and continue using your personal CustomerID.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300876869&affiliateid=200057808)
+Furthermore, you are authorized to obtain all following updates of MC2GO XF-HEVC Converter within version 1.xx free of charge. You only have to download the full version and continue using your personal CustomerID.
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300876869&affiliateid=200057808)

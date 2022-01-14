@@ -1,4 +1,6 @@
-# Amacsoft Text to ePub for Mac<br />![Amacsoft Text to ePub for Mac](https://mycommerce.akamaized.net/api/pimages/P300924592/BIG/300924592.PNG)<br />Amacsoft Text to ePub for Mac converts common TXT format to ePub on Mac reading on any EPUB reader like iPad, iPod touch, iPhone, Sony Reader, Nook Color, Nook Tablet, iriver Story HD, etc.
+# Amacsoft Text to ePub for Mac
+![Amacsoft Text to ePub for Mac](https://mycommerce.akamaized.net/api/pimages/P300924592/BIG/300924592.PNG)
+Amacsoft Text to ePub for Mac converts common TXT format to ePub on Mac reading on any EPUB reader like iPad, iPod touch, iPhone, Sony Reader, Nook Color, Nook Tablet, iriver Story HD, etc.
 
 Convert Text files to ePub;
 Supports batch conversion;
@@ -14,4 +16,5 @@ High Efficiency
 
 Easy-to-use
 * Using TXT to ePub Converter for Mac simple interface, Mac users can simply convert PDF to other formats as simple as 1-2-3.
-* Mac users can simply add or delete text files in and out of the panel.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924592&affiliateid=200057808)
+* Mac users can simply add or delete text files in and out of the panel.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924592&affiliateid=200057808)

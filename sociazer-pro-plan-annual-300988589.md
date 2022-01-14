@@ -1,1 +1,3 @@
-# Sociazer - Pro Plan - Annual<br />.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300988589&affiliateid=200057808)
+# Sociazer - Pro Plan - Annual
+.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300988589&affiliateid=200057808)

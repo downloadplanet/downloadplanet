@@ -1,1 +1,3 @@
-# Total Bundle<br />For detailed specification of this product go to its web site: http://d16.pl/total_bundle<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300420040&affiliateid=200057808)
+# Total Bundle
+For detailed specification of this product go to its web site: http://d16.pl/total_bundle
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300420040&affiliateid=200057808)

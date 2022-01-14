@@ -1,4 +1,5 @@
-# Ripple symbols for Flash (FLA) V4<br />www.graphicxtras.com -- Ripple symbols Shapes Adobe Flash FLA PC & MAC OS X Vectors V4
+# Ripple symbols for Flash (FLA) V4
+www.graphicxtras.com -- Ripple symbols Shapes Adobe Flash FLA PC & MAC OS X Vectors V4
 
 200 Stunning ripple symbols for Adobe (R) Flash (R)
 Royalty-free, use in commercial or hobby projects
@@ -16,4 +17,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 
 
 Any questions, please mail us on support@graphicxtras.comFlash symbols on http://www.graphicxtras.com
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300155073&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300155073&affiliateid=200057808)

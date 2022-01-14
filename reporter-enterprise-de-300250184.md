@@ -1,4 +1,7 @@
-# Reporter Enterprise (de)<br />![Reporter Enterprise (de)](https://mycommerce.akamaized.net/api/pimages/P300250184/BIG/300250184.PNG)<br />This Addin does not support Outlook 64bit.
+# Reporter Enterprise (de)
+![Reporter Enterprise (de)](https://mycommerce.akamaized.net/api/pimages/P300250184/BIG/300250184.PNG)
+This Addin does not support Outlook 64bit.
 Please trial the software before your purchase!
 Reporter is an Addin for Outlook, it creates with only a few clicks reports from task items, appointments and journal items. With the Professional version you get access to all POP and IMAP accounts, your primary Exchange mailbox, public Exchange folders and shared Exchange folders.
-All details | All product versions/licenses | Switch to English version<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300250184&affiliateid=200057808)
+All details | All product versions/licenses | Switch to English version
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300250184&affiliateid=200057808)

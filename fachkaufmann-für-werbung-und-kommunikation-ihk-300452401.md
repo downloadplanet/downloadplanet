@@ -1,4 +1,6 @@
-# Fachkaufmann für Werbung und Kommunikation IHK<br />![Fachkaufmann für Werbung und Kommunikation IHK](https://mycommerce.akamaized.net/api/pimages/P300452401/BIG/300452401.JPG)<br />Ihre Inhalte
+# Fachkaufmann für Werbung und Kommunikation IHK
+![Fachkaufmann für Werbung und Kommunikation IHK](https://mycommerce.akamaized.net/api/pimages/P300452401/BIG/300452401.JPG)
+Ihre Inhalte
   Wirtschaftsbezogene Qualifikationen
   Volks- und Betriebswirtschaft
 Rechnungswesen
@@ -21,4 +23,5 @@ Internet: www.lernlocker.de
   Handelsregister Nr. HRA 7885
 Amtsgericht Aachen
   Ust.-ID DE 249 894 277
-Nach aktuellem Rahmenstoffplan des DIHK<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300452401&affiliateid=200057808)
+Nach aktuellem Rahmenstoffplan des DIHK
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300452401&affiliateid=200057808)

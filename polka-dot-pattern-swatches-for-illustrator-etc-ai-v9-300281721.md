@@ -1,4 +1,5 @@
-# Polka Dot pattern swatches for Illustrator etc (AI) V9<br />www.graphicxtras.com -- 180 Polka Dot Pattern Swatches for Adobe Illustrator Creative Cloud PC & MAC OS X Vector strokes V9 ----
+# Polka Dot pattern swatches for Illustrator etc (AI) V9
+www.graphicxtras.com -- 180 Polka Dot Pattern Swatches for Adobe Illustrator Creative Cloud PC & MAC OS X Vector strokes V9 ----
 
 180 Polka dots patterns swatches for Adobe (R) Illustrator (R) CC Creative Cloud 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 10, PC + MAC OS X.
 
@@ -10,4 +11,5 @@ To purchase, please click the add to cart (cookies are required for this) and go
 
 This product is download only, part of an ongoing series of items for Adobe (R) Illustrator (R)
 
-. Find out more about the artworks via graphicxtras.com as well as youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300281721&affiliateid=200057808)
+. Find out more about the artworks via graphicxtras.com as well as youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300281721&affiliateid=200057808)

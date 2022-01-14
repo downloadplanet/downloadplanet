@@ -1,1 +1,2 @@
-# GdPicture.NET Document Imaging SDK V.11, Site Worldwide License - Upgrade from V.9<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300651040&affiliateid=200057808)
+# GdPicture.NET Document Imaging SDK V.11, Site Worldwide License - Upgrade from V.9
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300651040&affiliateid=200057808)

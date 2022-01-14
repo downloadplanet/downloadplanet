@@ -1,4 +1,6 @@
-# PROMT 365 Expert 11 Multilingual (Lizenz für 1 Jahr)<br />![PROMT 365 Expert 11 Multilingual (Lizenz für 1 Jahr)](https://mycommerce.akamaized.net/api/pimages/P300727130/BIG/300727130.PNG)<br />PROMT Expert 11 ist die brandneue Lösung der PROMT-Produktfamilie für freiberufliche Übersetzer und Dolmetscher, die Ihre Übersetzungsprozesse automatisieren möchten. Einzigartige Funktionen zum Optimieren der Übersetzungsprozesse und zur Terminologie- bzw. Translation-Memory-Verwaltung machen PROMT Expert zum idealen Werkzeug in jedem Übersetzungsbüro.
+# PROMT 365 Expert 11 Multilingual (Lizenz für 1 Jahr)
+![PROMT 365 Expert 11 Multilingual (Lizenz für 1 Jahr)](https://mycommerce.akamaized.net/api/pimages/P300727130/BIG/300727130.PNG)
+PROMT Expert 11 ist die brandneue Lösung der PROMT-Produktfamilie für freiberufliche Übersetzer und Dolmetscher, die Ihre Übersetzungsprozesse automatisieren möchten. Einzigartige Funktionen zum Optimieren der Übersetzungsprozesse und zur Terminologie- bzw. Translation-Memory-Verwaltung machen PROMT Expert zum idealen Werkzeug in jedem Übersetzungsbüro.
 
 Unterstützte Übersetzungsrichtungen:
 Englisch -> Deutsch und Deutsch -> Englisch
@@ -25,4 +27,5 @@ Automatische Terminologieextraktion und Textanalyse.
 Ein breites Spektrum an Werkzeugen zum Bearbeiten der vorhandenen Wöretrbücher und zum Anpassen des Systems an die Übersetzung von fachspeziefischen Texte.
 Nahtlose Integration in Microsoft Office Anwendungen zum Übersetzen der Dokumente mit Erhalt der Formatierung.
 Werkzeug zur Stappelübersetzung mehrerer Dateien nacheinandern.
-Unterstützung der gängigsten Dateiformate wie .pdf,.doc, .xls, .ppt, .msg,.html, .xml, Open Office.org Writer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300727130&affiliateid=200057808)
+Unterstützung der gängigsten Dateiformate wie .pdf,.doc, .xls, .ppt, .msg,.html, .xml, Open Office.org Writer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300727130&affiliateid=200057808)

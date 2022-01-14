@@ -1,1 +1,3 @@
-# eSoftTools EML to TXT Converter - Personal License<br />eSoftTools EML to TXT Converter helps to easily export Email EML Messages to TXT file format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300877012&affiliateid=200057808)
+# eSoftTools EML to TXT Converter - Personal License
+eSoftTools EML to TXT Converter helps to easily export Email EML Messages to TXT file format.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300877012&affiliateid=200057808)

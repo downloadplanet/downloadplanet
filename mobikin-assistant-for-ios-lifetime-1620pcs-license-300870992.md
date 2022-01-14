@@ -1,4 +1,6 @@
-# MobiKin Assistant for iOS - Lifetime, 16-20PCs License<br />![MobiKin Assistant for iOS - Lifetime, 16-20PCs License](https://mycommerce.akamaized.net/api/pimages/P300870992/BIG/300870992.PNG)<br />Easily Copy Tons of Files from iDevice to PC
+# MobiKin Assistant for iOS - Lifetime, 16-20PCs License
+![MobiKin Assistant for iOS - Lifetime, 16-20PCs License](https://mycommerce.akamaized.net/api/pimages/P300870992/BIG/300870992.PNG)
+Easily Copy Tons of Files from iDevice to PC
 In case of losing data if your iPhone is stolen or broken down accidentally, or just want to share the movies on your iDevice with your friends in other ways, you need to backup your files on iPhone, iPad or iPod to iTunes time to time. However, there are still so many limitations of iTunes, so that it is troublesome to use the iTunes on PC. Under this situation, you need the help from MobiKin Assistant for iOS (Windows Version). With it, you can:
 Transfer up to 10 types of files from iPhone, iPad and iPod to computer with few simple clicks, including Video, Photo, Song, eBook, Voice Memo, Podcast, Ringtone, Playlist, etc.
 Manage or control the transferred iOS contents on the local hard disk without any limitation, you can delete, remove, or add any file on your computer as you like.
@@ -16,4 +18,5 @@ iPhone: iPhone 5S, iPhone 5C/5, iPhone 4s, iPhone 4, iPhone 3GS, iPhone 3
 
 iPad: iPad mini, New iPad, iPad Air, iPad 4, iPad 2, iPad 1
 
-iPod: iPod Touch, iPod mini, iPod classic, iPod nano, iPod shuffle<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870992&affiliateid=200057808)
+iPod: iPod Touch, iPod mini, iPod classic, iPod nano, iPod shuffle
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870992&affiliateid=200057808)

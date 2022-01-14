@@ -1,1 +1,4 @@
-# Any Word Password Recovery Lifetime License<br />![Any Word Password Recovery Lifetime License](https://mycommerce.akamaized.net/api/pimages/P300996001/BIG/300996001.PNG)<br />Recover and Crack Password for Microsoft Office Word Documents<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300996001&affiliateid=200057808)
+# Any Word Password Recovery Lifetime License
+![Any Word Password Recovery Lifetime License](https://mycommerce.akamaized.net/api/pimages/P300996001/BIG/300996001.PNG)
+Recover and Crack Password for Microsoft Office Word Documents
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300996001&affiliateid=200057808)

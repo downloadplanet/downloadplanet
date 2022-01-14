@@ -1,1 +1,3 @@
-# Kernel Migrator for Exchange - Express Edition (1 - 100 Mailboxes)<br />![Kernel Migrator for Exchange - Express Edition (1 - 100 Mailboxes)](https://mycommerce.akamaized.net/api/pimages/P300808955/BIG/300808955.JPG)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300808955&affiliateid=200057808)
+# Kernel Migrator for Exchange - Express Edition (1 - 100 Mailboxes)
+![Kernel Migrator for Exchange - Express Edition (1 - 100 Mailboxes)](https://mycommerce.akamaized.net/api/pimages/P300808955/BIG/300808955.JPG)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300808955&affiliateid=200057808)

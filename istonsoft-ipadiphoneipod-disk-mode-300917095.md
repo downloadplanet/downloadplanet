@@ -1,4 +1,6 @@
-# iStonsoft iPad/iPhone/iPod Disk Mode<br />![iStonsoft iPad/iPhone/iPod Disk Mode](https://mycommerce.akamaized.net/api/pimages/P300917095/BIG/300917095.PNG)<br />iStonsoft iPad/iPhone/iPod Disk Mode - Mount iPad, iPhone or iPod as a portable hard drive!
+# iStonsoft iPad/iPhone/iPod Disk Mode
+![iStonsoft iPad/iPhone/iPod Disk Mode](https://mycommerce.akamaized.net/api/pimages/P300917095/BIG/300917095.PNG)
+iStonsoft iPad/iPhone/iPod Disk Mode - Mount iPad, iPhone or iPod as a portable hard drive!
 
 If you own an iPhone, iPod or iPad, you will know that other than storing contents, you can also use it just as a portable USB hard disk or flash disk, with iStonsoft iPad/iPhone/iPod Disk Mode's help.
 
@@ -22,4 +24,5 @@ USB Disk Mode
 Simple to use
 - It's simple application that runs in your system tray and won't clutter or slow your computer.
 - Works independently without technical expertise and third party involvement.
-- iStonsoft iPad/iPhone/iPod Disk Mode can work with iPad, iPhone, and iPod touch devices with or without jailbreaking.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917095&affiliateid=200057808)
+- iStonsoft iPad/iPhone/iPod Disk Mode can work with iPad, iPhone, and iPod touch devices with or without jailbreaking.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917095&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# iSkysoft Slideshow Maker<br />Make Slideshow Movie to Amazing Everyone.
+# iSkysoft Slideshow Maker
+Make Slideshow Movie to Amazing Everyone.
 Use Your Memories to Create a Brand New and Unique Story
 Add your photo, video, and audio files Edit your files and apply cool effects Share or save your slideshow movie
 Personalize Your Project
@@ -19,4 +20,5 @@ Mobile Devices--You can share your slideshows on your mobile device. Whether you
 
 on TV--Do you want to share your slideshow on TV? This best slideshow maker software allows you to burn your slideshow straight to a DVD with the outstanding DVD menus for viewing on television.
 
-HD experience--Output slideshows more impressive in High Definition formats to enjoy super high quality videos. For Standard Definition videos, all the regular formats are supported, such as MP4, AVI, MOV,...<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949718&affiliateid=200057808)
+HD experience--Output slideshows more impressive in High Definition formats to enjoy super high quality videos. For Standard Definition videos, all the regular formats are supported, such as MP4, AVI, MOV,...
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949718&affiliateid=200057808)

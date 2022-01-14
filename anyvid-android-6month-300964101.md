@@ -1,1 +1,4 @@
-# AnyVid Android 6-Month<br />![AnyVid Android 6-Month](https://mycommerce.akamaized.net/api/pimages/P300964101/BIG/300964101.PNG)<br />AnyVid is a simple but powerful video downloader. Here're all we can serve: a huge video resource from network, batch downloading, multi-format and high-quality options. No pop-ups, plug-ins and ad-free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300964101&affiliateid=200057808)
+# AnyVid Android 6-Month
+![AnyVid Android 6-Month](https://mycommerce.akamaized.net/api/pimages/P300964101/BIG/300964101.PNG)
+AnyVid is a simple but powerful video downloader. Here're all we can serve: a huge video resource from network, batch downloading, multi-format and high-quality options. No pop-ups, plug-ins and ad-free.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300964101&affiliateid=200057808)

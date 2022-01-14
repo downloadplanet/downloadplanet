@@ -1,4 +1,6 @@
-# TEX PACK 001 Pavement<br />![TEX PACK 001 Pavement](https://mycommerce.akamaized.net/api/pimages/P300525263/BIG/300525263.JPG)<br />Six Super high resolution texture for detail renderings.
+# TEX PACK 001 Pavement
+![TEX PACK 001 Pavement](https://mycommerce.akamaized.net/api/pimages/P300525263/BIG/300525263.JPG)
+Six Super high resolution texture for detail renderings.
 
 The package includes:
 
@@ -13,4 +15,5 @@ Pavement 4
 Pavement 5
 Pavement 11
 Pavement 12
-Pavement 13<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300525263&affiliateid=200057808)
+Pavement 13
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300525263&affiliateid=200057808)

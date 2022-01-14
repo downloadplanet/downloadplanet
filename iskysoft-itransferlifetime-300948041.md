@@ -1,4 +1,6 @@
-# iSkysoft iTransfer(Lifetime)<br />![iSkysoft iTransfer(Lifetime)](https://mycommerce.akamaized.net/api/pimages/P300948041/BIG/300948041.PNG)<br />**Copy Music, Videos and Playlists to iTunes and your PC from iDevice.
+# iSkysoft iTransfer(Lifetime)
+![iSkysoft iTransfer(Lifetime)](https://mycommerce.akamaized.net/api/pimages/P300948041/BIG/300948041.PNG)
+**Copy Music, Videos and Playlists to iTunes and your PC from iDevice.
 
 Copying music and other media files from iDevice to the PC is not an easy thing. Creating backups of music, videos and playlists is almost impossible asthere is no software giving you the opportunity to transfer the music from your iDevice to your Desktop. iSkysoft TunesOver gives you the chance to copy all of your media files from the iDevice to the iTunes Library,your PC and, unlike iTunes, even to another iDevice with ease. It also lets you sync ripped audio and easily transfer album artwork and music information,options that iTunes does not offer.
 
@@ -18,4 +20,5 @@ Backup Media Files from iTunes/PC to iOS Devices Convert Media Files to Fit your
 **Support Apple Devices Fully compatible with iOS 9, iOS 8, iOS 7, iOS 6, iOS 5
 - iPod nano, iPod classic, iPod shuffle, iPod touch 5, iPod touch 4
 - iPhone 6s, iPhone 6, iPhone 6 Plus, iPhone 5s, iPhone 5c, iPhone 4s, iPhone 4, iPhone 3G, iPhone 3GS
-- iPad Pro, iPad 1, iPad 2, The new iPad, iPad mini, iPad with Retina display, iPad Air, iPad mini with Retina display, iPad Wifi, iPad 3G<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948041&affiliateid=200057808)
+- iPad Pro, iPad 1, iPad 2, The new iPad, iPad mini, iPad with Retina display, iPad Air, iPad mini with Retina display, iPad Wifi, iPad 3G
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948041&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Video Manager Registration<br />![Video Manager Registration](https://mycommerce.akamaized.net/api/pimages/P300767076/BIG/300767076.PNG)<br />Video Manager is a powerful tag editor and manager for MKV and MP4 video and audio files.
+# Video Manager Registration
+![Video Manager Registration](https://mycommerce.akamaized.net/api/pimages/P300767076/BIG/300767076.PNG)
+Video Manager is a powerful tag editor and manager for MKV and MP4 video and audio files.
 
 Features:
 Edit Matroska tags in MKV, MKA, MKS and MK3D files
@@ -13,4 +15,5 @@ Registration modes:
 Registration: For home use.
 Commercial Registration: For commercial use, using Video Manager for commercial purposes inside a commercial company (for money making use).
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300767076&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300767076&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# PST Splitter - Standard License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300754225&affiliateid=200057808)
+# PST Splitter - Standard License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300754225&affiliateid=200057808)

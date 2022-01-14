@@ -1,1 +1,3 @@
-# SysInfo PST Merge[Single Home User License]<br />SysInfoTools PST Merge<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534269&affiliateid=200057808)
+# SysInfo PST Merge[Single Home User License]
+SysInfoTools PST Merge
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534269&affiliateid=200057808)

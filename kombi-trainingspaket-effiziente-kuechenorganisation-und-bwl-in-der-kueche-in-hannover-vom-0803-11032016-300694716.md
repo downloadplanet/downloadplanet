@@ -1,4 +1,5 @@
-# Kombi Trainingspaket "Effiziente Kuechenorganisation" und "BWL in der Kueche" in Hannover vom 08.03. - 11.03.2016<br />Folgende Produkte erhalten Sie von uns:
+# Kombi Trainingspaket "Effiziente Kuechenorganisation" und "BWL in der Kueche" in Hannover vom 08.03. - 11.03.2016
+Folgende Produkte erhalten Sie von uns:
 
 Komplettpaket Kalkulation Speisen mit Deckungsbeitrag
 Komplettpaket Portfolio Analyse Hauptgerichte Speisen
@@ -45,4 +46,5 @@ Ende: Freitag, 11.03.2016, 09.00 - 17.00 Uhr
 
 <
 Seminarort: Hannover
-Übernachtungsmöglichkeiten:<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300694716&affiliateid=200057808)
+Übernachtungsmöglichkeiten:
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300694716&affiliateid=200057808)

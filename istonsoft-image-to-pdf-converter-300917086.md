@@ -1,4 +1,6 @@
-# iStonsoft Image to PDF Converter<br />![iStonsoft Image to PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300917086/BIG/300917086.PNG)<br />iStonsoft Image to PDF Converter - Quick, fast, and easy for converting JPG/PNG/GIF/BMP/TIFF to PDF!
+# iStonsoft Image to PDF Converter
+![iStonsoft Image to PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300917086/BIG/300917086.PNG)
+iStonsoft Image to PDF Converter - Quick, fast, and easy for converting JPG/PNG/GIF/BMP/TIFF to PDF!
 
 Image to PDF Converter program is very robust, flexible and easy-to-use desktop utility which supports batch converting images to PDF documents. With it, you can:
 
@@ -31,4 +33,5 @@ Supports to add files or folders by dragging and dropping directly.
 
 - Absolutely compatible with all Windows operating system.
 
-- No additional software such as Acrobat Reader and technical skills required.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917086&affiliateid=200057808)
+- No additional software such as Acrobat Reader and technical skills required.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917086&affiliateid=200057808)

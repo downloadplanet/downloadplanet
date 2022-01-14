@@ -1,1 +1,3 @@
-# RecoverBits Deleted File Recovery - Personal License<br />Data Recovery Software<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300953418&affiliateid=200057808)
+# RecoverBits Deleted File Recovery - Personal License
+Data Recovery Software
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300953418&affiliateid=200057808)

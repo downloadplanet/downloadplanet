@@ -1,4 +1,6 @@
-# PC Guard for Win32<br />![PC Guard for Win32](https://mycommerce.akamaized.net/api/pimages/P185810/BIG/185810.GIF)<br />PC Guard for Win32 is a professional software protection and licensing system for 32bit Windows applications.
+# PC Guard for Win32
+![PC Guard for Win32](https://mycommerce.akamaized.net/api/pimages/P185810/BIG/185810.GIF)
+PC Guard for Win32 is a professional software protection and licensing system for 32bit Windows applications.
 
 All standard (C++, VB, Delphi...) and non-standard 32bit Windows application are supported.
 
@@ -38,4 +40,5 @@ Features at glance:
 - Unique support for non-standard applications!
 - Support for third party licensing!
 - Support for calculation of activation codes over Internet connection and from your own application!
-- Full featured web Activation center (ACEN) !<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=185810&affiliateid=200057808)
+- Full featured web Activation center (ACEN) !
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=185810&affiliateid=200057808)

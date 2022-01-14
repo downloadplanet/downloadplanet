@@ -1,4 +1,5 @@
-# Spiral fonts for CorelDRAW & PSP & & Pages V6<br />www.graphicxtras.com -- Spiral fonts CorelDRAW & PSP & Indesign & Pages Truetype & EPS PC & MAC OSX V6
+# Spiral fonts for CorelDRAW & PSP & & Pages V6
+www.graphicxtras.com -- Spiral fonts CorelDRAW & PSP & Indesign & Pages Truetype & EPS PC & MAC OSX V6
 
 Spiral and swirl designs: TTF (true type font set) + EPS (vector shape set)
 Includes 184 unique designs and exciting and useful design elements
@@ -22,4 +23,5 @@ Open or place or import EPS designs into many different applications
 Fonts are stored in normal true type font format
 Adobe and Photoshop and Illustrator and Fireworks and Flash are registered trademarks of Adobe Systems Incorporated; Corel and Paint Shop Pro and CorelDRAW and Photo-Paint and Painter are registered trademarks of Corel Corporation; other trademarks are owned by their respective owners
 http://www.graphicxtras.com for more details about font sets such as see examples of the designs as well as a thumbnail gallery of many of the designs as well as many additional examples of the vector designs.
-Mail any questions to support at graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300076778&affiliateid=200057808)
+Mail any questions to support at graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300076778&affiliateid=200057808)

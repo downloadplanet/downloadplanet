@@ -1,1 +1,3 @@
-# MSG Migrator - Migration License<br />Convert MSG Messages to Various File Types<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300784457&affiliateid=200057808)
+# MSG Migrator - Migration License
+Convert MSG Messages to Various File Types
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300784457&affiliateid=200057808)

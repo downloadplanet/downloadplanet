@@ -1,4 +1,6 @@
-# SolveigMM Video Splitter 6 - Business Edition - Upgrade<br />![SolveigMM Video Splitter 6 - Business Edition - Upgrade](https://mycommerce.akamaized.net/api/pimages/P300500212/BIG/300500212.PNG)<br />SolveigMM Video Splitteris advanced MPEG-2, AVI, WMV, ASF, MP3, WMA video and audio editor to operate in fast and lossless mode.
+# SolveigMM Video Splitter 6 - Business Edition - Upgrade
+![SolveigMM Video Splitter 6 - Business Edition - Upgrade](https://mycommerce.akamaized.net/api/pimages/P300500212/BIG/300500212.PNG)
+SolveigMM Video Splitteris advanced MPEG-2, AVI, WMV, ASF, MP3, WMA video and audio editor to operate in fast and lossless mode.
 
 From version 2.0 MPEG-2 frame accurate editing support added.
 
@@ -26,4 +28,5 @@ I've tried the SolveigMM VideoSplitter and I must say, for removing ads from WMV
 Stefan, USA, Nov 2006
 
 If you have any sales or technical questions please feel free co contact us at support@solveigmm.com
-More information you can get on  SolveigMM Video Splitter Home Page<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300500212&affiliateid=200057808)
+More information you can get on  SolveigMM Video Splitter Home Page
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300500212&affiliateid=200057808)

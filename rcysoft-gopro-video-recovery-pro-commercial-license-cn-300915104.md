@@ -1,1 +1,3 @@
-# Rcysoft GoPro Video Recovery Pro - Commercial License - CN<br />专业的GoPro MP4视频恢复软件允许GoPro用户完全恢复已删除，格式化或丢失的MP4视频。它支持GoPro Hero 4 Silver，GoPro Hero 4 Session，GoPro Hero 3 Black，GoPro Hero 3 White，GoPro Hero 3 Silver，GoPro Hero 2 Outdoor Edition，GoPro Hero 2 Motorsports Edition，GoPro Hero 2 Surf Edition，GoPro Helmet Hero，GoPro赛车英雄和GoPro冲浪英雄。<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915104&affiliateid=200057808)
+# Rcysoft GoPro Video Recovery Pro - Commercial License - CN
+专业的GoPro MP4视频恢复软件允许GoPro用户完全恢复已删除，格式化或丢失的MP4视频。它支持GoPro Hero 4 Silver，GoPro Hero 4 Session，GoPro Hero 3 Black，GoPro Hero 3 White，GoPro Hero 3 Silver，GoPro Hero 2 Outdoor Edition，GoPro Hero 2 Motorsports Edition，GoPro Hero 2 Surf Edition，GoPro Helmet Hero，GoPro赛车英雄和GoPro冲浪英雄。
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915104&affiliateid=200057808)

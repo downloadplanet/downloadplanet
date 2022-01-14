@@ -1,4 +1,6 @@
-# iPubsoft Word to PDF Converter<br />![iPubsoft Word to PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300921991/BIG/300921991.PNG)<br />Your Awesome Choice to Create PDF from MS Word Documents!
+# iPubsoft Word to PDF Converter
+![iPubsoft Word to PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300921991/BIG/300921991.PNG)
+Your Awesome Choice to Create PDF from MS Word Documents!
 
 Microsoft Word is the most popular and easy tool for document creation. However, PDF is a more commonly used format for sharing with people to view the document regardless of what Word processor they are using. If you need to convert your Word to PDF, you can use iPubsoft Word to PDF Converter. It can convert a great number of Word files into PDF files together with very short time and excellent quality.
 
@@ -29,4 +31,5 @@ This software allows you to create a single PDF from multiple Word documents wit
 
 Save Much Money
 
-Although Adobe Acrobat can perform the conversion, it costs hundreds of dollars. This economical iPubsoft program saves you a lot of money.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921991&affiliateid=200057808)
+Although Adobe Acrobat can perform the conversion, it costs hundreds of dollars. This economical iPubsoft program saves you a lot of money.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921991&affiliateid=200057808)

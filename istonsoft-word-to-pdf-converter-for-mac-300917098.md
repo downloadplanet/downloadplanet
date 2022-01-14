@@ -1,4 +1,6 @@
-# iStonsoft Word to PDF Converter for Mac<br />![iStonsoft Word to PDF Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917098/BIG/300917098.PNG)<br />Perform instant Word documents to PDF Conversion!
+# iStonsoft Word to PDF Converter for Mac
+![iStonsoft Word to PDF Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917098/BIG/300917098.PNG)
+Perform instant Word documents to PDF Conversion!
 
 iStonsoft Word to PDF Converter for Mac is a powerful and amazing software that allows you to manage important Word files and project document files by converting Word format to PDF format on Mac computer. With this amazing utility, you can:
 
@@ -23,4 +25,5 @@ This Word to PDF converter for Mac can process files in batch. Save time by usin
 
 Ease of Use
 
-The Word to PDF conversion can be done effortlessly through the easy to use user interface. You can convert a Word document to PDF in 3 easy steps: Load Word file(s) > Output settings > Start conversion.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917098&affiliateid=200057808)
+The Word to PDF conversion can be done effortlessly through the easy to use user interface. You can convert a Word document to PDF in 3 easy steps: Load Word file(s) > Output settings > Start conversion.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917098&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Komplettpaket Kalkulation Speisen mit ALLEN Kalkulationsvarianten<br />Folgende Inhalte, Tabellenblätter und Vorlagen sind in der Exceldatei enthalten:
+# Komplettpaket Kalkulation Speisen mit ALLEN Kalkulationsvarianten
+Folgende Inhalte, Tabellenblätter und Vorlagen sind in der Exceldatei enthalten:
 
 => Neu! 4 Kalkulationsverfahren in einem Excelsheet
 • Vor- und Nachkalkulation, KF, KA, WE% Vorgabe und Deckungsbeitrag
@@ -25,4 +26,5 @@ Folgende Unterlagen erhalten Sie:
 =>Videoanleitung Excelprogramm Kalkulation (Youtube)
 =>Videoanleitung Excelprogramm Speisendiagnose (Youtube)
 
-=>Hier erhalten Sie eine Videobeschreibung vom Komplettpaket Kalkulation Speisen ALLE<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300664906&affiliateid=200057808)
+=>Hier erhalten Sie eine Videobeschreibung vom Komplettpaket Kalkulation Speisen ALLE
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300664906&affiliateid=200057808)

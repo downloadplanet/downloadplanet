@@ -1,1 +1,3 @@
-# Tools2Export PST Exporter - Technical License (Reseller)<br />Tools2Export PST Exporter to Export Outlook PST Mails in multiple file formats (PDF, MSG, EML, MBOX, VCF & ICS).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300855591&affiliateid=200057808)
+# Tools2Export PST Exporter - Technical License (Reseller)
+Tools2Export PST Exporter to Export Outlook PST Mails in multiple file formats (PDF, MSG, EML, MBOX, VCF & ICS).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300855591&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Winmail.dat Converter - Standard License<br />Software to Convert Winmail.dat Attachment Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300963831&affiliateid=200057808)
+# Winmail.dat Converter - Standard License
+Software to Convert Winmail.dat Attachment Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300963831&affiliateid=200057808)

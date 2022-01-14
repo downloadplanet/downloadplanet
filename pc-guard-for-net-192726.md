@@ -1,4 +1,6 @@
-# PC Guard for .NET<br />![PC Guard for .NET](https://mycommerce.akamaized.net/api/pimages/P192726/BIG/192726.GIF)<br />PC Guard for .NET is a professional software protection and licensing system for .NET framework and 32bit Windows applications.
+# PC Guard for .NET
+![PC Guard for .NET](https://mycommerce.akamaized.net/api/pimages/P192726/BIG/192726.GIF)
+PC Guard for .NET is a professional software protection and licensing system for .NET framework and 32bit Windows applications.
 
 All x86/AnyCpu .NET framework and standard (C++, VB, Delphi...) and non-standard 32bit Windows application are supported.
 
@@ -40,4 +42,5 @@ Features at glance:
 - Unique support for non-standard applications!
 - Support for third party licensing!
 - Support for calculation of activation codes over Internet connection and from your own application!
-- Full featured web Activation center (ACEN) !<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=192726&affiliateid=200057808)
+- Full featured web Activation center (ACEN) !
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=192726&affiliateid=200057808)

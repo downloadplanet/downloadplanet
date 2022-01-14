@@ -1,1 +1,3 @@
-# HTML-Verschlüsseler<br />Do you ever wanted to protect your homepage against copyright validation? With HTML-Encrypter you can encrypt the source code of your HTML files. The files look normal in any Bowser but the source code is not human readable. Protect your Know How now!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060466&affiliateid=200057808)
+# HTML-Verschlüsseler
+Do you ever wanted to protect your homepage against copyright validation? With HTML-Encrypter you can encrypt the source code of your HTML files. The files look normal in any Bowser but the source code is not human readable. Protect your Know How now!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060466&affiliateid=200057808)

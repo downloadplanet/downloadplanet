@@ -1,1 +1,4 @@
-# eSoftTools PST Password Recovery - Personal License<br />![eSoftTools PST Password Recovery - Personal License](https://mycommerce.akamaized.net/api/pimages/P300925008/BIG/300925008.PNG)<br />Quick Password Recovery for MS Outlook PST File. Recover every version of Outlook PST file password.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300925008&affiliateid=200057808)
+# eSoftTools PST Password Recovery - Personal License
+![eSoftTools PST Password Recovery - Personal License](https://mycommerce.akamaized.net/api/pimages/P300925008/BIG/300925008.PNG)
+Quick Password Recovery for MS Outlook PST File. Recover every version of Outlook PST file password.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300925008&affiliateid=200057808)

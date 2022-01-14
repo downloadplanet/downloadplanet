@@ -1,4 +1,5 @@
-# Andrews Vector Plugins Lattice connect for Illustrator CS5 CS4 V24<br />www.graphicxtras.com -- Andrews Vector Plugins Lattice connect Illustrator CS5 CS4 Filter & Plugin & Effects Vector PC & MAC OSX V24
+# Andrews Vector Plugins Lattice connect for Illustrator CS5 CS4 V24
+www.graphicxtras.com -- Andrews Vector Plugins Lattice connect Illustrator CS5 CS4 Filter & Plugin & Effects Vector PC & MAC OSX V24
 
 Graphicxtras.com 'Andrew's Vector Plug-ins Volume 24': GXLatticeConnect Plug-in Set
 Plug-in Set for Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10
@@ -27,4 +28,5 @@ Graphicxtras.com
 
 For more information about the plug-in http://www.graphicxtras.com/lattices.htm
 If you wish to contact me about the plug-in set, please e-mail on Please e-mail us on support@graphicxtras.com
-Other plugins - more info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300164843&affiliateid=200057808)
+Other plugins - more info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300164843&affiliateid=200057808)

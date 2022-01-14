@@ -1,1 +1,2 @@
-# Custom Software Development<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067302&affiliateid=200057808)
+# Custom Software Development
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067302&affiliateid=200057808)

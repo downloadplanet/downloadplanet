@@ -1,1 +1,3 @@
-# SilverLine Collection<br />For detailed specification of this product go to its web site: http://www.d16.pl/silverline<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300420042&affiliateid=200057808)
+# SilverLine Collection
+For detailed specification of this product go to its web site: http://www.d16.pl/silverline
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300420042&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# MailBee Objects (Unlimited Developer Site)<br />Enables your application to send, receive, parse and manage e-mail over POP3, IMAP4 and SMTP protocols<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333751&affiliateid=200057808)
+# MailBee Objects (Unlimited Developer Site)
+Enables your application to send, receive, parse and manage e-mail over POP3, IMAP4 and SMTP protocols
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333751&affiliateid=200057808)

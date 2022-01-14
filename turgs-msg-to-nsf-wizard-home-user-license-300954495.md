@@ -1,1 +1,3 @@
-# Turgs MSG to NSF Wizard - Home User License<br />Convert Email Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300954495&affiliateid=200057808)
+# Turgs MSG to NSF Wizard - Home User License
+Convert Email Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300954495&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Bopup Observer (Hosted IM service)<br />![Bopup Observer (Hosted IM service)](https://mycommerce.akamaized.net/api/pimages/P300885087/BIG/300885087.GIF)<br />Bopup Observer is a secure one-way messenger designed for alerting and notification purposes. This clear, easy to use and light-weight IM client can be deployed on LAN or enterprise-size networks and helps you keep users informed and updated instantly.
+# Bopup Observer (Hosted IM service)
+![Bopup Observer (Hosted IM service)](https://mycommerce.akamaized.net/api/pimages/P300885087/BIG/300885087.GIF)
+Bopup Observer is a secure one-way messenger designed for alerting and notification purposes. This clear, easy to use and light-weight IM client can be deployed on LAN or enterprise-size networks and helps you keep users informed and updated instantly.
 
 The messenger supports rich-text messages including links, font and color formatting, emoticons, and it can receive files and directories from the IM server and other users. You can get urgent messages or activate the Confirmation Mode on the instant messaging server that pops up the program when a message is received and keeps it on top until the user clicks the Confirm Message button.
 
@@ -8,4 +10,5 @@ No user experience and skills are needed to use the program. The smart and comfo
 
 The centralized client/server architecture offers complete and flexible management for controlling your IM infrastructure. The central server logs all user activity and archives all messages and file transfers with the reporting, search and printing options. It allows you to manage messaging groups, users' contact information and permissions to send and view other users, assign and distribute important files and documents to users. It is easy to import user accounts from your Active Directory (LDAP) and start an efficient instant messaging and real-time communication system right now.
 
-Several authentication modes are supported in the messaging server software: Simple (only matches Windows Login ID and IM account name on the server), Windows Authentication or private login ID (can be e-mail or any different name instead Windows Login ID) and password pair.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300885087&affiliateid=200057808)
+Several authentication modes are supported in the messaging server software: Simple (only matches Windows Login ID and IM account name on the server), Windows Authentication or private login ID (can be e-mail or any different name instead Windows Login ID) and password pair.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300885087&affiliateid=200057808)

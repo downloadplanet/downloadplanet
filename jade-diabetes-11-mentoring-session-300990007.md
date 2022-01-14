@@ -1,1 +1,3 @@
-# Jade Diabetes 1:1 Mentoring Session<br />A Jade Diabetes 1:1 Mentoring Session helps you be successful in managing your diabetes. You will receive a dedicated time slot tailored to answering YOUR needs and questions. The session will be delivered by Jade's Founder, backed by 30 years of lived experience.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300990007&affiliateid=200057808)
+# Jade Diabetes 1:1 Mentoring Session
+A Jade Diabetes 1:1 Mentoring Session helps you be successful in managing your diabetes. You will receive a dedicated time slot tailored to answering YOUR needs and questions. The session will be delivered by Jade's Founder, backed by 30 years of lived experience.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300990007&affiliateid=200057808)

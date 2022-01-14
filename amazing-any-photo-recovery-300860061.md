@@ -1,1 +1,4 @@
-# Amazing Any Photo Recovery<br />![Amazing Any Photo Recovery](https://mycommerce.akamaized.net/api/pimages/P300860061/BIG/300860061.PNG)<br />It is powerful photo, video & audio recovery software to helps you retrieve deleted files from your PC's hard drive as well as from USB drives, external hard drives, mobile phones, digital cameras, iPods, MP3/MP4 players, and other storage devices.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300860061&affiliateid=200057808)
+# Amazing Any Photo Recovery
+![Amazing Any Photo Recovery](https://mycommerce.akamaized.net/api/pimages/P300860061/BIG/300860061.PNG)
+It is powerful photo, video & audio recovery software to helps you retrieve deleted files from your PC's hard drive as well as from USB drives, external hard drives, mobile phones, digital cameras, iPods, MP3/MP4 players, and other storage devices.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300860061&affiliateid=200057808)

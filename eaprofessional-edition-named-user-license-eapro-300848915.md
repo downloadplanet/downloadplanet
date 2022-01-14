@@ -1,1 +1,3 @@
-# EA-Professional Edition - named user License EAPRO<br />A fully featured UML modeling environment for workgroups, analysts and developers. Includes support for multi user projects and code engineering (import/export/synchronization).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300848915&affiliateid=200057808)
+# EA-Professional Edition - named user License EAPRO
+A fully featured UML modeling environment for workgroups, analysts and developers. Includes support for multi user projects and code engineering (import/export/synchronization).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300848915&affiliateid=200057808)

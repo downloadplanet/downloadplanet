@@ -1,4 +1,5 @@
-# Graybox OPC Server Toolkit V3 Standard<br />PURPOSE
+# Graybox OPC Server Toolkit V3 Standard
+PURPOSE
 Graybox OPC Server Toolkit lets the programmer to create robust and highly effective OPC Servers within the shortest possible time. This toolkit eliminates the necessity of implementing all of the numerous OPC interfaces and COM programming.
 OPC COMPLIANCE
 Graybox OPC Server Toolkit supports
@@ -32,4 +33,5 @@ FREE DEMO VERSION
 You can download demo version free of charge.
 The only Demo version limitation is
 limited OPC Server tags count (100 tags).
-To download demo version use the link above.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300111304&affiliateid=200057808)
+To download demo version use the link above.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300111304&affiliateid=200057808)

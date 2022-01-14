@@ -1,7 +1,10 @@
-# Dynamic Auto Painter 6 HOME Edition<br />![Dynamic Auto Painter 6 HOME Edition](https://mycommerce.akamaized.net/api/pimages/P300870669/BIG/300870669.JPG)<br />Instead of processing pixels of the input photo, our software uses the image as a guide and applies real brush strokes based on the works of famous classic painters such as Van Gogh, Monet, Sargent, Cezanne… to recreate from scratch your photos in each artist signature style. Dynamic Auto Painter repaints your photo stroke by stroke so it looks like a painting when viewed both up close on a large monitor as well as on a small screen on your phone. This is where filter based applications often fail. But DAP is different!
+# Dynamic Auto Painter 6 HOME Edition
+![Dynamic Auto Painter 6 HOME Edition](https://mycommerce.akamaized.net/api/pimages/P300870669/BIG/300870669.JPG)
+Instead of processing pixels of the input photo, our software uses the image as a guide and applies real brush strokes based on the works of famous classic painters such as Van Gogh, Monet, Sargent, Cezanne… to recreate from scratch your photos in each artist signature style. Dynamic Auto Painter repaints your photo stroke by stroke so it looks like a painting when viewed both up close on a large monitor as well as on a small screen on your phone. This is where filter based applications often fail. But DAP is different!
 While our software can often create a very convincing artwork right away, for many of our users, it is only a first step Some Examples how the software is used by our customers
 As a first tool in the toolbox: Use DAP then continue in drawing applications like Corel Painter or Photoshop to refine your painting
 Beat the Artist Block: Run photo through Dynamic Auto Painters various styles to get an inspiration before you start painting with real paint on canvas
 Reinvent lost art: Use Dynamic Auto Painter to process photos that are too small or blurry or process your old drawings
 Enhance 3D Rendering: Many of the styles can bring a new life into 3D renderings from software such as Poser
-Show and Sell your art: There are many users that sell their art created partially or entirely with Dynamic Auto Painter<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870669&affiliateid=200057808)
+Show and Sell your art: There are many users that sell their art created partially or entirely with Dynamic Auto Painter
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300870669&affiliateid=200057808)

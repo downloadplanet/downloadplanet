@@ -1,4 +1,5 @@
-# Cloud symbols for Illustrator (AI) V21<br />www.graphicxtras.com -- Cloud symbols shapes Illustrator Creative Cloud Shapes Sketchy & Cartoon V21
+# Cloud symbols for Illustrator (AI) V21
+www.graphicxtras.com -- Cloud symbols shapes Illustrator Creative Cloud Shapes Sketchy & Cartoon V21
 
 440 Clouds symbols for Adobe (R) Illustrator (R) (clouds symbols, dark clouds, fluffy cloud symbols, sketch clouds and many more)
 
@@ -16,4 +17,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300177751&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300177751&affiliateid=200057808)

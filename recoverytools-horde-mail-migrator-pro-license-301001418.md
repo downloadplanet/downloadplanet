@@ -1,1 +1,3 @@
-# RecoveryTools Horde Mail Migrator - Pro License<br />Software to Convert Horde Mailboxes<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301001418&affiliateid=200057808)
+# RecoveryTools Horde Mail Migrator - Pro License
+Software to Convert Horde Mailboxes
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301001418&affiliateid=200057808)

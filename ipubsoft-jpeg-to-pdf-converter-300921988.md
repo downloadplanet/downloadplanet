@@ -1,4 +1,6 @@
-# iPubsoft JPEG to PDF Converter<br />![iPubsoft JPEG to PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300921988/BIG/300921988.PNG)<br />Make your own PDF Photo Album or PDF eBook from JPEG images!
+# iPubsoft JPEG to PDF Converter
+![iPubsoft JPEG to PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300921988/BIG/300921988.PNG)
+Make your own PDF Photo Album or PDF eBook from JPEG images!
 
 JPEG is not a really convenient or secure file format compared to PDF. PDF is ideal for storing image files in a device and resolution independent way. After converting JPEG to PDF, you can have the benefit of securing files with PDF?s security options. iPubsoft JPEG to PDF Converter can convert your images from JPEG to PDF, preserving original picture files in realistic mode without any modification, change or destruction.
 
@@ -21,4 +23,5 @@ Thanks to the intuitive interface for all level users, you can quickly clear the
 
 Fast and Accurate conversion
 
-The JPG to PDF converter supports converting hundreds of images to PDF documents with high quality and impressive speed. After a few seconds, the conversion can be done without any quality loss.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921988&affiliateid=200057808)
+The JPG to PDF converter supports converting hundreds of images to PDF documents with high quality and impressive speed. After a few seconds, the conversion can be done without any quality loss.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921988&affiliateid=200057808)

@@ -1,3 +1,5 @@
-# Inset / Contours Truetype / EPS Shapes V158<br />www.graphicxtras.com -- Inset font Truetype & EPS Apple Pages & PSP & CorelDRAW & Microsoft Word V158
+# Inset / Contours Truetype / EPS Shapes V158
+www.graphicxtras.com -- Inset font Truetype & EPS Apple Pages & PSP & CorelDRAW & Microsoft Word V158
 
-100 Inset (plus a few more bonus ones) in true type font - set includes TTF and EPS format files containing a wide variety of commercial use inset shapes, all royalty-free, all by graphicxtras, all vectors for any size of document - use in Microsoft Word, Adobe Indesign, Photoshop etc PC and MAC OS X<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300459376&affiliateid=200057808)
+100 Inset (plus a few more bonus ones) in true type font - set includes TTF and EPS format files containing a wide variety of commercial use inset shapes, all royalty-free, all by graphicxtras, all vectors for any size of document - use in Microsoft Word, Adobe Indesign, Photoshop etc PC and MAC OS X
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300459376&affiliateid=200057808)

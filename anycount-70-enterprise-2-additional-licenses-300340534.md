@@ -1,1 +1,2 @@
-# AnyCount 7.0 Enterprise - 2 additional licenses<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300340534&affiliateid=200057808)
+# AnyCount 7.0 Enterprise - 2 additional licenses
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300340534&affiliateid=200057808)

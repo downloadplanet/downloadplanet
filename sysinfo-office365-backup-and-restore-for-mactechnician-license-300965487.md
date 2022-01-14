@@ -1,1 +1,3 @@
-# SysInfo Office365 Backup and Restore for MAC[Technician License]<br />SysInfo Office365 Backup and Restore for MAC<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300965487&affiliateid=200057808)
+# SysInfo Office365 Backup and Restore for MAC[Technician License]
+SysInfo Office365 Backup and Restore for MAC
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300965487&affiliateid=200057808)

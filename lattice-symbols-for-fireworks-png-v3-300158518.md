@@ -1,4 +1,5 @@
-# Lattice symbols for Fireworks (PNG) V3<br />www.graphicxtras.com -- Lattice symbols Adobe Fireworks CS 6 5 4 3 MX PC & MAC OS X PNG format V3
+# Lattice symbols for Fireworks (PNG) V3
+www.graphicxtras.com -- Lattice symbols Adobe Fireworks CS 6 5 4 3 MX PC & MAC OS X PNG format V3
 
 Symbols for Adobe (R) Fireworks (R)
 220 Lattice themed symbols for use in Adobe (R) / Macromedia (R) Fireworks (R) CS4 CS3 8 + others
@@ -25,4 +26,5 @@ GRAPHICXTRAS.COM
 
 
 Any questions, please mail us on support@graphicxtras.comon http://www.graphicxtras.com
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300158518&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300158518&affiliateid=200057808)

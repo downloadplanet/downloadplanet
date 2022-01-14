@@ -1,1 +1,3 @@
-# TMS Aurelius/Data Modeler Bundle - Site License<br />TMS Aurelius is an Object-Relational Mapping framework for Delphi. More info at http://www.tmssoftware.com/go?aurelius . TMS Data Modeler is a database modeling tool that can generate classes for TMS Aurelius. More info at http://www.tmssoftware.com/go?tmsdm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300497341&affiliateid=200057808)
+# TMS Aurelius/Data Modeler Bundle - Site License
+TMS Aurelius is an Object-Relational Mapping framework for Delphi. More info at http://www.tmssoftware.com/go?aurelius . TMS Data Modeler is a database modeling tool that can generate classes for TMS Aurelius. More info at http://www.tmssoftware.com/go?tmsdm
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300497341&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Email Management Toolkit(Add Outlook PST+Email Converter+Outlook Duplicate Remover)Single User License<br />SysInfoTools Email Management Toolkit(Add Outlook PST+Email Converter+Outlook Duplicate Remover)
+# Email Management Toolkit(Add Outlook PST+Email Converter+Outlook Duplicate Remover)Single User License
+SysInfoTools Email Management Toolkit(Add Outlook PST+Email Converter+Outlook Duplicate Remover)
 Key features:-
 Performs quick and a very safe addition of selected PST files to Outlook
 Supports multiple PST files at a time to save users' valuable time
@@ -9,4 +10,5 @@ Effectively converts of EML files into DBX, PST, MSG, RTF and HTML formats.
 Performs conversion of MSG files into DBX, PST, EML, RTF and HTML formats.
 Displays the file specification of selected PST file (if single) automatically.
 Previews the mailbox data of selected PST file (if single) in a perfect tree structure.
-Provides option for searching duplicity of items in same folder or across PST file.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300726389&affiliateid=200057808)
+Provides option for searching duplicity of items in same folder or across PST file.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300726389&affiliateid=200057808)

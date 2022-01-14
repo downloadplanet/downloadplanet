@@ -1,4 +1,6 @@
-# Wondershare DVD Slideshow Builder Standard for Windows - Multi-User Personal License (2-5 PCs)<br />![Wondershare DVD Slideshow Builder Standard for Windows - Multi-User Personal License (2-5 PCs)](https://mycommerce.akamaized.net/api/pimages/P300952916/BIG/300952916.PNG)<br />Wondershare DVD Slideshow Builder Standard brings still photos to life with Hollywood-like photo movie styles, which combined with engaging transition, pan, zoom and rotate effects. You can now watch your digital photos on TV, YouTube, Facebook and portable devices such as iPad, iPhone, PSP, etc. Every photo has a story, show-n-tell your own story with your style.
+# Wondershare DVD Slideshow Builder Standard for Windows - Multi-User Personal License (2-5 PCs)
+![Wondershare DVD Slideshow Builder Standard for Windows - Multi-User Personal License (2-5 PCs)](https://mycommerce.akamaized.net/api/pimages/P300952916/BIG/300952916.PNG)
+Wondershare DVD Slideshow Builder Standard brings still photos to life with Hollywood-like photo movie styles, which combined with engaging transition, pan, zoom and rotate effects. You can now watch your digital photos on TV, YouTube, Facebook and portable devices such as iPad, iPhone, PSP, etc. Every photo has a story, show-n-tell your own story with your style.
 
 The important features are as follow:
 1. Photo DVD movie making for playback on TV using any standard DVD player.
@@ -14,4 +16,5 @@ The important features are as follow:
 11. Supports 4:3 and 16:9 aspect ratio to perfectly share on Youtube and TV.
 12. Captures photos from Camera and other connected devices.
 13. Trim and edit music with fades, or one-click to add voiceover.
-14. Free upgrade online.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952916&affiliateid=200057808)
+14. Free upgrade online.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952916&affiliateid=200057808)

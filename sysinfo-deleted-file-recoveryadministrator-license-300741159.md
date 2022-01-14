@@ -1,1 +1,3 @@
-# SysInfo Deleted File Recovery[Administrator License]<br />SysInfo Deleted File Recovery<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300741159&affiliateid=200057808)
+# SysInfo Deleted File Recovery[Administrator License]
+SysInfo Deleted File Recovery
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300741159&affiliateid=200057808)

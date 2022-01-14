@@ -1,4 +1,6 @@
-# Coolmuster Android Eraser - 1 Year License(16-20PCs)<br />![Coolmuster Android Eraser - 1 Year License(16-20PCs)](https://mycommerce.akamaized.net/api/pimages/P300924891/BIG/300924891.PNG)<br />The Android Eraser is the most ideal privacy protector, which is designed to erase all personal information from your Android devices without any recovery possibility. And totally it returns your Android device to a "Clean Slate" state so that you can resell or donate it trustingly.
+# Coolmuster Android Eraser - 1 Year License(16-20PCs)
+![Coolmuster Android Eraser - 1 Year License(16-20PCs)](https://mycommerce.akamaized.net/api/pimages/P300924891/BIG/300924891.PNG)
+The Android Eraser is the most ideal privacy protector, which is designed to erase all personal information from your Android devices without any recovery possibility. And totally it returns your Android device to a "Clean Slate" state so that you can resell or donate it trustingly.
 Why Do We Need An Android Data Eraser?
 When you do not want to share your private information or secret with others, you will choose to erase history on Android phone. And before you resell, donate or trade in your old Android phone, you need to wipe out all your personal data beforehand so as to prevent a data leaking problem.
 Compared with general deletion, Coolmuster Android Eraser offers you with a deep scan and the most efficient data protection solution to wipe everything from Android permanently. Make sure your deleted Android files won't be recovered by any means.
@@ -15,4 +17,5 @@ High Level (3 Times): The longest and most secure data destruction option to wri
 Straightforward & 100% Safe Android Cleanup Utility
 Never forget that the files and information wiped by Coolmuster Android Eraser is unrecoverable. Therefore, keep in mind to back up the data before starting the erasing process if you don't want to lose them forever.
 Being a small and easy-to-use application, it only costs you less than one minute to wipe out everything your Android device. The habit of cleaning up files that take up space should be a part of any smartphone owner's routine.
-It supports all Android devices ever created, such as Samsung, Huawei, Xiaomi, HTC, LG, Sony, Motorola, Google Nexus, ZTE, and so forth.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924891&affiliateid=200057808)
+It supports all Android devices ever created, such as Samsung, Huawei, Xiaomi, HTC, LG, Sony, Motorola, Google Nexus, ZTE, and so forth.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924891&affiliateid=200057808)

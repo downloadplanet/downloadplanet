@@ -1,1 +1,3 @@
-# AC Generator<br />Standalone application for generation of activation codes, validation of serial numbers and generation of activation files for programs protected with PC Guard software copy protection system. AC Generator is intended for PC Guard software copy protection system users and other authorized parties such as software vendors.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=184024&affiliateid=200057808)
+# AC Generator
+Standalone application for generation of activation codes, validation of serial numbers and generation of activation files for programs protected with PC Guard software copy protection system. AC Generator is intended for PC Guard software copy protection system users and other authorized parties such as software vendors.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=184024&affiliateid=200057808)

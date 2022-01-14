@@ -1,3 +1,5 @@
-# CheckPrixa UPC Generator (Enterprise Site License)<br />CheckPrixa UPC Generator is capable of producing high resolution images of UPC-A, UPC-E, EAN-8 and EAN-13 retail barcodes. These images may be inserted into office suites and desktop publishing softwares such as MS Office, and Adobe InDesign for further print processing.
+# CheckPrixa UPC Generator (Enterprise Site License)
+CheckPrixa UPC Generator is capable of producing high resolution images of UPC-A, UPC-E, EAN-8 and EAN-13 retail barcodes. These images may be inserted into office suites and desktop publishing softwares such as MS Office, and Adobe InDesign for further print processing.
 
-The Enterprise Site License allows the use of the UPC Barcode Generator by everyone within your organization.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300486256&affiliateid=200057808)
+The Enterprise Site License allows the use of the UPC Barcode Generator by everyone within your organization.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300486256&affiliateid=200057808)

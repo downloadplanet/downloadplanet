@@ -1,4 +1,6 @@
-# ConFavor - Context Menu Favorites<br />![ConFavor - Context Menu Favorites](https://mycommerce.akamaized.net/api/pimages/P300272168/BIG/300272168.JPG)<br />ConFavor - Context Menu Favorites
+# ConFavor - Context Menu Favorites
+![ConFavor - Context Menu Favorites](https://mycommerce.akamaized.net/api/pimages/P300272168/BIG/300272168.JPG)
+ConFavor - Context Menu Favorites
 No more searching for important files, applications and directories on all drives of your computer! Here is the solution - ConFavor.
 What does ConFavor do?
 it displays all the necessary programs, documents and other files or folders in one menu,
@@ -14,4 +16,5 @@ free for private and commercial use,
 no time limitations,
 up to 10 favorite items,
 no adware and no spyware
-more info: www.confavor.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300272168&affiliateid=200057808)
+more info: www.confavor.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300272168&affiliateid=200057808)

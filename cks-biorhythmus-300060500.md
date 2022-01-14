@@ -1,1 +1,3 @@
-# CK's Biorhythmus<br />With Biorhythms 2.0 you can analyse your Biorhythm cycles. That means the program shows your intellectual, emotional, physical and intuitive constitution of every day you want. The program only needs your birthday. You can compare the Biorhythms of persons. Find out the equality to the person you love!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060500&affiliateid=200057808)
+# CK's Biorhythmus
+With Biorhythms 2.0 you can analyse your Biorhythm cycles. That means the program shows your intellectual, emotional, physical and intuitive constitution of every day you want. The program only needs your birthday. You can compare the Biorhythms of persons. Find out the equality to the person you love!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060500&affiliateid=200057808)

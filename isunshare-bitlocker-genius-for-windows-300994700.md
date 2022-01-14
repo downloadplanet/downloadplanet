@@ -1,1 +1,3 @@
-# iSunshare BitLocker Genius for Windows<br />A disk encryption tool that can encrypt the internal/external drive with BitLocker in Windows OS.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300994700&affiliateid=200057808)
+# iSunshare BitLocker Genius for Windows
+A disk encryption tool that can encrypt the internal/external drive with BitLocker in Windows OS.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300994700&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# CI-Archive license<br />![CI-Archive license](https://mycommerce.akamaized.net/api/pimages/P300371627/BIG/300371627.PNG)<br />Many people are talking about it, but we offer a practical, implementable solution! Use CI-Archiv to archive your emails
+# CI-Archive license
+![CI-Archive license](https://mycommerce.akamaized.net/api/pimages/P300371627/BIG/300371627.PNG)
+Many people are talking about it, but we offer a practical, implementable solution! Use CI-Archiv to archive your emails
 centrally
 easily and
 in compliance with legislation.
@@ -13,4 +15,5 @@ Edit-proof in compliance with GDPdU
 Email archiving per user and year
 Independent of Outlook PST-files
 Easy access to the email archive in the usual email client
-Multilingual software (German, English)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300371627&affiliateid=200057808)
+Multilingual software (German, English)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300371627&affiliateid=200057808)

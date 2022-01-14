@@ -1,1 +1,4 @@
-# Mercalli V4 Stabilizr for Vegas<br />![Mercalli V4 Stabilizr for Vegas](https://mycommerce.akamaized.net/api/pimages/P300693987/BIG/300693987.JPG)<br />The ultimate solution for video stabilization in Vegas<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300693987&affiliateid=200057808)
+# Mercalli V4 Stabilizr for Vegas
+![Mercalli V4 Stabilizr for Vegas](https://mycommerce.akamaized.net/api/pimages/P300693987/BIG/300693987.JPG)
+The ultimate solution for video stabilization in Vegas
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300693987&affiliateid=200057808)

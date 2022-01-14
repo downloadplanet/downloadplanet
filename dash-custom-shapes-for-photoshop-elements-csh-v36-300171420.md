@@ -1,4 +1,6 @@
-# Dash Custom shapes for Photoshop & Elements (CSH) V36<br />![Dash Custom shapes for Photoshop & Elements (CSH) V36](https://mycommerce.akamaized.net/api/pimages/P300171420/BIG/300171420.PNG)<br />www.graphicxtras.com -- Dash Custom Shapes for Adobe Photoshop & Elements V36
+# Dash Custom shapes for Photoshop & Elements (CSH) V36
+![Dash Custom shapes for Photoshop & Elements (CSH) V36](https://mycommerce.akamaized.net/api/pimages/P300171420/BIG/300171420.PNG)
+www.graphicxtras.com -- Dash Custom Shapes for Adobe Photoshop & Elements V36
 
 Custom shapes for Photoshop and Photoshop Elements
 270 Dash (and dot) shapes for Adobe (R) Photoshop (R)
@@ -20,4 +22,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300171420&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300171420&affiliateid=200057808)

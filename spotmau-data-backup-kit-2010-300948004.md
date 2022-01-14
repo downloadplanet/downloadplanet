@@ -1,5 +1,8 @@
-# Spotmau Data Backup Kit 2010<br />![Spotmau Data Backup Kit 2010](https://mycommerce.akamaized.net/api/pimages/P300948004/BIG/300948004.JPG)<br />Why backup? Because your Windows can become unstable or even crash after running several months; your hard disk is a fragile device that it can be damaged by shaking, kicking, or frequently moving.
+# Spotmau Data Backup Kit 2010
+![Spotmau Data Backup Kit 2010](https://mycommerce.akamaized.net/api/pimages/P300948004/BIG/300948004.JPG)
+Why backup? Because your Windows can become unstable or even crash after running several months; your hard disk is a fragile device that it can be damaged by shaking, kicking, or frequently moving.
 
 Data backup allows you backup your file, folder or even entire disk. Save your precious family memory and important business documents. It can backup to any media; backup on demand or on schedule. Smart incremental backup technology enables you to backup only when your files are changed since last backup and saves your time.
 
-Spotmau Clone genius is now integrated into Data Backup. You can clone entire disk including Windows, programs, files and personal settings, so that you can restore them in the event of a system crash, hard disk problems or disk upgrade. Just a few mouse clicks, no Windows reinstallation is required. Save your time and money.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948004&affiliateid=200057808)
+Spotmau Clone genius is now integrated into Data Backup. You can clone entire disk including Windows, programs, files and personal settings, so that you can restore them in the event of a system crash, hard disk problems or disk upgrade. Just a few mouse clicks, no Windows reinstallation is required. Save your time and money.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948004&affiliateid=200057808)

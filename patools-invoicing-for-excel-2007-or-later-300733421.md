@@ -1,4 +1,5 @@
-# PATools Invoicing for Excel 2007 or later<br />Create invoices and credit notes, quotes, and drafts/templates and email them straight out as neat pdf attachments.
+# PATools Invoicing for Excel 2007 or later
+Create invoices and credit notes, quotes, and drafts/templates and email them straight out as neat pdf attachments.
 Simple and easy to use, with or without VAT / Sales Tax
 See all your invoices in a list in Excel
 Create a new one based on an old one with just one click
@@ -10,4 +11,5 @@ Easy to invoice to regular clients from a list, and one-offs by simply typing th
 Many options for configuration, or use straight out of the box
 On-line help file and troubleshooting
 Full instructions by videos on YouTube
-FREE to try for as long as you wish with full functionality<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300733421&affiliateid=200057808)
+FREE to try for as long as you wish with full functionality
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300733421&affiliateid=200057808)

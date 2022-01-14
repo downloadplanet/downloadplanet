@@ -1,3 +1,5 @@
-# Batch & Print Pro PDF Addon & PDF Plus Addon Site License (Worldwide<br />Batch & Print Pro PDF Addon is a plugin for Batch & Print Pro that gives the user more control over the print process. options include page start and end, print to fit, postscript level & print as binary in the Batch & Print Pro enviroment. Now includes PDF Addon plus all in one price!
+# Batch & Print Pro PDF Addon & PDF Plus Addon Site License (Worldwide
+Batch & Print Pro PDF Addon is a plugin for Batch & Print Pro that gives the user more control over the print process. options include page start and end, print to fit, postscript level & print as binary in the Batch & Print Pro enviroment. Now includes PDF Addon plus all in one price!
 THIS SITE LICENSE ALLOWS UNLIMITED NUMBER OF COPIES OF PDF Addon or PDF Addon Plus TO BE USED WITHIN A COMPANY WORLDWIDE.
-All Updates to 1.xx are free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300449313&affiliateid=200057808)
+All Updates to 1.xx are free of charge.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300449313&affiliateid=200057808)

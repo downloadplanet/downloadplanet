@@ -1,1 +1,4 @@
-# Vector Shapes Hardware<br />![Vector Shapes Hardware](https://mycommerce.akamaized.net/api/pimages/P300574532/BIG/300574532.GIF)<br />The Icon Set Vector Shapes Hardware contains 100 icons with shapes. The images are made available in the AI (Version CS5) and SVG vector formats. The grid formats ICO, PNG, PSD, BMP und GIF are likewise included. The images in PNG, BMP and GIF formats are presented in sizes 16*16, 24*24, 32*32, 48*48, 64*64, 128*128 und 256*256.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300574532&affiliateid=200057808)
+# Vector Shapes Hardware
+![Vector Shapes Hardware](https://mycommerce.akamaized.net/api/pimages/P300574532/BIG/300574532.GIF)
+The Icon Set Vector Shapes Hardware contains 100 icons with shapes. The images are made available in the AI (Version CS5) and SVG vector formats. The grid formats ICO, PNG, PSD, BMP und GIF are likewise included. The images in PNG, BMP and GIF formats are presented in sizes 16*16, 24*24, 32*32, 48*48, 64*64, 128*128 und 256*256.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300574532&affiliateid=200057808)

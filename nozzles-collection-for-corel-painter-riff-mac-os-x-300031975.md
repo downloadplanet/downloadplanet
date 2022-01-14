@@ -1,4 +1,5 @@
-# Nozzles Collection for Corel Painter (RIFF) MAC OS X<br />www.graphicxtras.com -- Nozzles Collection for Corel Painter 2015 X3 12 11 10 9 8 7 6 5 MAC OS X
+# Nozzles Collection for Corel Painter (RIFF) MAC OS X
+www.graphicxtras.com -- Nozzles Collection for Corel Painter 2015 X3 12 11 10 9 8 7 6 5 MAC OS X
 
 ** Add nozzles collection to shareit.com shopping cart (graphicxtras.com)
 1200 Mixed nozzles for Corel (R) Painter (TM) Image Hose, MAC OS X Version
@@ -20,4 +21,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 MENU:
 
 Mail me if you have any questions about the nozzles
-Other items for Corel (R) Painter (TM) such as grains and patterns<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300031975&affiliateid=200057808)
+Other items for Corel (R) Painter (TM) such as grains and patterns
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300031975&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# MOBILedit! Phone Copier<br />The MOBILedit! Phone Copier is the perfect solution for cellular retail stores, mobile operators, and phone manufacturers. MOBILedit! Phone Copier belongs at the front desk of every phone store so that a customer can simply hand his old phone to the clerk and have all the content copied over to the new phone being purchased. More...<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108892&affiliateid=200057808)
+# MOBILedit! Phone Copier
+The MOBILedit! Phone Copier is the perfect solution for cellular retail stores, mobile operators, and phone manufacturers. MOBILedit! Phone Copier belongs at the front desk of every phone store so that a customer can simply hand his old phone to the clerk and have all the content copied over to the new phone being purchased. More...
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108892&affiliateid=200057808)

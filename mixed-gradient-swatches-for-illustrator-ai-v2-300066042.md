@@ -1,4 +1,5 @@
-# Mixed gradient swatches for Illustrator (AI) V2<br />www.graphicxtras.com -- Mixed gradient Swatches for Adobe Illustrator Creative Cloud V2
+# Mixed gradient swatches for Illustrator (AI) V2
+www.graphicxtras.com -- Mixed gradient Swatches for Adobe Illustrator Creative Cloud V2
 
 7600 Gradient swatches: line gradients, red gradients, green gradients, blue gradients, random gradients, zoom gradients and many more
 For Adobe (R) Illustrator (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 10
@@ -23,4 +24,5 @@ Download only
 http://www.graphicxtras.com/gradients.htm
 Questions??
 Swatches information on http://www.graphicxtras.com
-Find out more on graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300066042&affiliateid=200057808)
+Find out more on graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300066042&affiliateid=200057808)

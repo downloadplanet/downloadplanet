@@ -1,1 +1,3 @@
-# ScreenShot<br />Make screenshots<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300252363&affiliateid=200057808)
+# ScreenShot
+Make screenshots
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300252363&affiliateid=200057808)

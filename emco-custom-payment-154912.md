@@ -1,1 +1,2 @@
-# EMCO Custom Payment<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=154912&affiliateid=200057808)
+# EMCO Custom Payment
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=154912&affiliateid=200057808)

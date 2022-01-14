@@ -1,4 +1,6 @@
-# QR-Code Generator Software<br />![QR-Code Generator Software](https://mycommerce.akamaized.net/api/pimages/P300542875/BIG/300542875.JPG)<br />Der große Vorteil von QR-Codes liegt in der Benutzerfreundlichkeit:
+# QR-Code Generator Software
+![QR-Code Generator Software](https://mycommerce.akamaized.net/api/pimages/P300542875/BIG/300542875.JPG)
+Der große Vorteil von QR-Codes liegt in der Benutzerfreundlichkeit:
 QR-Codes ermöglichen es Ihren Kunden, Ihre Webseite zu besuchen, ohne dass sie erst umständlich Ihren Webseitenlink ins Handy eintippen müssen.
 
 Sie sind kostenfreundlich: Die QR-Codes kosten Sie mit dieser QR-Code-Software in der Herstellung nichts. Egal wie viele Codes Sie generieren.
@@ -18,4 +20,5 @@ QR Codes können verschiedene Informationen enthalten, wie zum Beispiel:
 - Email
 - Ihre Kontakt Informationen
 
-Wenn Sie bereits einmal einen Webseiten Link mit Ihrem Handy zu suchen, oder diesen manuell einzugeben, dann wissen Sie, dass dies doch recht umständlich ist und etwas dauern kann. Von Tippfehlern ganz zu schweigen. Deshalb wurden die QR Codes entwickelt. Scannen Sie einfach mit Ihrem Handy das QR-Code-Bild und Sie haben sofort die Daten wie z.B. den Webseitenlink und können sofort zu dieser Webseite gehen.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300542875&affiliateid=200057808)
+Wenn Sie bereits einmal einen Webseiten Link mit Ihrem Handy zu suchen, oder diesen manuell einzugeben, dann wissen Sie, dass dies doch recht umständlich ist und etwas dauern kann. Von Tippfehlern ganz zu schweigen. Deshalb wurden die QR Codes entwickelt. Scannen Sie einfach mit Ihrem Handy das QR-Code-Bild und Sie haben sofort die Daten wie z.B. den Webseitenlink und können sofort zu dieser Webseite gehen.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300542875&affiliateid=200057808)

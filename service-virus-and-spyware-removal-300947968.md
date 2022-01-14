@@ -1,1 +1,4 @@
-# Service - Virus and Spyware Removal<br />![Service - Virus and Spyware Removal](https://mycommerce.akamaized.net/api/pimages/P300947968/BIG/300947968.JPG)<br />Is your PC infected with Spyware and/or a Virus? A Certified Expert can fix your PC now<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947968&affiliateid=200057808)
+# Service - Virus and Spyware Removal
+![Service - Virus and Spyware Removal](https://mycommerce.akamaized.net/api/pimages/P300947968/BIG/300947968.JPG)
+Is your PC infected with Spyware and/or a Virus? A Certified Expert can fix your PC now
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947968&affiliateid=200057808)

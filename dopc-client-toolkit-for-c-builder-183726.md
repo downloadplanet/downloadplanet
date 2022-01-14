@@ -1,4 +1,6 @@
-# dOPC Client Toolkit for C++ Builder<br />![dOPC Client Toolkit for C++ Builder](https://mycommerce.akamaized.net/api/pimages/P183726/BIG/183726.PNG)<br />If you want to create high-end OPC client applications in a fast and professional way with high performance, then our dOPC Client Toolkit for C++ Builder is the right solution for you!
+# dOPC Client Toolkit for C++ Builder
+![dOPC Client Toolkit for C++ Builder](https://mycommerce.akamaized.net/api/pimages/P183726/BIG/183726.PNG)
+If you want to create high-end OPC client applications in a fast and professional way with high performance, then our dOPC Client Toolkit for C++ Builder is the right solution for you!
 
 There are a number of good reasons why you should purchase our OPC C++ Framework for Codegear C++ Builder:
 
@@ -28,4 +30,5 @@ CodeGear C++ Builder 2007
 Borland C++ Builder 5,6, 2006 and 2007
 Our powerful dOPC Toolkit allows you to build OPC client applications with just a few mouse clicks. E.g. dOPC includes a GUI component that allows you to bind OPC item values directly to properties of visual components, such as labels or edit boxes.
 
-We encourage you to download our free trial version, which is fully functional and includes a comprehensive help file and demo and example programs (with source code). This version is limited only by a warning message.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=183726&affiliateid=200057808)
+We encourage you to download our free trial version, which is fully functional and includes a comprehensive help file and demo and example programs (with source code). This version is limited only by a warning message.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=183726&affiliateid=200057808)

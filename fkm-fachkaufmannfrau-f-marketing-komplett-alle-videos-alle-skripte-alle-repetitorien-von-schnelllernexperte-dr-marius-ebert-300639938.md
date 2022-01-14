@@ -1,1 +1,2 @@
-# FKM, Fachkaufmann/frau f. Marketing komplett, alle Videos, alle Skripte, alle Repetitorien von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300639938&affiliateid=200057808)
+# FKM, Fachkaufmann/frau f. Marketing komplett, alle Videos, alle Skripte, alle Repetitorien von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300639938&affiliateid=200057808)

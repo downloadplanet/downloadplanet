@@ -1,3 +1,5 @@
-# Flame / Fire brushes for Photoshop, Affinity, Elements, PSP, etc V133<br />www.graphicxtras.com -- Flame Brushes for Adobe Photoshop & Elements & psp Fire & Commercial use V133
+# Flame / Fire brushes for Photoshop, Affinity, Elements, PSP, etc V133
+www.graphicxtras.com -- Flame Brushes for Adobe Photoshop & Elements & psp Fire & Commercial use V133
 
-Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469311&affiliateid=200057808)
+Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469311&affiliateid=200057808)

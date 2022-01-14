@@ -1,2 +1,5 @@
-# Category Manager Professional (de)<br />![Category Manager Professional (de)](https://mycommerce.akamaized.net/api/pimages/P300136655/BIG/300136655.PNG)<br />Categorize any Outlook items at lightning speed with the Professional version, locally categorize even IMAP messages. Import/export of the master category list is also supported.
-All details | All product versions/licenses | Switch to English version<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300136655&affiliateid=200057808)
+# Category Manager Professional (de)
+![Category Manager Professional (de)](https://mycommerce.akamaized.net/api/pimages/P300136655/BIG/300136655.PNG)
+Categorize any Outlook items at lightning speed with the Professional version, locally categorize even IMAP messages. Import/export of the master category list is also supported.
+All details | All product versions/licenses | Switch to English version
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300136655&affiliateid=200057808)

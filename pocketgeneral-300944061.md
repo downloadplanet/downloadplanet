@@ -1,1 +1,4 @@
-# PocketGeneral<br />![PocketGeneral](https://mycommerce.akamaized.net/api/pimages/P300944061/BIG/300944061.JPG)<br />Lead your troops into battle against the computer opponent in a race to capture your enemy's flag. Initially you can't see how the enemy has positioned his troops and he can't see yours which gives ample opportunity for bluffing and deception from both sides.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300944061&affiliateid=200057808)
+# PocketGeneral
+![PocketGeneral](https://mycommerce.akamaized.net/api/pimages/P300944061/BIG/300944061.JPG)
+Lead your troops into battle against the computer opponent in a race to capture your enemy's flag. Initially you can't see how the enemy has positioned his troops and he can't see yours which gives ample opportunity for bluffing and deception from both sides.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300944061&affiliateid=200057808)

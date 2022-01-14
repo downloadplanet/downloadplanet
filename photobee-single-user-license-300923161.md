@@ -1,3 +1,6 @@
-# PhotoBee (Single User License)<br />![PhotoBee (Single User License)](https://mycommerce.akamaized.net/api/pimages/P300923161/BIG/300923161.PNG)<br />No physical shipment
+# PhotoBee (Single User License)
+![PhotoBee (Single User License)](https://mycommerce.akamaized.net/api/pimages/P300923161/BIG/300923161.PNG)
+No physical shipment
 Please note that we do not ship physical products. Our software products can be downloaded easily from our website at any time. If you are already using the software in demo mode, there is no need to download it again.
-You are always welcome to download the latest version of PhotoBee from here.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300923161&affiliateid=200057808)
+You are always welcome to download the latest version of PhotoBee from here.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300923161&affiliateid=200057808)

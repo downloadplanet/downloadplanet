@@ -1,4 +1,5 @@
-# Frame Custom shapes for Photoshop & Elements (CSH) V5<br />www.graphicxtras.com -- Frame Custom Shapes for Adobe Photoshop & Elements CSH V5
+# Frame Custom shapes for Photoshop & Elements (CSH) V5
+www.graphicxtras.com -- Frame Custom Shapes for Adobe Photoshop & Elements CSH V5
 
 Custom shapes vector designs / content for Adobe (R) Photoshop (R) + Photoshop Elements
 100 Frame / edge / border designs, mixed frame designs for use in Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 6 and Photoshop Elements
@@ -19,4 +20,5 @@ MENU:
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=224813&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=224813&affiliateid=200057808)

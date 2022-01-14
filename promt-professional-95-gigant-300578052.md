@@ -1,4 +1,6 @@
-# PROMT Professional 9.5 Gigant<br />![PROMT Professional 9.5 Gigant](https://mycommerce.akamaized.net/api/pimages/P300578052/BIG/300578052.JPG)<br />Übersetzungssoftware für alle anspruchsvollen Anwender, die viel mit fremdsprachigen Dokumenten zu tun haben. PROMT Professional beschleunigt um bis zu 90 % die Bearbeitung der fremdsprachigen Korrespondenz und unterstützt Sie effizient bei Ihrer Übersetzungsarbeit. Höchste Übersetzungsqualität und der gewaltige Wortschatz von 1.150.000 Wörtern gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt. Mit dem Datei-Übersetzer werden große Mengen von Dateien im Stapelverfahren schnell und effizient übersetzt.
+# PROMT Professional 9.5 Gigant
+![PROMT Professional 9.5 Gigant](https://mycommerce.akamaized.net/api/pimages/P300578052/BIG/300578052.JPG)
+Übersetzungssoftware für alle anspruchsvollen Anwender, die viel mit fremdsprachigen Dokumenten zu tun haben. PROMT Professional beschleunigt um bis zu 90 % die Bearbeitung der fremdsprachigen Korrespondenz und unterstützt Sie effizient bei Ihrer Übersetzungsarbeit. Höchste Übersetzungsqualität und der gewaltige Wortschatz von 1.150.000 Wörtern gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt. Mit dem Datei-Übersetzer werden große Mengen von Dateien im Stapelverfahren schnell und effizient übersetzt.
 
 Unterstützte Übersetzungsrichtungen:
 Englisch -> Deutsch und Deutsch -> Englisch
@@ -51,4 +53,5 @@ Datei-Übersetzer
 Automatische Stapelübersetzung mehrerer Dateien nacheinander. Mit diesem Tool werden große Mengen von Dateien schnell und effizient übersetzt.
 
 Ein Offline-Übersetzer
-Mehr Sicherheit für Ihre Privatsphäre alle Übersetzungen erfolgen lokal auf Ihrem PC.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300578052&affiliateid=200057808)
+Mehr Sicherheit für Ihre Privatsphäre alle Übersetzungen erfolgen lokal auf Ihrem PC.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300578052&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Bundle Data Recovery & Ms Office Repair ( Windows + Excel + Powerpoint + Word + PST ) - Home User<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300548358&affiliateid=200057808)
+# Bundle Data Recovery & Ms Office Repair ( Windows + Excel + Powerpoint + Word + PST ) - Home User
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300548358&affiliateid=200057808)

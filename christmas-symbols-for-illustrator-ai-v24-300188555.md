@@ -1,4 +1,5 @@
-# Christmas symbols for Illustrator (AI) V24<br />www.graphicxtras.com -- Christmas Symbols for Adobe Illustrator PC & MAC OS X Xmas & Festive Shapes V24
+# Christmas symbols for Illustrator (AI) V24
+www.graphicxtras.com -- Christmas Symbols for Adobe Illustrator PC & MAC OS X Xmas & Festive Shapes V24
 
 595 Symbols for Adobe (R) Illustrator (R)CS3 CS2 CS1 10 (Festive symbols, xmas symbols, snow flakes symbols, snow and many more)
 
@@ -16,4 +17,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300188555&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300188555&affiliateid=200057808)

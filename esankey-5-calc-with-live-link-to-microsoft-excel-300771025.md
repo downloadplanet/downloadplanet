@@ -1,4 +1,6 @@
-# e!Sankey 5 calc (with Live Link to Microsoft Excel)<br />![e!Sankey 5 calc (with Live Link to Microsoft Excel)](https://mycommerce.akamaized.net/api/pimages/P300771025/BIG/300771025.PNG)<br />e!Sankey - a software tool to easily create Sankey diagrams.
+# e!Sankey 5 calc (with Live Link to Microsoft Excel)
+![e!Sankey 5 calc (with Live Link to Microsoft Excel)](https://mycommerce.akamaized.net/api/pimages/P300771025/BIG/300771025.PNG)
+e!Sankey - a software tool to easily create Sankey diagrams.
 
 Sankey diagrams are a useful way of visualizing material flows, energy or costs.
 
@@ -10,4 +12,5 @@ Version 5 offers numerous features for making your Sankey diagram look nicer.
 
 Available with user interface in English, German, French, Spanish, Portuguese and Chinese (simplified).
 
-Exclusive to e!Sankey pro: 'Live Link to Microsoft Excel', the automated import of flow values from Microsoft Excel spreadsheet files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300771025&affiliateid=200057808)
+Exclusive to e!Sankey pro: 'Live Link to Microsoft Excel', the automated import of flow values from Microsoft Excel spreadsheet files.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300771025&affiliateid=200057808)

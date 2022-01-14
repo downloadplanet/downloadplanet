@@ -1,1 +1,2 @@
-# NSF Duplicates Remover - Technical License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799436&affiliateid=200057808)
+# NSF Duplicates Remover - Technical License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799436&affiliateid=200057808)

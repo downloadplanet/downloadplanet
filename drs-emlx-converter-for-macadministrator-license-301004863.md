@@ -1,1 +1,3 @@
-# DRS EMLX Converter For MAC[Administrator License]<br />DRS EMLX Converter<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004863&affiliateid=200057808)
+# DRS EMLX Converter For MAC[Administrator License]
+DRS EMLX Converter
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004863&affiliateid=200057808)

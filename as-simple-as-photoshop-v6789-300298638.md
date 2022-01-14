@@ -1,1 +1,3 @@
-# As Simple As Photoshop (v.6,7,8,9)<br />Video-book for Photoshop users dramatically speeding up your study. Tutorials are illustrated with 224 full-sound movie clips (total running time: about 5 hours). The book takes you by the hand and shows you around Photoshop, allowing you to combine all possible methods of learning. Read it, watch it, listen to it and follow it.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300298638&affiliateid=200057808)
+# As Simple As Photoshop (v.6,7,8,9)
+Video-book for Photoshop users dramatically speeding up your study. Tutorials are illustrated with 224 full-sound movie clips (total running time: about 5 hours). The book takes you by the hand and shows you around Photoshop, allowing you to combine all possible methods of learning. Read it, watch it, listen to it and follow it.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300298638&affiliateid=200057808)

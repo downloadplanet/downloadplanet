@@ -1,1 +1,4 @@
-# AnyUTube Win Lifetime (10 PCs)<br />![AnyUTube Win Lifetime (10 PCs)](https://mycommerce.akamaized.net/api/pimages/P300811071/BIG/300811071.PNG)<br />Fire-new YouTube video helper with powerful functions: search all YouTube videos, play and download videos in HD, convert YouTube video to MP3. Foremost, virus-free and ad-free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300811071&affiliateid=200057808)
+# AnyUTube Win Lifetime (10 PCs)
+![AnyUTube Win Lifetime (10 PCs)](https://mycommerce.akamaized.net/api/pimages/P300811071/BIG/300811071.PNG)
+Fire-new YouTube video helper with powerful functions: search all YouTube videos, play and download videos in HD, convert YouTube video to MP3. Foremost, virus-free and ad-free.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300811071&affiliateid=200057808)

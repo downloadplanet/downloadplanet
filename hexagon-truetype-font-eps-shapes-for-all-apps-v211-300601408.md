@@ -1,3 +1,5 @@
-# Hexagon Truetype font / EPS Shapes for all apps V211<br />www.graphicxtras.com -- Hexagon Font Shapes Truetype & EPS CorelDRAW & Publisher & Painter & Word V211
+# Hexagon Truetype font / EPS Shapes for all apps V211
+www.graphicxtras.com -- Hexagon Font Shapes Truetype & EPS CorelDRAW & Publisher & Painter & Word V211
 
-100 Hexagon shapes / font set for Commercial use - use in 99% of applications pc and mac (Photoshop, PSP, GIMP, Pages, Quark Xpress, CorelDRAW, MS Word etc). Commercial use, royalty-free, all the designs are in TTF and EPS vector format by graphicxtras.com (Andrew Buckle) support@graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300601408&affiliateid=200057808)
+100 Hexagon shapes / font set for Commercial use - use in 99% of applications pc and mac (Photoshop, PSP, GIMP, Pages, Quark Xpress, CorelDRAW, MS Word etc). Commercial use, royalty-free, all the designs are in TTF and EPS vector format by graphicxtras.com (Andrew Buckle) support@graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300601408&affiliateid=200057808)

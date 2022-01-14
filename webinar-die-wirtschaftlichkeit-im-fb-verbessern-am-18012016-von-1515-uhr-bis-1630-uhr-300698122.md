@@ -1,4 +1,5 @@
-# Webinar Die Wirtschaftlichkeit im F&B verbessern am 18.01.2016 von 15:15 Uhr bis 16:30 Uhr<br />Seminarbeschreibung
+# Webinar Die Wirtschaftlichkeit im F&B verbessern am 18.01.2016 von 15:15 Uhr bis 16:30 Uhr
+Seminarbeschreibung
 Den Teilnehmer werden im Webinar die Grundlagen der Kalkulation von Speisen und Getränken vermittelt. Sie lernen die wichtigsten Kennzahlen der Kalkulation kennen und werden sicherer bei der Preisgestaltung.
 
 Inhalte
@@ -15,4 +16,5 @@ Putzverlust, Schwund, Diebstahl und Verderb bei der Preiskalkulation berücksich
 Zeitplan:
 15:00 Uhr Versenden der Teilnehmerlinks
 15:00-15:10 Uhr Technikcheck
-15:15-16:30 Uhr Webinar<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300698122&affiliateid=200057808)
+15:15-16:30 Uhr Webinar
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300698122&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# VisionLab ( Delphi/C++Builder Edition ) Single License<br />![VisionLab ( Delphi/C++Builder Edition ) Single License](https://mycommerce.akamaized.net/api/pimages/P213473/BIG/213473.JPG)<br />The VisionLab is a set of components, based on OpenWire technology for advanced computer vision. The components allow rapid development of fully featured motion detection applications for the security industry with almost zero lines of program code.
+# VisionLab ( Delphi/C++Builder Edition ) Single License
+![VisionLab ( Delphi/C++Builder Edition ) Single License](https://mycommerce.akamaized.net/api/pimages/P213473/BIG/213473.JPG)
+The VisionLab is a set of components, based on OpenWire technology for advanced computer vision. The components allow rapid development of fully featured motion detection applications for the security industry with almost zero lines of program code.
 VisionLab also includes video capturing components based on both Video For Windows (VFW), and DirectShow, so no additional components are needed in order to start building motion detection applications.
 The library is fully multithreaded, utilizes well modern multi-core systems, and runs at full native performance.
 Also includes Visual Graphical Editor for Codeless Development and Visual Live Bindings.
@@ -29,4 +31,5 @@ Motion detection - Create security systems with motion detection, or activate th
 Detect objects - Detect objects with different shapes in the video.
 Face Detect and recognition - Detect and/or recognize faces in images or video.
 Fingerprint compare - Process and compare fingerprint in image or video.
-Find and Track Targets - Find and track objects in the video.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=213473&affiliateid=200057808)
+Find and Track Targets - Find and track objects in the video.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=213473&affiliateid=200057808)

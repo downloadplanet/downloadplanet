@@ -1,4 +1,6 @@
-# Heavier7Strings<br />![Heavier7Strings](https://mycommerce.akamaized.net/api/pimages/P300749101/BIG/300749101.JPG)<br />FEATURES
+# Heavier7Strings
+![Heavier7Strings](https://mycommerce.akamaized.net/api/pimages/P300749101/BIG/300749101.JPG)
+FEATURES
 Premium 7-string virtual instrument
 - High-quality A/D conversion and ultra-low noise level.
 - 4 Years of recording and engineering to bring you unrivaled samples.
@@ -40,4 +42,5 @@ Patterns
 - 300 factory MIDI patterns together with effect rack presets.
 - Various styles: metal, rock, pop, clean, along with non-rhythmic noise and ambient.
 - Drag MIDI patterns into host DAW.
-- User definable patterns.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300749101&affiliateid=200057808)
+- User definable patterns.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300749101&affiliateid=200057808)

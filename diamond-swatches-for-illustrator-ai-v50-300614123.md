@@ -1,3 +1,5 @@
-# Diamond Swatches for Illustrator (AI) V50<br />www.graphicxtras.com -- Diamond Swatches patterns Illustrator V50
+# Diamond Swatches for Illustrator (AI) V50
+www.graphicxtras.com -- Diamond Swatches patterns Illustrator V50
 
-220 Diamond themed swatches for Illustrator CC 2017 2015 2014 CS6 CS5 - 10 . The swatches are seamless tiles for all kinds of work. Vector format AI. Commercial use CU4CU, all by Andrew Buckle / graphicxtras.com. Use to create all kinds of work such as logos, wallpaper, cards, backgrounds, adverts, videos, scrapbooking etc. Any questions, please e-mail us on support at our graphicxtras site or check out our videos on youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300614123&affiliateid=200057808)
+220 Diamond themed swatches for Illustrator CC 2017 2015 2014 CS6 CS5 - 10 . The swatches are seamless tiles for all kinds of work. Vector format AI. Commercial use CU4CU, all by Andrew Buckle / graphicxtras.com. Use to create all kinds of work such as logos, wallpaper, cards, backgrounds, adverts, videos, scrapbooking etc. Any questions, please e-mail us on support at our graphicxtras site or check out our videos on youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300614123&affiliateid=200057808)

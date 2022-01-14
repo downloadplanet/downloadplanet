@@ -1,4 +1,5 @@
-# Face Truetype font / EPS Shapes V33<br />www.graphicxtras.com -- Face Fonts Truetype & EPS Shapes CorelDRAW & Word & Indesign & PSP V33
+# Face Truetype font / EPS Shapes V33
+www.graphicxtras.com -- Face Fonts Truetype & EPS Shapes CorelDRAW & Word & Indesign & PSP V33
 
 Female faces designs: TTF (true type font set) + EPS (vector shape set)
 Includes 141 unique designs and exciting and useful design elements
@@ -23,4 +24,5 @@ Fonts are stored in normal true type font format
 Adobe and Photoshop and Illustrator and Fireworks and Flash are registered trademarks of Adobe Systems Incorporated; Corel and Paint Shop Pro and CorelDRAW and Photo-Paint and Painter are registered trademarks of Corel Corporation; other trademarks are owned by their respective owners
 http://www.graphicxtras.com for more details about font sets such as see examples of the designs as well as a thumbnail gallery of many of the designs as well as many additional examples of the vector designs.
 Mail any questions to support at graphicxtras.com
-Manuals can be found on http://www.graphicxtras.com in the manuals section<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300251188&affiliateid=200057808)
+Manuals can be found on http://www.graphicxtras.com in the manuals section
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300251188&affiliateid=200057808)

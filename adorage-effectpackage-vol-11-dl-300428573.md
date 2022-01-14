@@ -1,2 +1,5 @@
-# Adorage Effectpackage Vol. 11 (DL)<br />![Adorage Effectpackage Vol. 11 (DL)](https://mycommerce.akamaized.net/api/pimages/P300428573/BIG/300428573.JPG)<br />Perfect effects for your travel documentation and holiday film
- Get more informations about this product, samples and descriptions...<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428573&affiliateid=200057808)
+# Adorage Effectpackage Vol. 11 (DL)
+![Adorage Effectpackage Vol. 11 (DL)](https://mycommerce.akamaized.net/api/pimages/P300428573/BIG/300428573.JPG)
+Perfect effects for your travel documentation and holiday film
+ Get more informations about this product, samples and descriptions...
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428573&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Lattice symbols for Illustrator (AI) V15<br />www.graphicxtras.com -- Lattice Symbols for Adobe Illustrator Creative cloud Shapes PC & MAC O S X V15
+# Lattice symbols for Illustrator (AI) V15
+www.graphicxtras.com -- Lattice Symbols for Adobe Illustrator Creative cloud Shapes PC & MAC O S X V15
 
 Symbols set for Adobe (R) Illustrator PC + MAC OS X
 500+ Lattice design symbols for Adobe (R) Illustrator
@@ -18,4 +19,5 @@ MENU:
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300158822&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300158822&affiliateid=200057808)

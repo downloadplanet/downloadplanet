@@ -1,4 +1,5 @@
-# Webinar Controlling im F&B 1. Teil - die Vorbereitung am 05.10.2015<br />In diesem 1. Controlling-Webinar befassen sich die Teilnehmer mit den Grundlagen des Controllings in der Gastronomie. Sie lernen den Kennzahlenkreislauf kennen und welche Daten gesammelt werden müssen, damit sie aussagefähige Kennzahlen erhalten. Mit dem 2. Punkt des Kennzahlenkreislaufes, der „Kennzahlenermittlung“, werden die Teilnehmer in die Lage versetzt, Ihr Controllingsystem am nächsten Tag zu starten.
+# Webinar Controlling im F&B 1. Teil - die Vorbereitung am 05.10.2015
+In diesem 1. Controlling-Webinar befassen sich die Teilnehmer mit den Grundlagen des Controllings in der Gastronomie. Sie lernen den Kennzahlenkreislauf kennen und welche Daten gesammelt werden müssen, damit sie aussagefähige Kennzahlen erhalten. Mit dem 2. Punkt des Kennzahlenkreislaufes, der „Kennzahlenermittlung“, werden die Teilnehmer in die Lage versetzt, Ihr Controllingsystem am nächsten Tag zu starten.
 Themen:
 Grundlagen des Controlling
 Kennzahlenkreislauf von der Vorgabe bis zum Maßnahmenplan
@@ -45,4 +46,5 @@ Food Index Produktivität/ Prime Cost
 Personalkosten pro Gast
 Personalkosten pro Arbeitsstunde
 Deckungsbeitrag 2
-Kennzahlen beliebig Erweiterungsfähig auf DB 3, DB4<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300641918&affiliateid=200057808)
+Kennzahlen beliebig Erweiterungsfähig auf DB 3, DB4
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300641918&affiliateid=200057808)

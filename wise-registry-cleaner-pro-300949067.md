@@ -1,4 +1,6 @@
-# Wise Registry Cleaner Pro<br />![Wise Registry Cleaner Pro](https://mycommerce.akamaized.net/api/pimages/P300949067/BIG/300949067.PNG)<br />Wise Registry Cleaner is one of the safest Registry cleaning tools available in the market today.
+# Wise Registry Cleaner Pro
+![Wise Registry Cleaner Pro](https://mycommerce.akamaized.net/api/pimages/P300949067/BIG/300949067.PNG)
+Wise Registry Cleaner is one of the safest Registry cleaning tools available in the market today.
 Its scanning engine is thorough, safe and fast. It is so easy to use, even the least experienced user can easily repair registry with this tool.
 Main features of Wise Registry Cleaner Pro:
 1, Multi-user Cleaning
@@ -13,4 +15,5 @@ You can set Wise Registry Cleaner to clean the registry on a daily, weekly, or m
 Wise Registry Cleaner can also optimize relevant system settings to improve both system speed and internet speed. After one-click optimization, you will see some improvement in your PC’s performance.
 6, Customizable Cleanup Options for Advanced Users
 
-Wise Registry Cleaner supports multi languages, such as English, French, German, Italian, Chinese, Japanese, Russian, Spanish... over 45 languages.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949067&affiliateid=200057808)
+Wise Registry Cleaner supports multi languages, such as English, French, German, Italian, Chinese, Japanese, Russian, Spanish... over 45 languages.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949067&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# iSunshare Word Unprotect Genius<br />iSunshare Word Unprotect Genius is the extremely intuitive Word unprotect software which empowers users to remove restrict editing password of read-only Word document. No matter how long or complex the password is, this software can remove it with a simple click and you can get an exact copy of the Word document with no password.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300959952&affiliateid=200057808)
+# iSunshare Word Unprotect Genius
+iSunshare Word Unprotect Genius is the extremely intuitive Word unprotect software which empowers users to remove restrict editing password of read-only Word document. No matter how long or complex the password is, this software can remove it with a simple click and you can get an exact copy of the Word document with no password.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300959952&affiliateid=200057808)

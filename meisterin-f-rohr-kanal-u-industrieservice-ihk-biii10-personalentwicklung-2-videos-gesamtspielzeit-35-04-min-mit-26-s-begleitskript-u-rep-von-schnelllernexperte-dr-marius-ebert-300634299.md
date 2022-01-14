@@ -1,1 +1,2 @@
-# Meister/in f. Rohr-, Kanal- u. Industrieservice (IHK), B.III.10., Personalentwicklung, 2 Videos, Gesamtspielzeit 35 : 04 min mit 26 S. Begleitskript u. Rep. von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634299&affiliateid=200057808)
+# Meister/in f. Rohr-, Kanal- u. Industrieservice (IHK), B.III.10., Personalentwicklung, 2 Videos, Gesamtspielzeit 35 : 04 min mit 26 S. Begleitskript u. Rep. von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634299&affiliateid=200057808)

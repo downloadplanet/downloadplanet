@@ -1,4 +1,6 @@
-# SBS Communique<br />![SBS Communique](https://mycommerce.akamaized.net/api/pimages/P300003621/BIG/300003621.GIF)<br />Communique Database
+# SBS Communique
+![SBS Communique](https://mycommerce.akamaized.net/api/pimages/P300003621/BIG/300003621.GIF)
+Communique Database
 Key Features
 Communication
 From shift to shift
@@ -20,4 +22,5 @@ Paperless system
 Searchable records
 Easy to manage
 Better than email
-One liscense serves an unlimited number of users.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300003621&affiliateid=200057808)
+One liscense serves an unlimited number of users.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300003621&affiliateid=200057808)

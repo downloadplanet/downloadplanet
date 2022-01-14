@@ -1,1 +1,3 @@
-# RAR Password Recovery<br />Recover lost or forgotten passwords for RAR/WinRAR archives<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879292&affiliateid=200057808)
+# RAR Password Recovery
+Recover lost or forgotten passwords for RAR/WinRAR archives
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879292&affiliateid=200057808)

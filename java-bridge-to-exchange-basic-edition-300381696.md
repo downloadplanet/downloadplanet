@@ -1,4 +1,5 @@
-# Java Bridge to Exchange - Basic edition<br />Intuitive and easy to use library to integrate your Java application with Microsoft Exchange server.
+# Java Bridge to Exchange - Basic edition
+Intuitive and easy to use library to integrate your Java application with Microsoft Exchange server.
 Supported Exchange items are:
 Contacts
 E-mails
@@ -12,4 +13,5 @@ Based on a robust model, Java Bridge to Exchange handle the communication with t
 
 Compatible with Exchange 2007 and 2010.
 
-Web site: http://www.moyosoft.com/jbex/<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381696&affiliateid=200057808)
+Web site: http://www.moyosoft.com/jbex/
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381696&affiliateid=200057808)

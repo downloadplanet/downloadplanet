@@ -1,4 +1,5 @@
-# Button Custom shapes for Photoshop & Elements (CSH) V37<br />www.graphicxtras.com -- Button Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X CSH Vectors V37
+# Button Custom shapes for Photoshop & Elements (CSH) V37
+www.graphicxtras.com -- Button Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X CSH Vectors V37
 
 Custom shapes for Photoshop and Photoshop Elements
 ** Add shapes set to shareit.com shopping cart (graphicxtras.com)
@@ -21,4 +22,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300176343&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300176343&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Upgrade Webinar Grundlagen der Kalkulation von Speisen am 18.01.2016 von 10:15 Uhr bis 11:15 Uhr mit Zertifikat<br />Folgende Unterlagen erhalten Sie:
+# Upgrade Webinar Grundlagen der Kalkulation von Speisen am 18.01.2016 von 10:15 Uhr bis 11:15 Uhr mit Zertifikat
+Folgende Unterlagen erhalten Sie:
 => Zertifikat
 =>Excelprogramm Kalkulation Speisen VOLLVERSION
 mit Verknüpfung zur Artikelliste und Drop Down Liste
@@ -35,4 +36,5 @@ Voraussetzung zur Teilnahme:
 Internetverbindung über Kabel
 Lautsprecher
 
-Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300697304&affiliateid=200057808)
+Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300697304&affiliateid=200057808)

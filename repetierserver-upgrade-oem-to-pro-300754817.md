@@ -1,4 +1,5 @@
-# Repetier-Server Upgrade (OEM to Pro)<br />Upgrade Repetier-Server OEM to Repetier-Server Pro to get all features. You can use your Repetier-Server Pro license for 5 simultaneous installations to outsource compute-intensive work.
+# Repetier-Server Upgrade (OEM to Pro)
+Upgrade Repetier-Server OEM to Repetier-Server Pro to get all features. You can use your Repetier-Server Pro license for 5 simultaneous installations to outsource compute-intensive work.
 
 Repetier-Server is the comfortable solution for position independent controlling of your 3D printers.
 
@@ -17,4 +18,5 @@ Multi Printer Support - Connects and prints on multiple printers simultaneously.
 Heatup and Cooldown Wizard - This feature measures heating and cooling speed needed for accurate printing time prediction.
 Autoupdating - Just confirm the update and the server does the rest.
 Firmware Upload – Upload your new printer firmware via Repetier-Server – updating was never easier.
-Touchscreen Optimization - Optimized interface for printer mounted touchscreens.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300754817&affiliateid=200057808)
+Touchscreen Optimization - Optimized interface for printer mounted touchscreens.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300754817&affiliateid=200057808)

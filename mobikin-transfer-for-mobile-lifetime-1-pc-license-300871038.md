@@ -1,4 +1,6 @@
-# MobiKin Transfer for Mobile - Lifetime, 1 PC License<br />![MobiKin Transfer for Mobile - Lifetime, 1 PC License](https://mycommerce.akamaized.net/api/pimages/P300871038/BIG/300871038.PNG)<br />Switch to a new phone and wish to move data from the old phone to the new one? Or simply wish to share something between two different devices? MobiKin Transfer for Mobile can help you finish the data transference easily.
+# MobiKin Transfer for Mobile - Lifetime, 1 PC License
+![MobiKin Transfer for Mobile - Lifetime, 1 PC License](https://mycommerce.akamaized.net/api/pimages/P300871038/BIG/300871038.PNG)
+Switch to a new phone and wish to move data from the old phone to the new one? Or simply wish to share something between two different devices? MobiKin Transfer for Mobile can help you finish the data transference easily.
 Transfer Files to Android Device with Ease
 Can't find an effective way to transfer data from old phone to your new Android device? Don't worry! MobiKin Transfer for Mobile makes it easy for you to copy data from one device (iDevice/Android) to Android mobile phone without restrictions. All transmission can be done with 1 simple click and risk-free.
 Android to Android Transfer: copy contacts, text messages, call logs, music, videos, photos, documents and apps between two Android phones.
@@ -11,4 +13,5 @@ iOS to iOS Transfer: support to copy contacts, calendars, notes, bookmarks and b
 Support for 3000+ Phones
 Since this software is designed to help users transfer contents between different mobile phones, so it is no doubt that the program can work well with various phones from different manufacturers. And after hundreds of tested from our technical team, we have proved that this software works well with almost 3000+ mobile phones.
 iDevices: iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 Plus, iPhone 6S, iPhone 6S Plus, iPhone 6, iPhone 6 Plus, iPhone 5S, iPhone 5, iPhone 4, iPhone 4S, iPad Air/mini, the new iPad, iPod touch, iPod classic, etc.
-Android Devices: Samsung, HTC, Motorola, Sony, LG, Xiaomi, Huawei, ZTE, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300871038&affiliateid=200057808)
+Android Devices: Samsung, HTC, Motorola, Sony, LG, Xiaomi, Huawei, ZTE, etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300871038&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# EMS SQL Manager for SQL Server (Business) + 1 Year Maintenance<br />Simplify and automate your Microsoft SQL Server database development process, design, explore and maintain existing MS SQL Server databases, build compound SQL Server query statements, manage SQL Server database user rights and manipulate data in different ways.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067962&affiliateid=200057808)
+# EMS SQL Manager for SQL Server (Business) + 1 Year Maintenance
+Simplify and automate your Microsoft SQL Server database development process, design, explore and maintain existing MS SQL Server databases, build compound SQL Server query statements, manage SQL Server database user rights and manipulate data in different ways.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067962&affiliateid=200057808)

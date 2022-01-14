@@ -1,3 +1,5 @@
-# Clover Shapes for Photoshop & Elements & PSP (PDF) V28<br />www.graphicxtras.com -- Clover Vector Shapes Photoshop & Elements & PSP PDF St Patrick & Lucky & Irish V28
+# Clover Shapes for Photoshop & Elements & PSP (PDF) V28
+www.graphicxtras.com -- Clover Vector Shapes Photoshop & Elements & PSP PDF St Patrick & Lucky & Irish V28
 
-Graphics artwork PDF designs (vector) for Photoshop, PSP and others PC and MAC OS X - royalty-free - create items for sale, any questions about the designs - please contact support@graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468799&affiliateid=200057808)
+Graphics artwork PDF designs (vector) for Photoshop, PSP and others PC and MAC OS X - royalty-free - create items for sale, any questions about the designs - please contact support@graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468799&affiliateid=200057808)

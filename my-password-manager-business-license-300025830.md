@@ -1,4 +1,5 @@
-# My Password Manager (Business License)<br />As a PC user, you will understand the need to keep track of numerous passwords and names, especially if you are also an Internet user. One solution is to write them down or store them on your PC but this is risky. Anyone can read your lists and gain access to your valuable data or even worse, your bank account details. My Password Manager is a password storage program that will relieve you of the password management chore while offering you complete security and peace of mind. Your precious information is stored as encrypted data that only you can access.
+# My Password Manager (Business License)
+As a PC user, you will understand the need to keep track of numerous passwords and names, especially if you are also an Internet user. One solution is to write them down or store them on your PC but this is risky. Anyone can read your lists and gain access to your valuable data or even worse, your bank account details. My Password Manager is a password storage program that will relieve you of the password management chore while offering you complete security and peace of mind. Your precious information is stored as encrypted data that only you can access.
   Here are some examples of the sort of information that My Password Manager can manage and protect:
 Logins and passwords for websites.
 Access codes to e-mail accounts.
@@ -32,4 +33,5 @@ Context-dependent help system.
 Tip of the day.
 Creating, copying, editing and deleting accounts is easy and convenient.
 Multilingual support (English, French, Czech, Dutch, Ukrainian, Simplified Chinese, Greek, German and Russian).
-Supports Drag & Drop.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300025830&affiliateid=200057808)
+Supports Drag & Drop.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300025830&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Bundle Complete Recovery & File Repairing Tools ( Windows Data + Linux + MAC + VHD + BKF + OST + PST + SQL + MySQL + Word + Excel + Powerpoint + Access ) - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300548366&affiliateid=200057808)
+# Bundle Complete Recovery & File Repairing Tools ( Windows Data + Linux + MAC + VHD + BKF + OST + PST + SQL + MySQL + Word + Excel + Powerpoint + Access ) - Corporate License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300548366&affiliateid=200057808)

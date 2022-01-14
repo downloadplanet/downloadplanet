@@ -1,4 +1,6 @@
-# iStonsoft JPG to PDF Converter for Mac<br />![iStonsoft JPG to PDF Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917087/BIG/300917087.PNG)<br />iStonsoft JPG to PDF Converter for Mac is a simple to use, yet powerful file conversion utility specifically designed to convert JPG to PDF on Mac. With this versatile JPG to PDF Converter for Mac, you can:
+# iStonsoft JPG to PDF Converter for Mac
+![iStonsoft JPG to PDF Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917087/BIG/300917087.PNG)
+iStonsoft JPG to PDF Converter for Mac is a simple to use, yet powerful file conversion utility specifically designed to convert JPG to PDF on Mac. With this versatile JPG to PDF Converter for Mac, you can:
 
 - Not only convert JPG to PDF Mac, but also convert JPEG, BMP, GIF, PNG, TIFF to PDF.
 - Get excellent output quality and fast conversion speed.
@@ -30,4 +32,5 @@ Easy to Use
 
 - Only a few clicks, JPG To PDF Converter for Mac will start the conversion task quickly.
 - Image can be dragged directly from Windows Explorer and converted quickly.
-- Simple to operate with very attractive user friendly GUI.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917087&affiliateid=200057808)
+- Simple to operate with very attractive user friendly GUI.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917087&affiliateid=200057808)

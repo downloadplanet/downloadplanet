@@ -1,4 +1,5 @@
-# Dot brushes for Illustrator (AI) V4<br />www.graphicxtras.com -- Dot brushes for Adobe Illustrator Creative Cloud PC & MAC OS X V4
+# Dot brushes for Illustrator (AI) V4
+www.graphicxtras.com -- Dot brushes for Adobe Illustrator Creative Cloud PC & MAC OS X V4
 
 COMMERCIAL USE OK ================= A) All designs by graphicxtras.com (Andrew Buckle) B) Use items to create products for sale, hobby items and more C) PC + MAC OS X - cross platform D) Royalty-free 500 Dot brushes for Adobe Illustrator 9 8, PC + MAC OS X. Brushes pack includes colorful dot brushes, scattered dot brushes, linear dots, pattern dot brushes, random dot brushes and many more
 
@@ -14,4 +15,5 @@ To purchase, please click the add to cart (cookies are required for this operati
 
 
 Mail me if you have any questions
-For more info about the brushes packs - http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300142217&affiliateid=200057808)
+For more info about the brushes packs - http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300142217&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# dr.fone (mac) - Full Toolkit <br />dr.fone (mac) - Full Toolkit <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300985560&affiliateid=200057808)
+# dr.fone (mac) - Full Toolkit 
+dr.fone (mac) - Full Toolkit 
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300985560&affiliateid=200057808)

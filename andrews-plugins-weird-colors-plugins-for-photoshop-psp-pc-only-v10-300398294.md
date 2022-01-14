@@ -1,4 +1,5 @@
-# Andrews Plugins Weird Colors plug-ins for Photoshop & PSP (PC Only) V10<br />www.graphicxtras.com -- Andrews Plugins Weird Colors plug-ins Adobe Photoshop & PSP PC Filters & Effects V10
+# Andrews Plugins Weird Colors plug-ins for Photoshop & PSP (PC Only) V10
+www.graphicxtras.com -- Andrews Plugins Weird Colors plug-ins Adobe Photoshop & PSP PC Filters & Effects V10
 
 Andrew' Plug-ins volume 10 includes 14 powerful plug-ins for use in Paint Shop Pro (R) Photo and Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 + Painter and PSP and others, 64bit and 32bit PC only
 
@@ -20,4 +21,5 @@ To purchase the plug-in set, please select the add to cart button (cookies are r
 
 Plug-in set also contains PDF documentation explaining the plug-in functionality as well as hints and tips. Corel and Paint Shop Pro and Painter are registered trademarks or trademarks of the Corel Corporation. See all our video tutorials via http://www.youtube.com/graphicxtras
 
-Home page is http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300398294&affiliateid=200057808)
+Home page is http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300398294&affiliateid=200057808)

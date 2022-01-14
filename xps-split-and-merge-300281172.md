@@ -1,1 +1,3 @@
-# XPS Split and Merge<br />With this program you can open existing XPS files, rearrange the pages, extract some pages, split the file into multiple files and merge xps files together. XPS is Microsofts new document exchange file format which can be created under Windows VISTA out of any application which is able to print.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300281172&affiliateid=200057808)
+# XPS Split and Merge
+With this program you can open existing XPS files, rearrange the pages, extract some pages, split the file into multiple files and merge xps files together. XPS is Microsofts new document exchange file format which can be created under Windows VISTA out of any application which is able to print.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300281172&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Christmas Symbols for Flash FLA Xmas & Festive V8<br />www.graphicxtras.com -- Christmas Symbols Flash FLA Xmas & Festive V8
+# Christmas Symbols for Flash FLA Xmas & Festive V8
+www.graphicxtras.com -- Christmas Symbols Flash FLA Xmas & Festive V8
 
 380 Festive / snowflake / Christmas symbols
 
@@ -16,4 +17,5 @@ Adobe and Flash are registered trademarks of Adobe Systems Incorporated
 
 
 Any questions, please mail us on support@graphicxtras.comFlash symbols on http://www.graphicxtras.com
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300278985&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300278985&affiliateid=200057808)

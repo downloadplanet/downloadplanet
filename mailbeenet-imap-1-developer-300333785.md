@@ -1,1 +1,3 @@
-# MailBee.NET IMAP (1 Developer)<br />Manage, download, search, and process mails and folders on IMAP4 servers<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333785&affiliateid=200057808)
+# MailBee.NET IMAP (1 Developer)
+Manage, download, search, and process mails and folders on IMAP4 servers
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333785&affiliateid=200057808)

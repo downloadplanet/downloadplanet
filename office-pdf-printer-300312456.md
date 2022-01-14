@@ -1,4 +1,5 @@
-# Office PDF Printer<br />Office PDF Printer allows you to easily organize content from a variety of sources, such as spreadsheets, documents, e-mail, images, reports, and web pages, into a single searchable PDF document for easy distribution. It helps to protect copyright and sensitive information, and improve print processes. It works with a variety of business, finance, and office software. It's the smart choice of the white-collar as an alternative to Adobe Acrobat.
+# Office PDF Printer
+Office PDF Printer allows you to easily organize content from a variety of sources, such as spreadsheets, documents, e-mail, images, reports, and web pages, into a single searchable PDF document for easy distribution. It helps to protect copyright and sensitive information, and improve print processes. It works with a variety of business, finance, and office software. It's the smart choice of the white-collar as an alternative to Adobe Acrobat.
 You can convert almost all types of document and graphics to PDF by printing to this Office PDF Printer.
 This is exactly how PDF file is created.
 Features
@@ -34,4 +35,5 @@ Render with ICC profile and specify rendering intent during conversion
 Text, image, compound with PDF transparency
 Microsoft Windows 7 and Windows Vista support
 Support Microsoft & Citrix Terminal Server environment
-100% compliant to the latest Adobe PDF Specification<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300312456&affiliateid=200057808)
+100% compliant to the latest Adobe PDF Specification
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300312456&affiliateid=200057808)

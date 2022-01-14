@@ -1,1 +1,4 @@
-# eSoftTools OST to Office365 - Personal License<br />![eSoftTools OST to Office365 - Personal License](https://mycommerce.akamaized.net/api/pimages/P300977409/BIG/300977409.PNG)<br />Advance software to import OST emails, contacts, calendar and other data to Office365 cloud account.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300977409&affiliateid=200057808)
+# eSoftTools OST to Office365 - Personal License
+![eSoftTools OST to Office365 - Personal License](https://mycommerce.akamaized.net/api/pimages/P300977409/BIG/300977409.PNG)
+Advance software to import OST emails, contacts, calendar and other data to Office365 cloud account.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300977409&affiliateid=200057808)

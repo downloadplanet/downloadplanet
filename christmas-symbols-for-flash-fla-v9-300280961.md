@@ -1,4 +1,5 @@
-# Christmas symbols for Flash (FLA) V9<br />www.graphicxtras.com -- Christmas symbols for Adobe Flash Xmas & Festive FLA V9
+# Christmas symbols for Flash (FLA) V9
+www.graphicxtras.com -- Christmas symbols for Adobe Flash Xmas & Festive FLA V9
 
 350 Christmas tree / angels / snow / candles festive symbols
 
@@ -16,4 +17,5 @@ Adobe and Flash are registered trademarks of Adobe Systems Incorporated
 
 
 Any questions, please mail us on support@graphicxtras.comFlash symbols on http://www.graphicxtras.com
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300280961&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300280961&affiliateid=200057808)

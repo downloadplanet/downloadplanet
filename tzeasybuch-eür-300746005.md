@@ -1,4 +1,5 @@
-# TZ-EasyBuch EÜR<br />Buchhaltungssoftware TZ-EasyBuch 3.0. Die Kernfunktionen in der Übersicht
+# TZ-EasyBuch EÜR
+Buchhaltungssoftware TZ-EasyBuch 3.0. Die Kernfunktionen in der Übersicht
 • Eingabemasken für Einsteiger, Fortgeschrittene und Experten
 • Viele Buchungsvorlagen sind bereits vorhanden
 • Mandantenfähige Buchhaltung für mehrere Firmen
@@ -22,4 +23,5 @@
 • Export des sichtbaren Journals in einem fest eingestellten Format als Text Datei (ANSI)
 • Export des sichtbaren Journals nach Microsoft Excel
 • Betriebsprüferexport nach §147 AO ist möglich
-• Interner Datenschutz der Daten durch Verschlüsselung mit Passwortabfrage<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300746005&affiliateid=200057808)
+• Interner Datenschutz der Daten durch Verschlüsselung mit Passwortabfrage
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300746005&affiliateid=200057808)

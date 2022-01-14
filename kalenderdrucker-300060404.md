@@ -1,1 +1,3 @@
-# Kalender-Drucker<br />With Calender-Printery you can print your personal calendar with all your dates and your favorite picture! All dates, vacations and holidays can be printed. You can choose your favorite picture and you can add free texts<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060404&affiliateid=200057808)
+# Kalender-Drucker
+With Calender-Printery you can print your personal calendar with all your dates and your favorite picture! All dates, vacations and holidays can be printed. You can choose your favorite picture and you can add free texts
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060404&affiliateid=200057808)

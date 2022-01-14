@@ -1,1 +1,4 @@
-# Mercalli V4 CMOS Fixr for Video Deluxe<br />![Mercalli V4 CMOS Fixr for Video Deluxe](https://mycommerce.akamaized.net/api/pimages/P300754967/BIG/300754967.JPG)<br />The ultimate solution for removing CMOS-Sensor based problems such as Wobble, jello,skew or vibrations and distortions in Magix Video Deluxe<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300754967&affiliateid=200057808)
+# Mercalli V4 CMOS Fixr for Video Deluxe
+![Mercalli V4 CMOS Fixr for Video Deluxe](https://mycommerce.akamaized.net/api/pimages/P300754967/BIG/300754967.JPG)
+The ultimate solution for removing CMOS-Sensor based problems such as Wobble, jello,skew or vibrations and distortions in Magix Video Deluxe
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300754967&affiliateid=200057808)

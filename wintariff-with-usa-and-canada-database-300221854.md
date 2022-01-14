@@ -1,1 +1,3 @@
-# WinTariff with USA and Canada database<br />Call accounting program to collect and process call information from your office PBX. Supports PBXes of different types - PANASONIC, SAMSUNG, GOLDSTAR, SIEMENS, etc. This version includes detailed USA&Canada codes database (about 150,000 codes)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300221854&affiliateid=200057808)
+# WinTariff with USA and Canada database
+Call accounting program to collect and process call information from your office PBX. Supports PBXes of different types - PANASONIC, SAMSUNG, GOLDSTAR, SIEMENS, etc. This version includes detailed USA&Canada codes database (about 150,000 codes)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300221854&affiliateid=200057808)

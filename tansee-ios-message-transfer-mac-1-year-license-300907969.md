@@ -1,4 +1,6 @@
-# Tansee iOS Message Transfer (MAC) 1 year License<br />![Tansee iOS Message Transfer (MAC) 1 year License](https://mycommerce.akamaized.net/api/pimages/P300907969/BIG/300907969.PNG)<br />1,Features
+# Tansee iOS Message Transfer (MAC) 1 year License
+![Tansee iOS Message Transfer (MAC) 1 year License](https://mycommerce.akamaized.net/api/pimages/P300907969/BIG/300907969.PNG)
+1,Features
 - Backup iPhone/iPod/iPad SMS & iMessage & MMS (including attached photos, audios, videos, and other attachments) to MAC in exactly the same way the messages appear on your iPhone.
 - Print SMS & MMS & iMessage out and have them be seperated by date and 'sender' and 'receiver'.
 - Extract & Recover SMS & iMessage & MMS & from iTunes Backup file.
@@ -12,4 +14,5 @@
 3,Requirement & Platform
 - iTunes required
 - Support Mac OS X Snow Leopard(10.6.8), Mac OS X Lion(10.7), Mac OS X Mountain Lion(10.8), Max OS X Mavericks(10.9), Max OS X Yosemite(10.10) and Max OS X El Capitan(10.11)
-- Support iOS 1 to iOS 14<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300907969&affiliateid=200057808)
+- Support iOS 1 to iOS 14
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300907969&affiliateid=200057808)

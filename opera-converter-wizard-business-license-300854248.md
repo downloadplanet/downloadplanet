@@ -1,1 +1,3 @@
-# Opera Converter Wizard - Business License<br />Software to Convert MBOX Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854248&affiliateid=200057808)
+# Opera Converter Wizard - Business License
+Software to Convert MBOX Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854248&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Upgrade Webinar Speisenkalkulation mit Deckungsbeitrag am 15.02.2016 von 10:15 Uhr bis 11:15 Uhr mit Zertifikat<br />Webinar "Speisenkalkulation mit Deckungsbeitrag " am 15.02.2016 von 10:15 Uhr bis 11:15 Uhr mit ZERTIFIKAT
+# Upgrade Webinar Speisenkalkulation mit Deckungsbeitrag am 15.02.2016 von 10:15 Uhr bis 11:15 Uhr mit Zertifikat
+Webinar "Speisenkalkulation mit Deckungsbeitrag " am 15.02.2016 von 10:15 Uhr bis 11:15 Uhr mit ZERTIFIKAT
 Mit dem System der Deckungsbeitragskalkulation von Speisen werden Sie faire und gewinnbringende Preise für Ihre Gäste und Ihr Unternehmen erstellen.
 
 Die Aufschlagskalkulation und Wareneinsatz in % abhängige Kalkulation ist nicht mehr zeitgemäß und umsatzschädigend!
@@ -41,4 +42,5 @@ Folgende Unterlagen erhalten Sie:
 =>Beschreibung Excelschema Kalkulation
 =>Link für Videoanleitung Excelschema
 =>Link für Videoanleitung Excelschema mit Deckungsbeitrag
-=>Link für Videoanleitung Excelschema mit WE% Vorgabe<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300697309&affiliateid=200057808)
+=>Link für Videoanleitung Excelschema mit WE% Vorgabe
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300697309&affiliateid=200057808)

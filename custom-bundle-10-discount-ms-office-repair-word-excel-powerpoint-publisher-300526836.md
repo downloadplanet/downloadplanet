@@ -1,1 +1,2 @@
-# Custom Bundle 10% Discount MS Office Repair ( Word , Excel , Powerpoint , Publisher )<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300526836&affiliateid=200057808)
+# Custom Bundle 10% Discount MS Office Repair ( Word , Excel , Powerpoint , Publisher )
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300526836&affiliateid=200057808)

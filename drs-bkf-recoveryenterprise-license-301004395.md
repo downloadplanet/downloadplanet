@@ -1,1 +1,3 @@
-# DRS BKF Recovery[Enterprise License]<br />DRS BKF Recovery<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004395&affiliateid=200057808)
+# DRS BKF Recovery[Enterprise License]
+DRS BKF Recovery
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004395&affiliateid=200057808)

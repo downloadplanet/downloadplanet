@@ -1,1 +1,3 @@
-# EMS SQL Manager for PostgreSQL (Business) + 1 Year Maintenance<br />Simplify and automate your PostgreSQL database development process, design, explore and maintain existing PostgreSQL databases, build compound PostgreSQL query statements, manage PostgreSQL database user rights and manipulate data in different ways.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067908&affiliateid=200057808)
+# EMS SQL Manager for PostgreSQL (Business) + 1 Year Maintenance
+Simplify and automate your PostgreSQL database development process, design, explore and maintain existing PostgreSQL databases, build compound PostgreSQL query statements, manage PostgreSQL database user rights and manipulate data in different ways.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067908&affiliateid=200057808)

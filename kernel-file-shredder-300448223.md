@@ -1,1 +1,2 @@
-# Kernel File Shredder<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300448223&affiliateid=200057808)
+# Kernel File Shredder
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300448223&affiliateid=200057808)

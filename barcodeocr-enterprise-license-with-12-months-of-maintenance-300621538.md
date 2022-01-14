@@ -1,1 +1,3 @@
-# BarcodeOCR Enterprise - License with 12 months of maintenance<br />![BarcodeOCR Enterprise - License with 12 months of maintenance](https://mycommerce.akamaized.net/api/pimages/P300621538/BIG/300621538.PNG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300621538&affiliateid=200057808)
+# BarcodeOCR Enterprise - License with 12 months of maintenance
+![BarcodeOCR Enterprise - License with 12 months of maintenance](https://mycommerce.akamaized.net/api/pimages/P300621538/BIG/300621538.PNG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300621538&affiliateid=200057808)

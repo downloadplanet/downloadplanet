@@ -1,4 +1,5 @@
-# StationPlaylist Studio Pro<br />Low-cost digital audio on-air broadcast playout software for radio broadcasting and Internet streaming. Also suitable for in-store automated music systems.
+# StationPlaylist Studio Pro
+Low-cost digital audio on-air broadcast playout software for radio broadcasting and Internet streaming. Also suitable for in-store automated music systems.
 Features include:
 Automation and Live Assist mode.
 Continuous 24/7 play in automation mode.
@@ -29,4 +30,5 @@ No song database to maintain.
 Works best with StationPlaylist Creator music scheduler.
 Schedule new playlists to be created automatically (with Creator).
 May run unattended in automation mode indefinitely (with Creator).
-and many more features.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=175556&affiliateid=200057808)
+and many more features.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=175556&affiliateid=200057808)

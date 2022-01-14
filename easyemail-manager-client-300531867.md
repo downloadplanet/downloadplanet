@@ -1,4 +1,5 @@
-# EasyEmail Manager Client<br />EasyEmail Manager Client
+# EasyEmail Manager Client
+EasyEmail Manager Client
 
 The highest version of UtilStudio EasyEmail. Full featured version without limitations. Allows to filter messages and to set your buddy notification as a result of set filtering. For example you can set filter for incoming orders only. Then EasyEmail will notify you in sidebar only if new order incoming. EasyEmail manager adds no advertisement to outgoing emails. EasyEmail allows you to be notified only if important email incoming, so you do not need to check your email every time.
 
@@ -25,4 +26,5 @@ And have an attachments viewer allows to preview, open, save or print email atta
 
 Very simple installation and autoupdate.
 
-Please check UtilStudio web site for new updates.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300531867&affiliateid=200057808)
+Please check UtilStudio web site for new updates.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300531867&affiliateid=200057808)

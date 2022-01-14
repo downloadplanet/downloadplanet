@@ -1,1 +1,3 @@
-# ExpertPDF HtmlToPdf Enterprise License<br />HTML To PDF Library for .NET (web + windows)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300986319&affiliateid=200057808)
+# ExpertPDF HtmlToPdf Enterprise License
+HTML To PDF Library for .NET (web + windows)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300986319&affiliateid=200057808)

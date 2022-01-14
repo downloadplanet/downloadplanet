@@ -1,1 +1,3 @@
-# Outlook Password Recovery (for business use)<br />Outlook Password Recovery is a program to recover lost or forgotten passwords to the Microsoft Outlook password-protected Personal Storage files (*.pst, *.ost). All passwords are recovered instantly regardless of length.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=193322&affiliateid=200057808)
+# Outlook Password Recovery (for business use)
+Outlook Password Recovery is a program to recover lost or forgotten passwords to the Microsoft Outlook password-protected Personal Storage files (*.pst, *.ost). All passwords are recovered instantly regardless of length.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=193322&affiliateid=200057808)

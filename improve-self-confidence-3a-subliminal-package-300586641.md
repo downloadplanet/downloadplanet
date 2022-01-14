@@ -1,3 +1,6 @@
-# Improve Self Confidence 3A Subliminal Package<br />![Improve Self Confidence 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300586641/BIG/300586641.JPG)<br />Improve Self Confidence 3A Sublimininal
+# Improve Self Confidence 3A Subliminal Package
+![Improve Self Confidence 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300586641/BIG/300586641.JPG)
+Improve Self Confidence 3A Sublimininal
 
-To be highly self confident is one of the most important factors to be very successful in any area of your life. No matter if you want to achieve a goal in business or private a high self confidence is essential. Improve your self confidence with this subliminal. Listen to it twice daily until you feel or perceive a noticeable change.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300586641&affiliateid=200057808)
+To be highly self confident is one of the most important factors to be very successful in any area of your life. No matter if you want to achieve a goal in business or private a high self confidence is essential. Improve your self confidence with this subliminal. Listen to it twice daily until you feel or perceive a noticeable change.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300586641&affiliateid=200057808)

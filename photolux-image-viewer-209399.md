@@ -1,1 +1,3 @@
-# Photo-Lux Image Viewer<br />Photo-Lux is an easy-to-use but powerful and fast image viewer and more...<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=209399&affiliateid=200057808)
+# Photo-Lux Image Viewer
+Photo-Lux is an easy-to-use but powerful and fast image viewer and more...
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=209399&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Star burst brushes for Photoshop & others V62<br />www.graphicxtras.com -- Star burst Brushes for Adobe Photoshop & Elements & PSP and others V62
+# Star burst brushes for Photoshop & others V62
+www.graphicxtras.com -- Star burst Brushes for Adobe Photoshop & Elements & PSP and others V62
 
 Starburst brushes for Photoshop, PSP, GIMP etc
 100 Stunning starburst / asterisk brushes mixed designs including outlines, thins, chunky, stars and many more
@@ -16,4 +17,5 @@ Apply them via the Photoshop toolbox blur tool, paint, smear, clone tool, art hi
 Load via the brushes palette or load the PNG files via the file open and file place command
 Company has produced 100s of other sets of shapes, brushes, patterns etc for use in Photoshop and PSP and GIMP etc
 Set also includes documentation and gallery and serial
-Please e-mail us on support@graphicxtras.com or check out our site http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300425570&affiliateid=200057808)
+Please e-mail us on support@graphicxtras.com or check out our site http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300425570&affiliateid=200057808)

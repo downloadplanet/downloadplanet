@@ -1,1 +1,3 @@
-# DRS Exchange BKF Recovery[Administrator License]<br />DRS Exchange BKF Recovery<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004372&affiliateid=200057808)
+# DRS Exchange BKF Recovery[Administrator License]
+DRS Exchange BKF Recovery
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004372&affiliateid=200057808)

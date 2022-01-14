@@ -1,4 +1,5 @@
-# Christmas symbols for Fireworks (PNG) V6<br />www.graphicxtras.com -- Christmas symbols Fireworks CS 6 5 4 3 MX PBG V6
+# Christmas symbols for Fireworks (PNG) V6
+www.graphicxtras.com -- Christmas symbols Fireworks CS 6 5 4 3 MX PBG V6
 
 Symbols for Adobe (R) Fireworks (R)
 200 Festive themed symbols for use in Adobe (R) / Macromedia (R) Fireworks (R) CS4 CS3 8 + others
@@ -24,4 +25,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 GRAPHICXTRAS.COM
 
 Any questions, please mail us on support@graphicxtras.com
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300193921&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300193921&affiliateid=200057808)

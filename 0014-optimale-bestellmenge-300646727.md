@@ -1,1 +1,2 @@
-# 0014 - Optimale Bestellmenge<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300646727&affiliateid=200057808)
+# 0014 - Optimale Bestellmenge
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300646727&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Notes Contacts to Outlook - Corporate License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799342&affiliateid=200057808)
+# Notes Contacts to Outlook - Corporate License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799342&affiliateid=200057808)

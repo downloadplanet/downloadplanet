@@ -1,1 +1,3 @@
-# CD-Menüsystem gewerblich<br />Create automatic starting CD user interfaces as known from PC magazine CD's. You can arrange as many contributes as you wish in a tree structure and attach a picture and a free text. You can set a link to a program or a file from each entry which can be installed or executed at run time. Real Windows EXE files will be created!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060433&affiliateid=200057808)
+# CD-Menüsystem gewerblich
+Create automatic starting CD user interfaces as known from PC magazine CD's. You can arrange as many contributes as you wish in a tree structure and attach a picture and a free text. You can set a link to a program or a file from each entry which can be installed or executed at run time. Real Windows EXE files will be created!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060433&affiliateid=200057808)

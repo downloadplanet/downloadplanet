@@ -1,1 +1,4 @@
-# Hi-Res WAD texture collection for Gamestudio<br />![Hi-Res WAD texture collection for Gamestudio](https://mycommerce.akamaized.net/api/pimages/P300271286/BIG/300271286.JPG)<br />Replacement for the Gamestudio standard.wad file. All surface textures were carefully remade in true color and double resolution. Supports normal and specular bump mapping through included normal maps. Replace the standard.wad file with this wad and greatly improve the look of your levels!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300271286&affiliateid=200057808)
+# Hi-Res WAD texture collection for Gamestudio
+![Hi-Res WAD texture collection for Gamestudio](https://mycommerce.akamaized.net/api/pimages/P300271286/BIG/300271286.JPG)
+Replacement for the Gamestudio standard.wad file. All surface textures were carefully remade in true color and double resolution. Supports normal and specular bump mapping through included normal maps. Replace the standard.wad file with this wad and greatly improve the look of your levels!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300271286&affiliateid=200057808)

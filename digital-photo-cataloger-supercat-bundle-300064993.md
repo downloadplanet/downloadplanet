@@ -1,3 +1,5 @@
-# Digital Photo Cataloger & SuperCat Bundle<br />Save money - get both Digital Photo Cataloger and SuperCat, and receive a 20% discount on both products.
+# Digital Photo Cataloger & SuperCat Bundle
+Save money - get both Digital Photo Cataloger and SuperCat, and receive a 20% discount on both products.
 Digital Photo Cataloger is a photo catalog program (digital asset manager), that makes it easy to browse and search for any image file, even if it's located on a CD, DVD, an external hard drive, or any other disk media.
-Catalog and search any disk media using SuperCat, an extremely fast and powerful disk cataloging utility.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300064993&affiliateid=200057808)
+Catalog and search any disk media using SuperCat, an extremely fast and powerful disk cataloging utility.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300064993&affiliateid=200057808)

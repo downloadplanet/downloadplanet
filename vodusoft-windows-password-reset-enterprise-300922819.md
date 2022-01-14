@@ -1,1 +1,4 @@
-# Vodusoft Windows Password Reset Enterprise<br />![Vodusoft Windows Password Reset Enterprise](https://mycommerce.akamaized.net/api/pimages/P300922819/BIG/300922819.PNG)<br />Vodusoft Windows Password Reset is a reliable and efficient windows password recovery tool which can help you reset lost password for all Windows system.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300922819&affiliateid=200057808)
+# Vodusoft Windows Password Reset Enterprise
+![Vodusoft Windows Password Reset Enterprise](https://mycommerce.akamaized.net/api/pimages/P300922819/BIG/300922819.PNG)
+Vodusoft Windows Password Reset is a reliable and efficient windows password recovery tool which can help you reset lost password for all Windows system.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300922819&affiliateid=200057808)

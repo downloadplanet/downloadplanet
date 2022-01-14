@@ -1,4 +1,5 @@
-# Embellish font Truetype TTF & EPS Shapes V24<br />www.graphicxtras.com -- Embellish font Truetype & EPS PC & MAC OS X Swirls & Flourishes Shapes V24
+# Embellish font Truetype TTF & EPS Shapes V24
+www.graphicxtras.com -- Embellish font Truetype & EPS PC & MAC OS X Swirls & Flourishes Shapes V24
 
 Embellishment and flourish and spiral scroll and celtic designs: TTF (true type font set) + EPS (vector shape set)
 Includes 194 unique designs and exciting and useful design elements
@@ -23,4 +24,5 @@ Fonts are stored in normal true type font format
 Adobe and Photoshop and Illustrator and Fireworks and Flash are registered trademarks of Adobe Systems Incorporated; Corel and Paint Shop Pro and CorelDRAW and Photo-Paint and Painter are registered trademarks of Corel Corporation; other trademarks are owned by their respective owners
 http://www.graphicxtras.com for more details about font sets such as see examples of the designs as well as a thumbnail gallery of many of the designs as well as many additional examples of the vector designs.
 Mail any questions to support at graphicxtras.com
-Manuals can be found on http://www.graphicxtras.com in the manuals section<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300246724&affiliateid=200057808)
+Manuals can be found on http://www.graphicxtras.com in the manuals section
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300246724&affiliateid=200057808)

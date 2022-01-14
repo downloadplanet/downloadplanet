@@ -1,1 +1,3 @@
-# MailBee Message Queue (4 Developers Team)<br />Dramatically speed up mass-sending operations and reduce response time of your mailing applications<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333774&affiliateid=200057808)
+# MailBee Message Queue (4 Developers Team)
+Dramatically speed up mass-sending operations and reduce response time of your mailing applications
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333774&affiliateid=200057808)

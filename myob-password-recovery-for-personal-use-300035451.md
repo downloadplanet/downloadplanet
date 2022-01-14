@@ -1,1 +1,3 @@
-# MYOB Password Recovery (for personal use)<br />MYOB Password Recovery is a solution that instantly recovers passwords for MYOB Accounting files. All passwords are recovered instantly regardless of their length (including multi-lingual ones). All versions of MYOB Accounting are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300035451&affiliateid=200057808)
+# MYOB Password Recovery (for personal use)
+MYOB Password Recovery is a solution that instantly recovers passwords for MYOB Accounting files. All passwords are recovered instantly regardless of their length (including multi-lingual ones). All versions of MYOB Accounting are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300035451&affiliateid=200057808)

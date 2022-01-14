@@ -1,4 +1,5 @@
-# Tansee iOS Music&Photo Transfer (Windows) 1 year License<br />1,Backup iPhone/iPad/iPod:
+# Tansee iOS Music&Photo Transfer (Windows) 1 year License
+1,Backup iPhone/iPad/iPod:
 - Music (Purchased music and Synced music)
 - Video (Purchased video and Synced video)
 - Voice memos
@@ -15,4 +16,5 @@
 - All Generations of iPad
 - All Generations of iPod Touch
 
-3,Tansee products can run on all the windows operating systems: Windows 10, Windows 8, Windows 7, Windows Vista, Windows 2000, Windows XP, Windows 2003 and Windows 98<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300907968&affiliateid=200057808)
+3,Tansee products can run on all the windows operating systems: Windows 10, Windows 8, Windows 7, Windows Vista, Windows 2000, Windows XP, Windows 2003 and Windows 98
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300907968&affiliateid=200057808)

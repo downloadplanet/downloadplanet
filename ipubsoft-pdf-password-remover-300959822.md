@@ -1,4 +1,6 @@
-# iPubsoft PDF Password Remover<br />![iPubsoft PDF Password Remover](https://mycommerce.akamaized.net/api/pimages/P300959822/BIG/300959822.PNG)<br />PDF is the most widely used format for science and technology documents. People always use password to protect PDF copyright from copying, printing, editing or stealing by others. So to some extent, you have to remove PDF password. iPubsoft PDF Password Remover is a must-have tool to decrypt PDF restrictions, including both owner and user password.
+# iPubsoft PDF Password Remover
+![iPubsoft PDF Password Remover](https://mycommerce.akamaized.net/api/pimages/P300959822/BIG/300959822.PNG)
+PDF is the most widely used format for science and technology documents. People always use password to protect PDF copyright from copying, printing, editing or stealing by others. So to some extent, you have to remove PDF password. iPubsoft PDF Password Remover is a must-have tool to decrypt PDF restrictions, including both owner and user password.
 
 - Smartly detect the PDF is user password or owner password protected.
 - Get rid of owner password from PDF for printing, editing, copying.
@@ -24,4 +26,5 @@ Easy to Use
 Just within 3 simple steps: Launch - Import - Decrypt, the restrictions will be removed flawlessly. You can quickly add PDF for decryption by dragging and dropping them to the panel.
 
 High Processing Speed
-Regardless of your input document size, this program can process at high speed. NVIDIA-GPU is available to accelerate more CPU power to this PDF password unlocker. The more CPU cores you have, the faster speed you will enjoy.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300959822&affiliateid=200057808)
+Regardless of your input document size, this program can process at high speed. NVIDIA-GPU is available to accelerate more CPU power to this PDF password unlocker. The more CPU cores you have, the faster speed you will enjoy.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300959822&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# ARCHLine.XP Professional<br />![ARCHLine.XP Professional](https://mycommerce.akamaized.net/api/pimages/P300980807/BIG/300980807.PNG)<br />Thank you for choosing ARCHLine.XP.
+# ARCHLine.XP Professional
+![ARCHLine.XP Professional](https://mycommerce.akamaized.net/api/pimages/P300980807/BIG/300980807.PNG)
+Thank you for choosing ARCHLine.XP.
 ARCHLine.XP is a software that you can use to create your interior design including 3D model and the whole technical documentation.
 
 Please read the following information before installing your ARCHLine.XP:
@@ -36,4 +38,5 @@ To do so, simply submit your request along with your order details to CadLine Cu
 CadLine cannot grant refunds more than 30 days after your purchase.
 
 NOTE:
-The 30-day money-back guarantee is provided so that you can make sure that the software is fit for the purpose for which you wish to use it. The issuing of an activation code is equivalent of breaking the security seal on physical software packaging and we regret that we are unable to offer a refund after the activation code has been dispatched.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300980807&affiliateid=200057808)
+The 30-day money-back guarantee is provided so that you can make sure that the software is fit for the purpose for which you wish to use it. The issuing of an activation code is equivalent of breaking the security seal on physical software packaging and we regret that we are unable to offer a refund after the activation code has been dispatched.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300980807&affiliateid=200057808)

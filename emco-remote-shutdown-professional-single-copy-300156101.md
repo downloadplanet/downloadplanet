@@ -1,1 +1,2 @@
-# EMCO Remote Shutdown Professional (Single Copy)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300156101&affiliateid=200057808)
+# EMCO Remote Shutdown Professional (Single Copy)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300156101&affiliateid=200057808)

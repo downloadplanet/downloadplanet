@@ -1,1 +1,3 @@
-# MP3 WAV WMA OGG Converter<br />It is designed for converting the most popular audio formats MP3, WAV, WMA, and OGG from one to another directly and on-the-fly.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300910542&affiliateid=200057808)
+# MP3 WAV WMA OGG Converter
+It is designed for converting the most popular audio formats MP3, WAV, WMA, and OGG from one to another directly and on-the-fly.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300910542&affiliateid=200057808)

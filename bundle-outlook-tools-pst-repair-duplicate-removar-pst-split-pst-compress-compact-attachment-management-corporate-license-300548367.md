@@ -1,1 +1,2 @@
-# Bundle Outlook Tools ( PST Repair + Duplicate Removar + PST Split + PST Compress & Compact + Attachment Management ) - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300548367&affiliateid=200057808)
+# Bundle Outlook Tools ( PST Repair + Duplicate Removar + PST Split + PST Compress & Compact + Attachment Management ) - Corporate License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300548367&affiliateid=200057808)

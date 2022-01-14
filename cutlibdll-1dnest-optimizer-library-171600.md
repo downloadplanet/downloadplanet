@@ -1,1 +1,2 @@
-# CutLib.dll : 1DNEST optimizer library<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=171600&affiliateid=200057808)
+# CutLib.dll : 1DNEST optimizer library
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=171600&affiliateid=200057808)

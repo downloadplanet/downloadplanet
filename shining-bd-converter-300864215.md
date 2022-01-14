@@ -1,1 +1,4 @@
-# Shining BD Converter<br />![Shining BD Converter](https://mycommerce.akamaized.net/api/pimages/P300864215/BIG/300864215.PNG)<br />Copy Blu-ray Disc and rip Blu-ray movie to video and audio in 200+ formats (such as MPG, MPEG-1, MPEG-2, MPEG-4, H.264, H.264/MPEG-4 AVC, DivX, XviD, AVI, FLV, MP4, M4V, MKV, MOV, 3GP, 3G2, MTV, SWF, WMV, WMV-2, ASF, DPG, TS, DV, VOB, AMV, WebM and so on) for various media player and device.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300864215&affiliateid=200057808)
+# Shining BD Converter
+![Shining BD Converter](https://mycommerce.akamaized.net/api/pimages/P300864215/BIG/300864215.PNG)
+Copy Blu-ray Disc and rip Blu-ray movie to video and audio in 200+ formats (such as MPG, MPEG-1, MPEG-2, MPEG-4, H.264, H.264/MPEG-4 AVC, DivX, XviD, AVI, FLV, MP4, M4V, MKV, MOV, 3GP, 3G2, MTV, SWF, WMV, WMV-2, ASF, DPG, TS, DV, VOB, AMV, WebM and so on) for various media player and device.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300864215&affiliateid=200057808)

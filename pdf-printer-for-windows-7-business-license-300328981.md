@@ -1,4 +1,5 @@
-# PDF Printer for Windows 7 Business License<br />To an application, the PDF Printer looks like a printer and allows the application to write a document as a PDF Document in the same way it would print the document to the printer. When a user prints their document to PDF Printer, rather than sending the file to a laser jet or inkjet printer, the software creates a PDF Document.
+# PDF Printer for Windows 7 Business License
+To an application, the PDF Printer looks like a printer and allows the application to write a document as a PDF Document in the same way it would print the document to the printer. When a user prints their document to PDF Printer, rather than sending the file to a laser jet or inkjet printer, the software creates a PDF Document.
 Features:
 Easily create Adobe PDF documents
 Easily create Adobe PDF documents from Microsoft Word, Excel, PowerPoint, Access, Outlook, Project, Visio, Publisher, Internet Explorer, AutoCAD, Lotus Notes, Quark Express, Xpress or any application that prints.
@@ -16,4 +17,5 @@ Apply passwords and assign permissions
 Control access to and use of Adobe PDF documents by applying password and assigning permissions to help restrict who can print, save, copy, or modify a document, and maintain document integrity.
 Remove sensitive and hidden data
 Permanently remove sensitive metadata, hidden layers, and other concealed information.
-All products support Microsoft Windows 7 32-bit (x86) and 64-bit (x64), and are backward compatible with Microsoft Windows Vista, Windows XP, Windows 2000, Windows Server 2003, Windows 2000 Server, and Windows Server 2008.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300328981&affiliateid=200057808)
+All products support Microsoft Windows 7 32-bit (x86) and 64-bit (x64), and are backward compatible with Microsoft Windows Vista, Windows XP, Windows 2000, Windows Server 2003, Windows 2000 Server, and Windows Server 2008.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300328981&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Kombi-Fachpaket Logistikmeister/in, Basisqualifikation, Videocoaching, 102 Videos und komplette Begleitskripte von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300588013&affiliateid=200057808)
+# Kombi-Fachpaket Logistikmeister/in, Basisqualifikation, Videocoaching, 102 Videos und komplette Begleitskripte von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300588013&affiliateid=200057808)

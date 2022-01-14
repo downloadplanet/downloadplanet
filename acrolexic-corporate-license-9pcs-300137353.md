@@ -1,5 +1,8 @@
-# AcroLexic Corporate License 9PCs<br />![AcroLexic Corporate License 9PCs](https://mycommerce.akamaized.net/api/pimages/P300137353/BIG/300137353.GIF)<br />AcroLexic is our recent development to assist you with your translation difficulties:
+# AcroLexic Corporate License 9PCs
+![AcroLexic Corporate License 9PCs](https://mycommerce.akamaized.net/api/pimages/P300137353/BIG/300137353.GIF)
+AcroLexic is our recent development to assist you with your translation difficulties:
 AcroLexic 2.0 вЂ” A dictionary of acronyms and abbreviations. Currently it contains more than 70,000 terms with more than 150,000 definitions! This dictionary will be a valuable addition to your electronic bookshelf. It will relieve you from the pain and stress of tediously searching through countless pages of dictionaries each time you come across an unknown abbreviation.
 AcroLexic allows you to find acronyms' meaning fast and effectively. An incremental search starts by sorting out the database as soon as you type-in the first characters of the acronym (when you type the first letters all records starting with that string entered are displayed in the top of the list). Quick search option allows you to find the definition of the selected acronym. You can select the acronym in any other software and press the hot key, which can be adjusted at the Settings window and the acronym's definitions will be instantly shown in the definition window.
 Export and Import functions allow you to save your custom acronyms and their definitions into the file with .acro extension. This is very helpful feature, if you have the large list of custom acronyms and do not want to lose them.Or if want to share your custom acronyms with someone.
-One more function of AcroLexic is that it allows you to see a total number of acronims and their definitions.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300137353&affiliateid=200057808)
+One more function of AcroLexic is that it allows you to see a total number of acronims and their definitions.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300137353&affiliateid=200057808)

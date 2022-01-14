@@ -1,4 +1,5 @@
-# Komplettpaket Kalkulation Getränke, Beschreibung und Videoanleitung<br />Folgende Inhalte, Beschreibungen und Vorlagen sind in der Exceldatei Getränkekalkulation enthalten:
+# Komplettpaket Kalkulation Getränke, Beschreibung und Videoanleitung
+Folgende Inhalte, Beschreibungen und Vorlagen sind in der Exceldatei Getränkekalkulation enthalten:
 
 => Stammdaten für MwSt. und Einstellung
 => Artikelliste Beispiel
@@ -24,4 +25,5 @@ Folgende Unterlagen und Dateien erhalten Sie:
 =>Exceldatei Kalkulation Getränke mit zahlreichen Tabellenblättern
 =>Konzept Grundlagen der Kalkulation Speisen und Getränke
 =>Video Beschreibung Excelschema Kalkulation
-=>NEU! Vorkalkulation über die DB Variante<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300577908&affiliateid=200057808)
+=>NEU! Vorkalkulation über die DB Variante
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300577908&affiliateid=200057808)

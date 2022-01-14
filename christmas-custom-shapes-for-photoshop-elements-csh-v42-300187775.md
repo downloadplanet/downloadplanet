@@ -1,4 +1,5 @@
-# Christmas Custom shapes for Photoshop & Elements (CSH) V42<br />www.graphicxtras.com -- Christmas Custom Shapes for Adobe Photoshop & Elements Xmas & Festive CSH V42
+# Christmas Custom shapes for Photoshop & Elements (CSH) V42
+www.graphicxtras.com -- Christmas Custom Shapes for Adobe Photoshop & Elements Xmas & Festive CSH V42
 
 200 Festive and snowflake and Xmas and angel and xmas tree and candles and presents designs custom shapes
 
@@ -26,4 +27,5 @@ Christmas cracker custom shapes
 Christmas custom shapes
 Xmas custom shapes for Photoshop
 Christmas angel custom shapes
-Xmas presents<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300187775&affiliateid=200057808)
+Xmas presents
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300187775&affiliateid=200057808)

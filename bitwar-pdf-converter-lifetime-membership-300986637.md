@@ -1,1 +1,4 @@
-# Bitwar PDF Converter Lifetime Membership<br />![Bitwar PDF Converter Lifetime Membership](https://mycommerce.akamaized.net/api/pimages/P300986637/BIG/300986637.PNG)<br />Bitwar PDF Converter is able to convert PDF to DOCX, DOC, TXT, RTF, HTML, PNG, JPG, etc. in 3 steps with a high conversion success rate.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300986637&affiliateid=200057808)
+# Bitwar PDF Converter Lifetime Membership
+![Bitwar PDF Converter Lifetime Membership](https://mycommerce.akamaized.net/api/pimages/P300986637/BIG/300986637.PNG)
+Bitwar PDF Converter is able to convert PDF to DOCX, DOC, TXT, RTF, HTML, PNG, JPG, etc. in 3 steps with a high conversion success rate.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300986637&affiliateid=200057808)

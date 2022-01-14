@@ -1,1 +1,3 @@
-# Geprüfter Wirtschaftsfachwirt - Investition, Finanzierung, betriebliches Rechnungswesen und Controlling<br />![Geprüfter Wirtschaftsfachwirt - Investition, Finanzierung, betriebliches Rechnungswesen und Controlling](https://mycommerce.akamaized.net/api/pimages/P300381773/BIG/300381773.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381773&affiliateid=200057808)
+# Geprüfter Wirtschaftsfachwirt - Investition, Finanzierung, betriebliches Rechnungswesen und Controlling
+![Geprüfter Wirtschaftsfachwirt - Investition, Finanzierung, betriebliches Rechnungswesen und Controlling](https://mycommerce.akamaized.net/api/pimages/P300381773/BIG/300381773.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381773&affiliateid=200057808)

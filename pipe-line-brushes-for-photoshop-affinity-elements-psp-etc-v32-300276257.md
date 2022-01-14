@@ -1,4 +1,5 @@
-# Pipe line brushes for Photoshop, Affinity, Elements, PSP, etc V32<br />www.graphicxtras.com -- Pipe line brushes Adobe Photoshop & PSP & Elements Creative Cloud V32
+# Pipe line brushes for Photoshop, Affinity, Elements, PSP, etc V32
+www.graphicxtras.com -- Pipe line brushes Adobe Photoshop & PSP & Elements Creative Cloud V32
 
 Pipe line brushes for Photoshop etc
 150 Pipes + stitches + abstract brushes Photoshop and Photoshop Elements + PNG brushes for use in other applications such as Paint Shop Pro (R)
@@ -20,4 +21,5 @@ Use brushes to create web designs, leaflets, scrap booking, templates, items for
 
 All the brushes have been created by graphicxtras.com (Andrew Buckle)
 
-Part of an ongoing series of Photoshop (R) brushes from the graphicxtras.com site, along with custom shapes and patterns and styles. Download - electronic distribution<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300276257&affiliateid=200057808)
+Part of an ongoing series of Photoshop (R) brushes from the graphicxtras.com site, along with custom shapes and patterns and styles. Download - electronic distribution
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300276257&affiliateid=200057808)

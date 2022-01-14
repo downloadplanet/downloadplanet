@@ -1,4 +1,5 @@
-# Komplettpaket Excelprogramm Kalkulation Speisen inkl. Konzept, Beschreibung und Videoanleitung<br />Folgende Unterlagen erhalten Sie:
+# Komplettpaket Excelprogramm Kalkulation Speisen inkl. Konzept, Beschreibung und Videoanleitung
+Folgende Unterlagen erhalten Sie:
 
 =>Excelprogramm Kalkulation Speisen VOLLVERSION
 mit Verknüpfung zur Artikelliste und Drop Down Liste
@@ -18,4 +19,5 @@ Folgende Inhalte, Tabellenblätter und Vorlagen sind in der Exceldatei enthalten
 =>Beispiel Nachkalkulation (Hier werden verkaufte Speisen nachkalkuliert)
 =>Vor- Nachkalkulation für eine Büffetkalkulation
 =>Vorkalkulation leer (kann beliebig vervielfältigt werden)
-=>Nachkalkulation leer (kann beliebig vervielfältigt werden)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300542733&affiliateid=200057808)
+=>Nachkalkulation leer (kann beliebig vervielfältigt werden)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300542733&affiliateid=200057808)

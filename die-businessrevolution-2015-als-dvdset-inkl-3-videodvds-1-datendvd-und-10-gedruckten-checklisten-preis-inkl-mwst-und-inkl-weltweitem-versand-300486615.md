@@ -1,1 +1,3 @@
-# Die Business-Revolution 2015 - als DVD-Set inkl. 3 Video-DVDs, 1 Daten-DVD und 10 gedruckten Checklisten (Preis inkl. MwSt. und inkl. weltweitem Versand)<br />Die Business-Revolution 2015 - als DVD-Set inkl. 3 Video-DVDs, 1 Daten-DVD und 10 gedruckten Checklisten (Preis inkl. MwSt. und inkl. weltweitem Versand)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300486615&affiliateid=200057808)
+# Die Business-Revolution 2015 - als DVD-Set inkl. 3 Video-DVDs, 1 Daten-DVD und 10 gedruckten Checklisten (Preis inkl. MwSt. und inkl. weltweitem Versand)
+Die Business-Revolution 2015 - als DVD-Set inkl. 3 Video-DVDs, 1 Daten-DVD und 10 gedruckten Checklisten (Preis inkl. MwSt. und inkl. weltweitem Versand)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300486615&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# PROMT Home 11 Multilingual<br />![PROMT Home 11 Multilingual](https://mycommerce.akamaized.net/api/pimages/P300727094/BIG/300727094.PNG)<br />Der ideale Textübersetzer für Zuhause. Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt.
+# PROMT Home 11 Multilingual
+![PROMT Home 11 Multilingual](https://mycommerce.akamaized.net/api/pimages/P300727094/BIG/300727094.PNG)
+Der ideale Textübersetzer für Zuhause. Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt.
 
 Schnell und preiswert übersetzen Sie Ihre Korrespondenz, Bedienungsanleitungen, Windows-Hilfe, Internetseiten und PDF Dokumente. PROMT Home leistet sowohl im privaten als auch im beruflichen Alltag eine unersetzliche Hilfe. Es sind bis zu 850.000 Wörter und Wendungen pro Sprachpaar enthalten.
 
@@ -37,4 +39,5 @@ ISBN
 978-3-89894-672-8
 
 Systemvoraussetzungen
-Microsoft Windows® 10, 8, 7, Vista™ und XP in den Varianten (32-/64-bit)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300727094&affiliateid=200057808)
+Microsoft Windows® 10, 8, 7, Vista™ und XP in den Varianten (32-/64-bit)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300727094&affiliateid=200057808)

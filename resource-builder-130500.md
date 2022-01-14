@@ -1,6 +1,9 @@
-# Resource Builder<br />![Resource Builder](https://mycommerce.akamaized.net/api/pimages/P130500/BIG/130500.PNG)<br />Resource Builder - the complete solution for resource editing!
+# Resource Builder
+![Resource Builder](https://mycommerce.akamaized.net/api/pimages/P130500/BIG/130500.PNG)
+Resource Builder - the complete solution for resource editing!
 Tired of editing resource files? Keen to speed-up and improve the editing of resources scripts or files?
 Nowadays, resource files are used in almost all applications development, but resource editing has always been a difficult and non-trivial task. Using our Resource Builder, the resource editing becomes the easiest and fastest task in your programming cycle. Our resource editor will provide you with a lot of easy-to-use and user-friendly What You See Is What You Get (WYSIWYG) editors for each type of resource, and you will produce software even quicker than before. Full support for Windows Vista icons in icon resource editor brings you the most powerful resource editing tools for your projects.
 
 Do you need to support Unicode?
-Resource Builder is a unique resource editor, which provides full support for Unicode. You can use Unicode resource scripts and Unicode data in your resources, and you will be able to edit them as easily as usual scripts.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=130500&affiliateid=200057808)
+Resource Builder is a unique resource editor, which provides full support for Unicode. You can use Unicode resource scripts and Unicode data in your resources, and you will be able to edit them as easily as usual scripts.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=130500&affiliateid=200057808)

@@ -1,6 +1,8 @@
-# Photo Image Inpainter<br />Photo Image Inpainter allows you to retouch and delete unwanted objects from your photo, making the scenery more attractive.
+# Photo Image Inpainter
+Photo Image Inpainter allows you to retouch and delete unwanted objects from your photo, making the scenery more attractive.
 The program offers two main tools:
 1. Delete wires
 This tool allows you to quickly and easily delete wires and other unwanted linear objects like posts and antennas. The tool works where the surrounding region of the image has a smooth coloring (for example, wires with sky in the background).
 2. Patching
-This tool allows you to "blur" unwanted objects on any background, including patterned backgrounds. You can place a patch from one part of the image over another. For example, to delete objects on lawns or fronts of buildings, or over areas where there is a sharp change in brightness or color. Another function of the tool is to decorate a given region with a texture taken from other parts of the image. Automatic color correction allows you to select a color from its surrounding background.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300371772&affiliateid=200057808)
+This tool allows you to "blur" unwanted objects on any background, including patterned backgrounds. You can place a patch from one part of the image over another. For example, to delete objects on lawns or fronts of buildings, or over areas where there is a sharp change in brightness or color. Another function of the tool is to decorate a given region with a texture taken from other parts of the image. Automatic color correction allows you to select a color from its surrounding background.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300371772&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# WSL-Electro Swing Vol 1<br />![WSL-Electro Swing Vol 1](https://mycommerce.akamaized.net/api/pimages/P300488632/BIG/300488632.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300488632&affiliateid=200057808)
+# WSL-Electro Swing Vol 1
+![WSL-Electro Swing Vol 1](https://mycommerce.akamaized.net/api/pimages/P300488632/BIG/300488632.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300488632&affiliateid=200057808)

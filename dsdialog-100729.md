@@ -1,1 +1,3 @@
-# DSDialog<br />Here is a set of small magic components: drop one of them on ANY form, and at run time the form with all its controls will become a Windows common dialog box. No more hassle with custom open/save, import/export, color, font, page setup, printer setup, print, change icon, insert object common dialogs.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=100729&affiliateid=200057808)
+# DSDialog
+Here is a set of small magic components: drop one of them on ANY form, and at run time the form with all its controls will become a Windows common dialog box. No more hassle with custom open/save, import/export, color, font, page setup, printer setup, print, change icon, insert object common dialogs.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=100729&affiliateid=200057808)

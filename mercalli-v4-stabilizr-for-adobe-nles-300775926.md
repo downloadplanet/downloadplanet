@@ -1,1 +1,4 @@
-# Mercalli V4 Stabilizr for Adobe NLEs<br />![Mercalli V4 Stabilizr for Adobe NLEs](https://mycommerce.akamaized.net/api/pimages/P300775926/BIG/300775926.JPG)<br />The ultimate solution for video stabilization in Adobe NLEs* For Mac and Windows! * Adobe Premiere CC2017 Adobe After Effects CC2017 Please note: With the free demo version please try before you buy, if your eventually older CC version/installation is supported by the plugins.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300775926&affiliateid=200057808)
+# Mercalli V4 Stabilizr for Adobe NLEs
+![Mercalli V4 Stabilizr for Adobe NLEs](https://mycommerce.akamaized.net/api/pimages/P300775926/BIG/300775926.JPG)
+The ultimate solution for video stabilization in Adobe NLEs* For Mac and Windows! * Adobe Premiere CC2017 Adobe After Effects CC2017 Please note: With the free demo version please try before you buy, if your eventually older CC version/installation is supported by the plugins.
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300775926&affiliateid=200057808)

@@ -1,3 +1,5 @@
-# Twirl Custom shapes for Photoshop & Elements (CSH) V144<br />www.graphicxtras.com -- Twirl Custom Shapes for Adobe Photoshop & Elements PC & MAC OSX Commercial use & V144
+# Twirl Custom shapes for Photoshop & Elements (CSH) V144
+www.graphicxtras.com -- Twirl Custom Shapes for Adobe Photoshop & Elements PC & MAC OSX Commercial use & V144
 
-custom shapes for Photoshop and Elements - License: commercial use (and personal), royalty-free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468598&affiliateid=200057808)
+custom shapes for Photoshop and Elements - License: commercial use (and personal), royalty-free.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468598&affiliateid=200057808)

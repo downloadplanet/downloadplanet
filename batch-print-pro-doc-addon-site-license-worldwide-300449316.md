@@ -1,3 +1,5 @@
-# Batch & Print Pro DOC Addon Site License (Worldwide)<br />Batch & Print Pro DOC Addon is a plugin for Batch & Print Pro that gives the user more control over the print process. options include page start and end,in the Batch & Print Pro enviroment.
+# Batch & Print Pro DOC Addon Site License (Worldwide)
+Batch & Print Pro DOC Addon is a plugin for Batch & Print Pro that gives the user more control over the print process. options include page start and end,in the Batch & Print Pro enviroment.
 UNLIMITED LICENSE TO BE USED WITHIN A COMPANY WORLDWIDE.
-All Updates to 1.xx are free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300449316&affiliateid=200057808)
+All Updates to 1.xx are free of charge.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300449316&affiliateid=200057808)

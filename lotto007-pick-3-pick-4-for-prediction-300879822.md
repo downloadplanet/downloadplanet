@@ -1,1 +1,4 @@
-# Lotto007 Pick 3 Pick 4 For Prediction<br />![Lotto007 Pick 3 Pick 4 For Prediction](https://mycommerce.akamaized.net/api/pimages/P300879822/BIG/300879822.GIF)<br />Lotto007 Pick 3 Pick 4 For Prediction 2019 can help you predict the next drawings and give you drawings trend chart for the pick 3 pick 4 daily lotteries. The 2013 version supports historical drawings verification. You can choose the count of predicted number (5-8 numbers on each position).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879822&affiliateid=200057808)
+# Lotto007 Pick 3 Pick 4 For Prediction
+![Lotto007 Pick 3 Pick 4 For Prediction](https://mycommerce.akamaized.net/api/pimages/P300879822/BIG/300879822.GIF)
+Lotto007 Pick 3 Pick 4 For Prediction 2019 can help you predict the next drawings and give you drawings trend chart for the pick 3 pick 4 daily lotteries. The 2013 version supports historical drawings verification. You can choose the count of predicted number (5-8 numbers on each position).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879822&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# EMS Data Export for PostgreSQL (Business) + 1 Year Maintenance<br />Export PostgreSQL database data to any of 20 most popular data formats, including MS Access, MS Excel, MS Word, PDF, HTML, ODF and more.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067914&affiliateid=200057808)
+# EMS Data Export for PostgreSQL (Business) + 1 Year Maintenance
+Export PostgreSQL database data to any of 20 most popular data formats, including MS Access, MS Excel, MS Word, PDF, HTML, ODF and more.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067914&affiliateid=200057808)

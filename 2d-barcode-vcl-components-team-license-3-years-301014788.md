@@ -1,4 +1,7 @@
-# 2D Barcode VCL Components (Team license) * 3 years<br />![2D Barcode VCL Components (Team license) * 3 years](https://mycommerce.akamaized.net/api/pimages/P301014788/BIG/301014788.PNG)<br />The 2D Barcode VCL components is a set of components designed for generating and printing barcode symbols in your Delphi or C++ Builder applications. Developers use the components set like any other VCL components. This effective and powerful components set extends your applications with 2-dimensional barcode technology.
+# 2D Barcode VCL Components (Team license) * 3 years
+![2D Barcode VCL Components (Team license) * 3 years](https://mycommerce.akamaized.net/api/pimages/P301014788/BIG/301014788.PNG)
+The 2D Barcode VCL components is a set of components designed for generating and printing barcode symbols in your Delphi or C++ Builder applications. Developers use the components set like any other VCL components. This effective and powerful components set extends your applications with 2-dimensional barcode technology.
 Most popular matrix and stacked 2-dimensional barcode symbologies are supported including PDF417, MicroPDF417, QR Code, Micro QR Code, DataMatrix (ECC 000-140, ECC 200), MaxiCode, Code 16K, Aztec Code, RSS-14, RSS-14 Truncated, RSS-14 Stacked, RSS-14 Stacked Omnidirectional, RSS Limited, RSS Expanded, RSS Expanded Stacked, and Aztec Runes.
 The database functionality is supported. The QuickReport, FastReport, ReportBuilder, ACE Reporter are supported too. Applications using the components set can then be deployed royalty free.
-All modern Delphi and C++ Builder are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301014788&affiliateid=200057808)
+All modern Delphi and C++ Builder are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301014788&affiliateid=200057808)

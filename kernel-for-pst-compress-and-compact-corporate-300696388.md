@@ -1,1 +1,2 @@
-# Kernel for PST Compress and Compact - Corporate<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300696388&affiliateid=200057808)
+# Kernel for PST Compress and Compact - Corporate
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300696388&affiliateid=200057808)

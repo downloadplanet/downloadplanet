@@ -1,1 +1,3 @@
-# EML to PDF Wizard - Pro License<br />Convert EML files to PDF documents<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799246&affiliateid=200057808)
+# EML to PDF Wizard - Pro License
+Convert EML files to PDF documents
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799246&affiliateid=200057808)

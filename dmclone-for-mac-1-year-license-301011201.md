@@ -1,1 +1,4 @@
-# DMclone for Mac 1 Year License<br />![DMclone for Mac 1 Year License](https://mycommerce.akamaized.net/api/pimages/P301011201/BIG/301011201.PNG)<br />DMclone for Mac is one of the best disk clone software for Mac OS. It can help you securely and easily clone hard drive, created disk image, make backup on Mac. Just download it and copy data from one to another location without any loss.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301011201&affiliateid=200057808)
+# DMclone for Mac 1 Year License
+![DMclone for Mac 1 Year License](https://mycommerce.akamaized.net/api/pimages/P301011201/BIG/301011201.PNG)
+DMclone for Mac is one of the best disk clone software for Mac OS. It can help you securely and easily clone hard drive, created disk image, make backup on Mac. Just download it and copy data from one to another location without any loss.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301011201&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# PROMT 365 Home 11 Multilingual (Lizenz für 1 Jahr)<br />![PROMT 365 Home 11 Multilingual (Lizenz für 1 Jahr)](https://mycommerce.akamaized.net/api/pimages/P300727117/BIG/300727117.PNG)<br />Der ideale Textübersetzer für Zuhause. Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt.
+# PROMT 365 Home 11 Multilingual (Lizenz für 1 Jahr)
+![PROMT 365 Home 11 Multilingual (Lizenz für 1 Jahr)](https://mycommerce.akamaized.net/api/pimages/P300727117/BIG/300727117.PNG)
+Der ideale Textübersetzer für Zuhause. Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt.
 
 Schnell und preiswert übersetzen Sie Ihre Korrespondenz, Bedienungsanleitungen, Windows-Hilfe, Internetseiten und PDF Dokumente. PROMT Home leistet sowohl im privaten als auch im beruflichen Alltag eine unersetzliche Hilfe. Es sind bis zu 850.000 Wörter und Wendungen pro Sprachpaar enthalten.
 
@@ -34,4 +36,5 @@ Umfangreiches Nachschlagewörterbuch
 Neben der automatischen Textübersetzung enthält PROMT Home auch ein Wörterbuch als zusätzliche Anwendung um jederzeit unbekannte Wörter nachschlagen zu können. Zu den einzelnen Wörtern erhalten Sie Nachschlageinformationen wie Übersetzungsvarianten und die Wortart.
 
 Systemvoraussetzungen
-Microsoft Windows® 10, 8, 7, Vista™ und XP in den Varianten (32-/64-bit)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300727117&affiliateid=200057808)
+Microsoft Windows® 10, 8, 7, Vista™ und XP in den Varianten (32-/64-bit)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300727117&affiliateid=200057808)

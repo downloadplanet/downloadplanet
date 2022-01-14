@@ -1,1 +1,4 @@
-# 100 Low-Poly Models for Gamestudio<br />![100 Low-Poly Models for Gamestudio](https://mycommerce.akamaized.net/api/pimages/P300167770/BIG/300167770.JPG)<br />Gamestudio model pack, containing 30 fully animated actors, 10 aircraft, 10 tanks, 10 spaceships, 10 cars, 20 guns, and several animals and objects. All models are designed for extremely low resource consumption, using a low-polygon mesh, vertex animation, and a small-size skin.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300167770&affiliateid=200057808)
+# 100 Low-Poly Models for Gamestudio
+![100 Low-Poly Models for Gamestudio](https://mycommerce.akamaized.net/api/pimages/P300167770/BIG/300167770.JPG)
+Gamestudio model pack, containing 30 fully animated actors, 10 aircraft, 10 tanks, 10 spaceships, 10 cars, 20 guns, and several animals and objects. All models are designed for extremely low resource consumption, using a low-polygon mesh, vertex animation, and a small-size skin.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300167770&affiliateid=200057808)

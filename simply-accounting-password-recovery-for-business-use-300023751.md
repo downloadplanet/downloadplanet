@@ -1,1 +1,3 @@
-# Simply Accounting Password Recovery (for business use)<br />Simply Accounting Password Recovery is a tool that instantly recovers passwords for Simply Accounting company files. All passwords are recovered instantly regardless of their length (including multilingual ones). All versions of Simply Accounting are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300023751&affiliateid=200057808)
+# Simply Accounting Password Recovery (for business use)
+Simply Accounting Password Recovery is a tool that instantly recovers passwords for Simply Accounting company files. All passwords are recovered instantly regardless of their length (including multilingual ones). All versions of Simply Accounting are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300023751&affiliateid=200057808)

@@ -1,2 +1,4 @@
-# Report on staff<br />Learn everything about your staff: Who is the most effective, the slowest, the most communicative, the most busy and a lot more! Only for chiefs!
-Report on staff is plug-in for Windows-version of LeaderTask software (ID 300627106).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300777419&affiliateid=200057808)
+# Report on staff
+Learn everything about your staff: Who is the most effective, the slowest, the most communicative, the most busy and a lot more! Only for chiefs!
+Report on staff is plug-in for Windows-version of LeaderTask software (ID 300627106).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300777419&affiliateid=200057808)

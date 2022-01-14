@@ -1,4 +1,6 @@
-# AnyMini L: Line Count Software - Site License: Unlimited PCs at single business location<br />![AnyMini L: Line Count Software - Site License: Unlimited PCs at single business location](https://mycommerce.akamaized.net/api/pimages/P300036046/BIG/300036046.GIF)<br />AnyMini L is automatic line count software. It is line count program for all common file formats, which supports .DOC, .RTF, .XLS, .PPT, .PPS, .HTM, .CSV, .PDF, .TXT, .XML, .MIF, .WPD, .ZIP and is powered by AnyCount Text Count Engine.
+# AnyMini L: Line Count Software - Site License: Unlimited PCs at single business location
+![AnyMini L: Line Count Software - Site License: Unlimited PCs at single business location](https://mycommerce.akamaized.net/api/pimages/P300036046/BIG/300036046.GIF)
+AnyMini L is automatic line count software. It is line count program for all common file formats, which supports .DOC, .RTF, .XLS, .PPT, .PPS, .HTM, .CSV, .PDF, .TXT, .XML, .MIF, .WPD, .ZIP and is powered by AnyCount Text Count Engine.
 Support for line count for .MIF (Adobe FrameMaker), XML (eXtensible Markup Language), and .WPD (Corel WordPerfect) files is added;
 Show full path option added;
 Export of line count results into PDF is added.
@@ -10,4 +12,5 @@ Line count of PDF text is now completely automated and self-sufficient and does 
 You can view results of line count in various units without need to count the texts again;
 Add Files dialog enhanced.
 Check out other text count product by Advanced International Translators used by thousands of users worldwide:
-AnyCount: Word Count, Character Count and Line Count Software at http://www.anycount.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300036046&affiliateid=200057808)
+AnyCount: Word Count, Character Count and Line Count Software at http://www.anycount.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300036046&affiliateid=200057808)

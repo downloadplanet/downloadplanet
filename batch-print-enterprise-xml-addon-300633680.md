@@ -1,1 +1,3 @@
-# Batch & Print Enterprise XML Addon<br />Batch & Print Enterprise XML Addon is a plugin for Batch & Print Enterprise that gives the user more control over the print process. options include page start and end page in the Batch & Print Enterprise environment. The XML is rendered in the browser then is printed.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300633680&affiliateid=200057808)
+# Batch & Print Enterprise XML Addon
+Batch & Print Enterprise XML Addon is a plugin for Batch & Print Enterprise that gives the user more control over the print process. options include page start and end page in the Batch & Print Enterprise environment. The XML is rendered in the browser then is printed.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300633680&affiliateid=200057808)

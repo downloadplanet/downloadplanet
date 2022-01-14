@@ -1,4 +1,5 @@
-# Car Factory Manager<br />Der Car Factory Manager ist eine Rundenbasierente Wirtschaftssimulation, bei der jeder Mitspieler die Leitung eines Automobilkonzerns übernimmt. Alle Entscheidungen liegen in ihrer Hand: Von der Entwicklung neuer Bauteile über Entwurf und Produktion bis zum Verkauf.
+# Car Factory Manager
+Der Car Factory Manager ist eine Rundenbasierente Wirtschaftssimulation, bei der jeder Mitspieler die Leitung eines Automobilkonzerns übernimmt. Alle Entscheidungen liegen in ihrer Hand: Von der Entwicklung neuer Bauteile über Entwurf und Produktion bis zum Verkauf.
 
 Die wichtigsten Features im Überblick:
 
@@ -16,4 +17,5 @@ Die wichtigsten Features im Überblick:
 - Über 600 Karosseriegrafiken
 - Einbindung eigener Grafiken (z.B. Karosserien)
 - Editor für Karosserien, Motoren und Fahrwerke
-- Mehrspielermodus für bis zu vier Spielern an einem PC<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300336094&affiliateid=200057808)
+- Mehrspielermodus für bis zu vier Spielern an einem PC
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300336094&affiliateid=200057808)

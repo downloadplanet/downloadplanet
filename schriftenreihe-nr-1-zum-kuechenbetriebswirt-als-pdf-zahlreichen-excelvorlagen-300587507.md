@@ -1,4 +1,5 @@
-# Schriftenreihe Nr. 1 zum Kuechenbetriebswirt als PDF zahlreichen Excelvorlagen<br />Schriftenreihe Nr. 1 zum Küchenbetriebswirt
+# Schriftenreihe Nr. 1 zum Kuechenbetriebswirt als PDF zahlreichen Excelvorlagen
+Schriftenreihe Nr. 1 zum Küchenbetriebswirt
 - die Schriftenreihe Nr. 1 mit ca. 80 Seiten als PDF Datei mit zahlreichen Excelvorlagen
 
 Hier können Sie sich das Inhaltsverzeichnis der kompletten Schriftenreihe zum Küchenbetriebswirt anschauen!
@@ -44,4 +45,5 @@ Vorwort zur 1.Schriftenreihe
 20. Maßnahmen, die Ihnen zu mehr Gewinn verhelfen
 21. Aktivitätenplan
 22. Anforderungen an den Koch der Zukunft
-23. Lernfragen zu dieser Schriftenreihe 1<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300587507&affiliateid=200057808)
+23. Lernfragen zu dieser Schriftenreihe 1
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300587507&affiliateid=200057808)

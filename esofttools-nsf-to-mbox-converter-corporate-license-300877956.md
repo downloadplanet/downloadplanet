@@ -1,1 +1,4 @@
-# eSoftTools NSF to MBOX Converter - Corporate License<br />![eSoftTools NSF to MBOX Converter - Corporate License](https://mycommerce.akamaized.net/api/pimages/P300877956/BIG/300877956.GIF)<br />Advanced Lotus Notes to MBOX Migrator easily read and convert NSF to MBOX file.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300877956&affiliateid=200057808)
+# eSoftTools NSF to MBOX Converter - Corporate License
+![eSoftTools NSF to MBOX Converter - Corporate License](https://mycommerce.akamaized.net/api/pimages/P300877956/BIG/300877956.GIF)
+Advanced Lotus Notes to MBOX Migrator easily read and convert NSF to MBOX file.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300877956&affiliateid=200057808)

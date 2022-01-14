@@ -1,3 +1,6 @@
-# Accurate Printer Monitor Corporate<br />![Accurate Printer Monitor Corporate](https://mycommerce.akamaized.net/api/pimages/P300304371/BIG/300304371.GIF)<br />Accurate Printer Monitor enables companies to monitor, log and keep track of all documents printed as well as the employee who printed them respectively. The great feature that comes with our print monitoring software is that it points out the employees using the printers most often, as well as the quantity of pages they have been printing off. Accurate Printer Monitor: an all-in-one solution for printers monitoring at an acceptable price!
+# Accurate Printer Monitor Corporate
+![Accurate Printer Monitor Corporate](https://mycommerce.akamaized.net/api/pimages/P300304371/BIG/300304371.GIF)
+Accurate Printer Monitor enables companies to monitor, log and keep track of all documents printed as well as the employee who printed them respectively. The great feature that comes with our print monitoring software is that it points out the employees using the printers most often, as well as the quantity of pages they have been printing off. Accurate Printer Monitor: an all-in-one solution for printers monitoring at an acceptable price!
 
-Please, read about version features here.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300304371&affiliateid=200057808)
+Please, read about version features here.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300304371&affiliateid=200057808)

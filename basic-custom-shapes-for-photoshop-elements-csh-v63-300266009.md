@@ -1,3 +1,5 @@
-# Basic Custom shapes for Photoshop & Elements (CSH) V63<br />www.graphicxtras.com -- Basic Custom shapes Photoshop & Elements CSH V63
+# Basic Custom shapes for Photoshop & Elements (CSH) V63
+www.graphicxtras.com -- Basic Custom shapes Photoshop & Elements CSH V63
 
-230 Basic / mixed custom shapes Custom shapes Photoshop and Photoshop Elements, royalty-free use and the use is COMMERCIAL USE OK (as well as for personal use) PC + MAC OS X. Easy to use vector designs, great toolkit for Adobe (R) Photoshop (R) + Photoshop elements. More info about the products - please visit graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300266009&affiliateid=200057808)
+230 Basic / mixed custom shapes Custom shapes Photoshop and Photoshop Elements, royalty-free use and the use is COMMERCIAL USE OK (as well as for personal use) PC + MAC OS X. Easy to use vector designs, great toolkit for Adobe (R) Photoshop (R) + Photoshop elements. More info about the products - please visit graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300266009&affiliateid=200057808)

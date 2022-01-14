@@ -1,1 +1,4 @@
-# eSoftTools MSG Converter - Corporate License<br />![eSoftTools MSG Converter - Corporate License](https://mycommerce.akamaized.net/api/pimages/P301010205/BIG/301010205.PNG)<br />Export Outlook MSG files in batch! Flexibility to export MSG files into PST, EML, EMLX, HTML, MHTML, PDF, Gmail, Office365, Yahoo, Outlook.com and many more.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010205&affiliateid=200057808)
+# eSoftTools MSG Converter - Corporate License
+![eSoftTools MSG Converter - Corporate License](https://mycommerce.akamaized.net/api/pimages/P301010205/BIG/301010205.PNG)
+Export Outlook MSG files in batch! Flexibility to export MSG files into PST, EML, EMLX, HTML, MHTML, PDF, Gmail, Office365, Yahoo, Outlook.com and many more.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010205&affiliateid=200057808)

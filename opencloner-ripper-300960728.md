@@ -1,1 +1,4 @@
-# OpenCloner Ripper<br />![OpenCloner Ripper](https://mycommerce.akamaized.net/api/pimages/P300960728/BIG/300960728.JPG)<br />OpenCloner Ripper Standard Single User License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300960728&affiliateid=200057808)
+# OpenCloner Ripper
+![OpenCloner Ripper](https://mycommerce.akamaized.net/api/pimages/P300960728/BIG/300960728.JPG)
+OpenCloner Ripper Standard Single User License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300960728&affiliateid=200057808)

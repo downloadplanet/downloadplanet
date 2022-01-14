@@ -1,1 +1,4 @@
-# Acme CAD Converter Server License<br />![Acme CAD Converter Server License](https://mycommerce.akamaized.net/api/pimages/P177003/BIG/177003.PNG)<br />DWG Converter 2019 - Acme CAD Converter is a dwg format conversion software,It can convert DXF,DWF and DWG to PDF,WMF BMP, GIF,JPEG,TIFF,PNG,TGA, DXF, DWG, SVG, HPGL, CGM, EPS etc., and also supports the conversion between DXF and DWG file versions (R2.5-R2021), and it is also a free DWG viewer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=177003&affiliateid=200057808)
+# Acme CAD Converter Server License
+![Acme CAD Converter Server License](https://mycommerce.akamaized.net/api/pimages/P177003/BIG/177003.PNG)
+DWG Converter 2019 - Acme CAD Converter is a dwg format conversion software,It can convert DXF,DWF and DWG to PDF,WMF BMP, GIF,JPEG,TIFF,PNG,TGA, DXF, DWG, SVG, HPGL, CGM, EPS etc., and also supports the conversion between DXF and DWG file versions (R2.5-R2021), and it is also a free DWG viewer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=177003&affiliateid=200057808)

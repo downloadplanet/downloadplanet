@@ -1,4 +1,5 @@
-# Christmas picture tubes for Paint Shop Pro V10<br />www.graphicxtras.com -- Christmas picture Tubes for PaintShop Pro X6 54321 PSP PC Festive & Xmas & Navidad V10
+# Christmas picture tubes for Paint Shop Pro V10
+www.graphicxtras.com -- Christmas picture Tubes for PaintShop Pro X6 54321 PSP PC Festive & Xmas & Navidad V10
 
 100 Festive / snowflake / Christmas picture tubes for Corel (R) Paint Shop Pro (R) Photo - TUB format, all royalty-free.
 
@@ -14,4 +15,5 @@ The set comes with documentation and gallery.
 
 Easy to use and install, apply as required. Simply add TUB files to the picture tubes folder of Paint Shop Pro and then apply and modify via the picture tubes tool options
 
-All the tubes are by graphicxtras.com (Andrew Buckle)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300278986&affiliateid=200057808)
+All the tubes are by graphicxtras.com (Andrew Buckle)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300278986&affiliateid=200057808)

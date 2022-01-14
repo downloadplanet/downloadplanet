@@ -1,1 +1,4 @@
-# Excel Password Recovery Commercial License<br />![Excel Password Recovery Commercial License](https://mycommerce.akamaized.net/api/pimages/P300898265/BIG/300898265.PNG)<br />Recover password from Excel 2017/2016/2013/2010/2007.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300898265&affiliateid=200057808)
+# Excel Password Recovery Commercial License
+![Excel Password Recovery Commercial License](https://mycommerce.akamaized.net/api/pimages/P300898265/BIG/300898265.PNG)
+Recover password from Excel 2017/2016/2013/2010/2007.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300898265&affiliateid=200057808)

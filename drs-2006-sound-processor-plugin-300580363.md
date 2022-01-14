@@ -1,1 +1,4 @@
-# DRS 2006 Sound Processor Plugin<br />![DRS 2006 Sound Processor Plugin](https://mycommerce.akamaized.net/api/pimages/P300580363/BIG/300580363.JPG)<br />This optional Sound Processor Plugin for DRS 2006 Version 4 includes an automatic gain control (AGC), a compressor and an equalizer. A demo of this plugin is included in the DRS 2006 V4 Demo. Find out more about this fantastic "must have" plugin for all broadcasters in our "Products" section at www.radioautomation.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300580363&affiliateid=200057808)
+# DRS 2006 Sound Processor Plugin
+![DRS 2006 Sound Processor Plugin](https://mycommerce.akamaized.net/api/pimages/P300580363/BIG/300580363.JPG)
+This optional Sound Processor Plugin for DRS 2006 Version 4 includes an automatic gain control (AGC), a compressor and an equalizer. A demo of this plugin is included in the DRS 2006 V4 Demo. Find out more about this fantastic "must have" plugin for all broadcasters in our "Products" section at www.radioautomation.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300580363&affiliateid=200057808)

@@ -1,3 +1,6 @@
-# Stop Doubts 3A Subliminal Package<br />![Stop Doubts 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300588737/BIG/300588737.JPG)<br />Stop Doubt 3A Subliminal
+# Stop Doubts 3A Subliminal Package
+![Stop Doubts 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300588737/BIG/300588737.JPG)
+Stop Doubt 3A Subliminal
 
-There is not one human being who does not have any doubts. It is not only self-doubt, but doubt about any future event. Doubts are limits and obstacles which we set ourselves. We create with our thoughts and when we add doubts to a thought, we get what we doubt. When you stop doubt, you will achieve your goals with less effort and with certainty.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300588737&affiliateid=200057808)
+There is not one human being who does not have any doubts. It is not only self-doubt, but doubt about any future event. Doubts are limits and obstacles which we set ourselves. We create with our thoughts and when we add doubts to a thought, we get what we doubt. When you stop doubt, you will achieve your goals with less effort and with certainty.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300588737&affiliateid=200057808)

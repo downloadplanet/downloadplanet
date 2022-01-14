@@ -1,1 +1,3 @@
-# SysInfo EMLX Converter for MAC[Enterprise License]<br />SysInfoTools EMLX Converter for MAC<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301000036&affiliateid=200057808)
+# SysInfo EMLX Converter for MAC[Enterprise License]
+SysInfoTools EMLX Converter for MAC
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301000036&affiliateid=200057808)

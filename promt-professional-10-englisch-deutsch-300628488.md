@@ -1,4 +1,6 @@
-# PROMT Professional 10 Englisch <-> Deutsch<br />![PROMT Professional 10 Englisch <-> Deutsch](https://mycommerce.akamaized.net/api/pimages/P300628488/BIG/300628488.PNG)<br />Übersetzungssoftware für alle anspruchsvollen Anwender, die viel mit fremdsprachigen Dokumenten zu tun haben. PROMT Professional beschleunigt um bis zu 90 % die Bearbeitung der fremdsprachigen Korrespondenz und unterstützt Sie effizient bei Ihrer Übersetzungsarbeit. Höchste Übersetzungsqualität und der gewaltige Wortschatz von 1.150.000 Wörtern gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt. Mit dem Datei-Übersetzer werden große Mengen von Dateien im Stapelverfahren schnell und effizient übersetzt.
+# PROMT Professional 10 Englisch <-> Deutsch
+![PROMT Professional 10 Englisch <-> Deutsch](https://mycommerce.akamaized.net/api/pimages/P300628488/BIG/300628488.PNG)
+Übersetzungssoftware für alle anspruchsvollen Anwender, die viel mit fremdsprachigen Dokumenten zu tun haben. PROMT Professional beschleunigt um bis zu 90 % die Bearbeitung der fremdsprachigen Korrespondenz und unterstützt Sie effizient bei Ihrer Übersetzungsarbeit. Höchste Übersetzungsqualität und der gewaltige Wortschatz von 1.150.000 Wörtern gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt. Mit dem Datei-Übersetzer werden große Mengen von Dateien im Stapelverfahren schnell und effizient übersetzt.
 
 HIGHLIGHTS UND FUNKTIONEN IM ÜBERBLICK
 Ein Offline-Übersetzer Mehr Sicherheit für Ihre Privatsphäre: alle Übersetzungen erfolgen lokal auf Ihrem PC. Keine Internetverbindung erforderlich.
@@ -14,4 +16,5 @@ Verschiedene Sprachvarianten: britisches oder amerikanisches Englisch, Hochdeuts
 PROMT Backup speichert alle benutzerdefinierten Einstellungen wie die Themenvorlagen, Übersetzungsalgorithmen, Benutzerwörterbücher und Datenbanken in einem Archiv.
 Automatische Übersetzung von E-Mails in MS Outlook 2003/2007/2010/2013 (32 Bit).
 Integration in Internet Explorer (8–11 32Bit) und Mozilla Firefox (24) Nur ein Mausklick und schon wird die Seite in einer anderen Sprache dargestellt.
-Automatische Stapelübersetzung mehrerer Dateien nacheinander.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300628488&affiliateid=200057808)
+Automatische Stapelübersetzung mehrerer Dateien nacheinander.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300628488&affiliateid=200057808)

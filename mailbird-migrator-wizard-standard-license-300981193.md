@@ -1,1 +1,3 @@
-# Mailbird Migrator Wizard - Standard License<br />Convert mailboxes<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300981193&affiliateid=200057808)
+# Mailbird Migrator Wizard - Standard License
+Convert mailboxes
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300981193&affiliateid=200057808)

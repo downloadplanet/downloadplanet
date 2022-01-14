@@ -1,4 +1,6 @@
-# Zigzag Custom shapes for Photoshop & Elements (CSH) V1<br />![Zigzag Custom shapes for Photoshop & Elements (CSH) V1](https://mycommerce.akamaized.net/api/pimages/P211870/BIG/211870.PNG)<br />www.graphicxtras.com -- Zigzag Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X CSH V1
+# Zigzag Custom shapes for Photoshop & Elements (CSH) V1
+![Zigzag Custom shapes for Photoshop & Elements (CSH) V1](https://mycommerce.akamaized.net/api/pimages/P211870/BIG/211870.PNG)
+www.graphicxtras.com -- Zigzag Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X CSH V1
 
 Zigzag shapes custom shapes for Photoshop
 COMMERCIAL USE OK =================
@@ -22,4 +24,5 @@ To purchase, click add to cart or buy now - e-mail means digital download
 
 Any questions, e-mail support@graphicxtras.com - commercial use, digital downloads, royalty-free Load the custom shapes via the file open command or use the edit menu preset manager or use the custom shapes palette to load the zigzag custom shapes into Photoshop. Use the zigzag shapes via the Photoshop toolbox custom shapes tool. You can apply them as shape layers or paths or selections or fills (this is set via the control bar at the top of the application of Photoshop). Apply zillions of ways, re-color, modify the zigzag shapes, combine them, blend them into other images, export the zigzag shapes into other formats such as PNG etc. The zigzag shapes are all vectors for any size of work.
 
-The brushes are all by graphicxtras.com (Andrew Buckle) for use to create items for sale / commercial use / as well as personal use - use to create logos, textiles, templates, ceramics, fashions, leaflets, scrap kits, books, CDs, DVDs, wrapping paper, cards, posters, shoes and much more. They are all hi-impact designs to add a special touch to your work. If you have any questions, please e-mail us on support@graphicxtras.com or call us or visit our website graphicxtras.com or check out our video tutorials on youtube.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=211870&affiliateid=200057808)
+The brushes are all by graphicxtras.com (Andrew Buckle) for use to create items for sale / commercial use / as well as personal use - use to create logos, textiles, templates, ceramics, fashions, leaflets, scrap kits, books, CDs, DVDs, wrapping paper, cards, posters, shoes and much more. They are all hi-impact designs to add a special touch to your work. If you have any questions, please e-mail us on support@graphicxtras.com or call us or visit our website graphicxtras.com or check out our video tutorials on youtube.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=211870&affiliateid=200057808)

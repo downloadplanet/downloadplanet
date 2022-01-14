@@ -1,4 +1,6 @@
-# Amacsoft iPod Data Recovery for Mac<br />![Amacsoft iPod Data Recovery for Mac](https://mycommerce.akamaized.net/api/pimages/P300924629/BIG/300924629.JPG)<br />Professional yet Affordable Data Recovery Program for All iPod touch/nano/shuffle/classic Users
+# Amacsoft iPod Data Recovery for Mac
+![Amacsoft iPod Data Recovery for Mac](https://mycommerce.akamaized.net/api/pimages/P300924629/BIG/300924629.JPG)
+Professional yet Affordable Data Recovery Program for All iPod touch/nano/shuffle/classic Users
 
 Apple's iPod is warmly welcomed by all kinds of crowd, especially among music lovers. With its small size and powerful functions, you can have a neoteric way to enjoy all kinds of music, videos, etc. on your iPod devices. To make sure your pleasure music life all the time, you need this Amacsoft iPod Data Recovery for Mac as your assistant.
 
@@ -6,4 +8,5 @@ Apple's iPod is warmly welcomed by all kinds of crowd, especially among music lo
 
 * Find back your lost or deleted iPod data selectively or in a batch.
 
-* Preview what you want before recovery.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924629&affiliateid=200057808)
+* Preview what you want before recovery.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924629&affiliateid=200057808)

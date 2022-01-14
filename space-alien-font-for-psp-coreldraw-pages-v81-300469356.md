@@ -1,4 +1,5 @@
-# Space & Alien Font for PSP & & CorelDRAW & Pages V81<br />www.graphicxtras.com -- Space & Alien Font PSP & Indesign & CorelDRAW & Pages & Xpress Truetype & EPS PC & MAC OS X V81
+# Space & Alien Font for PSP & & CorelDRAW & Pages V81
+www.graphicxtras.com -- Space & Alien Font PSP & Indesign & CorelDRAW & Pages & Xpress Truetype & EPS PC & MAC OS X V81
 
 224 space themed shapes in a single font
 Many different alien / space images and designs, interstellar language, crop circles, abstract images and more
@@ -16,4 +17,5 @@ Video tutorials on fonts etc
 Use them to create posters, hats, shirts, books, posters, thumbnails, icons, packaging, adverts, cartoons, illustrations, videos, CDs, logos and many more
 Access the truetype characters via the keyboard by typing A B C D E F etc
 Distort, transform, warp, re-color, blend, tweak and much more all the designs
-Wonderful space / alien designs for all your projects<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469356&affiliateid=200057808)
+Wonderful space / alien designs for all your projects
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469356&affiliateid=200057808)

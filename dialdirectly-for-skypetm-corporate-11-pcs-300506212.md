@@ -1,3 +1,6 @@
-# DialDirectly (for SkypeTM) - Corporate (11+ PCs)<br />![DialDirectly (for SkypeTM) - Corporate (11+ PCs)](https://mycommerce.akamaized.net/api/pimages/P300506212/BIG/300506212.JPG)<br />Corporate License - unlimited number of PCs within the same company.
+# DialDirectly (for SkypeTM) - Corporate (11+ PCs)
+![DialDirectly (for SkypeTM) - Corporate (11+ PCs)](https://mycommerce.akamaized.net/api/pimages/P300506212/BIG/300506212.JPG)
+Corporate License - unlimited number of PCs within the same company.
 
-DialDirectly can dial/redial names and phone numbers directly via Skype™. Copy names and phone numbers from any application by pressing customizable hotkeys and dial them via Skype™. The last 10 numbers are available for redialling. The program can be installed and uninstalled easily. No modification of the operating system will be taken.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300506212&affiliateid=200057808)
+DialDirectly can dial/redial names and phone numbers directly via Skype™. Copy names and phone numbers from any application by pressing customizable hotkeys and dial them via Skype™. The last 10 numbers are available for redialling. The program can be installed and uninstalled easily. No modification of the operating system will be taken.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300506212&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# COM BASS Mixer Library Commercial License<br />![COM BASS Mixer Library Commercial License](https://mycommerce.akamaized.net/api/pimages/P300999609/BIG/300999609.PNG)<br />COM BASS Mixer Library is an audio file mixer COM class wrapper around BASS, BASSMix and BASSEnc, for use in Win32 and Win64 (Windows XP/Vista/7/8/10) software.
+# COM BASS Mixer Library Commercial License
+![COM BASS Mixer Library Commercial License](https://mycommerce.akamaized.net/api/pimages/P300999609/BIG/300999609.PNG)
+COM BASS Mixer Library is an audio file mixer COM class wrapper around BASS, BASSMix and BASSEnc, for use in Win32 and Win64 (Windows XP/Vista/7/8/10) software.
 
 Features:
 
@@ -9,4 +11,5 @@ Specify output file channel count, resolution and bit depth
 COM class is usable by developer environments/platforms supporting COM classes like VBScript or Delphi
 Delphi header file and VBScript tutorials included
 
-Note: If you plan using COM BASS Mixer Library in you programs, you'll also need a BASS license available from: http://www.un4seen.com/ separatelly.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300999609&affiliateid=200057808)
+Note: If you plan using COM BASS Mixer Library in you programs, you'll also need a BASS license available from: http://www.un4seen.com/ separatelly.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300999609&affiliateid=200057808)

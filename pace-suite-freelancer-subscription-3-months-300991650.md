@@ -1,4 +1,7 @@
-# PACE Suite Freelancer Subscription - 3 months<br />![PACE Suite Freelancer Subscription - 3 months](https://mycommerce.akamaized.net/api/pimages/P300991650/BIG/300991650.PNG)<br />PACE Suite is the fastest application packaging tool that enables you to create MSI, MSIX, Appx, App-V and ThinApp packages, edit them, and automate quality, safety & deployment readiness checks with the help of intelligent, step-by-step Wizards.
+# PACE Suite Freelancer Subscription - 3 months
+![PACE Suite Freelancer Subscription - 3 months](https://mycommerce.akamaized.net/api/pimages/P300991650/BIG/300991650.PNG)
+PACE Suite is the fastest application packaging tool that enables you to create MSI, MSIX, Appx, App-V and ThinApp packages, edit them, and automate quality, safety & deployment readiness checks with the help of intelligent, step-by-step Wizards.
 
 More information can be found here:
-https://pacesuite.com/features<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300991650&affiliateid=200057808)
+https://pacesuite.com/features
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300991650&affiliateid=200057808)

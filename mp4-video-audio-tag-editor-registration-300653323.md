@@ -1,4 +1,6 @@
-# MP4 Video & Audio Tag Editor Registration<br />![MP4 Video & Audio Tag Editor Registration](https://mycommerce.akamaized.net/api/pimages/P300653323/BIG/300653323.PNG)<br />MP4 Video & Audio Tag Editor is a powerful MP4 tag editor for MP4 video and audio files.
+# MP4 Video & Audio Tag Editor Registration
+![MP4 Video & Audio Tag Editor Registration](https://mycommerce.akamaized.net/api/pimages/P300653323/BIG/300653323.PNG)
+MP4 Video & Audio Tag Editor is a powerful MP4 tag editor for MP4 video and audio files.
 
 Features:
 
@@ -19,4 +21,5 @@ Registration modes:
 Registration: For home use.
 Commercial Registration: For commercial use, using MP4 Video & Audio Tag Editor for commercial purposes inside a commercial company (for money making use).
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300653323&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300653323&affiliateid=200057808)

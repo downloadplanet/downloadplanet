@@ -1,4 +1,6 @@
-# AnyBizSoft PDF Editor for Mac<br />![AnyBizSoft PDF Editor for Mac](https://mycommerce.akamaized.net/api/pimages/P300948009/BIG/300948009.PNG)<br />AnyBizSoft PDF Editor for Mac is an application that helps you view, edit, annotate and convert existing PDF documents on Mac OS X. We have been working hard on this project since we released the first product of our Mac family. And we will continually making our products better.
+# AnyBizSoft PDF Editor for Mac
+![AnyBizSoft PDF Editor for Mac](https://mycommerce.akamaized.net/api/pimages/P300948009/BIG/300948009.PNG)
+AnyBizSoft PDF Editor for Mac is an application that helps you view, edit, annotate and convert existing PDF documents on Mac OS X. We have been working hard on this project since we released the first product of our Mac family. And we will continually making our products better.
 
 Key Features:
 Edit PDF Text
@@ -12,4 +14,5 @@ Insert Images
 • Supported image formats: JPEG, PNG, TIF, and BMP Convert PDF to Word
 • Convert PDF files to Microsoft Word documents
 • Preserve text, images, tables, columns, etc. after conversion
-• Support Microsoft Word for Mac 2008/2011<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948009&affiliateid=200057808)
+• Support Microsoft Word for Mac 2008/2011
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948009&affiliateid=200057808)

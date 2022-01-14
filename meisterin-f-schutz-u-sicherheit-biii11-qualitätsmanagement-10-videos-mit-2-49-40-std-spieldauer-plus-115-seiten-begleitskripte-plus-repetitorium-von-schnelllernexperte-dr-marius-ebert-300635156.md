@@ -1,1 +1,2 @@
-# Meister/in f. Schutz u. Sicherheit, B.III.11. Qualitätsmanagement, 10 Videos mit 2 : 49 : 40 Std. Spieldauer plus 115 Seiten Begleitskripte plus Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300635156&affiliateid=200057808)
+# Meister/in f. Schutz u. Sicherheit, B.III.11. Qualitätsmanagement, 10 Videos mit 2 : 49 : 40 Std. Spieldauer plus 115 Seiten Begleitskripte plus Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300635156&affiliateid=200057808)

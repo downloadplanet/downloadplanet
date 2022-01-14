@@ -1,5 +1,8 @@
-# Christmas Crackers Truetype fonts / EPS Shapes VS8<br />![Christmas Crackers Truetype fonts / EPS Shapes VS8](https://mycommerce.akamaized.net/api/pimages/P300398993/BIG/300398993.PNG)<br />www.graphicxtras.com -- Christmas Crackers font Microsoft Word & PSP & Apple Pages & Microsoft Word Truetype & EPS Xmas & Festive VS8
+# Christmas Crackers Truetype fonts / EPS Shapes VS8
+![Christmas Crackers Truetype fonts / EPS Shapes VS8](https://mycommerce.akamaized.net/api/pimages/P300398993/BIG/300398993.PNG)
+www.graphicxtras.com -- Christmas Crackers font Microsoft Word & PSP & Apple Pages & Microsoft Word Truetype & EPS Xmas & Festive VS8
 
 100 Themed designs for Photoshop (R), Paint Shop Pro, Illustrator (R), Fireworks (R), CorelDRAW (R) Xpress (R) Xara (R) Painter (R) Freehand (R) and others all stored in a single true type font. Vector shapes, resolution-free, use for any size of document. Stored in TTF format. PC and MAC OS X. All the designs are License: Commercial use (and personal) - create items for sale etc, use to create 1000s and 1000s of designs for sale such as parts of logos, CD covers, books, packaging, scrapbooking designs and more, all royalty-free, all the designs are by shapes-brushes.com (part of graphicxtras.com) Andrew Buckle. Easy to install, right click the design to display the font installer or the font book application or install via the control panel (depends on the OS). Comes with gallery and links to our comprehensive documentation. Many different designs are included in the set, manipulate the designs in millions of ways. Adobe and Photoshop and Illustrator are registered trademarks of Adobe Systems Incorporated. Corel and Paint Shop Pro and CorelDRAW and Photo-Paint and Painter are registered trademarks of Corel Incorporated
   For more information about the product: www.graphicxtras.com
-Manual<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300398993&affiliateid=200057808)
+Manual
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300398993&affiliateid=200057808)

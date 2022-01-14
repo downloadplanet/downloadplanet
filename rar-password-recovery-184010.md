@@ -1,1 +1,3 @@
-# RAR Password Recovery<br />RAR Password Recovery is a powerful tool to recover lost (forgotten) passwords for a RAR/WinRAR (2.xx and 3.xx) archives. The program supports the "brute-force" attack, dictionary-based attack and dramatically fastest "Booost-Up" attack. The program is able to resume the previous interrupted attack.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=184010&affiliateid=200057808)
+# RAR Password Recovery
+RAR Password Recovery is a powerful tool to recover lost (forgotten) passwords for a RAR/WinRAR (2.xx and 3.xx) archives. The program supports the "brute-force" attack, dictionary-based attack and dramatically fastest "Booost-Up" attack. The program is able to resume the previous interrupted attack.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=184010&affiliateid=200057808)

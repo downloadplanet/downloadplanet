@@ -1,6 +1,9 @@
-# Magic Denoiser<br />![Magic Denoiser](https://mycommerce.akamaized.net/api/pimages/P300183008/BIG/300183008.JPG)<br />Magic Denoiser
+# Magic Denoiser
+![Magic Denoiser](https://mycommerce.akamaized.net/api/pimages/P300183008/BIG/300183008.JPG)
+Magic Denoiser
 Amazing image denoising Photoshop-compatible plug-in designed by ImageSkill Software that has a simple and intuitive user interface with only a few controls and adjustments. It is very fast and allows a user to get dramatically improved the look of images without blurring the edges and fine details. Plug-in produces excellent quality results just removing the noise preventing image features unchanged.
 It is indispensable in the case of low size of digital camera sensor, high ISO setting and long exposures. Magic Denoiser offers a user a possibility to select a relevant noise pattern from an image or load relevant preset from plug-in Presets settings. The user can visually control the chosen noise pattern or preset looking at small preview window on the button “Select noise pattern”. Any new selected noise pattern can be easily saved as new preset. The plug-in is very useful for denoising of a series of image shots, especially when the fixed ISO camera setting and exposure time produced nearly the same noise appearance in each photo.
 Magic Denoiser processes RGB and Grayscale images with 8 or 16/bits channel.
 Plug-in has simple install and uninstall procedures and automatically detects suitable graphics hosts. More information about our products you can find on ImageSkill site
-There is a Windows version only, NO Mac vesrion.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300183008&affiliateid=200057808)
+There is a Windows version only, NO Mac vesrion.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300183008&affiliateid=200057808)

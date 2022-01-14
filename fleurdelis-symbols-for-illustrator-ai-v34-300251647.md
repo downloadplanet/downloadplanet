@@ -1,4 +1,5 @@
-# Fleur-de-lis symbols for Illustrator (AI) V34<br />www.graphicxtras.com -- Embellish Symbols for Adobe Illustrator Creative Cloud Swirls & Flourish Shapes V34
+# Fleur-de-lis symbols for Illustrator (AI) V34
+www.graphicxtras.com -- Embellish Symbols for Adobe Illustrator Creative Cloud Swirls & Flourish Shapes V34
 
 150 Fleur-de-lis embellishment emblem symbols / shapes for Adobe Illustrator
 Many different designs including basic and complex designs, emboss designs, heraldic symbols, background designs, multiple designs, drop shadow designs and more
@@ -11,4 +12,5 @@ To install in Illustrator, simply place the files in the symbols folder and acce
 Symbols are resolution free, use to any size
 Videos about Illustrator symbols etc
 Vectors for any size of document
-Use them also with the Creative cloud libraries<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300251647&affiliateid=200057808)
+Use them also with the Creative cloud libraries
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300251647&affiliateid=200057808)

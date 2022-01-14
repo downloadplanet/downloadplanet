@@ -1,1 +1,3 @@
-# Coolmuster Mobile Transfer for Mac - Lifetime License(2-5PCs)<br />![Coolmuster Mobile Transfer for Mac - Lifetime License(2-5PCs)](https://mycommerce.akamaized.net/api/pimages/P300924909/BIG/300924909.PNG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924909&affiliateid=200057808)
+# Coolmuster Mobile Transfer for Mac - Lifetime License(2-5PCs)
+![Coolmuster Mobile Transfer for Mac - Lifetime License(2-5PCs)](https://mycommerce.akamaized.net/api/pimages/P300924909/BIG/300924909.PNG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924909&affiliateid=200057808)

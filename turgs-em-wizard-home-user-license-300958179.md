@@ -1,1 +1,3 @@
-# Turgs eM Wizard - Home User License<br />Convert Email Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300958179&affiliateid=200057808)
+# Turgs eM Wizard - Home User License
+Convert Email Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300958179&affiliateid=200057808)

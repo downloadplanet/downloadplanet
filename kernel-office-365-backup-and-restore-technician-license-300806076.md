@@ -1,1 +1,3 @@
-# Kernel Office 365 Backup and Restore ( Technician License )<br />![Kernel Office 365 Backup and Restore ( Technician License )](https://mycommerce.akamaized.net/api/pimages/P300806076/BIG/300806076.PNG)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300806076&affiliateid=200057808)
+# Kernel Office 365 Backup and Restore ( Technician License )
+![Kernel Office 365 Backup and Restore ( Technician License )](https://mycommerce.akamaized.net/api/pimages/P300806076/BIG/300806076.PNG)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300806076&affiliateid=200057808)

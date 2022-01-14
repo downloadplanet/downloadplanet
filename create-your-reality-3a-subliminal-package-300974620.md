@@ -1,1 +1,4 @@
-# Create Your Reality 3A Subliminal Package<br />![Create Your Reality 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300974620/BIG/300974620.PNG)<br />The Create of Your Reality 3A Subliminal will help you to create your reality according to your ideas and to perceive your wishes. Listen to this subliminal twice daily for several weeks.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300974620&affiliateid=200057808)
+# Create Your Reality 3A Subliminal Package
+![Create Your Reality 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300974620/BIG/300974620.PNG)
+The Create of Your Reality 3A Subliminal will help you to create your reality according to your ideas and to perceive your wishes. Listen to this subliminal twice daily for several weeks.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300974620&affiliateid=200057808)

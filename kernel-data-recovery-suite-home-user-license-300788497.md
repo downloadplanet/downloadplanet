@@ -1,1 +1,2 @@
-# Kernel Data Recovery Suite - Home User License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300788497&affiliateid=200057808)
+# Kernel Data Recovery Suite - Home User License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300788497&affiliateid=200057808)

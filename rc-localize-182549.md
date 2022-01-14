@@ -1,4 +1,6 @@
-# RC Localize<br />![RC Localize](https://mycommerce.akamaized.net/api/pimages/P182549/BIG/182549.JPG)<br />Overview
+# RC Localize
+![RC Localize](https://mycommerce.akamaized.net/api/pimages/P182549/BIG/182549.JPG)
+Overview
 List of features
 > Overview
 RC Localize is a tool, which will help you to localize your Windows resource files (MSDEV RC resources files). Localize your application really easily: select the resource file, add the languages in which you want localize your application and you are ready to start the translation. The RC Localize integrated environment simplifies greatly the localization for all the text, which are in your resources. For each item, you clearly see the text in your native language and the translations in each language you added to the resource.
@@ -25,4 +27,5 @@ Active edited language selection
 Search for items which have not been translated or verified
 Search/replace text feature
 Cut/paste
-Undo<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=182549&affiliateid=200057808)
+Undo
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=182549&affiliateid=200057808)

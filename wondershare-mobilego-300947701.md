@@ -1,4 +1,6 @@
-# Wondershare MobileGo<br />![Wondershare MobileGo](https://mycommerce.akamaized.net/api/pimages/P300947701/BIG/300947701.PNG)<br />It has all the features included in the free version and provides a Better solution on managing media files, contacts, etc. on PC and transfer them all to your mobile phone.
+# Wondershare MobileGo
+![Wondershare MobileGo](https://mycommerce.akamaized.net/api/pimages/P300947701/BIG/300947701.PNG)
+It has all the features included in the free version and provides a Better solution on managing media files, contacts, etc. on PC and transfer them all to your mobile phone.
 
 Enhanced features for:
 Video Fans-Convert video/audio to Android formats to fit your device.
@@ -16,4 +18,5 @@ With the Pro version, you can effortlessly import your iTunes music playlist to 
 . 3.Import/Export Contacts from/to Outlook/Windows Mail.
 Want to transfer your phone contacts to Outlook and Windows Mail or vice versa? With MobileGo for Android Pro, you can easily import and export contacts to/from Outlook 2003, Outlook 2007, Outlook 2010 and Windows Mail/Windows Address Book.
 
-.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947701&affiliateid=200057808)
+.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947701&affiliateid=200057808)

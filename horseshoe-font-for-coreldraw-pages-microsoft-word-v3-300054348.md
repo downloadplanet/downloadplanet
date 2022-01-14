@@ -1,4 +1,5 @@
-# Horseshoe font for CorelDRAW & Pages & Microsoft Word V3<br />www.graphicxtras.com -- Horseshoe font CorelDRAW & Pages & Microsoft Word & PSP Truetype & EPS PC & MAC OS X Shapes V3
+# Horseshoe font for CorelDRAW & Pages & Microsoft Word V3
+www.graphicxtras.com -- Horseshoe font CorelDRAW & Pages & Microsoft Word & PSP Truetype & EPS PC & MAC OS X Shapes V3
 
 Horseshoe and lucky and arch designs: TTF (true type font set) + EPS (vector shape set)
 Includes 150 Horseshoe shapes in TTF and 800+ EPS shapes (includes the TTF shapes as well as many variants)
@@ -15,4 +16,5 @@ PC and MAC OS X
 Access them as you would with any font such as Tahoma, Verdana etc
 Open or place or import EPS files via the place command
 For more info about the horseshoe fonts / EPS artworks - http://www.graphicxtras.com
-Mail any questions to support at graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300054348&affiliateid=200057808)
+Mail any questions to support at graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300054348&affiliateid=200057808)

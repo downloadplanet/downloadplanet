@@ -1,1 +1,3 @@
-# GpsTools Standard .NET<br />Add GPS support to your Visual Studio application.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=186291&affiliateid=200057808)
+# GpsTools Standard .NET
+Add GPS support to your Visual Studio application.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=186291&affiliateid=200057808)

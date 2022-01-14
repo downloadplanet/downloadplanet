@@ -1,1 +1,3 @@
-# Ajax Uploader Source Code License<br />The Source code license includes the full PHP and JavaScript code of the control. It includes all of the benefits of the Enterprise license and Redistributable license and is best for companies that plan to modify the control or simply wish to have access to the code for security reasons.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236943&affiliateid=200057808)
+# Ajax Uploader Source Code License
+The Source code license includes the full PHP and JavaScript code of the control. It includes all of the benefits of the Enterprise license and Redistributable license and is best for companies that plan to modify the control or simply wish to have access to the code for security reasons.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236943&affiliateid=200057808)

@@ -1,6 +1,9 @@
-# Coolmuster Android Assistant for Mac - Lifetime License(11-15PCs)<br />![Coolmuster Android Assistant for Mac - Lifetime License(11-15PCs)](https://mycommerce.akamaized.net/api/pimages/P300882123/BIG/300882123.PNG)<br />Manage Android Smartphones and Tablets on Mac with No Sweat!
+# Coolmuster Android Assistant for Mac - Lifetime License(11-15PCs)
+![Coolmuster Android Assistant for Mac - Lifetime License(11-15PCs)](https://mycommerce.akamaized.net/api/pimages/P300882123/BIG/300882123.PNG)
+Manage Android Smartphones and Tablets on Mac with No Sweat!
 This is the Mac version of Android Assistant, which is an indispensable handheld manager for Android mobile device user who is keen on downloading music and videos, sending text messages via Android mobile phone and an app enthusiast:
 One-click to backup Android data to Mac completely and quickly with just a small effort.
 Download, install, uninstall and backup apps conveniently.
 Add, delete, backup and edit contacts on Mac computer.
-Send & reply text messages directly from your Mac.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300882123&affiliateid=200057808)
+Send & reply text messages directly from your Mac.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300882123&affiliateid=200057808)

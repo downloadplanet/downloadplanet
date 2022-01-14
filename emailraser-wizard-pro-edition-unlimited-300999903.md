@@ -1,1 +1,3 @@
-# EmailRaser Wizard - Pro Edition (Unlimited)<br />All-in-One Email Backup Software in One Package<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300999903&affiliateid=200057808)
+# EmailRaser Wizard - Pro Edition (Unlimited)
+All-in-One Email Backup Software in One Package
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300999903&affiliateid=200057808)

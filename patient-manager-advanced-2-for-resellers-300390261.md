@@ -1,1 +1,4 @@
-# Patient Manager Advanced 2 for Resellers<br />![Patient Manager Advanced 2 for Resellers](https://mycommerce.akamaized.net/api/pimages/P300390261/BIG/300390261.PNG)<br />Patient Manager Advanced is a High Quality Medical Billing Software for Medical Teams that includes Electronic Medical Records (EMR), Patient Management and Medical Schedule capabilities.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300390261&affiliateid=200057808)
+# Patient Manager Advanced 2 for Resellers
+![Patient Manager Advanced 2 for Resellers](https://mycommerce.akamaized.net/api/pimages/P300390261/BIG/300390261.PNG)
+Patient Manager Advanced is a High Quality Medical Billing Software for Medical Teams that includes Electronic Medical Records (EMR), Patient Management and Medical Schedule capabilities.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300390261&affiliateid=200057808)

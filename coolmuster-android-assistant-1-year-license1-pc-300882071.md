@@ -1,4 +1,6 @@
-# Coolmuster Android Assistant - 1 Year License(1 PC)<br />![Coolmuster Android Assistant - 1 Year License(1 PC)](https://mycommerce.akamaized.net/api/pimages/P300882071/BIG/300882071.PNG)<br />Better Manage Android Data in One Place on Windows Computer!
+# Coolmuster Android Assistant - 1 Year License(1 PC)
+![Coolmuster Android Assistant - 1 Year License(1 PC)](https://mycommerce.akamaized.net/api/pimages/P300882071/BIG/300882071.PNG)
+Better Manage Android Data in One Place on Windows Computer!
 
 As one-stop Android managing software, Coolmuster Android Assistant is fully capable of dealing with Android media, contacts, SMS, apps, etc. in one place on your PC! It features all the functions one may require for the management on Android devices like:
 
@@ -8,4 +10,5 @@ As one-stop Android managing software, Coolmuster Android Assistant is fully cap
 
 * Add, delete, unduplicate and edit contacts on PC.
 
-* Send & reply text messages directly on your Computer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300882071&affiliateid=200057808)
+* Send & reply text messages directly on your Computer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300882071&affiliateid=200057808)

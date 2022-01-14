@@ -1,3 +1,5 @@
-# Polygon shapes for Photoshop & Elements & PSP & Xara (PDF) V77<br />www.graphicxtras.com -- Polygon Vector Shapes PDF Photoshop & Elements & PSP & Xara V77
+# Polygon shapes for Photoshop & Elements & PSP & Xara (PDF) V77
+www.graphicxtras.com -- Polygon Vector Shapes PDF Photoshop & Elements & PSP & Xara V77
 
-130 Polygon vector shapes in PDF format for use in Photoshop, Indesign, PaintShop Pro Xara GIMP and many others. license commercial use, royalty-free, all by graphicxtras.com. You can also convert the polygon shape designs into brushes, patterns, shapes, image layers and more. Colorful designs for all your projects By Andrew Buckle<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300609119&affiliateid=200057808)
+130 Polygon vector shapes in PDF format for use in Photoshop, Indesign, PaintShop Pro Xara GIMP and many others. license commercial use, royalty-free, all by graphicxtras.com. You can also convert the polygon shape designs into brushes, patterns, shapes, image layers and more. Colorful designs for all your projects By Andrew Buckle
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300609119&affiliateid=200057808)

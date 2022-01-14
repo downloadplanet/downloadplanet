@@ -1,1 +1,3 @@
-# MDB Password Recovery (for personal use)<br />MDB Password Recovery is a program that recovers lost or forgotten passwords for Microsoft Access databases. All versions of Microsoft Access are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300132451&affiliateid=200057808)
+# MDB Password Recovery (for personal use)
+MDB Password Recovery is a program that recovers lost or forgotten passwords for Microsoft Access databases. All versions of Microsoft Access are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300132451&affiliateid=200057808)

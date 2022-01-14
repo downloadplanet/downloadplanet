@@ -1,1 +1,3 @@
-# meineZIELE Team und Projekte<br />meineZIELE Team und Projekte in German<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300995914&affiliateid=200057808)
+# meineZIELE Team und Projekte
+meineZIELE Team und Projekte in German
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300995914&affiliateid=200057808)

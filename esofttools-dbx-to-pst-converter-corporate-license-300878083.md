@@ -1,1 +1,3 @@
-# eSoftTools DBX to PST Converter - Corporate License<br />Advance Outlook Express DBX Converter tool to convert DBX items to MS Outlook PST file format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300878083&affiliateid=200057808)
+# eSoftTools DBX to PST Converter - Corporate License
+Advance Outlook Express DBX Converter tool to convert DBX items to MS Outlook PST file format.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300878083&affiliateid=200057808)

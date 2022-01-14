@@ -1,4 +1,5 @@
-# Beratungspaket Kalkulation von VA, Banketten, Aktionen und all inklusive Feiern 1 Tag Beratung<br />Folgende Themen beinhaltet der Beratungstag:
+# Beratungspaket Kalkulation von VA, Banketten, Aktionen und all inklusive Feiern 1 Tag Beratung
+Folgende Themen beinhaltet der Beratungstag:
 
 Grundlagen der Kalkulation im F&B
 Berechnung des Gemeinkostenzuschlagsatzes, Break-Even-Point Formeln und der Kalkulationsfaktoren
@@ -42,4 +43,5 @@ Excelprogramm Kalkulation von Veranstaltungen, Banketten und All-Inklusive-Feier
 Beispiel Artikelliste ca. 1.500 Artikel
 Konzept Kalkulation von Veranstaltungen
 Beschreibung als PDF und Videoanleitung für das Excelprogramm
-Videoaufzeichnung vom Webinar Kalkulation von VA-Banketten-All-Inklusive-Feiern<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585659&affiliateid=200057808)
+Videoaufzeichnung vom Webinar Kalkulation von VA-Banketten-All-Inklusive-Feiern
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585659&affiliateid=200057808)

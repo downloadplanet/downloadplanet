@@ -1,1 +1,3 @@
-# Password Recovery Tools Special<br />Password Recovery Tools is an all-in-one password recovery software, which recover password for Windows, Excel, Word, Access, PowerPoint, Outlook, RAR/WinRAR, ZIP/WinZIP, PDF etc. Over 70+ types of passwords can be recovered instantly.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300900313&affiliateid=200057808)
+# Password Recovery Tools Special
+Password Recovery Tools is an all-in-one password recovery software, which recover password for Windows, Excel, Word, Access, PowerPoint, Outlook, RAR/WinRAR, ZIP/WinZIP, PDF etc. Over 70+ types of passwords can be recovered instantly.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300900313&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# SYSINFO OUTLOOK MANAGEMENT TOOLKIT<br />SYSINFO OUTLOOK MANAGEMENT TOOLKIT<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300860574&affiliateid=200057808)
+# SYSINFO OUTLOOK MANAGEMENT TOOLKIT
+SYSINFO OUTLOOK MANAGEMENT TOOLKIT
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300860574&affiliateid=200057808)

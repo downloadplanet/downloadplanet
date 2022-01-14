@@ -1,4 +1,5 @@
-# 3D Sphere picture tubes Globes for Paint Shop Pro (TUB) V5<br />www.graphicxtras.com -- 3D Sphere picture tubes Globes Paint Shop Pro PC PSP TUB V5
+# 3D Sphere picture tubes Globes for Paint Shop Pro (TUB) V5
+www.graphicxtras.com -- 3D Sphere picture tubes Globes Paint Shop Pro PC PSP TUB V5
 
 160 Sphere Picture tubes for Corel (R) Paint Shop Pro (R) Photo (+7)
 Colorful selection of mixed 3D / spheres, single color designs, different lighting and material, harsh tube lighting and many more sphere designs for Corel (R) Paint Shop Pro (R)
@@ -20,4 +21,5 @@ MENU:
 
 Please mail me with any questions
 
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300173699&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300173699&affiliateid=200057808)

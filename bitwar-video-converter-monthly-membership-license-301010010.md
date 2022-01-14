@@ -1,1 +1,4 @@
-# Bitwar Video Converter [Monthly Membership License]<br />![Bitwar Video Converter [Monthly Membership License]](https://mycommerce.akamaized.net/api/pimages/P301010010/BIG/301010010.PNG)<br />One click convert Video files to AVI, MP4, MKV, FLV, WMV, MOV, GIF<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010010&affiliateid=200057808)
+# Bitwar Video Converter [Monthly Membership License]
+![Bitwar Video Converter [Monthly Membership License]](https://mycommerce.akamaized.net/api/pimages/P301010010/BIG/301010010.PNG)
+One click convert Video files to AVI, MP4, MKV, FLV, WMV, MOV, GIF
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010010&affiliateid=200057808)

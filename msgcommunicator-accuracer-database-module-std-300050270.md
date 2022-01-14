@@ -1,4 +1,6 @@
-# MsgCommunicator Accuracer Database Module Std<br />![MsgCommunicator Accuracer Database Module Std](https://mycommerce.akamaized.net/api/pimages/P300050270/BIG/300050270.GIF)<br />Delphi / C++Builder messenger SDK for the easy creation of custom client/server instant messaging applications.
+# MsgCommunicator Accuracer Database Module Std
+![MsgCommunicator Accuracer Database Module Std](https://mycommerce.akamaized.net/api/pimages/P300050270/BIG/300050270.GIF)
+Delphi / C++Builder messenger SDK for the easy creation of custom client/server instant messaging applications.
 Client and Server visual components
 Flexible custom messages: String, Stream and binary buffer
 Messenger functionality to work with ContactList, UserInfo, Users Database, etc.
@@ -9,4 +11,5 @@ Network data compression: 3 algorithms with 9 modes for each
 Native VCL, does not require any DLLs
 Client and server demo, Reference Guide
 Royalty free, unlimited number of connections
-Full source code available<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300050270&affiliateid=200057808)
+Full source code available
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300050270&affiliateid=200057808)

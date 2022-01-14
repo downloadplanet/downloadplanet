@@ -1,1 +1,4 @@
-# Vector Weather Icons<br />![Vector Weather Icons](https://mycommerce.akamaized.net/api/pimages/P300508443/BIG/300508443.GIF)<br />The Vector_Files Icon Set contains 82 icons with weather symbols. The images are made available in the AI (Version CS5) and SVG vector formats. The grid formats ICO, PNG, PSD, BMP und GIF are likewise included. The images in PNG, BMP and GIF formats are presented in sizes 16*16, 24*24, 32*32, 48*48, 64*64, 128*128 und 256*256.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300508443&affiliateid=200057808)
+# Vector Weather Icons
+![Vector Weather Icons](https://mycommerce.akamaized.net/api/pimages/P300508443/BIG/300508443.GIF)
+The Vector_Files Icon Set contains 82 icons with weather symbols. The images are made available in the AI (Version CS5) and SVG vector formats. The grid formats ICO, PNG, PSD, BMP und GIF are likewise included. The images in PNG, BMP and GIF formats are presented in sizes 16*16, 24*24, 32*32, 48*48, 64*64, 128*128 und 256*256.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300508443&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# iStonsoft CHM to HTML Converter<br />![iStonsoft CHM to HTML Converter](https://mycommerce.akamaized.net/api/pimages/P300917092/BIG/300917092.PNG)<br />iStonsoft CHM to HTML Converter - The Fast, Easy and Accurate Way to Transform CHM to HTML.
+# iStonsoft CHM to HTML Converter
+![iStonsoft CHM to HTML Converter](https://mycommerce.akamaized.net/api/pimages/P300917092/BIG/300917092.PNG)
+iStonsoft CHM to HTML Converter - The Fast, Easy and Accurate Way to Transform CHM to HTML.
 
 iStonsoft CHM to HTML Converter is a program allowing you to convert your CHM files or e-books to HTML easily.
 
@@ -19,4 +21,5 @@ Easy to use, converts help file to webpage fast
 
 - HTML format is beneficial for being scratched by Internet browsers, like Google (Googlebot) and Yahoo (Yahoo!Slurp), so as to make them searchable by users.
 
-- Once you convert your files to HTML format, you can view them on IE, Firefox immediately.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917092&affiliateid=200057808)
+- Once you convert your files to HTML format, you can view them on IE, Firefox immediately.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917092&affiliateid=200057808)

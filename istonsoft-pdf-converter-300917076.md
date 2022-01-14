@@ -1,4 +1,6 @@
-# iStonsoft PDF Converter<br />![iStonsoft PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300917076/BIG/300917076.PNG)<br />iStonsoft PDF Converter is a useful PDF management software, which lets you convert PDF files to most popular document formats with high quality. With it, you can Convert normal PDF to Word, ePub, HTML, Image and Text with great preservation.
+# iStonsoft PDF Converter
+![iStonsoft PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300917076/BIG/300917076.PNG)
+iStonsoft PDF Converter is a useful PDF management software, which lets you convert PDF files to most popular document formats with high quality. With it, you can Convert normal PDF to Word, ePub, HTML, Image and Text with great preservation.
 
 iStonsoft PDF Converte is still easy-to-use due to well-thought interface. And the conversion speed and quality is satisfying.
 
@@ -15,4 +17,5 @@ Flexible conversion settings
 You can flexibly convert selected pages or page ranges in the PDF files to Word document, Image format, ePub eBooks, HTML pages or Text format.
 
 Simple to Use
-Convert PDF files with 3 simple steps.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917076&affiliateid=200057808)
+Convert PDF files with 3 simple steps.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917076&affiliateid=200057808)

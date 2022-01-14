@@ -1,1 +1,3 @@
-# JPEG Recovery Pro<br />Easy Photo Recovery provides you a handy tool to recover deleted photos from memory cards. The simple interface yet dedicated recovery logic helps you to recover lost images from digital media like Compact Flash, SD, MMC, memory stick, etc from any manufacturer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300091300&affiliateid=200057808)
+# JPEG Recovery Pro
+Easy Photo Recovery provides you a handy tool to recover deleted photos from memory cards. The simple interface yet dedicated recovery logic helps you to recover lost images from digital media like Compact Flash, SD, MMC, memory stick, etc from any manufacturer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300091300&affiliateid=200057808)

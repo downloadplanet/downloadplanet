@@ -1,4 +1,6 @@
-# 3delite's VSTi Synth Plugin Commercial Registration<br />![3delite's VSTi Synth Plugin Commercial Registration](https://mycommerce.akamaized.net/api/pimages/P300785843/BIG/300785843.PNG)<br />3delite's VSTi Synth is a modular VST synthesizer instrument plugin in Win32 and Win64 version.
+# 3delite's VSTi Synth Plugin Commercial Registration
+![3delite's VSTi Synth Plugin Commercial Registration](https://mycommerce.akamaized.net/api/pimages/P300785843/BIG/300785843.PNG)
+3delite's VSTi Synth is a modular VST synthesizer instrument plugin in Win32 and Win64 version.
 Link virtually unlimited oscillator and audio file sources through DSPs and mixers to generate various voices.
 
 Features:
@@ -18,4 +20,5 @@ Registration modes:
 Registration: For home use.
 Commercial Registration: For commercial use, using 3delite's VSTi Synth Plugin for commercial purposes inside a commercial company (for money making use).
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300785843&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300785843&affiliateid=200057808)

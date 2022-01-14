@@ -1,4 +1,6 @@
-# Amacsoft iPad to Mac Transfer<br />![Amacsoft iPad to Mac Transfer](https://mycommerce.akamaized.net/api/pimages/P300924560/BIG/300924560.PNG)<br />Amacsoft iPad to Mac Transfer can allow you to transfer Music, Movies, TV Shows, Podcast, Audiobook, eBooks, Photo, Camera Roll, Ringtone, Playlist, Vioce Memos from iPad to Mac.
+# Amacsoft iPad to Mac Transfer
+![Amacsoft iPad to Mac Transfer](https://mycommerce.akamaized.net/api/pimages/P300924560/BIG/300924560.PNG)
+Amacsoft iPad to Mac Transfer can allow you to transfer Music, Movies, TV Shows, Podcast, Audiobook, eBooks, Photo, Camera Roll, Ringtone, Playlist, Vioce Memos from iPad to Mac.
 
 When you lost the iTunes contents or when you want to backup your iPad collection on Mac in case files are damaged or crashed, Amacsoft iPad to Mac Transfer is an ideal solution for you to backup your iPad, iPhone or iPod files.
 
@@ -15,4 +17,5 @@ Super fast transfer speed
 This transfer will be finished in a short while. The results of the transfer will be shown in the bottom of the screen.
 
 Support iPad/iPod/iPhone
-This iPad Transfer for Mac supports iPod touch, iPhone, iPhone 4, iPhone 4S, iPad, and iPad 2, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924560&affiliateid=200057808)
+This iPad Transfer for Mac supports iPod touch, iPhone, iPhone 4, iPhone 4S, iPad, and iPad 2, etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924560&affiliateid=200057808)

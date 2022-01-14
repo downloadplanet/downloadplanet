@@ -1,1 +1,4 @@
-# Shining Mac MXF Converter<br />![Shining Mac MXF Converter](https://mycommerce.akamaized.net/api/pimages/P300865200/BIG/300865200.PNG)<br />Convert MXF files to various video/audio formats with amazing video & sound output quality on Mac. Convert MXF compatible with portable devices and editing software.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865200&affiliateid=200057808)
+# Shining Mac MXF Converter
+![Shining Mac MXF Converter](https://mycommerce.akamaized.net/api/pimages/P300865200/BIG/300865200.PNG)
+Convert MXF files to various video/audio formats with amazing video & sound output quality on Mac. Convert MXF compatible with portable devices and editing software.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865200&affiliateid=200057808)

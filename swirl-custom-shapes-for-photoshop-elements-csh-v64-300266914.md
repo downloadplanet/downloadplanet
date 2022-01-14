@@ -1,3 +1,5 @@
-# Swirl Custom shapes for Photoshop & Elements (CSH) V64<br />www.graphicxtras.com -- Embellish Custom shapes Flourish & Swirls Photoshop & Elements V64
+# Swirl Custom shapes for Photoshop & Elements (CSH) V64
+www.graphicxtras.com -- Embellish Custom shapes Flourish & Swirls Photoshop & Elements V64
 
-150 Embellishment and scroll and flourish Custom shapes Photoshop and Photoshop Elements, royalty-free use and the use is COMMERCIAL USE OK (as well as for personal use) PC + MAC OS X. Easy to use vector designs, great toolkit for Adobe (R) Photoshop (R) + Photoshop elements. More info about the products - please visit graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300266914&affiliateid=200057808)
+150 Embellishment and scroll and flourish Custom shapes Photoshop and Photoshop Elements, royalty-free use and the use is COMMERCIAL USE OK (as well as for personal use) PC + MAC OS X. Easy to use vector designs, great toolkit for Adobe (R) Photoshop (R) + Photoshop elements. More info about the products - please visit graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300266914&affiliateid=200057808)

@@ -1,7 +1,9 @@
-# MITCalc Thermal Properties of Materials<br />This workbook contains information defining the effect of temperature on some physical and mechanical properties of materials used in the engineering industry. Using this tool the following tasks can be solved:
+# MITCalc Thermal Properties of Materials
+This workbook contains information defining the effect of temperature on some physical and mechanical properties of materials used in the engineering industry. Using this tool the following tasks can be solved:
 - Calculation of the linear coefficient of thermal expansion and elongation of the component for the given heating process.
 - Elongation of a group of components made of various materials arranged into a linear chain.
 - Calculation of the modulus of elasticity for the given temperature.
 - The database contains approximately 700 metallic materials used in mechanical engineering.
 List of standards: EN 1561, EN 1563, EN 16079, EN 1753, EN 10088-1, EN 10095, EN 10269, EN 10302
-List of material groups: Gray cast iron, Ductile cast iron - Ferritic, Ductile cast iron - Pearlitic, Vermicular cast irons, Carbon steels, Low alloyed Chromium steels, Low alloyed Nickel steels, Low alloyed Molybdenum steels, Intermediate alloyed, Chromium steels, High alloyed Chromium steels (Stainless steels), Austenitic stainless steels, High alloyed Nickel-Cobalt steels, Aluminum alloys, Copper alloys, Brass alloys, Magnesium alloys, Nickel alloys, Titanium alloys, Beryllium, Cobalt Alloys<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300996717&affiliateid=200057808)
+List of material groups: Gray cast iron, Ductile cast iron - Ferritic, Ductile cast iron - Pearlitic, Vermicular cast irons, Carbon steels, Low alloyed Chromium steels, Low alloyed Nickel steels, Low alloyed Molybdenum steels, Intermediate alloyed, Chromium steels, High alloyed Chromium steels (Stainless steels), Austenitic stainless steels, High alloyed Nickel-Cobalt steels, Aluminum alloys, Copper alloys, Brass alloys, Magnesium alloys, Nickel alloys, Titanium alloys, Beryllium, Cobalt Alloys
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300996717&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# SF Pressure Drop 7.x for Windows<br />Description
+# SF Pressure Drop 7.x for Windows
+Description
 SF Pressure Drop 7. for Windows calculates pressure drops of flowing liquids and gases in pipes (laminar and turbulent flow). It's also possible to calculate pressure changes caused by vertical difference of pipe and caused by changes of kinetic energy (dynamic pressure change).
 SF Pressure Drop calculates also pressure drops in pipe elements (example: changes of direction) and in diverse fittings (valves, bellows etc.). A list of the calculable elements see below.
 It's possible to combine diverse elements and so you will get total pressure drop.
@@ -59,4 +60,5 @@ Resistance coefficients Resistance coefficient of circular and rectangular pipes
 Reversible pressure changes (caused by vertical differences of pipe and by changes of kinetic energy)
 Reversible pressure changes Vertical difference, dynamic pressure change of circular and rectangular pipes
 Requirement
-Windows XP/Vista/7<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=156799&affiliateid=200057808)
+Windows XP/Vista/7
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=156799&affiliateid=200057808)

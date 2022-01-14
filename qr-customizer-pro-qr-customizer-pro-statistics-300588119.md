@@ -1,4 +1,6 @@
-# QR Customizer Pro + QR Customizer Pro Statistics<br />![QR Customizer Pro + QR Customizer Pro Statistics](https://mycommerce.akamaized.net/api/pimages/P300588119/BIG/300588119.PNG)<br />QR Customizer Pro
+# QR Customizer Pro + QR Customizer Pro Statistics
+![QR Customizer Pro + QR Customizer Pro Statistics](https://mycommerce.akamaized.net/api/pimages/P300588119/BIG/300588119.PNG)
+QR Customizer Pro
 
 QR Codes offer a number of application purposes and with the smartphone boom they gain in importance. You can import a link, a complete business card, a WLAN access or an address for with just one scan.
 
@@ -47,4 +49,5 @@ Intuitive operation and management of all entries.
 All QR Codes and images can be uploaded and managed via the web interface.
 Multi-user support
 Easy installation (PHP5 and MySQL is required)
-Easy backups and automatic update function via web interface.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300588119&affiliateid=200057808)
+Easy backups and automatic update function via web interface.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300588119&affiliateid=200057808)

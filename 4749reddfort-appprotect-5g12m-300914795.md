@@ -1,1 +1,2 @@
-# 4749-reddFort App-Protect -5G-12M<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300914795&affiliateid=200057808)
+# 4749-reddFort App-Protect -5G-12M
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300914795&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# 7900 Brushes collection for Illustrator Scatter & Artistic (AI)<br />www.graphicxtras.com -- Brushes for Illustrator collection
+# 7900 Brushes collection for Illustrator Scatter & Artistic (AI)
+www.graphicxtras.com -- Brushes for Illustrator collection
 
 Brushes Collection for Adobe (R) Illustrator
 COMMERCIAL USE OK. All designs by graphicxtras.com / Andrew Buckle. Use items to create products for sale, hobby items and more
@@ -15,4 +16,5 @@ Export as use as Illustrator symbols as well as swatches and also to Adobe Photo
 Use in illustrations, designs, on packaging, in animations, adverts, video, web page creation, hats, t-shirts, textiles and much more
 The brushes can be tinted, modified, tweaked, transformed, changed to scatter or pattern brushes and much more
 Apply to paths and change scale / direction / tint .. literally create millions of variant path designs - add these to symbols for a permanent resource library of stunning designs
-A truly wow set of brush designs from graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180730&affiliateid=200057808)
+A truly wow set of brush designs from graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180730&affiliateid=200057808)

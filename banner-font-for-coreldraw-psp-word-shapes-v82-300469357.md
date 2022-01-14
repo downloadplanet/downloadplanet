@@ -1,5 +1,7 @@
-# Banner font for CorelDRAW & PSP & Word & Shapes V82<br />www.graphicxtras.com -- Banner Font CorelDRAW & PSP & Word & Indesign Truetype & EPS Vectors Shapes V82
+# Banner font for CorelDRAW & PSP & Word & Shapes V82
+www.graphicxtras.com -- Banner Font CorelDRAW & PSP & Word & Indesign Truetype & EPS Vectors Shapes V82
 
 230 Banner Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs. Use the designs to create items for sale such as books, logos, illustrations, designs, packaging, t-shirts, cards, wrapping paper and much more. The set includes 230 amazing banner designs on standard format TTF and eps format and they are easy to use and apply. Install via the font control panel on the PC and via the fontbook application on the mac. The banner designs are all vectors for any size of work so you can use the banner designs for small as well as big work.
   The banner designs can be combined, converted to different formats such as PNG or TIFF or pspshapes etc. They can be re-colored, modified, blended, effects can be applied and much more. All the banner designs are by graphicxtras.com. If you have any questions about the banner shapes, please contact us on support@graphicxtras.com. Many different types of banner shapes, pennant designs are included in the set. Check out the graphicxtras.com site for a screenshot of all the designs in the set
- <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469357&affiliateid=200057808)
+ 
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469357&affiliateid=200057808)

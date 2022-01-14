@@ -1,1 +1,4 @@
-# DWG to SVG Converter MX<br />![DWG to SVG Converter MX](https://mycommerce.akamaized.net/api/pimages/P300053218/BIG/300053218.GIF)<br />DWG To SVG Converter MX allows you convert DWG to SVG, DXF to SVG and DWF to SVG directly without need of AutoCAD, it converts DWG, DXF and DWF files into vector SVG files, quick and easily. Supports AutoCAD(R2.5-R2021).Stand-alone utility - AutoCAD NOT required,supports user-defined Watermark.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300053218&affiliateid=200057808)
+# DWG to SVG Converter MX
+![DWG to SVG Converter MX](https://mycommerce.akamaized.net/api/pimages/P300053218/BIG/300053218.GIF)
+DWG To SVG Converter MX allows you convert DWG to SVG, DXF to SVG and DWF to SVG directly without need of AutoCAD, it converts DWG, DXF and DWF files into vector SVG files, quick and easily. Supports AutoCAD(R2.5-R2021).Stand-alone utility - AutoCAD NOT required,supports user-defined Watermark.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300053218&affiliateid=200057808)

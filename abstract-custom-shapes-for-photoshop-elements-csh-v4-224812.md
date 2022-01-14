@@ -1,4 +1,5 @@
-# Abstract Custom shapes for Photoshop & Elements (CSH) V4<br />www.graphicxtras.com -- Abstract Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X V4
+# Abstract Custom shapes for Photoshop & Elements (CSH) V4
+www.graphicxtras.com -- Abstract Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X V4
 
 300 Abstract design custom shapes for use in Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 6 (Photoshop 14-6) + Photoshop Elements
 Custom shapes are all royalty-free
@@ -22,4 +23,5 @@ MENU:
 Any questions about the custom shapes??
 http://www.graphicxtras.com/abstract.htm
 More info on http://www.graphicxtras.com
- <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=224812&affiliateid=200057808)
+ 
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=224812&affiliateid=200057808)

@@ -1,1 +1,4 @@
-# Shining Mac DVD Converter<br />![Shining Mac DVD Converter](https://mycommerce.akamaized.net/api/pimages/P300865194/BIG/300865194.PNG)<br />Best DVD Converter software for Mac helps you convert DVD to Mac in various video/audio file formats. Play DVD movies on iPhone, iPod, iPad, Android, HTC, Apple TV, Samsung, Galaxy Tab, PSP, iMovie, iTunes, QuickTime, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865194&affiliateid=200057808)
+# Shining Mac DVD Converter
+![Shining Mac DVD Converter](https://mycommerce.akamaized.net/api/pimages/P300865194/BIG/300865194.PNG)
+Best DVD Converter software for Mac helps you convert DVD to Mac in various video/audio file formats. Play DVD movies on iPhone, iPod, iPad, Android, HTC, Apple TV, Samsung, Galaxy Tab, PSP, iMovie, iTunes, QuickTime, etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865194&affiliateid=200057808)

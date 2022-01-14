@@ -1,1 +1,3 @@
-# Kernel Office 365 Backup - Home User License<br />![Kernel Office 365 Backup - Home User License](https://mycommerce.akamaized.net/api/pimages/P300809503/BIG/300809503.PNG)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300809503&affiliateid=200057808)
+# Kernel Office 365 Backup - Home User License
+![Kernel Office 365 Backup - Home User License](https://mycommerce.akamaized.net/api/pimages/P300809503/BIG/300809503.PNG)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300809503&affiliateid=200057808)

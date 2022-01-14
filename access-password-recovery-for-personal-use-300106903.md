@@ -1,1 +1,3 @@
-# Access Password Recovery (for personal use)<br />Access Password Recovery is a program that recovers lost or forgotten passwords for Microsoft Access databases and workgroup files. All versions of Microsoft Access are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300106903&affiliateid=200057808)
+# Access Password Recovery (for personal use)
+Access Password Recovery is a program that recovers lost or forgotten passwords for Microsoft Access databases and workgroup files. All versions of Microsoft Access are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300106903&affiliateid=200057808)

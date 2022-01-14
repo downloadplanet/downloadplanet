@@ -1,1 +1,4 @@
-# Activation suite (ACCS)<br />![Activation suite (ACCS)](https://mycommerce.akamaized.net/api/pimages/P184023/BIG/184023.GIF)<br />Activation suite (ACCS) is a set of useful tools for users of PC Guard software copy protection system who are looking into developing their own automated activation system or embedding activation functions in their existing customer management system.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=184023&affiliateid=200057808)
+# Activation suite (ACCS)
+![Activation suite (ACCS)](https://mycommerce.akamaized.net/api/pimages/P184023/BIG/184023.GIF)
+Activation suite (ACCS) is a set of useful tools for users of PC Guard software copy protection system who are looking into developing their own automated activation system or embedding activation functions in their existing customer management system.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=184023&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Kernel Exchange Suite - Technician License<br />![Kernel Exchange Suite - Technician License](https://mycommerce.akamaized.net/api/pimages/P300783669/BIG/300783669.PNG)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300783669&affiliateid=200057808)
+# Kernel Exchange Suite - Technician License
+![Kernel Exchange Suite - Technician License](https://mycommerce.akamaized.net/api/pimages/P300783669/BIG/300783669.PNG)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300783669&affiliateid=200057808)

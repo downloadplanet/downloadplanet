@@ -1,1 +1,2 @@
-# BarcodeOCR Small Business Plus - License (as upgrade)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300782717&affiliateid=200057808)
+# BarcodeOCR Small Business Plus - License (as upgrade)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300782717&affiliateid=200057808)

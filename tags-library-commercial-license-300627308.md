@@ -1,4 +1,6 @@
-# Tags Library Commercial License<br />![Tags Library Commercial License](https://mycommerce.akamaized.net/api/pimages/P300627308/BIG/300627308.PNG)<br />Tags Library is a component for Delphi (Win32, Win64, OSX, iOS and Android) and a .dll for developer environments supporting usage of Win32, Win64 or OSX .dlls (C++, VB, etc.).
+# Tags Library Commercial License
+![Tags Library Commercial License](https://mycommerce.akamaized.net/api/pimages/P300627308/BIG/300627308.PNG)
+Tags Library is a component for Delphi (Win32, Win64, OSX, iOS and Android) and a .dll for developer environments supporting usage of Win32, Win64 or OSX .dlls (C++, VB, etc.).
 
 Features:
 
@@ -12,4 +14,5 @@ Fully unicode
 Pure Delphi code, no external dependencies, Delphi XE2 64bit and OSX, Delphi XE5 iOS and Android compatible
 .dll version provided for Win32, Win64 and OSX
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300627308&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300627308&affiliateid=200057808)

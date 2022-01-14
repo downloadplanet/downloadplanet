@@ -1,7 +1,9 @@
-# SysInfoTools MSG to PST Converter[Technician License]<br />SysInfoTools MSG to PST Converter is very efficient and quick tool to perform conversion of MSG files into PST format.
+# SysInfoTools MSG to PST Converter[Technician License]
+SysInfoTools MSG to PST Converter is very efficient and quick tool to perform conversion of MSG files into PST format.
 Key Features:-
 Performs safe and Quick Conversion.
 Supports Batch Conversion.
 Provide saving in Date Range Selection.
 Compatibility with all major versions of Microsoft Outlook.
-The tool has a very high and friendly GUI for its users.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300652813&affiliateid=200057808)
+The tool has a very high and friendly GUI for its users.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300652813&affiliateid=200057808)

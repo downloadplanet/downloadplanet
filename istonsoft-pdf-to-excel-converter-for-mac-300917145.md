@@ -1,4 +1,6 @@
-# iStonsoft PDF to Excel Converter for Mac<br />![iStonsoft PDF to Excel Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917145/BIG/300917145.JPG)<br />Eminent Tool for Creating Excel File from PDF on Mac
+# iStonsoft PDF to Excel Converter for Mac
+![iStonsoft PDF to Excel Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917145/BIG/300917145.JPG)
+Eminent Tool for Creating Excel File from PDF on Mac
 
 Although PDF document is the favored by many people, Excel exceeds PDF in many fields. This page tells you a distinctive tool for converting PDF file to Excel - iStonsoft PDF to Excel Converter for Mac.
 
@@ -6,4 +8,5 @@ Although PDF document is the favored by many people, Excel exceeds PDF in many f
 
 * Preserve all the numbers, text, and layout with no error.
 
-* Batch Conversion mode and Partial Conversion mode are optional.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917145&affiliateid=200057808)
+* Batch Conversion mode and Partial Conversion mode are optional.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917145&affiliateid=200057808)

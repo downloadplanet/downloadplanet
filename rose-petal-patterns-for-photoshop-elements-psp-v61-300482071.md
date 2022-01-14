@@ -1,3 +1,5 @@
-# Rose Petal Patterns for Photoshop & Elements & PSP V61<br />www.graphicxtras.com -- Rose Petal patterns for Adobe Photoshop & Elements & PSP Seamless tiles V61
+# Rose Petal Patterns for Photoshop & Elements & PSP V61
+www.graphicxtras.com -- Rose Petal patterns for Adobe Photoshop & Elements & PSP Seamless tiles V61
 
-100 Rose Petal Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by graphicxtras (Andrew Buckle)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300482071&affiliateid=200057808)
+100 Rose Petal Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by graphicxtras (Andrew Buckle)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300482071&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Easy Mail Plus<br />Built-in importing uses easy drag-and-drop technology to make it a snap to create Easy Mail Address Files from your existing data files.
+# Easy Mail Plus
+Built-in importing uses easy drag-and-drop technology to make it a snap to create Easy Mail Address Files from your existing data files.
 Envelopes
 Use our predefined envelopes and labels (metric and US) or configure your own.
 Use one of our logos, or any BMP, GIF, JPG, WMF, ICO image.
@@ -35,4 +36,5 @@ Print predefined Address Reports or design your own.
 Import address files using easy drag-and-drop technology
 Adaptability
 Many user-configured preferences to set Easy Mail Plus to work for you
-Really useful, and really easy. Too many more features to list<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=171618&affiliateid=200057808)
+Really useful, and really easy. Too many more features to list
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=171618&affiliateid=200057808)

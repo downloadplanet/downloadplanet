@@ -1,6 +1,8 @@
-# Druckverlust 10.x für Excel<br />Programmbeschreibung
+# Druckverlust 10.x für Excel
+Programmbeschreibung
 Druckverlust 10.x für Excel berechnet durch Reibung verursachte Druckverluste von strömenden Flüssigkeiten und Gasen in Rohrleitungen im laminaren und turbulenten Bereich; zusätzliche Berechnungsmöglichkeit von Druckänderungen, die durch geodätische Höhe (Rohrleitung verläuft nach oben) und durch Änderung der Bewegungsenergie verursacht werden.
 Außer den Druckverlusten in einfachen Rohrleitungen können auch Druckverluste bedingt durch Rohrleitungselemente (Richtungsänderungen etc.) und durch verschiedene Armaturen (Ventile, Dehnungsausgleicher etc.) berechnet werden (Liste der berechenbaren Rohrleitungselemente siehe unten). Die einzelnen Elemente können beliebig kombiniert und so der Gesamtdruckverlust berechnet werden.
 Zur Druckverlustberechnung werden Daten über die Rohrleitungen (Rauhigkeiten) und auch Daten über die Fördermedien (Dichte, Viskosität) benötigt. Für gängige Rohrleitungen und viele Flüssigkeiten und Gase und auch Mischungen können diese Daten aus mehreren im Programm enthaltenen Datenbanken direkt übernommen werden. Eine benutzerdefinierte Datenbank bietet dem Anwender die Möglichkeit, Stoffdaten von eigenen Medien innerhalb des Programms zu speichern und bei Bedarf abzurufen.
 Die Daten werden in Microsoft Excel ausgegeben, deshalb ist eine installierte Excel-Version (ab Version 2007) erforderlich.
-  Weitere Infos siehe www.druckverlust.de<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300621615&affiliateid=200057808)
+  Weitere Infos siehe www.druckverlust.de
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300621615&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Vovsoft Subtitle Translator<br />Translate subtitle files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301001447&affiliateid=200057808)
+# Vovsoft Subtitle Translator
+Translate subtitle files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301001447&affiliateid=200057808)

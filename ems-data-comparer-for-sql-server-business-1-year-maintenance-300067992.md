@@ -1,1 +1,3 @@
-# EMS Data Comparer for SQL Server (Business) + 1 Year Maintenance<br />Compare and synchronize the contents of your SQL Server databases. Automate your data migrations from development to production database. Customize the MS SQL Server comparison and synchronization process to suit your needs.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067992&affiliateid=200057808)
+# EMS Data Comparer for SQL Server (Business) + 1 Year Maintenance
+Compare and synchronize the contents of your SQL Server databases. Automate your data migrations from development to production database. Customize the MS SQL Server comparison and synchronization process to suit your needs.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067992&affiliateid=200057808)

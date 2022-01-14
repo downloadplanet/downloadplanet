@@ -1,4 +1,6 @@
-# PlotLab ( Delphi/C++Builder Edition ) UPGRADE to Source Code-Single License<br />![PlotLab ( Delphi/C++Builder Edition ) UPGRADE to Source Code-Single License](https://mycommerce.akamaized.net/api/pimages/P300015411/BIG/300015411.JPG)<br />PlotLab is a set of VCL components for very easy and fast Data Visualization.
+# PlotLab ( Delphi/C++Builder Edition ) UPGRADE to Source Code-Single License
+![PlotLab ( Delphi/C++Builder Edition ) UPGRADE to Source Code-Single License](https://mycommerce.akamaized.net/api/pimages/P300015411/BIG/300015411.JPG)
+PlotLab is a set of VCL components for very easy and fast Data Visualization.
 Also includes Visual Graphical Editor for Codeless Development and Visual Live Bindings.
 Contains:
 Scope Component - a scientific chart component for plotting multi-channel data.
@@ -20,4 +22,5 @@ Highlighting - Highlight channels, cursors, markers, and measurement lines.
 Build-in Dialog - Configure the components from the build in dialog.
 Composite components - Allows embedding component into each other.
 All of the components are optimized for very fast data plotting, and support multithreading.
-Integrates well with VideoLab, AudioLab, SignalLab, VisionLab, InstrumentLab, and IntelligenceLab packages.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300015411&affiliateid=200057808)
+Integrates well with VideoLab, AudioLab, SignalLab, VisionLab, InstrumentLab, and IntelligenceLab packages.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300015411&affiliateid=200057808)

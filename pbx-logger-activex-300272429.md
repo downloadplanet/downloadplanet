@@ -1,5 +1,7 @@
-# PBX logger ActiveX<br />PBX logger ActiveX is an ActiveX component that uses Advanced PBX Data Logger to get either data from RS232 or TCP/IP ports or already processed and converted data besides the standard export tools in Advanced PBX Data Logger.
+# PBX logger ActiveX
+PBX logger ActiveX is an ActiveX component that uses Advanced PBX Data Logger to get either data from RS232 or TCP/IP ports or already processed and converted data besides the standard export tools in Advanced PBX Data Logger.
 
 Note: Advanced PBX Data Logger enables users to record, track and archive phone calls and can capture SMDR or CIR data from RS232, RS845, TCP or UDP ports, custom processes it to your needs and transfers the data to a text or binary file, database, DDE, OPC.
 
-PBX logger ActiveX can be used to extend functionality of Advanced PBX Data Logger and/or as one more integration method of Advanced PBX Data Logger to your hardware or software application. It is an optimal way for reading data from RS232 or TCP/IP ports to Microsoft Office, MatLab and LabVIEW.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300272429&affiliateid=200057808)
+PBX logger ActiveX can be used to extend functionality of Advanced PBX Data Logger and/or as one more integration method of Advanced PBX Data Logger to your hardware or software application. It is an optimal way for reading data from RS232 or TCP/IP ports to Microsoft Office, MatLab and LabVIEW.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300272429&affiliateid=200057808)

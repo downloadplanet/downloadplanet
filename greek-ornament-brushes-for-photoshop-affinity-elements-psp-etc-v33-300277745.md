@@ -1,4 +1,5 @@
-# Greek ornament brushes for Photoshop, Affinity, Elements, PSP, etc V33<br />www.graphicxtras.com -- Greek ornament Brushes for Adobe Photoshop & Elements & PSP PC & MAC OSX V33
+# Greek ornament brushes for Photoshop, Affinity, Elements, PSP, etc V33
+www.graphicxtras.com -- Greek ornament Brushes for Adobe Photoshop & Elements & PSP PC & MAC OSX V33
 
 COMMERCIAL USE OK ================= A) All designs by graphicxtras.com (Andrew Buckle) B) Use items to create products for sale, hobby items and more C) PC + MAC OS X - cross platform D) Royalty-free 100 Ancient Greek ornament brushes Photoshop and Photoshop Elements + PNG brushes for use in other applications such as Paint Shop Pro (R)
 
@@ -22,4 +23,5 @@ All the brushes have been created by graphicxtras.com (Andrew Buckle)
 
 To purchase, please click the add to cart (cookies required) or the buy now button, the item set is download only
 
-Part of an ongoing series of Photoshop (R) brushes from the graphicxtras.com site, along with custom shapes and patterns and styles.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277745&affiliateid=200057808)
+Part of an ongoing series of Photoshop (R) brushes from the graphicxtras.com site, along with custom shapes and patterns and styles.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277745&affiliateid=200057808)

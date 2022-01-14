@@ -1,4 +1,5 @@
-# Subscription mZ Plus 12 months<br />meineZIELE Plus
+# Subscription mZ Plus 12 months
+meineZIELE Plus
 That sounds familiar?
 Your desk is spilling over? Your time is fragmented? Too many bagatelles done and the big issues on hold? Everything planned in detail but no progress anyway? Just the most productive time of the day being wasted for peanuts and emails?
 You can't make a silk purse out of a sow's ear. A simple organizer will fail. Without professional time management know-how we stay caught in the treadmill of life. Here meineZIELE comes in: A sophisticated tool, combining software and knowhow, which really improves success.
@@ -19,4 +20,5 @@ Accumulating small and big achievements starts a spiral of improving self-confid
 You will hit Your targets
 Get away from saving seconds and arrive at pursueing objectives. And You will reach more, bigger and more important objectives.
 Why mZ Plus?
-mZ Plus is part of the world class meineZIELE product family. mZ Plus has all of mZ Standard plus project management and teamwork functions. A subscription of effectiviTREE is included.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300995649&affiliateid=200057808)
+mZ Plus is part of the world class meineZIELE product family. mZ Plus has all of mZ Standard plus project management and teamwork functions. A subscription of effectiviTREE is included.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300995649&affiliateid=200057808)

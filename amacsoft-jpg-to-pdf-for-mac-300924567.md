@@ -1,4 +1,6 @@
-# Amacsoft JPG to PDF for Mac<br />![Amacsoft JPG to PDF for Mac](https://mycommerce.akamaized.net/api/pimages/P300924567/BIG/300924567.PNG)<br />Amacsoft JPG to PDF for Mac - Converting PDF Document from Image JPG/JPEG with Preserving the Appearance.
+# Amacsoft JPG to PDF for Mac
+![Amacsoft JPG to PDF for Mac](https://mycommerce.akamaized.net/api/pimages/P300924567/BIG/300924567.PNG)
+Amacsoft JPG to PDF for Mac - Converting PDF Document from Image JPG/JPEG with Preserving the Appearance.
 
 Amacsoft JPG to PDF for Mac Software is a multiple functions featured JPG or JPEG to PDF file conversion program for Mac users.
 
@@ -28,4 +30,5 @@ Easy to Handle
 Customize Output Settings
 
 * Give up the default output destination, re-choose a new location for the converted JPG file.
-* Reset a personalized, easy to remember file name, instead of retaining the original file lengthy name.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924567&affiliateid=200057808)
+* Reset a personalized, easy to remember file name, instead of retaining the original file lengthy name.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924567&affiliateid=200057808)

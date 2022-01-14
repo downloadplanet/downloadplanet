@@ -1,1 +1,3 @@
-# iPhone & iPad Kickstart als DVD-Set inkl. 2 Video-DVDs, 1 Interview-DVD, 1 Daten- und Bonus-DVD, 10 gedruckte Checklisten (Preis inkl. MwSt. und inkl. weltweitem Versand)<br />iPhone & iPad Kickstart als DVD-Set inkl. 2 Video-DVDs, 1 Interview-DVD, 1 Daten- und Bonus-DVD, 10 gedruckte Checklisten (Preis inkl. MwSt. und inkl. weltweitem Versand)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300523018&affiliateid=200057808)
+# iPhone & iPad Kickstart als DVD-Set inkl. 2 Video-DVDs, 1 Interview-DVD, 1 Daten- und Bonus-DVD, 10 gedruckte Checklisten (Preis inkl. MwSt. und inkl. weltweitem Versand)
+iPhone & iPad Kickstart als DVD-Set inkl. 2 Video-DVDs, 1 Interview-DVD, 1 Daten- und Bonus-DVD, 10 gedruckte Checklisten (Preis inkl. MwSt. und inkl. weltweitem Versand)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300523018&affiliateid=200057808)

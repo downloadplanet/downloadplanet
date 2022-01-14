@@ -1,2 +1,4 @@
-# PDF Page Size Split Batch<br />PDF Size Split Batch is an Acrobat plugin that split's a pdf into many pdf's on page sizes within the source pdf, this is very useful for spliting mixed pdf's into printable documents on size. e.g. if source pdf had 2 pages of A4 then 5 Pages of A3, the output would be sourceA4.pdf & sourceA3.pdf containing those pages for that size. Batch version allows you to batch process multiple files from a file list.
-All updates to v1.xx are free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300451519&affiliateid=200057808)
+# PDF Page Size Split Batch
+PDF Size Split Batch is an Acrobat plugin that split's a pdf into many pdf's on page sizes within the source pdf, this is very useful for spliting mixed pdf's into printable documents on size. e.g. if source pdf had 2 pages of A4 then 5 Pages of A3, the output would be sourceA4.pdf & sourceA3.pdf containing those pages for that size. Batch version allows you to batch process multiple files from a file list.
+All updates to v1.xx are free.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300451519&affiliateid=200057808)

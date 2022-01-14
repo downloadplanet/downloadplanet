@@ -1,4 +1,5 @@
-# Art Nouveau Patterns for Photoshop, Affinity, Elements, PSP, etc V129<br />www.graphicxtras.com -- Art nouveau patterns for Adobe Photoshop & Elements & Painter & PSP
+# Art Nouveau Patterns for Photoshop, Affinity, Elements, PSP, etc V129
+www.graphicxtras.com -- Art nouveau patterns for Adobe Photoshop & Elements & Painter & PSP
 
 40 Art nouveau themed patterns for Photoshop, PSP etc
 Use as textures / patterns / displacement maps / distortions / layers / images etc
@@ -11,4 +12,5 @@ Use the art nouveau patterns in Photoshop CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 
 Use on the PC (windows 8 XP Vista etc) and MAC
 PNG format
 On purchase, you receive the PNG files + gallery + serial + documentation + serial
-For information, please check out http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300651264&affiliateid=200057808)
+For information, please check out http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300651264&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Kernel Recovery for Outlook Express Password - Home User License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384626&affiliateid=200057808)
+# Kernel Recovery for Outlook Express Password - Home User License[BRL]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384626&affiliateid=200057808)

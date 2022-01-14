@@ -1,1 +1,4 @@
-# Stroke Manufacture library<br />![Stroke Manufacture library](https://mycommerce.akamaized.net/api/pimages/P300650434/BIG/300650434.GIF)<br />The Adobe Illustrator™ library contains 99 Manufacture symbols. The symbols can be used for illustrations, print media, websites, toolbars, ribbons, another controls and mobile apps.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300650434&affiliateid=200057808)
+# Stroke Manufacture library
+![Stroke Manufacture library](https://mycommerce.akamaized.net/api/pimages/P300650434/BIG/300650434.GIF)
+The Adobe Illustrator™ library contains 99 Manufacture symbols. The symbols can be used for illustrations, print media, websites, toolbars, ribbons, another controls and mobile apps.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300650434&affiliateid=200057808)

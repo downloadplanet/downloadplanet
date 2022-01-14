@@ -1,5 +1,8 @@
-# MobiKin Transfer for Mobile (Mac Version) - 1 Year, 11-15PCs License<br />![MobiKin Transfer for Mobile (Mac Version) - 1 Year, 11-15PCs License](https://mycommerce.akamaized.net/api/pimages/P300945543/BIG/300945543.PNG)<br />Powerful Transfer Tool for Transferring files between Android phone.
+# MobiKin Transfer for Mobile (Mac Version) - 1 Year, 11-15PCs License
+![MobiKin Transfer for Mobile (Mac Version) - 1 Year, 11-15PCs License](https://mycommerce.akamaized.net/api/pimages/P300945543/BIG/300945543.PNG)
+Powerful Transfer Tool for Transferring files between Android phone.
 * The program can help you freely transfer files like contacts, apps, messages, photos, music, video, etc. between Android phone within 3 steps.
 * 100% Clean Software with Powerful Functions that Enable the Transferring Process Safe and Sound.
 * Professional Software Enable the Users to Manage the Files Easily. You can delete or export the data from mobile phones to computers or other cellphones or transfer files from the computer to the devices.
-* Support for 3000+ Mobile Phones. Android Devices: Samsung Galaxy S and Note series, HTC One series, Motorola Droid series, Sony Xperia series, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300945543&affiliateid=200057808)
+* Support for 3000+ Mobile Phones. Android Devices: Samsung Galaxy S and Note series, HTC One series, Motorola Droid series, Sony Xperia series, etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300945543&affiliateid=200057808)

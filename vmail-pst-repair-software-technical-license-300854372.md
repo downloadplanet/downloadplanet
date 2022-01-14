@@ -1,1 +1,3 @@
-# vMail PST Repair Software :- Technical License<br />PST Converter is an easy-to-use email converter software which is helps you access emails, contacts, drafts, attachments, etc. of your inaccessible Outlook PST file & perform a smoothly convert Outlook PST file into PST/MBOX/EML/MSG/ICS and vCard Format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854372&affiliateid=200057808)
+# vMail PST Repair Software :- Technical License
+PST Converter is an easy-to-use email converter software which is helps you access emails, contacts, drafts, attachments, etc. of your inaccessible Outlook PST file & perform a smoothly convert Outlook PST file into PST/MBOX/EML/MSG/ICS and vCard Format.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854372&affiliateid=200057808)

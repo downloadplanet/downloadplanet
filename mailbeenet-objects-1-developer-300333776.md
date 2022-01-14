@@ -1,1 +1,3 @@
-# MailBee.NET Objects (1 Developer)<br />Bring e-mail support to your .NET applications in a few lines of code<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333776&affiliateid=200057808)
+# MailBee.NET Objects (1 Developer)
+Bring e-mail support to your .NET applications in a few lines of code
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333776&affiliateid=200057808)

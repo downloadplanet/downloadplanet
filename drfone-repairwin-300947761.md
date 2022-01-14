@@ -1,1 +1,3 @@
-# dr.fone - Repair(Win)<br />Fix various Android system issues like black screen of death, app keeps crashing, system update download failed, etc. Industry's 1st tool for one-click Android repair.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947761&affiliateid=200057808)
+# dr.fone - Repair(Win)
+Fix various Android system issues like black screen of death, app keeps crashing, system update download failed, etc. Industry's 1st tool for one-click Android repair.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947761&affiliateid=200057808)

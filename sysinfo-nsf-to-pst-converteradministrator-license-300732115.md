@@ -1,1 +1,3 @@
-# SysInfo NSF to PST Converter[Administrator License]<br />SysInfo NSF to PST Converter an effective conversion solution of NSF database files into Outlook PST format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300732115&affiliateid=200057808)
+# SysInfo NSF to PST Converter[Administrator License]
+SysInfo NSF to PST Converter an effective conversion solution of NSF database files into Outlook PST format.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300732115&affiliateid=200057808)

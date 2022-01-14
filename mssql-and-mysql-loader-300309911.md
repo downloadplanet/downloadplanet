@@ -1,4 +1,5 @@
-# MSSQL and MySQL Loader<br />Data Loader is a simple yet powerful tool to import and export Data between many common formats. Current Data Loader Ver. 3.0 supports MySQL, Oracle, MS Access, FoxPro, DBF's MS SQL Server. CSV and Delimited or Flat Files. You can use Data Loader to transfer data from one database format to another database format. While transferring you can filter columns and specify WHERE conditions
+# MSSQL and MySQL Loader
+Data Loader is a simple yet powerful tool to import and export Data between many common formats. Current Data Loader Ver. 3.0 supports MySQL, Oracle, MS Access, FoxPro, DBF's MS SQL Server. CSV and Delimited or Flat Files. You can use Data Loader to transfer data from one database format to another database format. While transferring you can filter columns and specify WHERE conditions
  New Version 3.0 Released
   New Features in Version 3.0
 Folder polling.
@@ -13,4 +14,5 @@ Load from multiple delimited flat files to multiple tables in one session
 More enhanced Column Mapping
 Microsoft SQL Server is now supported
 Transformation is supported through the help of views
-And as usual Data Loader comes with it's own in built Scheduler. No need to run jobs repeatedly. Just start a Session define the Schedule Date and Time and Data Loader will automatically executes your session in the background and records the actions in a specified logfile.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300309911&affiliateid=200057808)
+And as usual Data Loader comes with it's own in built Scheduler. No need to run jobs repeatedly. Just start a Session define the Schedule Date and Time and Data Loader will automatically executes your session in the background and records the actions in a specified logfile.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300309911&affiliateid=200057808)

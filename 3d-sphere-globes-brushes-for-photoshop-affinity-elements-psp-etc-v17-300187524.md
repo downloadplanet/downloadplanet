@@ -1,4 +1,5 @@
-# 3D Sphere / Globes brushes for Photoshop, Affinity, Elements, PSP, etc V17<br />190 Spheres brushes (many mixed spheres / lit sphere brushes / multi - spheres brushes, bubbles and more
+# 3D Sphere / Globes brushes for Photoshop, Affinity, Elements, PSP, etc V17
+190 Spheres brushes (many mixed spheres / lit sphere brushes / multi - spheres brushes, bubbles and more
 for Adobe (R) Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 + Adobe (R) Photoshop (R) Elements 14 13 12 11 10 9 8 7 6 5 4 3 2 and PSP + others
 3D / sphere brushes
 300 DPI, mixed sizes of globe design
@@ -11,4 +12,5 @@ Load the PNG files via the open command or file place command and then define vi
 Combine, re-color, blend, warp, distort, use with plugin effects and more
 PC and MAC OS X
 All by Andrew Buckle / graphicxtras.com
-See all our video tutorials via YouTube : Brush tutorials<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300187524&affiliateid=200057808)
+See all our video tutorials via YouTube : Brush tutorials
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300187524&affiliateid=200057808)

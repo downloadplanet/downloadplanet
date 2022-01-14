@@ -1,3 +1,5 @@
-# Flower brushes for Photoshop, Affinity, Elements, PSP, etc V146<br />www.graphicxtras.com -- Flower Brushes for Adobe Photoshop & Elements & PSP V146
+# Flower brushes for Photoshop, Affinity, Elements, PSP, etc V146
+www.graphicxtras.com -- Flower Brushes for Adobe Photoshop & Elements & PSP V146
 
-100 Flower Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free - ABR and EPS<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300488944&affiliateid=200057808)
+100 Flower Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free - ABR and EPS
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300488944&affiliateid=200057808)

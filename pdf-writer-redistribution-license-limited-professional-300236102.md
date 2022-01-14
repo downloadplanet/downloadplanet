@@ -1,1 +1,3 @@
-# PDF Writer - Redistribution License (limited) - Professional<br />The bioPDF PDF Writer works as a Microsoft Windows printer and allows you to write PDF documents from virtually any Microsoft Windows application. Support for programmatic control.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236102&affiliateid=200057808)
+# PDF Writer - Redistribution License (limited) - Professional
+The bioPDF PDF Writer works as a Microsoft Windows printer and allows you to write PDF documents from virtually any Microsoft Windows application. Support for programmatic control.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236102&affiliateid=200057808)

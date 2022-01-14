@@ -1,4 +1,6 @@
-# Amacsoft Word to PDF for Mac<br />![Amacsoft Word to PDF for Mac](https://mycommerce.akamaized.net/api/pimages/P300924573/BIG/300924573.PNG)<br />Marvelous solution for batch changing Microsoft Word to PDF on Mac in a single operation!
+# Amacsoft Word to PDF for Mac
+![Amacsoft Word to PDF for Mac](https://mycommerce.akamaized.net/api/pimages/P300924573/BIG/300924573.PNG)
+Marvelous solution for batch changing Microsoft Word to PDF on Mac in a single operation!
 
 Even Mac support to save most files as PDF format document in its print window, this operation seems to be time-wasting if once there are lots of files need to be converted to PDF. In such case, the batch conversion ability of Amacsoft Word to PDF for Mac just comes out to play its proper role.
 
@@ -28,4 +30,5 @@ Word/Docx Document to PDF Conversion Tool for Mac System Requirements
 
 * OS: Mac OS X 10.6, Mac OS X 10.7 or above;
 * CPU: At least Intel 512MHz;
-* Free Hard Disk: 100M or more free space for software installation.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924573&affiliateid=200057808)
+* Free Hard Disk: 100M or more free space for software installation.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924573&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Trainingspaket "Betriebswirtschaftliches Handeln in der Kueche" Kalkulationsprogramm, Dienstplanprogramm und Training vom 08.06.-09.06.2015 in Frankfurt<br />Folgende Produkte erhalten Sie von uns:
+# Trainingspaket "Betriebswirtschaftliches Handeln in der Kueche" Kalkulationsprogramm, Dienstplanprogramm und Training vom 08.06.-09.06.2015 in Frankfurt
+Folgende Produkte erhalten Sie von uns:
 
 Komplettpaket Kalkulation Speisen mit Deckungsbeitrag
 Komplettpaket Portfolio Analyse Hauptgerichte Speisen
@@ -33,4 +34,5 @@ Inklusive. Tagungspauschale pro Tag
 Motel One Airport Frankfurt
 Colmarer Str. 2
 60528 Frankfurt
-Tel: 069-660536-0<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634219&affiliateid=200057808)
+Tel: 069-660536-0
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634219&affiliateid=200057808)

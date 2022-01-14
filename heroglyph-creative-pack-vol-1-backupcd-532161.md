@@ -1,4 +1,6 @@
-# Heroglyph Creative Pack Vol. 1 Backup-CD<br />![Heroglyph Creative Pack Vol. 1 Backup-CD](https://mycommerce.akamaized.net/api/pimages/P532161/BIG/532161.JPG)<br />HEROGLYPH CREATIVE PACK: Expand your Heroglyph V2 installation with impressive templates
+# Heroglyph Creative Pack Vol. 1 Backup-CD
+![Heroglyph Creative Pack Vol. 1 Backup-CD](https://mycommerce.akamaized.net/api/pimages/P532161/BIG/532161.JPG)
+HEROGLYPH CREATIVE PACK: Expand your Heroglyph V2 installation with impressive templates
 More powerful trailer-projects templates!
 Attractive font-design templates!
 
@@ -9,4 +11,5 @@ For your creativity - for your impressive titles - for your satisfaction: first 
 Productwebsite
 
 Samples / Demos
-Summary: Heroglyph - a new kind of titling and compositing software for your outstanding productions!<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=532161&affiliateid=200057808)
+Summary: Heroglyph - a new kind of titling and compositing software for your outstanding productions!
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=532161&affiliateid=200057808)

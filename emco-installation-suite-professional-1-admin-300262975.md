@@ -1,1 +1,3 @@
-# EMCO Installation Suite Professional (1 Admin)<br />![EMCO Installation Suite Professional (1 Admin)](https://mycommerce.akamaized.net/api/pimages/P300262975/BIG/300262975.GIF)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300262975&affiliateid=200057808)
+# EMCO Installation Suite Professional (1 Admin)
+![EMCO Installation Suite Professional (1 Admin)](https://mycommerce.akamaized.net/api/pimages/P300262975/BIG/300262975.GIF)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300262975&affiliateid=200057808)

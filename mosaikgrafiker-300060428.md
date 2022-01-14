@@ -1,1 +1,3 @@
-# Mosaik-Grafiker<br />Create your own mosaic pictures! A mosaic picture shows a motive, which is assembled from a multiplicity of different smaller pictures. You can freely select the motive and the smaller pictures. Create mosaic pictures, which consist of dozens or hundreds of your image files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060428&affiliateid=200057808)
+# Mosaik-Grafiker
+Create your own mosaic pictures! A mosaic picture shows a motive, which is assembled from a multiplicity of different smaller pictures. You can freely select the motive and the smaller pictures. Create mosaic pictures, which consist of dozens or hundreds of your image files.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060428&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Bundle ( OST to PST , PST repair , Outlook duplicate )<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300483601&affiliateid=200057808)
+# Bundle ( OST to PST , PST repair , Outlook duplicate )
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300483601&affiliateid=200057808)

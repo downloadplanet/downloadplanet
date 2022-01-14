@@ -1,1 +1,3 @@
-# MDG Integration für Eclipse named user lic. [MDGECLINT]<br />MDG Integration for Eclipse (SKU MDGECLINT) The Integration for Eclipse provides an integrated solution for users of the Professional and Corporate versions of Enterprise Architect and Eclipse. With a host of new features the MDG Integration for Eclipse enhances user productivity.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300137764&affiliateid=200057808)
+# MDG Integration für Eclipse named user lic. [MDGECLINT]
+MDG Integration for Eclipse (SKU MDGECLINT) The Integration for Eclipse provides an integrated solution for users of the Professional and Corporate versions of Enterprise Architect and Eclipse. With a host of new features the MDG Integration for Eclipse enhances user productivity.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300137764&affiliateid=200057808)

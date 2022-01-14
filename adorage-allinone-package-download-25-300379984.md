@@ -1,4 +1,6 @@
-# Adorage ALL-IN-ONE package (Download - 25%)<br />![Adorage ALL-IN-ONE package (Download - 25%)](https://mycommerce.akamaized.net/api/pimages/P300379984/BIG/300379984.JPG)<br /> Get more informations about this product series, samples and descriptions...
+# Adorage ALL-IN-ONE package (Download - 25%)
+![Adorage ALL-IN-ONE package (Download - 25%)](https://mycommerce.akamaized.net/api/pimages/P300379984/BIG/300379984.JPG)
+ Get more informations about this product series, samples and descriptions...
 
 Order Information
 ALL PLUGINS and all available EFFECTPACKAGES in one single package!!!
@@ -23,4 +25,5 @@ Delivery:
 electronic
 
 Order Now
-Request Quote<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300379984&affiliateid=200057808)
+Request Quote
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300379984&affiliateid=200057808)

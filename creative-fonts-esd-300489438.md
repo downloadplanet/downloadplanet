@@ -1,1 +1,3 @@
-# Creative Fonts (ESD)<br />Creative Fonts (ESD)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300489438&affiliateid=200057808)
+# Creative Fonts (ESD)
+Creative Fonts (ESD)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300489438&affiliateid=200057808)

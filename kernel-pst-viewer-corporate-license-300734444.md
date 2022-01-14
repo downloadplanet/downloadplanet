@@ -1,1 +1,2 @@
-# Kernel PST Viewer - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300734444&affiliateid=200057808)
+# Kernel PST Viewer - Corporate License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300734444&affiliateid=200057808)

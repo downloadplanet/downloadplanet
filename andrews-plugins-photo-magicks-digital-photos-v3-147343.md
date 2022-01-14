@@ -1,4 +1,5 @@
-# Andrews Plugins Photo Magicks / Digital Photos V3<br />www.graphicxtras.com -- Andrews Plugins Photo Magicks Adobe Photoshop & PSP & Elements PC Filters Digital Photography V3
+# Andrews Plugins Photo Magicks / Digital Photos V3
+www.graphicxtras.com -- Andrews Plugins Photo Magicks Adobe Photoshop & PSP & Elements PC Filters Digital Photography V3
 
 Andrew's Plug-ins volume 3 includes ten powerful plug-ins for use in Paint Shop Pro (R) Photo and Photoshop + Painter PSP etc and others, PC only 64bit / 32bit
 PC Windows 10 8 7 (64bit and 32bit versions included)
@@ -14,4 +15,5 @@ Plug-in set also contains PDF documentation explaining the plug-in functionality
 Corel and Paint Shop Pro and Painter are registered trademarks or trademarks of the Corel Corporation
 All are by graphicxtras.com / Andrew Buckle of Andrew's Filters
 1000s of stunning effects for all your projects
-Questions, please contact us on support@graphicxtras.com or check out our video tutorials http://www.youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=147343&affiliateid=200057808)
+Questions, please contact us on support@graphicxtras.com or check out our video tutorials http://www.youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=147343&affiliateid=200057808)

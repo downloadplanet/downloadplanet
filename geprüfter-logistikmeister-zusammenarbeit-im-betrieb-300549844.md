@@ -1,1 +1,3 @@
-# Geprüfter Logistikmeister - Zusammenarbeit im Betrieb<br />![Geprüfter Logistikmeister - Zusammenarbeit im Betrieb](https://mycommerce.akamaized.net/api/pimages/P300549844/BIG/300549844.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300549844&affiliateid=200057808)
+# Geprüfter Logistikmeister - Zusammenarbeit im Betrieb
+![Geprüfter Logistikmeister - Zusammenarbeit im Betrieb](https://mycommerce.akamaized.net/api/pimages/P300549844/BIG/300549844.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300549844&affiliateid=200057808)

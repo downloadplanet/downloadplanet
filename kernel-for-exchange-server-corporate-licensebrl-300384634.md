@@ -1,1 +1,2 @@
-# Kernel for Exchange Server - Corporate License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384634&affiliateid=200057808)
+# Kernel for Exchange Server - Corporate License[BRL]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384634&affiliateid=200057808)

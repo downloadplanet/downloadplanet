@@ -1,1 +1,3 @@
-# Support Credits<br />Support Credits provide technical and configuration support for the use or integration of ClassifyIt. Any use of Support Credits will be agreed between the customer and Ralf Ulrich Garbe company.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300871239&affiliateid=200057808)
+# Support Credits
+Support Credits provide technical and configuration support for the use or integration of ClassifyIt. Any use of Support Credits will be agreed between the customer and Ralf Ulrich Garbe company.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300871239&affiliateid=200057808)

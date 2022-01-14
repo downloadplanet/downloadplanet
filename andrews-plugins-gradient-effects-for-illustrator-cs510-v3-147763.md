@@ -1,4 +1,5 @@
-# Andrews Plugins Gradient Effects for Illustrator CS5-10 V3<br />www.graphicxtras.com -- Andrews Vector Plugins Gradient Effects Illustrator CS5 - 10 PC & MAC OS X V3
+# Andrews Plugins Gradient Effects for Illustrator CS5-10 V3
+www.graphicxtras.com -- Andrews Vector Plugins Gradient Effects Illustrator CS5 - 10 PC & MAC OS X V3
 
 Two plug-ins for manipulation of gradients in Illustrator (R) CS5 CS4 CS3 CS2 CS1 10
 Gradient Effects comes with multiple plug-ins settings to tweak gradients in 1000s and 1000s of ways, blur, lighten, randomize, color and more
@@ -21,4 +22,5 @@ MENU:
 
 For more information about the plug-in on http://www.graphicxtras.com
 If you wish to contact me about the plug-in set, please e-mail on Please e-mail us on support@graphicxtras.com
-Other plugins - more info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=147763&affiliateid=200057808)
+Other plugins - more info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=147763&affiliateid=200057808)

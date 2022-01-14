@@ -1,1 +1,4 @@
-# Sound over RDP - Update Subscription<br />![Sound over RDP - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300630130/BIG/300630130.GIF)<br />This is a sound virtualization tool enabling two-way sound stream from your local computer to the remote Windows session over RDP.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300630130&affiliateid=200057808)
+# Sound over RDP - Update Subscription
+![Sound over RDP - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300630130/BIG/300630130.GIF)
+This is a sound virtualization tool enabling two-way sound stream from your local computer to the remote Windows session over RDP.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300630130&affiliateid=200057808)

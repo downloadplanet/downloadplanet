@@ -1,1 +1,3 @@
-# Indya Google Takeout to DOC - Corporate License<br />Software to Convert Google Takeout Data Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300798719&affiliateid=200057808)
+# Indya Google Takeout to DOC - Corporate License
+Software to Convert Google Takeout Data Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300798719&affiliateid=200057808)

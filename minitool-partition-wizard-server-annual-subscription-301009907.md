@@ -1,8 +1,11 @@
-# MiniTool Partition Wizard Server Annual Subscription<br />![MiniTool Partition Wizard Server Annual Subscription](https://mycommerce.akamaized.net/api/pimages/P301009907/BIG/301009907.PNG)<br />MiniTool Partition Wizard Server license optimized for business environment with advanced features such as
+# MiniTool Partition Wizard Server Annual Subscription
+![MiniTool Partition Wizard Server Annual Subscription](https://mycommerce.akamaized.net/api/pimages/P301009907/BIG/301009907.PNG)
+MiniTool Partition Wizard Server license optimized for business environment with advanced features such as
 Merge Partition
 Convert Dynamic disk to Basic disk
 Change cluster size
 Data recovery and partition recovery
 Support up to 1 system
 Compatible with Windows 2000, XP, Vista and Windows 7,8,9,10.
-Compatible with ALL Windows Server OS<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301009907&affiliateid=200057808)
+Compatible with ALL Windows Server OS
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301009907&affiliateid=200057808)

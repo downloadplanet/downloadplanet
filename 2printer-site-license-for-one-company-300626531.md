@@ -1,7 +1,9 @@
-# 2Printer - Site license for one company<br />2Printer is a command line tool for printing documents and image files in bath mode. With 2printer you are able to automate printing image files, text documents, drawings, worksheets, presentations, pdf files and so on.
+# 2Printer - Site license for one company
+2Printer is a command line tool for printing documents and image files in bath mode. With 2printer you are able to automate printing image files, text documents, drawings, worksheets, presentations, pdf files and so on.
 To print image files 2Printer uses internal graphic engine. It means that not any additional software is required to print JPEG, TIFF, PNG, PCX, DCX, Bitmap or TGA files.
 To print text documents, PDF files, drawings and so on 2Printer uses publick API 3-rd paryty software. It means that you need to install and activate Microsoft Word to print TXT, RTF, DOC or DOCX files; Adobe Reared or Acrobat to print PDF; Microsoft Visio to print VSD; Autodesk AutoCAD to print DWG or DXF; Microsoft Excel to print XLS or XLSX; Microsoft PowerPoint to print PPT or PPTX.
 2Printer is compatible with all printers connected to your computer directly, with virtual printers and with printers you connected via lockel network.
 You can use 2Printer to automate conversion documents to PDF or image files like JPEG, TIFF or PNG. You only need to use virtual printer such as Universal Document Converter instaed of your office or home printer device.
 Thank to command line interface you are able to create your own BATCH-files to automate printing documents you want. Or you can create CMD file and add it to Task Scheduler to print all documents from a folder you selected once a day.
-2Printer is free for non-commercial usage. Please order commercial version to use 2Printer for business.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300626531&affiliateid=200057808)
+2Printer is free for non-commercial usage. Please order commercial version to use 2Printer for business.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300626531&affiliateid=200057808)

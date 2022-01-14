@@ -1,6 +1,8 @@
-# PDFnUP COM Component<br />PDFnUP COM Component is for ASP, .NET, PHP, Cold Fusion, VB, VC and other languages.
+# PDFnUP COM Component
+PDFnUP COM Component is for ASP, .NET, PHP, Cold Fusion, VB, VC and other languages.
 PDFnUP software automates the process of 2up'ing or 4up'ing a pdf document, so for example with a/b 2up page 1 is on the left and page 2 is on the right, with split 2up (4 page document) page 1 is on the left and page 3 is on the right, then page 2 is on the next page left and page 4 is on the right. It has an optional 'down' parameter for 2up'ing downwards on a page rather than across the page (left, right) The output page size can also be controlled and the 2nd page position can be offset with margin controls. Optional 'duplicate' option for duplicating pages so you get the same page 1,1 left and right output.
 Optional 'seq' sequence file option for custom sequences of pages in output, see examples folder for examples. The output page size can also be controlled and the 2nd page position can be offset with margin controls.
 This a 1 machine license for Dev or Server usage.
 NOTE: 1 License is required per installation.
-All Updates to 1.xx are free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300452776&affiliateid=200057808)
+All Updates to 1.xx are free of charge.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300452776&affiliateid=200057808)

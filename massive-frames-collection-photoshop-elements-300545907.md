@@ -1,6 +1,8 @@
-# Massive Frames Collection Photoshop & Elements<br />www.graphicxtras.com -- Frames Collection Photoshop & Elements PC & MAC OS X
+# Massive Frames Collection Photoshop & Elements
+www.graphicxtras.com -- Frames Collection Photoshop & Elements PC & MAC OS X
 
 Frames collection (shapes, brushes, patterns, fonts etc for Photoshop and elements
 1000s of frames themed brushes for Photoshop and Photoshop elements (as well as many other applications as the collection includes fonts etc that work just as well with Illustrator and Indesign and psp). The collection includes 1000s of frames themed brushes, custom shapes, patterns, fonts, pdf vectors, eps designs and more - frames, corners, borders, mottled shapes and brushes and much more
 Frames collection - commercial use shapes, brushes etc
-Commercial use, all royalty-free, all are by graphicxtras.com (Andrew Buckle) Any questions, please contact us on support@graphicxtras.com. Use the frames themed items to create items for sale such as books, logos, templates, web site designs, cards, wrapping paper, adverts, videos and more<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300545907&affiliateid=200057808)
+Commercial use, all royalty-free, all are by graphicxtras.com (Andrew Buckle) Any questions, please contact us on support@graphicxtras.com. Use the frames themed items to create items for sale such as books, logos, templates, web site designs, cards, wrapping paper, adverts, videos and more
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300545907&affiliateid=200057808)

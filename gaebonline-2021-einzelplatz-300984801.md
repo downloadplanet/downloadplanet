@@ -1,4 +1,6 @@
-# GAEB-Online 2021 (Einzelplatz)<br />![GAEB-Online 2021 (Einzelplatz)](https://mycommerce.akamaized.net/api/pimages/P300984801/BIG/300984801.JPG)<br />With GAEB-Online 2021 software, you can edit GAEB tenders directly with MS-Word® or MS-Excel®. Alternatively, you can also use other Office packages like OpenOffice® or LibreOffice®.
+# GAEB-Online 2021 (Einzelplatz)
+![GAEB-Online 2021 (Einzelplatz)](https://mycommerce.akamaized.net/api/pimages/P300984801/BIG/300984801.JPG)
+With GAEB-Online 2021 software, you can edit GAEB tenders directly with MS-Word® or MS-Excel®. Alternatively, you can also use other Office packages like OpenOffice® or LibreOffice®.
 
 With GAEB-Online 2021, you can enter bid prices and immediately submit bids electronically in GAEB D84 format. GAEB-Online 2021 is a powerful tool for creating a GAEB bid to meet your individual requirements. Here you can export the entire service tender specifications directly to a word processing programme such as MS-Word® or OpenOffice® for further processing.
 
@@ -25,4 +27,5 @@ What is GAEB-Online 2021?
 
 GAEB-Online 2021 is a tendering software used to open GAEB tenders, to enter tender prices or to calculate them using MS-Excel/OpenOffice and to issue the tender as e.g. GAEB DA84. In addition, Excel tables can be converted to GAEB files using GAEB-Online 2021 and a GAEB-LV can be created using Excel/OpenOffice. GAEB-Online 2021 IS HOWEVER NOT A AVA-PROGRAM with which you can change existing LV items or enter quantities for LV!
 
-For more details, see www.gaeb-online.de<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300984801&affiliateid=200057808)
+For more details, see www.gaeb-online.de
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300984801&affiliateid=200057808)

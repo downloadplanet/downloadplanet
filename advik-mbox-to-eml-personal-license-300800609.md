@@ -1,1 +1,3 @@
-# Advik MBOX to EML - Personal License<br />Software to Convert MBOX Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300800609&affiliateid=200057808)
+# Advik MBOX to EML - Personal License
+Software to Convert MBOX Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300800609&affiliateid=200057808)

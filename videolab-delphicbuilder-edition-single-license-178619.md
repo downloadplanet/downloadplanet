@@ -1,4 +1,6 @@
-# VideoLab ( Delphi/C++Builder Edition ) Single License<br />![VideoLab ( Delphi/C++Builder Edition ) Single License](https://mycommerce.akamaized.net/api/pimages/P178619/BIG/178619.JPG)<br />The VideoLab is a set of components, based on OpenWire technology for fast video capture, playback, broadcasting and processing. They allow fast complex video manipulations with zero lines of program code.
+# VideoLab ( Delphi/C++Builder Edition ) Single License
+![VideoLab ( Delphi/C++Builder Edition ) Single License](https://mycommerce.akamaized.net/api/pimages/P178619/BIG/178619.JPG)
+The VideoLab is a set of components, based on OpenWire technology for fast video capture, playback, broadcasting and processing. They allow fast complex video manipulations with zero lines of program code.
 VideoLab supports both the old fashion Win32 API (VFW), Audio ACM and DirectShow (DirectX), and even allows if needed any mixture of them. The developer can choose to go with any of them, to use both, or can switch from the one to the other at any moment. The components hide the complexity of both approaches, and make them look almost identical from the users prospective.
 The library is fully multithreaded, utilizes well modern multi-core systems, and runs at full native performance.
 VideoLab contains over 100 components for:
@@ -30,4 +32,5 @@ Video Histogram - generates video histograms from the video in different colors 
 Vector Scope - generates vector scope from the video.
 Audio Output components - sends audio to output device as speaker, or modem (DirectShow and WaveAPI)
 Scope Component - Wave, spectrum, and histogram data plotting component.
-Waterfall Component - Waterfall component for Spectrum, and Histogram data representation.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=178619&affiliateid=200057808)
+Waterfall Component - Waterfall component for Spectrum, and Histogram data representation.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=178619&affiliateid=200057808)

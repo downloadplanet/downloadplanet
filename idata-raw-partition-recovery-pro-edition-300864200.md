@@ -1,1 +1,3 @@
-# iData RAW Partition Recovery Pro Edition<br />iData RAW Partition Recovery software can easily fix RAW drive, recover RAW partition, repair damaged or corrupted hard drive and convert RAW to NTFS/FAT32 without data loss. After recovering RAW partition, you will get all data back and then access RAW drive as normal.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300864200&affiliateid=200057808)
+# iData RAW Partition Recovery Pro Edition
+iData RAW Partition Recovery software can easily fix RAW drive, recover RAW partition, repair damaged or corrupted hard drive and convert RAW to NTFS/FAT32 without data loss. After recovering RAW partition, you will get all data back and then access RAW drive as normal.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300864200&affiliateid=200057808)

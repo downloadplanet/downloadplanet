@@ -1,1 +1,3 @@
-# Elecard StreamEye Basic<br />Elecard StreamEye Basic 4.4 is a video quality test software for QA, technical support, and system integration teams dealing with video compression quality assurance, encoder settings adjustment or selection of best codec.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300444633&affiliateid=200057808)
+# Elecard StreamEye Basic
+Elecard StreamEye Basic 4.4 is a video quality test software for QA, technical support, and system integration teams dealing with video compression quality assurance, encoder settings adjustment or selection of best codec.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300444633&affiliateid=200057808)

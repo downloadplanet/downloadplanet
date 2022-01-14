@@ -1,3 +1,5 @@
-# Digital Photo Cataloger & PrintFolder Pro Bundle<br />Save money - get both Digital Photo Cataloger and PrintFolder Pro, and receive a 20% discount on both products.
+# Digital Photo Cataloger & PrintFolder Pro Bundle
+Save money - get both Digital Photo Cataloger and PrintFolder Pro, and receive a 20% discount on both products.
 Digital Photo Cataloger is a photo catalog program (digital asset manager), that makes it easy to browse and search for any image file, even if it's located on a CD, DVD, an external hard drive, or any other disk media.
-PrintFolder Pro is a powerful and flexible utility for creating editable, printable file lists from within Windows Explorer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300065438&affiliateid=200057808)
+PrintFolder Pro is a powerful and flexible utility for creating editable, printable file lists from within Windows Explorer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300065438&affiliateid=200057808)

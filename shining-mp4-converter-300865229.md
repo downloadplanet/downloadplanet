@@ -1,1 +1,4 @@
-# Shining MP4 Converter<br />![Shining MP4 Converter](https://mycommerce.akamaized.net/api/pimages/P300865229/BIG/300865229.PNG)<br />Convert all video formats(TS, MTS, M2TS, MXF, TRP, TP, M4V, QT, MOV, MPG, MPEG, MPEG2, MPEG4, MJPG, MJPEG, AVI, 3GP, 3G2, FLV, MOD, TOD, RM, RMVB, WMV, ASF, MKV, SWF, F4V, VOB, DAT, DV, DIF, OGM, WTV, DVR-MS, Bink video, WebM) to MP4 and convert MP4 to AVI, MOV, WMV, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865229&affiliateid=200057808)
+# Shining MP4 Converter
+![Shining MP4 Converter](https://mycommerce.akamaized.net/api/pimages/P300865229/BIG/300865229.PNG)
+Convert all video formats(TS, MTS, M2TS, MXF, TRP, TP, M4V, QT, MOV, MPG, MPEG, MPEG2, MPEG4, MJPG, MJPEG, AVI, 3GP, 3G2, FLV, MOD, TOD, RM, RMVB, WMV, ASF, MKV, SWF, F4V, VOB, DAT, DV, DIF, OGM, WTV, DVR-MS, Bink video, WebM) to MP4 and convert MP4 to AVI, MOV, WMV, etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865229&affiliateid=200057808)

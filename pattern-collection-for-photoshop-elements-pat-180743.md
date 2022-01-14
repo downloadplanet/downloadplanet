@@ -1,4 +1,5 @@
-# Pattern Collection for Photoshop & Elements (PAT)<br />www.graphicxtras.com -- Pattern Collection Photoshop & Elements PC & MAC OSX
+# Pattern Collection for Photoshop & Elements (PAT)
+www.graphicxtras.com -- Pattern Collection Photoshop & Elements PC & MAC OSX
 
 COMMERCIAL USE OK ================= A) All designs by graphicxtras.com (Andrew Buckle) B) Use items to create products for sale, hobby items and more C) PC + MAC OS X - cross platform D) Royalty-free
 Patterns collection for Adobe (R) Photoshop (R) + Adobe (R) Photoshop (R) Elements
@@ -24,4 +25,5 @@ Download or CD (P&P Extra)
 
 To purchase, click add to cart or buy now - e-mail means digital download
 
-Any questions, e-mail support@graphicxtras.com - commercial use, digital downloads, royalty-free Please mail us on support@graphicxtras.com or check out http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180743&affiliateid=200057808)
+Any questions, e-mail support@graphicxtras.com - commercial use, digital downloads, royalty-free Please mail us on support@graphicxtras.com or check out http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180743&affiliateid=200057808)

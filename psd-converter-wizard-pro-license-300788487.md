@@ -1,1 +1,3 @@
-# PSD Converter Wizard - Pro License<br />Convert PSD files to various file types<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300788487&affiliateid=200057808)
+# PSD Converter Wizard - Pro License
+Convert PSD files to various file types
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300788487&affiliateid=200057808)

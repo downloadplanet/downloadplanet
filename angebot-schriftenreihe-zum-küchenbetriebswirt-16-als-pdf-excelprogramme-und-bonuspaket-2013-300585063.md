@@ -1,4 +1,5 @@
-# Angebot Schriftenreihe zum Küchenbetriebswirt 1-6 als PDF, Excelprogramme und Bonuspaket 2013<br />Schriftenreihe zum Küchenbetriebswirt
+# Angebot Schriftenreihe zum Küchenbetriebswirt 1-6 als PDF, Excelprogramme und Bonuspaket 2013
+Schriftenreihe zum Küchenbetriebswirt
 - die 6teilige Schriftenreihe mit ca. 550 Seiten, zahlreichen Excelvorlagen und Bonuspaket
 
 Hier können Sie sich das Inhaltsverzeichnis der Schriftenreihe zum Küchenbetriebswirt anschauen!
@@ -50,4 +51,5 @@ Komplettpaket Kalkulation Speisen mit Deckungsbeitrag
 Komplettpaket Mitarbeitereinsatzplanung in Excel
 Komplettpaket Ermittlung der Arbeitsgruppenkosten
 Komplettpaket Preispolitik - Speisen mit der Speisendiagnose
-Komplettpaket Wareneinsatz Speisen kontrollieren und verbessern<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585063&affiliateid=200057808)
+Komplettpaket Wareneinsatz Speisen kontrollieren und verbessern
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585063&affiliateid=200057808)

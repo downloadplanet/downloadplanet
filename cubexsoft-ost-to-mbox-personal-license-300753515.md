@@ -1,1 +1,3 @@
-# CubexSoft OST to MBOX - Personal License<br />CubexSoft OST to MBOX tool to convert OST files to MBOX files. It allow users to convert OST to MBOX with attachments, email header, email content etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300753515&affiliateid=200057808)
+# CubexSoft OST to MBOX - Personal License
+CubexSoft OST to MBOX tool to convert OST files to MBOX files. It allow users to convert OST to MBOX with attachments, email header, email content etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300753515&affiliateid=200057808)

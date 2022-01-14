@@ -1,4 +1,6 @@
-# iPubsoft HTML to ePub Converter for Mac<br />![iPubsoft HTML to ePub Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300921962/BIG/300921962.PNG)<br />Seamlessly convert eBooks from HTML to ePub on Mac OS X for better reading on the go!
+# iPubsoft HTML to ePub Converter for Mac
+![iPubsoft HTML to ePub Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300921962/BIG/300921962.PNG)
+Seamlessly convert eBooks from HTML to ePub on Mac OS X for better reading on the go!
 
 Reading eBooks has become a popular way of passing time. Instead of reading books on computer, sometimes we may intend to read on portable devices on the go. Most of us like to search for funny stories or novels on the Internet but some eReaders don't support HTML format directly. iPubsoft HTML to ePub Converter for Mac can convert HTML to ePub on Mac instantly.
 
@@ -17,4 +19,5 @@ Extremely Easy to Use
 The interface of this program is intuitive and user-friendly, so no matter you're a beginner or an advanced user, you can deal with the conversion with this powerful Mac HTML to ePub Converter without any limitation.
 
 Great Performance in Conversion Speed
-Provide users with superior conversion speed, and store all original elements of the web page in the ePub book without any quality losing after conversion.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921962&affiliateid=200057808)
+Provide users with superior conversion speed, and store all original elements of the web page in the ePub book without any quality losing after conversion.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921962&affiliateid=200057808)

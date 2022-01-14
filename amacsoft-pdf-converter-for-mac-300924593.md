@@ -1,4 +1,6 @@
-# Amacsoft PDF Converter for Mac<br />![Amacsoft PDF Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300924593/BIG/300924593.PNG)<br />Amacsoft PDF Converter for Mac is a comprehensive PDF tool to help Mac users convert PDF to ePub, PDF to HTML, PDF to Image, PDF to Text on Mac. Mac users can choose formats they need to convert to and all the conversion can be done within only one program. It performs quite quickly and efficiently and can save you lots of time and money while dealing with PDF files.
+# Amacsoft PDF Converter for Mac
+![Amacsoft PDF Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300924593/BIG/300924593.PNG)
+Amacsoft PDF Converter for Mac is a comprehensive PDF tool to help Mac users convert PDF to ePub, PDF to HTML, PDF to Image, PDF to Text on Mac. Mac users can choose formats they need to convert to and all the conversion can be done within only one program. It performs quite quickly and efficiently and can save you lots of time and money while dealing with PDF files.
 
 * Convert PDF to 4 popular format on Mac
 Convert PDF files to Microsoft Office Word, EPUB eBooks, web-ready HTML pages and Text documents efficiently on Mac OS.
@@ -16,4 +18,5 @@ Convert PDF files to Microsoft Office Word, EPUB eBooks, web-ready HTML pages an
 - You can flexibly convert selected pages or page ranges in the PDF files to ePub, HTML, Image or Text format.
 
 * Good conversion quality
-After conversion, all the original text, images, graphics, tables, hyperlinks, layout and formatting are exactly preserved.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924593&affiliateid=200057808)
+After conversion, all the original text, images, graphics, tables, hyperlinks, layout and formatting are exactly preserved.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924593&affiliateid=200057808)

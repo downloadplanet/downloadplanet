@@ -1,4 +1,5 @@
-# Christmas symbols for Fireworks (PNG) V5<br />www.graphicxtras.com -- Christmas symbols Fireworks PNG Xmas & Festive Vector format V5
+# Christmas symbols for Fireworks (PNG) V5
+www.graphicxtras.com -- Christmas symbols Fireworks PNG Xmas & Festive Vector format V5
 
 Symbols for Adobe (R) Fireworks (R)
 300 Festive themed symbols for use in Adobe (R) / Macromedia (R) Fireworks (R) CS4 CS3 8 + others
@@ -24,4 +25,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 GRAPHICXTRAS.COM
 
 Any questions, please mail us on support@graphicxtras.comhttp://www.graphicxtras.com/christmas.htm
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300193920&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300193920&affiliateid=200057808)

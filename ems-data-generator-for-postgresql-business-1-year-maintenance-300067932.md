@@ -1,1 +1,3 @@
-# EMS Data Generator for PostgreSQL (Business) + 1 Year Maintenance<br />Generate test data for PostgreSQL database for testing purposes in a simple and direct way. Wide range of data generation parameters, user-friendly wizard interface and useful console utility to automate PostgreSQL test data generation.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067932&affiliateid=200057808)
+# EMS Data Generator for PostgreSQL (Business) + 1 Year Maintenance
+Generate test data for PostgreSQL database for testing purposes in a simple and direct way. Wide range of data generation parameters, user-friendly wizard interface and useful console utility to automate PostgreSQL test data generation.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067932&affiliateid=200057808)

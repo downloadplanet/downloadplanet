@@ -1,1 +1,3 @@
-# SecureWord Unlimited<br />SecureWord is a new password manager (password keeper) program that uses Advanced Encryption Standard adopted by the US Government in 2002. Your data will always be safe and secure thanks to built-in protective measures. For example, the program automatically clears clipboard when you minimize or exit it.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=213637&affiliateid=200057808)
+# SecureWord Unlimited
+SecureWord is a new password manager (password keeper) program that uses Advanced Encryption Standard adopted by the US Government in 2002. Your data will always be safe and secure thanks to built-in protective measures. For example, the program automatically clears clipboard when you minimize or exit it.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=213637&affiliateid=200057808)

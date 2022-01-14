@@ -1,1 +1,3 @@
-# BasketScouting Pro<br />Pro version has ability to analyze from multiple games. Basketball Game Scouting from multiple games with built-in unchanged predefined Tags buttons and plays court position.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300319646&affiliateid=200057808)
+# BasketScouting Pro
+Pro version has ability to analyze from multiple games. Basketball Game Scouting from multiple games with built-in unchanged predefined Tags buttons and plays court position.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300319646&affiliateid=200057808)

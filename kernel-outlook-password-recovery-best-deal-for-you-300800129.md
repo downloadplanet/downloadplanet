@@ -1,1 +1,2 @@
-# Kernel Outlook Password Recovery ( Best Deal for You )<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300800129&affiliateid=200057808)
+# Kernel Outlook Password Recovery ( Best Deal for You )
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300800129&affiliateid=200057808)

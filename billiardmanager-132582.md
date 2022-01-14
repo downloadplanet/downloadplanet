@@ -1,1 +1,4 @@
-# Billiardmanager<br />![Billiardmanager](https://mycommerce.akamaized.net/api/pimages/P132582/BIG/132582.GIF)<br />With billiardmanager you are enabled to manage your billiardlocal. If you buy additional to the software the switchbox you are enabled to switch the billiardtablelights manual or automaticly.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=132582&affiliateid=200057808)
+# Billiardmanager
+![Billiardmanager](https://mycommerce.akamaized.net/api/pimages/P132582/BIG/132582.GIF)
+With billiardmanager you are enabled to manage your billiardlocal. If you buy additional to the software the switchbox you are enabled to switch the billiardtablelights manual or automaticly.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=132582&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Spiral Custom shapes for Photoshop & Elements (CSH) V3<br />www.graphicxtras.com -- Spiral Custom Shapes for Adobe Photoshop & Elements CSH V3
+# Spiral Custom shapes for Photoshop & Elements (CSH) V3
+www.graphicxtras.com -- Spiral Custom Shapes for Adobe Photoshop & Elements CSH V3
 
 Spiral Custom shapes Photoshop and Photoshop Elements
 100 stunning spiral custom shapes designs, all royalty-free, use in commercial as well as hobby projects - all from graphicxtras.com
@@ -18,4 +19,5 @@ MENU:
 
 Any questions about the custom shapes??
 http://www.graphicxtras.com/spirals.htm
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=224765&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=224765&affiliateid=200057808)

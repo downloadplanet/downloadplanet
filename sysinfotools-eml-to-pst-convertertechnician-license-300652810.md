@@ -1,7 +1,9 @@
-# SysInfoTools EML to PST Converter[Technician License]<br />SysInfoTools EML To PST Converter is very efficient and quick tool to perform conversion of EML files into PST File format.
+# SysInfoTools EML to PST Converter[Technician License]
+SysInfoTools EML To PST Converter is very efficient and quick tool to perform conversion of EML files into PST File format.
 Key Features:-
 Performs Safe Conversion from eml files to pst file format.
 Supports Batch Conversion.
 Saves Data with Date Range.
 Creates PST in Unicode Format.
-The tool has a very high and friendly GUI for its users.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300652810&affiliateid=200057808)
+The tool has a very high and friendly GUI for its users.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300652810&affiliateid=200057808)

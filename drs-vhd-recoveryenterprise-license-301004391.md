@@ -1,1 +1,3 @@
-# DRS VHD Recovery[Enterprise License]<br />DRS VHD Recovery<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004391&affiliateid=200057808)
+# DRS VHD Recovery[Enterprise License]
+DRS VHD Recovery
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004391&affiliateid=200057808)

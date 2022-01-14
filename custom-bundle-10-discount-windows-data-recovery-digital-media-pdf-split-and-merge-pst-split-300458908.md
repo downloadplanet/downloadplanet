@@ -1,1 +1,2 @@
-# Custom Bundle 10% discount ( Windows Data Recovery , Digital Media , PDF Split and Merge , PST Split )<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300458908&affiliateid=200057808)
+# Custom Bundle 10% discount ( Windows Data Recovery , Digital Media , PDF Split and Merge , PST Split )
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300458908&affiliateid=200057808)

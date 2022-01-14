@@ -1,1 +1,4 @@
-# MiniTool ShadowMaker Monthly Subscription<br />![MiniTool ShadowMaker Monthly Subscription](https://mycommerce.akamaized.net/api/pimages/P300987505/BIG/300987505.PNG)<br />MiniTool ShadowMaker Monthly subscription,1 Month Free Upgrade,Snap-in WinPE Bootable Builder For Windows 10/8.1/8/7 1 License for 1PC<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300987505&affiliateid=200057808)
+# MiniTool ShadowMaker Monthly Subscription
+![MiniTool ShadowMaker Monthly Subscription](https://mycommerce.akamaized.net/api/pimages/P300987505/BIG/300987505.PNG)
+MiniTool ShadowMaker Monthly subscription,1 Month Free Upgrade,Snap-in WinPE Bootable Builder For Windows 10/8.1/8/7 1 License for 1PC
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300987505&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# ValidInstaller -Workstation Licence-<br />Create Setup's for Pocket PC<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300315669&affiliateid=200057808)
+# ValidInstaller -Workstation Licence-
+Create Setup's for Pocket PC
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300315669&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Wondershare Filmora<br />![Wondershare Filmora](https://mycommerce.akamaized.net/api/pimages/P300949886/BIG/300949886.PNG)<br />Wondershare Video Editor is a video editor for Windows users to edit SD and HD videos to make Hollywood-quality movies with background music and scene transitions. It is so easy that even beginners can edit creative videos easily with the help of this video editing software.
+# Wondershare Filmora
+![Wondershare Filmora](https://mycommerce.akamaized.net/api/pimages/P300949886/BIG/300949886.PNG)
+Wondershare Video Editor is a video editor for Windows users to edit SD and HD videos to make Hollywood-quality movies with background music and scene transitions. It is so easy that even beginners can edit creative videos easily with the help of this video editing software.
 With Wondershare Video Editor, you will show your creative muscle to make out compelling movies regardless of the format compatibility. You can edit video, audio, background audio independently by using three timeline tracks, and this feature largely improves the flexibility and preciseness of video editing. Simple drag-drop your video to this video editor, and then trim, split, merge, crop, rotate as you like. To make your creation stunning, you can enhance your videos with background music, scene transition and video special effects.
 This Video editor is also a video converter, so you can convert videos to other formats and save them on your hard drive for further use. Or specify output videos for playback on the portable devices such as iPhone, iPad, PSP, iPod, etc.
 Key features:
@@ -14,4 +16,5 @@ Add music: You can add your favorite music as background music. You are also all
 Apply scene transition: There are 48 transition effects between video segments in the timeline. You can also preview them in the preview panel.
 Special video effects: You can adjust video brightness, contrast and saturation. Besides these, you can also adjust general parameters like resolution, encoder, and bite rate for optimum results in every way.
 Wondershare Vivideo is available to save your video as various formats on computer for further use.
-You are also able to convert your videos to the format for playback on your portable devices including iPhone, iPad, PSP, iPod, Wii, Zune, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949886&affiliateid=200057808)
+You are also able to convert your videos to the format for playback on your portable devices including iPhone, iPad, PSP, iPod, Wii, Zune, etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949886&affiliateid=200057808)

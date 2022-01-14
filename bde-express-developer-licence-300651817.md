@@ -1,3 +1,6 @@
-# BDE eXpress -Developer Licence-<br />![BDE eXpress -Developer Licence-](https://mycommerce.akamaized.net/api/pimages/P300651817/BIG/300651817.JPG)<br />"BDE eXpress" installs an adapted "Borland Database Engine" (BDE) to acces Paradox- und dBase-Datenbases under Windows 10, 8, 7 or Vista.
+# BDE eXpress -Developer Licence-
+![BDE eXpress -Developer Licence-](https://mycommerce.akamaized.net/api/pimages/P300651817/BIG/300651817.JPG)
+"BDE eXpress" installs an adapted "Borland Database Engine" (BDE) to acces Paradox- und dBase-Datenbases under Windows 10, 8, 7 or Vista.
 Integrated tool to backup databases and upgrade to the vista compatible data format Paradox 7.
-Additional tools for developers, command line tool, silent setup<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300651817&affiliateid=200057808)
+Additional tools for developers, command line tool, silent setup
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300651817&affiliateid=200057808)

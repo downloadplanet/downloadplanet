@@ -1,4 +1,6 @@
-# Buildings City Shapes (PDF) V78<br />www.graphicxtras.com -- Buildings City Vector Shapes Photoshop & Elements & PSP PC & MAC OSX V78
+# Buildings City Shapes (PDF) V78
+www.graphicxtras.com -- Buildings City Vector Shapes Photoshop & Elements & PSP PC & MAC OSX V78
 
 80 Buildings / city themed vector shapes in PDF format for use in Photoshop, Indesign, PaintShop Pro Xara GIMP and many others. license commercial use, royalty-free, all by andrewshapes.com. You can also convert the shape designs into brushes, patterns, shapes, image layers and more. Colorful designs for all your projects. Questions, support@graphicxtras.com. By Andrew Buckle
-  Check out our tutorials etc about the shapes via tutorials section<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300618421&affiliateid=200057808)
+  Check out our tutorials etc about the shapes via tutorials section
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300618421&affiliateid=200057808)

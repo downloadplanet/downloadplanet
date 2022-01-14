@@ -1,4 +1,6 @@
-# TFilesProcess Shareware License<br />![TFilesProcess Shareware License](https://mycommerce.akamaized.net/api/pimages/P300968292/BIG/300968292.PNG)<br />TFilesProcess is a non-visual, callback event based mass file enumerator component with recursion.
+# TFilesProcess Shareware License
+![TFilesProcess Shareware License](https://mycommerce.akamaized.net/api/pimages/P300968292/BIG/300968292.PNG)
+TFilesProcess is a non-visual, callback event based mass file enumerator component with recursion.
 Specify the root folder, and a filter for file names, and you get back the file names in a callback.
 There are 2 versions: a file name based and a shell (PIDL) based version included. TFilesProcessShell can be used to enumerate shell folders as well.
 
@@ -10,4 +12,5 @@ File count progress callback
 Shell items enumeration
 Receive shell items sorted
 
-For more info, visit https://www.3delite.hu/<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300968292&affiliateid=200057808)
+For more info, visit https://www.3delite.hu/
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300968292&affiliateid=200057808)

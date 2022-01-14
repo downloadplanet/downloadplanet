@@ -1,1 +1,3 @@
-# PhraseExpress Enterprise - Incl. 1 year maintenance<br />Please find the product description on the PhraseExpress homepage.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300609320&affiliateid=200057808)
+# PhraseExpress Enterprise - Incl. 1 year maintenance
+Please find the product description on the PhraseExpress homepage.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300609320&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Aimersoft Video Converter for Mac<br />![Aimersoft Video Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300952401/BIG/300952401.JPG)<br />Aimersoft Mac Video Converter is the most powerful Mac Video Converter for you to convert video on Mac OS X (Leopard supported). With this awesome Mac Video Converter, you can easily finish the conversion such as convert MPEG to AVI; convert AVI to MP4, so you need not to look for any single Mac AVI Converter or Mac MP4 Converter.
+# Aimersoft Video Converter for Mac
+![Aimersoft Video Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300952401/BIG/300952401.JPG)
+Aimersoft Mac Video Converter is the most powerful Mac Video Converter for you to convert video on Mac OS X (Leopard supported). With this awesome Mac Video Converter, you can easily finish the conversion such as convert MPEG to AVI; convert AVI to MP4, so you need not to look for any single Mac AVI Converter or Mac MP4 Converter.
 Aimersoft Mac Video Converter is the optimal Mac Video Converter for portable players. With this superb Mac Video Converter, you can easily convert your favorite videos to iPhone, iPod, Zune, PSP and other players on Mac OS X. Aimersoft Mac Video Converter also provides a series of powerful Movie edit function. This Mac Video Converter supports movie cropping, trim, effect adjustment, etc. helps you customize your movies. Although Aimersoft Mac Video Converter is so powerful, it is still very easy to use, you can finish your conversion on Mac OS X with just a few clicks!
 
 Key Features:
@@ -12,4 +14,5 @@ Key Features:
 8. Supports merge several video clips into one file.
 9. Supports various aspects ratios such as 16:9, 4:3 and full screen.
 10. Allows you to capture pictures from video and save as jpeg or bmp photo.
-11. Multi-language supported and intuitive interface, convert video easily on Mac OS X.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952401&affiliateid=200057808)
+11. Multi-language supported and intuitive interface, convert video easily on Mac OS X.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952401&affiliateid=200057808)

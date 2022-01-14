@@ -1,1 +1,4 @@
-# Wondershare PDFelement 7 Standard for Windows<br />![Wondershare PDFelement 7 Standard for Windows](https://mycommerce.akamaized.net/api/pimages/P300976030/BIG/300976030.JPG)<br />Wondershare PDFelement 7 Standard is an all-in-one PDF editor that allows you to easily create, edit, convert, sign PDF files. You can convert from and to PDF directly from Word, Excel, Image.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300976030&affiliateid=200057808)
+# Wondershare PDFelement 7 Standard for Windows
+![Wondershare PDFelement 7 Standard for Windows](https://mycommerce.akamaized.net/api/pimages/P300976030/BIG/300976030.JPG)
+Wondershare PDFelement 7 Standard is an all-in-one PDF editor that allows you to easily create, edit, convert, sign PDF files. You can convert from and to PDF directly from Word, Excel, Image.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300976030&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Wondershare Filmora for Mac (Video Editor)<br />![Wondershare Filmora for Mac (Video Editor)](https://mycommerce.akamaized.net/api/pimages/P300949885/BIG/300949885.PNG)<br />Wondershare Video Studio Express for Mac is easy-to-use video editing software for both novice and professional video editor. You can edit SD videos and HD videos by merging, trimming, splitting, cropping, rotating, and setting brightness, contrast, saturation and volume. Three timeline tracks make video editing flexible and simple, because you can edit video, audio, background music respectively.
+# Wondershare Filmora for Mac (Video Editor)
+![Wondershare Filmora for Mac (Video Editor)](https://mycommerce.akamaized.net/api/pimages/P300949885/BIG/300949885.PNG)
+Wondershare Video Studio Express for Mac is easy-to-use video editing software for both novice and professional video editor. You can edit SD videos and HD videos by merging, trimming, splitting, cropping, rotating, and setting brightness, contrast, saturation and volume. Three timeline tracks make video editing flexible and simple, because you can edit video, audio, background music respectively.
 
 This video editor is also a video converter, you can play your favorite video anywhere and anytime with your iPhone, iPod, iPad, PSP, Wii, Zen, Zune etc regardless of the format compatibility . To share your video creations, you are allowed to upload them to YouTube as long as you submit YouTube account information.
 
@@ -28,4 +30,5 @@ Key Features of Wondershare Video Studio Express for Mac:
 
 12. Copy movies to your device of choice such as iPod, iPhone, iPad, Wii, Zen, Zune and PSP etc, and you can enjoy them wherever you are.
 
-13. You can upload videos directly to YouTube. Add tags to your media, choose among upload qualities, and set your account info for instant uploads.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949885&affiliateid=200057808)
+13. You can upload videos directly to YouTube. Add tags to your media, choose among upload qualities, and set your account info for instant uploads.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949885&affiliateid=200057808)

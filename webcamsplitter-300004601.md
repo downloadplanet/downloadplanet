@@ -1,4 +1,6 @@
-# WebCamSplitter<br />![WebCamSplitter](https://mycommerce.akamaized.net/api/pimages/P300004601/BIG/300004601.PNG)<br />Description
+# WebCamSplitter
+![WebCamSplitter](https://mycommerce.akamaized.net/api/pimages/P300004601/BIG/300004601.PNG)
+Description
 Using WebCamSplitter, you can share a video stream from your single webcam between ANY number of applications. You can plan multiple videoconferences. You can upload images from your cam and have a chat at the same time. You can broadcast your video to the world and do many other things.
     Features
 WebCamSplitter is a unique all-in-box product. Besides the main function, that is sharing a video source, it allows to deal with a lot of really helpful things:
@@ -17,4 +19,5 @@ Besides, WebCamSplitter is always available via system tray just like your ICQ, 
 
 WebCamSplitter Usage Scheme
     Common usage  
-    WebCamSplitter usage  <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300004601&affiliateid=200057808)
+    WebCamSplitter usage  
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300004601&affiliateid=200057808)

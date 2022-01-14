@@ -1,1 +1,3 @@
-# Geprüfter Tourismusfachwirt - Recht und Steuern<br />![Geprüfter Tourismusfachwirt - Recht und Steuern](https://mycommerce.akamaized.net/api/pimages/P300481267/BIG/300481267.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300481267&affiliateid=200057808)
+# Geprüfter Tourismusfachwirt - Recht und Steuern
+![Geprüfter Tourismusfachwirt - Recht und Steuern](https://mycommerce.akamaized.net/api/pimages/P300481267/BIG/300481267.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300481267&affiliateid=200057808)

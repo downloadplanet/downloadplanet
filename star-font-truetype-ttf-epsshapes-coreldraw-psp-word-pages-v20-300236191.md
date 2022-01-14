@@ -1,4 +1,5 @@
-# Star font Truetype TTF & EPSShapes CorelDRAW & PSP & Word & Pages V20<br />www.graphicxtras.com -- Star font Truetype & EPS Shapes CorelDRAW & PSP & Word & Pages V20
+# Star font Truetype TTF & EPSShapes CorelDRAW & PSP & Word & Pages V20
+www.graphicxtras.com -- Star font Truetype & EPS Shapes CorelDRAW & PSP & Word & Pages V20
 
 Stars and starry designs: TTF (true type font set) + EPS (vector shape set)
 Includes 102 unique designs and exciting and useful design elements
@@ -22,4 +23,5 @@ Open or place or import EPS designs into many different applications
 Fonts are stored in normal true type font format
 Adobe and Photoshop and Illustrator and Fireworks and Flash are registered trademarks of Adobe Systems Incorporated; Corel and Paint Shop Pro and CorelDRAW and Photo-Paint and Painter are registered trademarks of Corel Corporation; other trademarks are owned by their respective owners
 http://www.graphicxtras.com for more details about font sets such as see examples of the designs as well as a thumbnail gallery of many of the designs as well as many additional examples of the vector designs.
-Mail any questions to support at graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236191&affiliateid=200057808)
+Mail any questions to support at graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236191&affiliateid=200057808)

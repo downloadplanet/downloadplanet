@@ -1,1 +1,3 @@
-# SysInfo FAT Recovery[Administrator License]<br />SysInfoTools FAT Recovery<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300739646&affiliateid=200057808)
+# SysInfo FAT Recovery[Administrator License]
+SysInfoTools FAT Recovery
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300739646&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Turgs MBOX to Maildir Wizard - Pro License<br />Convert Email Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300954501&affiliateid=200057808)
+# Turgs MBOX to Maildir Wizard - Pro License
+Convert Email Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300954501&affiliateid=200057808)

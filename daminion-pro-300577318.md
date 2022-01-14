@@ -1,1 +1,3 @@
-# Daminion Pro<br />Digital photo management software for creative professionals<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300577318&affiliateid=200057808)
+# Daminion Pro
+Digital photo management software for creative professionals
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300577318&affiliateid=200057808)

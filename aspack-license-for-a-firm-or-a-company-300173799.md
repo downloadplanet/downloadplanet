@@ -1,1 +1,2 @@
-# ASPack (License for a firm or a company)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300173799&affiliateid=200057808)
+# ASPack (License for a firm or a company)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300173799&affiliateid=200057808)

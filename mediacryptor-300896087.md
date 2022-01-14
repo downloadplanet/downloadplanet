@@ -1,1 +1,4 @@
-# MediaCryptor<br />![MediaCryptor](https://mycommerce.akamaized.net/api/pimages/P300896087/BIG/300896087.PNG)<br />MediaCryptor is a secure video player and image browser that can password protect and encrypt all of your videos, audio, images and documents and then play or preview them.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300896087&affiliateid=200057808)
+# MediaCryptor
+![MediaCryptor](https://mycommerce.akamaized.net/api/pimages/P300896087/BIG/300896087.PNG)
+MediaCryptor is a secure video player and image browser that can password protect and encrypt all of your videos, audio, images and documents and then play or preview them.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300896087&affiliateid=200057808)

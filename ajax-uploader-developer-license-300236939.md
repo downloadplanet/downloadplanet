@@ -1,1 +1,3 @@
-# Ajax Uploader Developer License<br />Developer licenses apply to software components, control or class libraries that are integrated by developers into their applications. All developer products have royalty free runtimes. This means that you may freely distribute the product with your application<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236939&affiliateid=200057808)
+# Ajax Uploader Developer License
+Developer licenses apply to software components, control or class libraries that are integrated by developers into their applications. All developer products have royalty free runtimes. This means that you may freely distribute the product with your application
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236939&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# eSoftTools 2 Product (OST Recovery + PST Recovery) - Enterprise License<br />This bundle has inbuilt OST to PST Converter and Outlook PST Recovery Software.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300962030&affiliateid=200057808)
+# eSoftTools 2 Product (OST Recovery + PST Recovery) - Enterprise License
+This bundle has inbuilt OST to PST Converter and Outlook PST Recovery Software.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300962030&affiliateid=200057808)

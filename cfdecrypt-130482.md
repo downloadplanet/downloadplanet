@@ -1,2 +1,4 @@
-# cfDecrypt<br />This is an utility to decrypt files encrypted with cfCrypt/cfEncode program included in Cold Fusion by Allaire Corp. Both cfcrypt versions (1 and 2 - from Cold Fusion ver. 3 and 4 accordingly and cfEncode from ver. 4.5 and 5.x) are supported. Any files are decrypted instantly. This is a command-line utility (like cfCrypt) for Windows 95/98/NT.
-Program's Support Page<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=130482&affiliateid=200057808)
+# cfDecrypt
+This is an utility to decrypt files encrypted with cfCrypt/cfEncode program included in Cold Fusion by Allaire Corp. Both cfcrypt versions (1 and 2 - from Cold Fusion ver. 3 and 4 accordingly and cfEncode from ver. 4.5 and 5.x) are supported. Any files are decrypted instantly. This is a command-line utility (like cfCrypt) for Windows 95/98/NT.
+Program's Support Page
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=130482&affiliateid=200057808)

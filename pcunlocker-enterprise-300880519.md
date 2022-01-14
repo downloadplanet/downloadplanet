@@ -1,1 +1,3 @@
-# PCUnlocker Enterprise<br />Reset forgotten local & domain passwords for any Windows PC, with either UEFI or BIOS boot mode.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300880519&affiliateid=200057808)
+# PCUnlocker Enterprise
+Reset forgotten local & domain passwords for any Windows PC, with either UEFI or BIOS boot mode.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300880519&affiliateid=200057808)

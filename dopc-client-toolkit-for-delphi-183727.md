@@ -1,4 +1,6 @@
-# dOPC Client Toolkit for Delphi<br />![dOPC Client Toolkit for Delphi](https://mycommerce.akamaized.net/api/pimages/P183727/BIG/183727.PNG)<br />Our dOPC Client Toolkit for Delphi is probably one of the most used OPC component collections for Delphi worldwide.
+# dOPC Client Toolkit for Delphi
+![dOPC Client Toolkit for Delphi](https://mycommerce.akamaized.net/api/pimages/P183727/BIG/183727.PNG)
+Our dOPC Client Toolkit for Delphi is probably one of the most used OPC component collections for Delphi worldwide.
 
 In addition, there are a number of good reasons why you should purchase our OPC Framework:
 
@@ -35,4 +37,5 @@ If you want to create high-end OPC client applications in a fast and professiona
 
 We encourage you to download our free trial version, which is fully functional and includes a comprehensive help file and over 30 demo and example programs (with source code). This version is limited only by a warning message.
 
-More information at: https://www.kassl.de<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=183727&affiliateid=200057808)
+More information at: https://www.kassl.de
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=183727&affiliateid=200057808)

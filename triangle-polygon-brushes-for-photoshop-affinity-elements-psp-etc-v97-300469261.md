@@ -1,3 +1,5 @@
-# Triangle / Polygon brushes for Photoshop, Affinity, Elements, PSP, etc V97<br />www.graphicxtras.com -- Triangle Brushes for Adobe Photoshop & Elements & PSP Polygons PC & MAC OSX V97
+# Triangle / Polygon brushes for Photoshop, Affinity, Elements, PSP, etc V97
+www.graphicxtras.com -- Triangle Brushes for Adobe Photoshop & Elements & PSP Polygons PC & MAC OSX V97
 
-Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469261&affiliateid=200057808)
+Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469261&affiliateid=200057808)

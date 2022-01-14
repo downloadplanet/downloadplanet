@@ -1,4 +1,5 @@
-# Trainingspaket "Rationelle Kuechenorganisation" mit Kalkulationsprogramm, Dienstplanprogramm und Training vom 10.06.- 11.06.2015 in Frankfurt<br />Folgende Produkte erhalten Sie von uns:
+# Trainingspaket "Rationelle Kuechenorganisation" mit Kalkulationsprogramm, Dienstplanprogramm und Training vom 10.06.- 11.06.2015 in Frankfurt
+Folgende Produkte erhalten Sie von uns:
 
 Komplettpaket Kalkulation Speisen mit Deckungsbeitrag
 Komplettpaket Dienstplanprogramm in Excel
@@ -29,4 +30,5 @@ Inklusive. Tagungspauschale pro Tag
 Motel One Airport Frankfurt
 Colmarer Str. 2
 60528 Frankfurt
-Tel: 069-660536-0<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634217&affiliateid=200057808)
+Tel: 069-660536-0
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634217&affiliateid=200057808)

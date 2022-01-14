@@ -1,1 +1,3 @@
-# Jade 10 Year Gold Pass (non-recurring)<br />PredictBGL is an alternative to mySugr. PredictBGL starts where MySugr and others stop. With prediction of future blood sugar levels, real dosing advice, live import of Dexcom CGM data for immediate dose comparison, you'll wonder how you ever managed to cope without it!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300745594&affiliateid=200057808)
+# Jade 10 Year Gold Pass (non-recurring)
+PredictBGL is an alternative to mySugr. PredictBGL starts where MySugr and others stop. With prediction of future blood sugar levels, real dosing advice, live import of Dexcom CGM data for immediate dose comparison, you'll wonder how you ever managed to cope without it!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300745594&affiliateid=200057808)

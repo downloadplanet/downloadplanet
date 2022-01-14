@@ -1,1 +1,3 @@
-# Jagware MSG to NSF Wizard - Business License<br />Software to Convert MSG files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300958203&affiliateid=200057808)
+# Jagware MSG to NSF Wizard - Business License
+Software to Convert MSG files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300958203&affiliateid=200057808)

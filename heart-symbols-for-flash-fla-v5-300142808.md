@@ -1,4 +1,5 @@
-# Heart Symbols for Flash (FLA) V5<br />www.graphicxtras.com -- Heart symbols for Adobe Flash Valentine & Romance & Love Vector designs FLA V5
+# Heart Symbols for Flash (FLA) V5
+www.graphicxtras.com -- Heart symbols for Adobe Flash Valentine & Romance & Love Vector designs FLA V5
 
 160 Stunning symbols for Adobe (R) Flash (R)
 Royalty-free, use in commercial or hobby projects
@@ -16,4 +17,5 @@ To purchase, click add to cart or buy now - e-mail means digital download
 Any questions, e-mail support@graphicxtras.com - commercial use, digital downloads, royalty-free
 
 Any questions, please mail us on support@graphicxtras.comFlash symbols on http://www.graphicxtras.com
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300142808&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300142808&affiliateid=200057808)

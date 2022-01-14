@@ -1,4 +1,6 @@
-# InstrumentLab ( .NET Edition ) Single License + Source Code<br />![InstrumentLab ( .NET Edition ) Single License + Source Code](https://mycommerce.akamaized.net/api/pimages/P300338255/BIG/300338255.JPG)<br />InstrumentLab is a set of .NET 2.0(or higher) components for visual instrumentation.
+# InstrumentLab ( .NET Edition ) Single License + Source Code
+![InstrumentLab ( .NET Edition ) Single License + Source Code](https://mycommerce.akamaized.net/api/pimages/P300338255/BIG/300338255.JPG)
+InstrumentLab is a set of .NET 2.0(or higher) components for visual instrumentation.
 Also includes a Visual Graphical Editor for Codeless Development.
 Contains:
 LED control with On/Off states.
@@ -24,4 +26,5 @@ VideoLab Layering Integration - All components can be rendered inside video as a
 VideoLab Video Display Hosting and Rendering - The components can contain image display, and use it as internal background. The Matrix can render video by using the ImageDisplay.
 PlotLab integration - All components can be rendered inside a Scope or Waterfall as backgrounds. The Waterfall and Scope can be hosted in InstrumentLab components.
 GDI+ Rendered.
-Included counters and time measuring components.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300338255&affiliateid=200057808)
+Included counters and time measuring components.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300338255&affiliateid=200057808)

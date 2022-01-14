@@ -1,2 +1,4 @@
-# MD5 COM Component (Distribution License)<br />The MD5 Com Component is for ASP, Cold Fusion, VB, VC and other languages. The com component will quickly tell you how many pages are in a pdf file without the need for acrobat, ideal for web sites that serve pdf content. This license allows you to send unlimited copies of the software out with your own software, by no means must this software be sold separately.
-All Updates to 1.xx are free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300452043&affiliateid=200057808)
+# MD5 COM Component (Distribution License)
+The MD5 Com Component is for ASP, Cold Fusion, VB, VC and other languages. The com component will quickly tell you how many pages are in a pdf file without the need for acrobat, ideal for web sites that serve pdf content. This license allows you to send unlimited copies of the software out with your own software, by no means must this software be sold separately.
+All Updates to 1.xx are free of charge.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300452043&affiliateid=200057808)

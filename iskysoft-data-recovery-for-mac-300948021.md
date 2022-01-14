@@ -1,4 +1,6 @@
-# iSkysoft Data Recovery for Mac<br />![iSkysoft Data Recovery for Mac](https://mycommerce.akamaized.net/api/pimages/P300948021/BIG/300948021.PNG)<br />iSkysoft Data Recovery for Mac is a safe, affordable & Do-It-Yourself data recovery software for mac.
+# iSkysoft Data Recovery for Mac
+![iSkysoft Data Recovery for Mac](https://mycommerce.akamaized.net/api/pimages/P300948021/BIG/300948021.PNG)
+iSkysoft Data Recovery for Mac is a safe, affordable & Do-It-Yourself data recovery software for mac.
 
 Key features
 
@@ -22,4 +24,5 @@ Preview Recoverable Files
 
 View photos in thumbnail or cover flow view and easily check image quality before recovery.
 Preview video and audio files to check whether or not they're what you are searching for.
-Open documents, email and archive files to see they're intact and the ones you need.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948021&affiliateid=200057808)
+Open documents, email and archive files to see they're intact and the ones you need.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948021&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Greek ornament symbols for Flash (FLA) V7<br />www.graphicxtras.com -- Greek ornament symbols for Adobe Flash FLA Shapes V7
+# Greek ornament symbols for Flash (FLA) V7
+www.graphicxtras.com -- Greek ornament symbols for Adobe Flash FLA Shapes V7
 
 100 Greek ornament symbols
 
@@ -16,4 +17,5 @@ Adobe and Flash are registered trademarks of Adobe Systems Incorporated
 
 
 Any questions, please mail us on support@graphicxtras.comFlash symbols on http://www.graphicxtras.com
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277756&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300277756&affiliateid=200057808)

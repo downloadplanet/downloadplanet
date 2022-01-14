@@ -1,3 +1,6 @@
-# SkinFiner - Home License<br />![SkinFiner - Home License](https://mycommerce.akamaized.net/api/pimages/P300863600/BIG/300863600.PNG)<br />SkinFiner is a photo editing software designed to free you from tedious manual labor in skin retouching. It helps you smooth and enhance skin, get a perfect portrait result in an easy and fast way.
+# SkinFiner - Home License
+![SkinFiner - Home License](https://mycommerce.akamaized.net/api/pimages/P300863600/BIG/300863600.PNG)
+SkinFiner is a photo editing software designed to free you from tedious manual labor in skin retouching. It helps you smooth and enhance skin, get a perfect portrait result in an easy and fast way.
 Home license allows you to install and use SkinFiner on any of your personal computers. But does not allow to run SkinFiner on different computers simultaneously.
-This is a license for non-commercial, personal use only. Not for commercial organizations and corporations. Commercial uses are strictly prohibited.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300863600&affiliateid=200057808)
+This is a license for non-commercial, personal use only. Not for commercial organizations and corporations. Commercial uses are strictly prohibited.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300863600&affiliateid=200057808)

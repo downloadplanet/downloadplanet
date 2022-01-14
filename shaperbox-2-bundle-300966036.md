@@ -1,1 +1,3 @@
-# ShaperBox 2 Bundle<br />8 Shaper effects - for mixing & creativity. NoiseShaper, TimeShaper 2, DriveShaper, CrushShaper, VolumeShaper 6, FilterShaper Core 2, PanShaper 3 and WidthShaper 2.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300966036&affiliateid=200057808)
+# ShaperBox 2 Bundle
+8 Shaper effects - for mixing & creativity. NoiseShaper, TimeShaper 2, DriveShaper, CrushShaper, VolumeShaper 6, FilterShaper Core 2, PanShaper 3 and WidthShaper 2.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300966036&affiliateid=200057808)

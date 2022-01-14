@@ -1,4 +1,6 @@
-# iPubsoft PDF Combiner for Mac<br />![iPubsoft PDF Combiner for Mac](https://mycommerce.akamaized.net/api/pimages/P300921996/BIG/300921996.PNG)<br />Efficient PDF Tool for PDF Files Combination on Mac!
+# iPubsoft PDF Combiner for Mac
+![iPubsoft PDF Combiner for Mac](https://mycommerce.akamaized.net/api/pimages/P300921996/BIG/300921996.PNG)
+Efficient PDF Tool for PDF Files Combination on Mac!
 
 It is necessary to combine multiple PDF files into a single file sometimes when you want to have better PDF organizing and archiving. As an efficient PDF tool, iPubsoft PDF Combiner for Mac rightly provides all Mac users in need with the ability to merge batches of PDF files into one for better use. Its terse and concise interface makes the PDF combination quite a simple task.
 
@@ -8,4 +10,5 @@ It is necessary to combine multiple PDF files into a single file sometimes when 
 
 - Orderly combine the PDF files to one in an order set by Mac user.
 
-- Easily PDF files combination on Mac lead by a self-explanatory user interface.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921996&affiliateid=200057808)
+- Easily PDF files combination on Mac lead by a self-explanatory user interface.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921996&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# PDF Editor Pro 10 concurrent users special offer<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300380048&affiliateid=200057808)
+# PDF Editor Pro 10 concurrent users special offer
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300380048&affiliateid=200057808)

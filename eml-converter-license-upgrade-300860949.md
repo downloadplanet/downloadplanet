@@ -1,1 +1,3 @@
-# EML Converter - License Upgrade<br />Software to Convert EML Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300860949&affiliateid=200057808)
+# EML Converter - License Upgrade
+Software to Convert EML Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300860949&affiliateid=200057808)

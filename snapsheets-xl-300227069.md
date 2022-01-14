@@ -1,1 +1,4 @@
-# SnapSheets XL<br />![SnapSheets XL](https://mycommerce.akamaized.net/api/pimages/P300227069/BIG/300227069.JPG)<br />SnapSheets XL is a cost effective easy to use software package that integrates into Excel for Quality Function Deployment (QFD), Failure Mode Effects Analysis (FMEA), and Pugh Concept Selection. Whether your needs are for Six Sigma, Design for Six Sigma (DFSS), ISO 9000, or general use, SnapSheets XL is the solution for your FMEA, QFD, and Pugh needs.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300227069&affiliateid=200057808)
+# SnapSheets XL
+![SnapSheets XL](https://mycommerce.akamaized.net/api/pimages/P300227069/BIG/300227069.JPG)
+SnapSheets XL is a cost effective easy to use software package that integrates into Excel for Quality Function Deployment (QFD), Failure Mode Effects Analysis (FMEA), and Pugh Concept Selection. Whether your needs are for Six Sigma, Design for Six Sigma (DFSS), ISO 9000, or general use, SnapSheets XL is the solution for your FMEA, QFD, and Pugh needs.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300227069&affiliateid=200057808)

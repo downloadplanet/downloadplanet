@@ -1,1 +1,2 @@
-# BW-Fachpaket: (II.) 6. Unternehmensführung, Videocoaching, 41 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300579343&affiliateid=200057808)
+# BW-Fachpaket: (II.) 6. Unternehmensführung, Videocoaching, 41 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300579343&affiliateid=200057808)

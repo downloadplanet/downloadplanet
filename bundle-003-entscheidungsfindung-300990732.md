@@ -1,1 +1,3 @@
-# Bundle - 003 - Entscheidungsfindung<br />Bundle - 003 - Entscheidungsfindung<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300990732&affiliateid=200057808)
+# Bundle - 003 - Entscheidungsfindung
+Bundle - 003 - Entscheidungsfindung
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300990732&affiliateid=200057808)

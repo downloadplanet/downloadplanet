@@ -1,4 +1,5 @@
-# Andrews Plugins Color Effects for Photoshop & PSP (PC Only) V15<br />www.graphicxtras.com -- Andrews Plugins Color Effects Adobe Photoshop & PSP PC Filters V15
+# Andrews Plugins Color Effects for Photoshop & PSP (PC Only) V15
+www.graphicxtras.com -- Andrews Plugins Color Effects Adobe Photoshop & PSP PC Filters V15
 
 Color effects plug-in 'color effects' from the developer of the Andrew's Filters. A stunning new plug-in tool with 1000s and 1000s of superb color effects. Combines multiple filters such as invert, posterization, saturation and many others with two internal gradients: creates millions of color effects such as frame designs, overlays, backgrounds, paint effects, blur effects, smears, sepia effects and many more.
 
@@ -12,4 +13,5 @@ The plug-in set is easy to install and use, simply add to the plug-ins path of t
 
 Comes with many randomization features, color effects, jitter features, preview options and more.
 
-Home page is http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=200809&affiliateid=200057808)
+Home page is http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=200809&affiliateid=200057808)

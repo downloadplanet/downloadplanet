@@ -1,4 +1,5 @@
-# Expert Lotto 5<br />Expert Lotto is an application for lottery players from around the world. It is a complex and flexible tool providing support for any type of lottery - Jackpot, Keno, Powerball, Pick 3, Pick 4, Pick X - or any other numerical lottery.
+# Expert Lotto 5
+Expert Lotto is an application for lottery players from around the world. It is a complex and flexible tool providing support for any type of lottery - Jackpot, Keno, Powerball, Pick 3, Pick 4, Pick X - or any other numerical lottery.
 
 
 Feature Highlights
@@ -72,4 +73,5 @@ There are keyboard shortcuts for all major actions which makes the workflow much
 Frequent Updates
 The application is under constant development and new features are being added very frequently. Feel free to join our discussion forum and post a request for a new application feature if you think that Expert Lotto is missing anything.
 
-Application updates are delivered automatically online, you don't need to reinstall everything from scratch when a new version of Expert Lotto is released.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300434807&affiliateid=200057808)
+Application updates are delivered automatically online, you don't need to reinstall everything from scratch when a new version of Expert Lotto is released.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300434807&affiliateid=200057808)

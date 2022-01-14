@@ -1,4 +1,6 @@
-# Checkerboard brushes for Photoshop, Affinity, Elements, PSP, etc V157<br />www.graphicxtras.com -- Checkerboard Brushes for Adobe Photoshop & Elements & PSP Check PC & MAC OSX V157
+# Checkerboard brushes for Photoshop, Affinity, Elements, PSP, etc V157
+www.graphicxtras.com -- Checkerboard Brushes for Adobe Photoshop & Elements & PSP Check PC & MAC OSX V157
 
 100 Checkerboard brushes for use in Photoshop, Photoshop Elements, PSP and many other applications. 300 DPI. The brushes are in ABR format as well as vector EPS format - all for license commercial use, royalty-free - Released January 4th 2012.
-Check out http://www.graphicxtras.com/products/psbrush.htm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300498257&affiliateid=200057808)
+Check out http://www.graphicxtras.com/products/psbrush.htm
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300498257&affiliateid=200057808)

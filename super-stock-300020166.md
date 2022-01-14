@@ -1,4 +1,5 @@
-# Super Stock<br />Iconshock Super Stock
+# Super Stock
+Iconshock Super Stock
 
 This is definitively your best choice. The super set includes the soft, plastic and modern full stocks, with an excellent selection of icons ideal not only for business oriented applications but also for multimedia and game applications.
 
@@ -11,4 +12,5 @@ Sizes:
 Color Depth:
 32bits (With alpha channel),8bits (256colors)
 File types:
-PNG,TIFF,BMP,GIF,ICO(Windows),ICNS(Mac)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300020166&affiliateid=200057808)
+PNG,TIFF,BMP,GIF,ICO(Windows),ICNS(Mac)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300020166&affiliateid=200057808)

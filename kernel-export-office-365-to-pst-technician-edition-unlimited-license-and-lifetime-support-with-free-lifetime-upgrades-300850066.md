@@ -1,1 +1,2 @@
-# Kernel Export Office 365 to PST - Technician Edition ( unlimited license and lifetime support with free lifetime upgrades )<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300850066&affiliateid=200057808)
+# Kernel Export Office 365 to PST - Technician Edition ( unlimited license and lifetime support with free lifetime upgrades )
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300850066&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Additional installation CD Adorage Effectpackage Vol. 12<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428412&affiliateid=200057808)
+# Additional installation CD Adorage Effectpackage Vol. 12
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428412&affiliateid=200057808)

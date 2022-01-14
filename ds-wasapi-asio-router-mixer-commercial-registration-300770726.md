@@ -1,4 +1,6 @@
-# DS WASAPI ASIO Router Mixer Commercial Registration<br />![DS WASAPI ASIO Router Mixer Commercial Registration](https://mycommerce.akamaized.net/api/pimages/P300770726/BIG/300770726.PNG)<br />DS WASAPI ASIO Router Mixer is an audio input to audio output router/mixer with support of Direct Sound, WASAPI and ASIO modes.
+# DS WASAPI ASIO Router Mixer Commercial Registration
+![DS WASAPI ASIO Router Mixer Commercial Registration](https://mycommerce.akamaized.net/api/pimages/P300770726/BIG/300770726.PNG)
+DS WASAPI ASIO Router Mixer is an audio input to audio output router/mixer with support of Direct Sound, WASAPI and ASIO modes.
 Any type and number of audio inputs can be routed to any type of audio output with matrix mixing, VST DSP plugin support, 11 band equalizer and recording option.
 Equalizer and matrix mixing has a preset system to store and recall settings.
 DS WASAPI ASIO Router Mixer can start automaticaly with Windows with last used settings.
@@ -10,4 +12,5 @@ Registration modes:
 Registration: For home use.
 Commercial Registration: For commercial use, using DS WASAPI ASIO Router Mixer for commercial purposes inside a commercial company (for money making use).
 
-For more info visit: www.3delite.hu<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300770726&affiliateid=200057808)
+For more info visit: www.3delite.hu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300770726&affiliateid=200057808)

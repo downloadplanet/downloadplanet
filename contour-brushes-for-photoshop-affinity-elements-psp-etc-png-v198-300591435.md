@@ -1,4 +1,6 @@
-# Contour brushes for Photoshop, Affinity, Elements, PSP, etc (PNG) V198<br />www.graphicxtras.com -- Contour brushes PNG files Photoshop & PSP & GIMP & Elements Inset V198
+# Contour brushes for Photoshop, Affinity, Elements, PSP, etc (PNG) V198
+www.graphicxtras.com -- Contour brushes PNG files Photoshop & PSP & GIMP & Elements Inset V198
 
 Contours brushes
-50 Contours brushes / images files in PNG format, all for commercial use, all royalty-free. Use in Photoshop, Photoshop elements, PSP, GIMP, Indesign, Pages, Photo-Paint and many more. All the brush strokes can be used to create items for sale such as books, logos, web pages, packaging, adverts, videos and much more. All the brushes are by graphicxtras.com (Andrew Buckle). Any questions, please contact us on support@graphicxtras.com. The brushes are all 300 DPI, approx 1600x1600 in size. Set also includes documentation, gallery, serial number as well as the brushes.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300591435&affiliateid=200057808)
+50 Contours brushes / images files in PNG format, all for commercial use, all royalty-free. Use in Photoshop, Photoshop elements, PSP, GIMP, Indesign, Pages, Photo-Paint and many more. All the brush strokes can be used to create items for sale such as books, logos, web pages, packaging, adverts, videos and much more. All the brushes are by graphicxtras.com (Andrew Buckle). Any questions, please contact us on support@graphicxtras.com. The brushes are all 300 DPI, approx 1600x1600 in size. Set also includes documentation, gallery, serial number as well as the brushes.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300591435&affiliateid=200057808)

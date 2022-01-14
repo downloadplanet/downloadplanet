@@ -1,6 +1,8 @@
-# PDF Resize for Unix AIX (Server License)<br />PDF Resize is a high performance server tool from Traction Software for Windows PC, Unix Aix, Linux, Macintosh OSX, HP-UX
+# PDF Resize for Unix AIX (Server License)
+PDF Resize is a high performance server tool from Traction Software for Windows PC, Unix Aix, Linux, Macintosh OSX, HP-UX
 NOTE: This Software does NOT require Acrobat, PDF Resize is designed for server usage.
 PDF Resize software automates the process of resizing the pages of pdf's to a new page size. NOTE: This does not compress or loose information. PDF Resize contains many special features like making all pages 200% larger, change x or y size of the page e.g. 200x150%, make all pages a certain size e.g. ALL A4 size, you can start from any page, 1 in nth pages, odd, even page sizing.
 simple command line parameters:
 e.g. PdfResize test.pdf out-test.pdf -scale200 will resize all pages x2 size. (200% bigger) e.g. PdfResize test.pdf out-test.pdf -scale200 -s1,3-4,6 will resize pages 1, 3-4 & 6 x2 size. (200% bigger) e.g. PdfResize test.pdf out-test.pdf -scalex200 -scaley150 will resize all pages x2 X size and 1.5 y size. (200%x150% bigger) e.g. PdfResize test.pdf out-test.pdf -pagesize 0,0,1000,500 will resize all pages to a specific size, 1000x500 points e.g. dir /B *.pdf > list.txt, then PdfResize list.txt -fout -scale200 list.txt file contains:- in1.pdf in2.pdf in3.pdf see full list of features for full list of parameters.
-All licenses include free updates to 1.xx and free 24/7 email support.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300499632&affiliateid=200057808)
+All licenses include free updates to 1.xx and free 24/7 email support.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300499632&affiliateid=200057808)

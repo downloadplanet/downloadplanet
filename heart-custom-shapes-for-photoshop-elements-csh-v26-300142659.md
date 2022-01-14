@@ -1,4 +1,5 @@
-# Heart Custom shapes for Photoshop & Elements (CSH) V26<br />www.graphicxtras.com -- Heart Custom Shapes for Adobe Photoshop & Elements CSH Romance & Love & Valentines Vectors V26
+# Heart Custom shapes for Photoshop & Elements (CSH) V26
+www.graphicxtras.com -- Heart Custom Shapes for Adobe Photoshop & Elements CSH Romance & Love & Valentines Vectors V26
 
 Custom shapes Photoshop and Photoshop Elements
 200 custom shapes 'hearts' designs for Adobe (R) Photoshop (R)
@@ -21,4 +22,5 @@ MENU:
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300142659&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300142659&affiliateid=200057808)

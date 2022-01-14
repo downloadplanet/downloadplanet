@@ -1,1 +1,3 @@
-# WSL-US Pop Vol 2<br />![WSL-US Pop Vol 2](https://mycommerce.akamaized.net/api/pimages/P300488635/BIG/300488635.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300488635&affiliateid=200057808)
+# WSL-US Pop Vol 2
+![WSL-US Pop Vol 2](https://mycommerce.akamaized.net/api/pimages/P300488635/BIG/300488635.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300488635&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Circle symbols for Illustrator (AI) V36<br />www.graphicxtras.com -- Circle Symbols for Adobe Illustrator PC & MAC OSX Circular design shapes V36
+# Circle symbols for Illustrator (AI) V36
+www.graphicxtras.com -- Circle Symbols for Adobe Illustrator PC & MAC OSX Circular design shapes V36
 
 160 Circles designs for Adobe Illustrator (many different designs including basic and complex designs, emboss designs, background designs, multiple designs, drop shadow designs and more)
 
@@ -16,4 +17,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300256987&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300256987&affiliateid=200057808)

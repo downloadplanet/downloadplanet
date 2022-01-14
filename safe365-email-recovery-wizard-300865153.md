@@ -1,1 +1,4 @@
-# Safe365 Email Recovery Wizard<br />![Safe365 Email Recovery Wizard](https://mycommerce.akamaized.net/api/pimages/P300865153/BIG/300865153.PNG)<br />Leading Email Recovery software which can recover deleted or lost emails, folders, calendars, appointments, meeting requests, contacts, tasks, task requests, journals, notes and attachments from corrupted .pst file, recover mail items from MS-Outlook 2010, 2007, 2003, 2002/XP, 2000, 98 and 97.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865153&affiliateid=200057808)
+# Safe365 Email Recovery Wizard
+![Safe365 Email Recovery Wizard](https://mycommerce.akamaized.net/api/pimages/P300865153/BIG/300865153.PNG)
+Leading Email Recovery software which can recover deleted or lost emails, folders, calendars, appointments, meeting requests, contacts, tasks, task requests, journals, notes and attachments from corrupted .pst file, recover mail items from MS-Outlook 2010, 2007, 2003, 2002/XP, 2000, 98 and 97.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865153&affiliateid=200057808)

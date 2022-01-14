@@ -1,1 +1,3 @@
-# SysVita Exchange OST Recovery : Technician License<br />Microsoft Exchange OST recovery tool is now loaded with an advanced search feature making it easier for users to search and locate specific hidden OST files in your system.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300848805&affiliateid=200057808)
+# SysVita Exchange OST Recovery : Technician License
+Microsoft Exchange OST recovery tool is now loaded with an advanced search feature making it easier for users to search and locate specific hidden OST files in your system.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300848805&affiliateid=200057808)

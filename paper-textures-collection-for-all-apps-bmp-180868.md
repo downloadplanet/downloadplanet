@@ -1,4 +1,5 @@
-# Paper Textures Collection for all apps (BMP)<br />www.graphicxtras.com -- Paper Textures Collection Paint Shop Pro & Photoshop BMP
+# Paper Textures Collection for all apps (BMP)
+www.graphicxtras.com -- Paper Textures Collection Paint Shop Pro & Photoshop BMP
 
 
 1250 Texture designs, seamless textures from graphicxtras.com
@@ -17,4 +18,5 @@ Download or CD (P&P Extra if CD option selected)
 To purchase, click add to cart or buy now - e-mail means digital download
 
 Any questions, e-mail support@graphicxtras.com - commercial use, digital downloads, royalty-free
-MENU:<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180868&affiliateid=200057808)
+MENU:
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180868&affiliateid=200057808)

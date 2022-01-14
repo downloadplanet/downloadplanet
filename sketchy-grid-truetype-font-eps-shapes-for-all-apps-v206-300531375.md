@@ -1,4 +1,5 @@
-# Sketchy Grid Truetype font / EPS Shapes for all apps V206<br />www.graphicxtras.com -- Sketchy Grid Font truetype & EPS CorelDRAW & PSP & Pages & Word V206
+# Sketchy Grid Truetype font / EPS Shapes for all apps V206
+www.graphicxtras.com -- Sketchy Grid Font truetype & EPS CorelDRAW & PSP & Pages & Word V206
 
 Sketchy grid font set for Photoshop etc
 100 Sketchy Grid shapes in true type font- TTF and EPS format. Use the sketch grid shapes in most applications such as Photoshop, Indesign, Pages, Illustrator, Publisher, Microsoft Word, PSP and many others on the PC and MAC OS X as well as other operating systems. The sketch font set includes many different designs such as hand drawn sketch shapes, doodles, rough grid designs and more
@@ -9,4 +10,5 @@ The grid shapes set is for use in commercial and personal use, all royalty-free,
 
 added June 29th, 2012
 
-Any questions about the sketchy grid font set, please contact us on support@graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300531375&affiliateid=200057808)
+Any questions about the sketchy grid font set, please contact us on support@graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300531375&affiliateid=200057808)

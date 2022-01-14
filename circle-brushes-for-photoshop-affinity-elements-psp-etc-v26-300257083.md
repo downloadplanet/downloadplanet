@@ -1,4 +1,5 @@
-# Circle brushes for Photoshop, Affinity, Elements, PSP, etc V26<br />www.graphicxtras.com -- Circle Brushes for Adobe Photoshop & Elements & PSP V26
+# Circle brushes for Photoshop, Affinity, Elements, PSP, etc V26
+www.graphicxtras.com -- Circle Brushes for Adobe Photoshop & Elements & PSP V26
 
 100 Circles brushes (ABR format) includes 100 PNG brushes. The brushes set includes many different circle designs including basic circular designs, ring brushes, weird brushes, bevel brushes, shadow circle brushes, multi brushes and many more
 
@@ -11,4 +12,5 @@ The brushes are easy to use and install, hi-impact designs for many different us
 Circle brushes
 
 brushes were all created by graphicxtras.com, all (c) 2008 Abneil Software Ltd / Andrew Buckle
- <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300257083&affiliateid=200057808)
+ 
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300257083&affiliateid=200057808)

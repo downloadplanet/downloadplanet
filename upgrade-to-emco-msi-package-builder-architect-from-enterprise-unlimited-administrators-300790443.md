@@ -1,1 +1,2 @@
-# Upgrade to EMCO MSI Package Builder Architect from Enterprise (Unlimited Administrators)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300790443&affiliateid=200057808)
+# Upgrade to EMCO MSI Package Builder Architect from Enterprise (Unlimited Administrators)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300790443&affiliateid=200057808)

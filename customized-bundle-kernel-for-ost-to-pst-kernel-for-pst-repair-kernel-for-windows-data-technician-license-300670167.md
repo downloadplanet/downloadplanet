@@ -1,1 +1,2 @@
-# Customized Bundle ( Kernel for OST to PST + Kernel for PST Repair + Kernel for Windows Data ) Technician License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300670167&affiliateid=200057808)
+# Customized Bundle ( Kernel for OST to PST + Kernel for PST Repair + Kernel for Windows Data ) Technician License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300670167&affiliateid=200057808)

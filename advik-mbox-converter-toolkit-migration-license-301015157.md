@@ -1,1 +1,3 @@
-# Advik MBOX Converter Toolkit - Migration License<br />Software to Convert MBOX Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301015157&affiliateid=200057808)
+# Advik MBOX Converter Toolkit - Migration License
+Software to Convert MBOX Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301015157&affiliateid=200057808)

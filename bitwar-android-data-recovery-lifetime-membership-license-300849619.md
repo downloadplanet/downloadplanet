@@ -1,1 +1,4 @@
-# Bitwar Android Data Recovery [Lifetime Membership License]<br />![Bitwar Android Data Recovery [Lifetime Membership License]](https://mycommerce.akamaized.net/api/pimages/P300849619/BIG/300849619.PNG)<br />Ease-to-use data recovery software for Android to retrieve call history, contacts, messages, photos, videos, audios, voice memos, and other essential data.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300849619&affiliateid=200057808)
+# Bitwar Android Data Recovery [Lifetime Membership License]
+![Bitwar Android Data Recovery [Lifetime Membership License]](https://mycommerce.akamaized.net/api/pimages/P300849619/BIG/300849619.PNG)
+Ease-to-use data recovery software for Android to retrieve call history, contacts, messages, photos, videos, audios, voice memos, and other essential data.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300849619&affiliateid=200057808)

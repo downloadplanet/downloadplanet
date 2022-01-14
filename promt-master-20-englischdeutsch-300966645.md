@@ -1,4 +1,6 @@
-# PROMT Master 20 Englisch-Deutsch<br />![PROMT Master 20 Englisch-Deutsch](https://mycommerce.akamaized.net/api/pimages/P300966645/BIG/300966645.JPG)<br />Der ideale Textübersetzer Englisch-Deutsch und Deutsch-Englisch für Privatanwender. Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse und angepassten Übersetzungsprofilen werden sogar komplizierte Satzstrukturen korrekt übersetzt. Schnell und effizient übersetzen Sie Ihre Korrespondenz, Webseiten, Bedienungsanleitungen, markierte Texte und sogar einen Bildschirmbereich in jeder Windows-Anwendung. Mit 850.000 Wörter und Wendungen.
+# PROMT Master 20 Englisch-Deutsch
+![PROMT Master 20 Englisch-Deutsch](https://mycommerce.akamaized.net/api/pimages/P300966645/BIG/300966645.JPG)
+Der ideale Textübersetzer Englisch-Deutsch und Deutsch-Englisch für Privatanwender. Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse und angepassten Übersetzungsprofilen werden sogar komplizierte Satzstrukturen korrekt übersetzt. Schnell und effizient übersetzen Sie Ihre Korrespondenz, Webseiten, Bedienungsanleitungen, markierte Texte und sogar einen Bildschirmbereich in jeder Windows-Anwendung. Mit 850.000 Wörter und Wendungen.
 
 Highlights im Überblick
 Im Übersetzungseditor stehen wichtigste Funktionen zur Auswahl, damit Sie Ihre Übersetzungsaufgaben effektiv erledigen. Sie können Texte eingeben und übersetzen, ganze Dateien mit Erhalt der Formatierung in die andere Sprache übertragen oder einzelne Begriffe im umfangreichen Wörterbuch nachschlagen.
@@ -13,4 +15,5 @@ Erfahren Sie mehr >>>
 
 Systemvoraussetzungen
 Microsoft Windows® 10, 8, und 7 (32-/64-bit)
-Kann nicht in einer Domänenumgebung eines Unternehmensnetzwerkes verwendet werden.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300966645&affiliateid=200057808)
+Kann nicht in einer Domänenumgebung eines Unternehmensnetzwerkes verwendet werden.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300966645&affiliateid=200057808)

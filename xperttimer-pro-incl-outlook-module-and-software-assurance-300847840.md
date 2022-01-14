@@ -1,4 +1,6 @@
-# Xpert-Timer Pro incl. Outlook module and Software Assurance<br />![Xpert-Timer Pro incl. Outlook module and Software Assurance](https://mycommerce.akamaized.net/api/pimages/P300847840/BIG/300847840.PNG)<br />Turn time into money
+# Xpert-Timer Pro incl. Outlook module and Software Assurance
+![Xpert-Timer Pro incl. Outlook module and Software Assurance](https://mycommerce.akamaized.net/api/pimages/P300847840/BIG/300847840.PNG)
+Turn time into money
 History
 Back in 1999 Xpert-Timer was originally developed to document the steps involved in software development.
 Main focus
@@ -14,4 +16,5 @@ There are many more features in Xpert Timer. Visit our product page to learn mor
 General Data Protection Regulation
 As Xpert-Timer is based on the client/server technology, all your data is stored in your office. Additionally Xpert-Timer includes a user acces management. Therefore Xpert-Timer complies with the General Data Protection Regulation.
 Free trial
-You can use Xpert-Timer for 30 days without limitation with a maximum of 10 users. If you are working with a network, the installation on a network drive is good to connect all users. A link to the xperttimer.exe on the network drive is enough to start the program from all workstations.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300847840&affiliateid=200057808)
+You can use Xpert-Timer for 30 days without limitation with a maximum of 10 users. If you are working with a network, the installation on a network drive is good to connect all users. A link to the xperttimer.exe on the network drive is enough to start the program from all workstations.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300847840&affiliateid=200057808)

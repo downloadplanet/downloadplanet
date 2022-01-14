@@ -1,4 +1,5 @@
-# Andrews Plugins 26 Innovations Plug-ins for Photoshop & PSP (PC only) V1<br />www.graphicxtras.com -- Andrews Plugins GX Innovations Plug-ins Adobe Photoshop & PSP & Elements 26 Effects PC V1
+# Andrews Plugins 26 Innovations Plug-ins for Photoshop & PSP (PC only) V1
+www.graphicxtras.com -- Andrews Plugins GX Innovations Plug-ins Adobe Photoshop & PSP & Elements 26 Effects PC V1
 
 Andrew' Plug-ins volume 1 includes 26 powerful plug-ins for use in Paint Shop Pro (R) Photo and Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 + Painter and PSP and others, 32 BIT and 64BIT
 
@@ -19,4 +20,5 @@ Plug-in set is a new plug-in set from the creator of the Andrew's Filters series
 To purchase the plug-in set, please select the add to cart button (cookies are required to use the cart) or quick buy. After purchase, you will be sent the download link to the plug-in set
 
 Plug-in set also contains PDF documentation explaining the plug-in functionality as well as hints and tips. Corel and Paint Shop Pro and Painter are registered trademarks or trademarks of the Corel Corporation. See all our video tutorials on http://www.youtube.com/graphicxtras
-Home page is http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300398293&affiliateid=200057808)
+Home page is http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300398293&affiliateid=200057808)

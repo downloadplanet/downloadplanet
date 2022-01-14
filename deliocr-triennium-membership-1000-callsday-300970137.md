@@ -1,1 +1,4 @@
-# DeliOCR Triennium Membership (1000 Calls/Day)<br />![DeliOCR Triennium Membership (1000 Calls/Day)](https://mycommerce.akamaized.net/api/pimages/P300970137/BIG/300970137.PNG)<br />Text recognition, convert the image to words.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300970137&affiliateid=200057808)
+# DeliOCR Triennium Membership (1000 Calls/Day)
+![DeliOCR Triennium Membership (1000 Calls/Day)](https://mycommerce.akamaized.net/api/pimages/P300970137/BIG/300970137.PNG)
+Text recognition, convert the image to words.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300970137&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# 0161 - Customer Lifetime Value<br />0161 - Customer Lifetime Value<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301000488&affiliateid=200057808)
+# 0161 - Customer Lifetime Value
+0161 - Customer Lifetime Value
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301000488&affiliateid=200057808)

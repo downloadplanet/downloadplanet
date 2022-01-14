@@ -1,4 +1,5 @@
-# Christmas Teddy Bears Patterns for Photoshop, Affinity, Elements, PSP, etc V127<br />www.graphicxtras.com -- Christmas / Xmas / Navidad Teddy Bear patterns for Adobe Photoshop & Elements & Painter & PSP V127
+# Christmas Teddy Bears Patterns for Photoshop, Affinity, Elements, PSP, etc V127
+www.graphicxtras.com -- Christmas / Xmas / Navidad Teddy Bear patterns for Adobe Photoshop & Elements & Painter & PSP V127
 
 Graphicxtras.com --- 50 Christmas Teddy bear patterns for Photoshop CC 2017 2015 2014 CS4 CS3 CS2 CS5 CS6 14 13 etc, Photoshop elements, Microsoft Word, PaintShop Pro X7 X6 X5 X4 X3 etc, GIMP, Xara, Photo-paint, Painter and many others - PNG format - also includes Photoshop actions to turn the PNG files into PAT format. Mixed sizes. Commercial use CU4CU, no time limits, no credit required, all by graphicxtras.com (by Andrew Buckle) Any questions, please contact support@graphicxtras.com.
 
@@ -9,4 +10,5 @@ Teddies in many different styles including colorful ones, star themed ones, dots
 
 You can use them in fill layer content as well as stamp brushes as well as via the powerful deco scripts feature to add all kinds of symmetry effects and brick fills and cross weaves and more. You can use them with the styles dialog and use them with the stroke / bevel / overlay etc. With the latest versions of Adobe CC Creative cloud you can now use them with the libraries feature by dragging the tiles as well as the PNG files into the library and using them on a PC or mac as well as in Adobe PS/ Illustrator
 
-Set is about 22MB to download and includes approx 50 PNG files / gallery / actions etc<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300646527&affiliateid=200057808)
+Set is about 22MB to download and includes approx 50 PNG files / gallery / actions etc
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300646527&affiliateid=200057808)

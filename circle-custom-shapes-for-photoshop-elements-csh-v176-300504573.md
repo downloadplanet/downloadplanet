@@ -1,3 +1,5 @@
-# Circle Custom shapes for Photoshop & Elements (CSH) V176<br />www.graphicxtras.com -- Circle Custom Shapes for Adobe Photoshop & Elements CSH PC & MAC OS X V176
+# Circle Custom shapes for Photoshop & Elements (CSH) V176
+www.graphicxtras.com -- Circle Custom Shapes for Adobe Photoshop & Elements CSH PC & MAC OS X V176
 
-100 Circle shapes for Photoshop and Elements - License: commercial use (and personal), all by graphicxtras.com --- released March 1st 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300504573&affiliateid=200057808)
+100 Circle shapes for Photoshop and Elements - License: commercial use (and personal), all by graphicxtras.com --- released March 1st 2012
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300504573&affiliateid=200057808)

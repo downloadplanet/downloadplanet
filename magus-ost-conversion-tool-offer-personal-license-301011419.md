@@ -1,1 +1,3 @@
-# Magus OST Conversion Tool Offer - Personal License<br />Convert large OST files into PST, EML, MSG and PDF format using Magus OST Conversion Tool<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301011419&affiliateid=200057808)
+# Magus OST Conversion Tool Offer - Personal License
+Convert large OST files into PST, EML, MSG and PDF format using Magus OST Conversion Tool
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301011419&affiliateid=200057808)

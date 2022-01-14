@@ -1,4 +1,6 @@
-# iStonsoft Text to PDF Converter for Mac<br />![iStonsoft Text to PDF Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917084/BIG/300917084.PNG)<br />An extremely and super fast way to create PDF file from Text documents!
+# iStonsoft Text to PDF Converter for Mac
+![iStonsoft Text to PDF Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917084/BIG/300917084.PNG)
+An extremely and super fast way to create PDF file from Text documents!
 
 iStonsoft Text to PDF Converter for Mac is specifically tailored for Mac users to to import text files and convert those files to PDF format. All exported files are searchable pdfs and can be opened in any PDF viewer.
 
@@ -28,4 +30,5 @@ Easy to use
 
 This program is a stand-alone program. So you don't need to install any other 3-rd party software to computer.
 
-With user-friendly interface, even a novice can use this software within 3 simple steps: Import - Settings - Start conversion. No advanced computer skills required.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917084&affiliateid=200057808)
+With user-friendly interface, even a novice can use this software within 3 simple steps: Import - Settings - Start conversion. No advanced computer skills required.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917084&affiliateid=200057808)

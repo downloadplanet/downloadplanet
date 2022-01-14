@@ -1,1 +1,3 @@
-# Office Password Recovery (for personal use)<br />Office Password Recovery is a program that recovers lost or forgotten passwords for Microsoft Office documents, PowerPoint presentations, Access databases, Excel spreadsheets, OneNote notebooks, Outlook email accounts and personal folders. All versions of Microsoft Office are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300111275&affiliateid=200057808)
+# Office Password Recovery (for personal use)
+Office Password Recovery is a program that recovers lost or forgotten passwords for Microsoft Office documents, PowerPoint presentations, Access databases, Excel spreadsheets, OneNote notebooks, Outlook email accounts and personal folders. All versions of Microsoft Office are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300111275&affiliateid=200057808)

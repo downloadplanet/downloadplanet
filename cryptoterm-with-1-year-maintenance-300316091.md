@@ -1,4 +1,5 @@
-# CryptoTerm with 1 Year Maintenance<br />CryptoTerm is the package consisting of following programs:
+# CryptoTerm with 1 Year Maintenance
+CryptoTerm is the package consisting of following programs:
 Terminal Emulator,
 FTP (SFTP) Client,
 Batch FTP (SFTP) Client.
@@ -14,4 +15,5 @@ The settings of the CryptoTerm terminal emulator (coding characters, connecting 
 CryptoTerm is FREE for personal, home use.
 
 CryptoTerm website: www.cryptoterm.com.
-CryptoTerm could be downloaded here.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300316091&affiliateid=200057808)
+CryptoTerm could be downloaded here.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300316091&affiliateid=200057808)

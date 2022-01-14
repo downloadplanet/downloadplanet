@@ -1,4 +1,5 @@
-# Webinar Gewinneinflussfaktoren im F&B Bereich 01.08.2016 von 10:15 Uhr bis 11:15 Uhr<br />Seminarbeschreibung
+# Webinar Gewinneinflussfaktoren im F&B Bereich 01.08.2016 von 10:15 Uhr bis 11:15 Uhr
+Seminarbeschreibung
 In diesem Webinar lernen die Teilnehmer die sieben Gewinneinflussfaktoren im F&B-Bereich kennen. Sie werden in einer MS Excel-Vorlage an Beispielzahlen errechnen, welche Einflussfaktoren den höchsten Erfolg haben. Anschließend können sie mit diesem Excelschema und den Zahlen ihres Betriebes ihre eigene Reihenfolge ermitteln. Somit erhalten die Teilnehmer die Grundlage, um die richtigen Maßnahmen für mehr Gewinn im F&B durchzuführen.
 
 Inhalte
@@ -28,4 +29,5 @@ Voraussetzung zur Teilnahme:
 
 Internetverbindung über Kabel
 Lautsprecher
-Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692929&affiliateid=200057808)
+Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692929&affiliateid=200057808)

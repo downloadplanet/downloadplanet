@@ -1,1 +1,2 @@
-# IFW-Fachpaket: 6. Produktionsprozesse, Videocoaching, 29 Videos plus komplettes Begleitskript mit Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300599852&affiliateid=200057808)
+# IFW-Fachpaket: 6. Produktionsprozesse, Videocoaching, 29 Videos plus komplettes Begleitskript mit Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300599852&affiliateid=200057808)

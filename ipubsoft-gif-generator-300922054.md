@@ -1,5 +1,8 @@
-# iPubsoft GIF Generator<br />![iPubsoft GIF Generator](https://mycommerce.akamaized.net/api/pimages/P300922054/BIG/300922054.PNG)<br />Free Downloadable GIF Maker to Create GIF Animation
+# iPubsoft GIF Generator
+![iPubsoft GIF Generator](https://mycommerce.akamaized.net/api/pimages/P300922054/BIG/300922054.PNG)
+Free Downloadable GIF Maker to Create GIF Animation
 Have a batch of static pictures and want to make them as a animated GIF image? iPubsoft GIF Generator allows you to create GIF images from various graphics formats, including JPG/JPEG, BMP, PNG and GIF, easily and quickly, regardless of whether you are a professional photographer or just an amateur.
 Turn static pictures into animated GIF without any quality loss;
 Real-time preview the imported images one by one via the built-in animation player;
-Adjust the GIF parameters and configuration according to your needs;<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300922054&affiliateid=200057808)
+Adjust the GIF parameters and configuration according to your needs;
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300922054&affiliateid=200057808)

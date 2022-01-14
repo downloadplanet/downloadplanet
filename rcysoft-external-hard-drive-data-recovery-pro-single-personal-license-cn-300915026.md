@@ -1,1 +1,4 @@
-# Rcysoft External Hard Drive Data Recovery Pro - Single Personal License - CN<br />![Rcysoft External Hard Drive Data Recovery Pro - Single Personal License - CN](https://mycommerce.akamaized.net/api/pimages/P300915026/BIG/300915026.PNG)<br />世界领先的外置硬盘数据恢复软件使外部硬盘驱动器所有者能够从便携式存储设备中恢复意外删除的，格式化的照片，文档，视频，音频，电子邮件，档案，文件夹。它支持几乎所有流行的外置硬盘制造商，如Glyph，WD，三星，SanDisk，希捷，ioSafe，Buffalo，LG，Adata，Transcend，索尼和东芝。<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915026&affiliateid=200057808)
+# Rcysoft External Hard Drive Data Recovery Pro - Single Personal License - CN
+![Rcysoft External Hard Drive Data Recovery Pro - Single Personal License - CN](https://mycommerce.akamaized.net/api/pimages/P300915026/BIG/300915026.PNG)
+世界领先的外置硬盘数据恢复软件使外部硬盘驱动器所有者能够从便携式存储设备中恢复意外删除的，格式化的照片，文档，视频，音频，电子邮件，档案，文件夹。它支持几乎所有流行的外置硬盘制造商，如Glyph，WD，三星，SanDisk，希捷，ioSafe，Buffalo，LG，Adata，Transcend，索尼和东芝。
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915026&affiliateid=200057808)

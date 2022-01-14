@@ -1,3 +1,6 @@
-# SNMP Data Logger Enterprise<br />![SNMP Data Logger Enterprise](https://mycommerce.akamaized.net/api/pimages/P300388705/BIG/300388705.PNG)<br />SNMP Data Logger retrieves and logs values from SNMP agents. Aggregates and writes real-time data to disk, Excel, database or to other targets. Capability to log data from multiple SNMP agents at the same time.
+# SNMP Data Logger Enterprise
+![SNMP Data Logger Enterprise](https://mycommerce.akamaized.net/api/pimages/P300388705/BIG/300388705.PNG)
+SNMP Data Logger retrieves and logs values from SNMP agents. Aggregates and writes real-time data to disk, Excel, database or to other targets. Capability to log data from multiple SNMP agents at the same time.
 
-This version supports Windows 2000 and higher service mode, and all types of plugins..<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300388705&affiliateid=200057808)
+This version supports Windows 2000 and higher service mode, and all types of plugins..
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300388705&affiliateid=200057808)

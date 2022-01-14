@@ -1,4 +1,6 @@
-# Wondershare Video Converter Pro for Windows<br />![Wondershare Video Converter Pro for Windows](https://mycommerce.akamaized.net/api/pimages/P300947684/BIG/300947684.PNG)<br />Wondershare Video Converter Pro is a powerful video converter for Windows (Windows 10 supported) to help you convert videos and extract audio. What's more, you can easily download and convert wonderful web videos like YouTube etc to iPhone (iPhone 7 available), iPad, iPod and more for enjoyment on the go.
+# Wondershare Video Converter Pro for Windows
+![Wondershare Video Converter Pro for Windows](https://mycommerce.akamaized.net/api/pimages/P300947684/BIG/300947684.PNG)
+Wondershare Video Converter Pro is a powerful video converter for Windows (Windows 10 supported) to help you convert videos and extract audio. What's more, you can easily download and convert wonderful web videos like YouTube etc to iPhone (iPhone 7 available), iPad, iPod and more for enjoyment on the go.
 
 The excellent function of Wondershare Video Converter Pro.
 
@@ -26,4 +28,5 @@ Enjoy video downloads on iPhone (iPhone 7 included), iPad, iPod and more portabl
 
 Create personalized videos with classic editing functions, such as split, merge, crop, clip, add special effects, watermark and add subtitles.
 Easily import and edit subtitle files in .srt, .sst and ssa formats so your changes will easily convert any video format.
-Real-time preview ensures optimal video quality.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947684&affiliateid=200057808)
+Real-time preview ensures optimal video quality.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947684&affiliateid=200057808)

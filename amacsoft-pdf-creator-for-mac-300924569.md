@@ -1,4 +1,6 @@
-# Amacsoft PDF Creator for Mac<br />![Amacsoft PDF Creator for Mac](https://mycommerce.akamaized.net/api/pimages/P300924569/BIG/300924569.PNG)<br />Amacsoft PDF Creator for Mac is a fast, affordable utility to allow you to create professional quality PDF documents from Text and Image on Mac.
+# Amacsoft PDF Creator for Mac
+![Amacsoft PDF Creator for Mac](https://mycommerce.akamaized.net/api/pimages/P300924569/BIG/300924569.PNG)
+Amacsoft PDF Creator for Mac is a fast, affordable utility to allow you to create professional quality PDF documents from Text and Image on Mac.
 
 - Convert text and image to PDF files immediately
 - Batch or partial conversion are supported on your demands
@@ -26,4 +28,5 @@ Easy to Use, Create PDF at Once
 
 FREE Customer Support & On-Going Software Upgrades
 
-For any problems about the software, please inform us or go to our support center to get guidance and technical support. We also offer FREE software updates to our registered users.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924569&affiliateid=200057808)
+For any problems about the software, please inform us or go to our support center to get guidance and technical support. We also offer FREE software updates to our registered users.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924569&affiliateid=200057808)

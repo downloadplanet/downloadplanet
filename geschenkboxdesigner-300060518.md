@@ -1,1 +1,3 @@
-# Geschenkbox-Designer<br />Create gift boxes<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060518&affiliateid=200057808)
+# Geschenkbox-Designer
+Create gift boxes
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060518&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Bundle-Stellar Phoenix Database Repair for MySQL + Premium Support-Technician-EN<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300597733&affiliateid=200057808)
+# Bundle-Stellar Phoenix Database Repair for MySQL + Premium Support-Technician-EN
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300597733&affiliateid=200057808)

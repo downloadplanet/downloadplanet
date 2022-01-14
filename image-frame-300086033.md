@@ -1,4 +1,6 @@
-# Image Frame<br />ImageSkill Image Frame
+# Image Frame
+ImageSkill Image Frame
 Image Frame is Photoshop-compatible plug-in for Windows that allows you create 3D frames. Using Image Frame you can easy personalize your photos. Add frame and text to your pictures. You can apply rectangular and elliptical frame, change frame profile, material, and lightening. You can add text and effects to image as well.
 The plug-in has a simple install and uninstall procedures and is supplied by brief help description.
-More information about our products you can find ImageSkill site (www.imageskill.com).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300086033&affiliateid=200057808)
+More information about our products you can find ImageSkill site (www.imageskill.com).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300086033&affiliateid=200057808)

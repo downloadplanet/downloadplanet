@@ -1,4 +1,5 @@
-# Webinar Getränkekalkulation am 14.03.2016 von 10:15 Uhr bis 11:15 Uhr<br />Seminarbeschreibung:
+# Webinar Getränkekalkulation am 14.03.2016 von 10:15 Uhr bis 11:15 Uhr
+Seminarbeschreibung:
 Die Zielsetzung dieses Webinar ist, dass die Teilnehmer befähigt werden, für ihre Getränkeangebot den Soll Wareneinsatz in Euro und Prozent zu berechnen. In diesem Webinar wird der Trainer gemeinsam mit den Teilnehmern eine Kalkulationstabelle für Getränke in MS Excel bearbeiten. Dabei werden sie erkennen, welchen Deckungsbeitrag ihre Getränke haben und wo Verbesserungsmöglichkeiten bestehen. Im Anschluss an das Webinar können die Teilnehmer diese Getränketabelle direkt in ihrem Betrieb einsetzen und so den Wareneinsatz der Abteilung Service kontrollieren.
 
 Inhalte:
@@ -25,4 +26,5 @@ Voraussetzung zur Teilnahme:
 Internetverbindung über Kabel
 Lautsprecher
 
-Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692922&affiliateid=200057808)
+Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692922&affiliateid=200057808)

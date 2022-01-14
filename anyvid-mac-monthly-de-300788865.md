@@ -1,1 +1,4 @@
-# AnyVid Mac Monthly (DE)<br />![AnyVid Mac Monthly (DE)](https://mycommerce.akamaized.net/api/pimages/P300788865/BIG/300788865.PNG)<br />Pool all video resources, supply video search and play. Download multi-format video from 1,000+ channels, convert videos to music files, and download whole playlist in batch. No virus, no ads, only fast and free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300788865&affiliateid=200057808)
+# AnyVid Mac Monthly (DE)
+![AnyVid Mac Monthly (DE)](https://mycommerce.akamaized.net/api/pimages/P300788865/BIG/300788865.PNG)
+Pool all video resources, supply video search and play. Download multi-format video from 1,000+ channels, convert videos to music files, and download whole playlist in batch. No virus, no ads, only fast and free.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300788865&affiliateid=200057808)

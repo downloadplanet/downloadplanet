@@ -1,1 +1,4 @@
-# AnyVid Win Monthly<br />![AnyVid Win Monthly](https://mycommerce.akamaized.net/api/pimages/P300786816/BIG/300786816.PNG)<br />AnyVid is a simple and fast video grabber, all we can serve: a huge video resource from network, batch downloading, multi-format and high-quality options. No pop-ups, plug-ins and ad-free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300786816&affiliateid=200057808)
+# AnyVid Win Monthly
+![AnyVid Win Monthly](https://mycommerce.akamaized.net/api/pimages/P300786816/BIG/300786816.PNG)
+AnyVid is a simple and fast video grabber, all we can serve: a huge video resource from network, batch downloading, multi-format and high-quality options. No pop-ups, plug-ins and ad-free.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300786816&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Painted Dog Patterns for Photoshop & Elements & PSP & Others V75<br />www.graphicxtras.com -- Dog patterns for Adobe Photoshop & Elements & PSP Seamless tiles V75
+# Painted Dog Patterns for Photoshop & Elements & PSP & Others V75
+www.graphicxtras.com -- Dog patterns for Adobe Photoshop & Elements & PSP Seamless tiles V75
 
 50 Dog themed patterns
 Sketch and Illustrations and pencils and charcoal and painted and more
@@ -12,4 +13,5 @@ Commercial use, royalty free, no credit required, no time limits, world wide use
 All are by Andrew Buckle / graphicxtras.com
 Questions, please contact us on support@graphicxtras.com and http://www.graphicxtras.com
 See all our video tutorials via Tutorials such as how to install, how to use, how to recolor, how to convert and more
-All our painted dog pattern tiles gallery<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300483071&affiliateid=200057808)
+All our painted dog pattern tiles gallery
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300483071&affiliateid=200057808)

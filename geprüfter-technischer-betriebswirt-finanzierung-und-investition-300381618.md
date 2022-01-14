@@ -1,1 +1,3 @@
-# Geprüfter Technischer Betriebswirt - Finanzierung und Investition<br />![Geprüfter Technischer Betriebswirt - Finanzierung und Investition](https://mycommerce.akamaized.net/api/pimages/P300381618/BIG/300381618.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381618&affiliateid=200057808)
+# Geprüfter Technischer Betriebswirt - Finanzierung und Investition
+![Geprüfter Technischer Betriebswirt - Finanzierung und Investition](https://mycommerce.akamaized.net/api/pimages/P300381618/BIG/300381618.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381618&affiliateid=200057808)

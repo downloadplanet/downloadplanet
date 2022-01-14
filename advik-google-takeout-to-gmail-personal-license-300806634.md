@@ -1,1 +1,3 @@
-# Advik Google Takeout to Gmail - Personal License<br />Software to Convert EML Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300806634&affiliateid=200057808)
+# Advik Google Takeout to Gmail - Personal License
+Software to Convert EML Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300806634&affiliateid=200057808)

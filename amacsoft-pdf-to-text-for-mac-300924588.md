@@ -1,4 +1,6 @@
-# Amacsoft PDF to Text for Mac<br />![Amacsoft PDF to Text for Mac](https://mycommerce.akamaized.net/api/pimages/P300924588/BIG/300924588.PNG)<br />Amacsoft PDF to Text for Mac can extract text from pdf files on Mac. Amacsoft PDF to Text for Mac processes at very high speed and you can convert multiple pdf files to text files at one time.
+# Amacsoft PDF to Text for Mac
+![Amacsoft PDF to Text for Mac](https://mycommerce.akamaized.net/api/pimages/P300924588/BIG/300924588.PNG)
+Amacsoft PDF to Text for Mac can extract text from pdf files on Mac. Amacsoft PDF to Text for Mac processes at very high speed and you can convert multiple pdf files to text files at one time.
 
 Supports PDF to Text file conversion;
 Convert batches of PDF files to Text files at one time;
@@ -21,4 +23,5 @@ Preview PDF Files
 You can easily preview the PDF document page by page in the preview window to decide to whether you want to convert the PDF files to Text.
 
 Easy-to-use interface
-Amacsoft PDF to Text for Mac is a small and simple PDF conversion tool, it is simple to operate, just import PDF files and click the "Convert" button to begin!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924588&affiliateid=200057808)
+Amacsoft PDF to Text for Mac is a small and simple PDF conversion tool, it is simple to operate, just import PDF files and click the "Convert" button to begin!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924588&affiliateid=200057808)

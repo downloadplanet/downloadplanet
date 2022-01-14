@@ -1,4 +1,5 @@
-# Andrews Plugins Circus daze surreal plug-in for Photoshop & PSP (PC only) V19<br />www.graphicxtras.com -- Andrews Plugins Circus daze surreal plug-in Adobe Photoshop & PSP & Elements PC Filters V19
+# Andrews Plugins Circus daze surreal plug-in for Photoshop & PSP (PC only) V19
+www.graphicxtras.com -- Andrews Plugins Circus daze surreal plug-in Adobe Photoshop & PSP & Elements PC Filters V19
 
 CircusDaze plug-in / plug-in from graphicxtras.com
 Andrew's Plug-ins Volume 19 - from the creator of the Andrew's Filters series
@@ -9,4 +10,5 @@ Plug-in set is for PC 64bit and 32bit Adobe (R) Photoshop (R) + Adobe (R) Photos
 You can find more about the plugins via the http://www.youtube.com/graphicxtras video tutorials
 
 
-Home page is http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300002338&affiliateid=200057808)
+Home page is http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300002338&affiliateid=200057808)

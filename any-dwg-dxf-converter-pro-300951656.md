@@ -1,1 +1,3 @@
-# Any DWG DXF Converter Pro<br />Any DWG DXF Converter Pro is a batch DWG and DXF bi-directional converter that allows you to convert DWG to DXF, DXF to DWG without the need of AutoCAD. It is also an AutoCAD drawing file version converter, it allows you to choose the AutoCAD version of the output DWG and DXF file and it supports command line feature.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300951656&affiliateid=200057808)
+# Any DWG DXF Converter Pro
+Any DWG DXF Converter Pro is a batch DWG and DXF bi-directional converter that allows you to convert DWG to DXF, DXF to DWG without the need of AutoCAD. It is also an AutoCAD drawing file version converter, it allows you to choose the AutoCAD version of the output DWG and DXF file and it supports command line feature.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300951656&affiliateid=200057808)

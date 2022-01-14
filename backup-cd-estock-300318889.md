@@ -1,1 +1,3 @@
-# Backup CD - E-Stock<br />Backup CD for E-Stock software<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300318889&affiliateid=200057808)
+# Backup CD - E-Stock
+Backup CD for E-Stock software
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300318889&affiliateid=200057808)

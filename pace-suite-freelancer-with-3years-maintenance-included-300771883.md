@@ -1,4 +1,6 @@
-# PACE Suite Freelancer with 3-years maintenance included<br />![PACE Suite Freelancer with 3-years maintenance included](https://mycommerce.akamaized.net/api/pimages/P300771883/BIG/300771883.PNG)<br />PACE Suite is an advanced software packaging tool with intuitive user interface and set of features providing (re)packaging in Windows Installer and various virtualization formats.
+# PACE Suite Freelancer with 3-years maintenance included
+![PACE Suite Freelancer with 3-years maintenance included](https://mycommerce.akamaized.net/api/pimages/P300771883/BIG/300771883.PNG)
+PACE Suite is an advanced software packaging tool with intuitive user interface and set of features providing (re)packaging in Windows Installer and various virtualization formats.
 
 
 PACE Suite consists out of three components:
@@ -8,4 +10,5 @@ Docu Generator – the handy tool allowing creating screenshot-based instruction
 Every package created with PACE Suite is:
 Well-structured and ICE error-free – Correct component and feature assignment, no ICE errors in a repackaged MSI. Table identifiers are human-readable, which makes editing easy.
 Contains no tool-related extraneous staff – PACE Suite does not create any redundant MSI tables, properties, or custom actions.
-High-quality MSI. PACE Suite follows all application packaging best practices and rules.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300771883&affiliateid=200057808)
+High-quality MSI. PACE Suite follows all application packaging best practices and rules.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300771883&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Modern Stock<br />Iconshock Modern Stock
+# Modern Stock
+Iconshock Modern Stock
 
 Ideal Stock for Corporative and Business oriented applications.
 Provided with a clean design and a soft and pastel colour Palette will provide your applications with a serious and sophisticated look.
@@ -11,4 +12,5 @@ Sizes:
 Color Depth:
 32bits (With alpha channel),8bits (256colors)
 File types:
-PNG,TIFF,BMP,GIF,ICO(Windows),ICNS(Mac)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300020164&affiliateid=200057808)
+PNG,TIFF,BMP,GIF,ICO(Windows),ICNS(Mac)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300020164&affiliateid=200057808)

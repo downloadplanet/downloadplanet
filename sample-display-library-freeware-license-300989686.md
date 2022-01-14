@@ -1,4 +1,6 @@
-# Sample Display Library Freeware License<br />![Sample Display Library Freeware License](https://mycommerce.akamaized.net/api/pimages/P300989686/BIG/300989686.PNG)<br />Sample Display Library is a COM/DLL sample display and spectogram creator for use with BASS, for use in Win32 and Win64 (Windows XP/Vista/7/8/10) software.
+# Sample Display Library Freeware License
+![Sample Display Library Freeware License](https://mycommerce.akamaized.net/api/pimages/P300989686/BIG/300989686.PNG)
+Sample Display Library is a COM/DLL sample display and spectogram creator for use with BASS, for use in Win32 and Win64 (Windows XP/Vista/7/8/10) software.
 
 Features:
 
@@ -9,4 +11,5 @@ Power and PCM modes with multi-threading option
 Supports using the SampleDisplay.dll itself natively without COM, Delphi and C++ example included
 Delphi and C++ header file and tutorial included
 
-Note: If you plan using Sample Display Library in you programs, you'll also need a BASS license available from: http://www.un4seen.com/ separatelly.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300989686&affiliateid=200057808)
+Note: If you plan using Sample Display Library in you programs, you'll also need a BASS license available from: http://www.un4seen.com/ separatelly.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300989686&affiliateid=200057808)

@@ -1,5 +1,8 @@
-# ebook: Die 50 besten Tipps und Tricks (108 Seiten, reich bebildert)<br />![ebook: Die 50 besten Tipps und Tricks (108 Seiten, reich bebildert)](https://mycommerce.akamaized.net/api/pimages/P300282684/BIG/300282684.JPG)<br />Welche versteckten Funktionen gibt es in Google? Wie lassen sich die Suchergebnisse verbessern? Wie bekommt man eine bessere Bildqualität bei Youtube-Video? Es gibt jede Menge interessanter Tipps, Tricks und Kniffe, die in keinem Handbuch stehen. Meine Redaktion recherchiert und sammelt solche Tipps und stellt die besten regelmäßig vor.
+# ebook: Die 50 besten Tipps und Tricks (108 Seiten, reich bebildert)
+![ebook: Die 50 besten Tipps und Tricks (108 Seiten, reich bebildert)](https://mycommerce.akamaized.net/api/pimages/P300282684/BIG/300282684.JPG)
+Welche versteckten Funktionen gibt es in Google? Wie lassen sich die Suchergebnisse verbessern? Wie bekommt man eine bessere Bildqualität bei Youtube-Video? Es gibt jede Menge interessanter Tipps, Tricks und Kniffe, die in keinem Handbuch stehen. Meine Redaktion recherchiert und sammelt solche Tipps und stellt die besten regelmäßig vor.
 
 Wer weiß zum Beispiel schon, dass Outlook auch umgangssprachlich formulierte Terminangaben versteht wie "Montag in drei Wochen"? Wer ahnt, dass Office 2007 auch PDF-Dokumente erzeugen kann? Und wer wüsste nicht gerne, wie man Windows XP oder Vista schneller macht? All das erfahren Sie in diesem eBook, das reich bebildert ist.
 
-Schluss mit PC-Frust. ;-)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300282684&affiliateid=200057808)
+Schluss mit PC-Frust. ;-)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300282684&affiliateid=200057808)

@@ -1,5 +1,8 @@
-# Rosettes preset shapes for Paint Shop Pro (PSPShapes) VS2<br />![Rosettes preset shapes for Paint Shop Pro (PSPShapes) VS2](https://mycommerce.akamaized.net/api/pimages/P300395631/BIG/300395631.PNG)<br />www.graphicxtras.com -- Rosettes preset shapes Paint Shop Pro X9 X8 X7 X6 X5 X4 X3 X2 X1 9 8 PSP VS2
+# Rosettes preset shapes for Paint Shop Pro (PSPShapes) VS2
+![Rosettes preset shapes for Paint Shop Pro (PSPShapes) VS2](https://mycommerce.akamaized.net/api/pimages/P300395631/BIG/300395631.PNG)
+www.graphicxtras.com -- Rosettes preset shapes Paint Shop Pro X9 X8 X7 X6 X5 X4 X3 X2 X1 9 8 PSP VS2
 
 100 Themed preset shapes for Paint Shop Pro (R) X9 X8 X7 X6 X5 X4 X3 X2 X1 9 8. Vector shapes, resolution-free, use for any size of document. Stored in PSPshape format, native Paint Shop Pro (PaintShop Photo Pro) shapes format. PC. All versions of PSP from 8 upwards to latest version. All the designs are License: Commercial use (and personal) - create items for sale etc, use to create 1000s and 1000s of designs for sale such as parts of logos, CD covers, books, packaging, scrapbooking designs and more, all royalty-free, all the designs are by shapes-brushes.com (part of graphicxtras.com) Andrew Buckle. Easy to install and use, simply access via the shapes tool and the shapes palette (add to the preset shapes folder). Comes with gallery and links to our comprehensive documentation. Many different designs are included in the set, manipulate the designs in millions of ways. Corel and Paint Shop Pro are registered trademarks of Corel Corporation
   For more information about the product: www.graphicxtras.com
-Manual<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300395631&affiliateid=200057808)
+Manual
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300395631&affiliateid=200057808)

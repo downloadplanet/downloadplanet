@@ -1,1 +1,3 @@
-# DRS Office365 Restore and Backup for MAC[Single User License]<br />Office 365 Backup Software for MAC<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004899&affiliateid=200057808)
+# DRS Office365 Restore and Backup for MAC[Single User License]
+Office 365 Backup Software for MAC
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004899&affiliateid=200057808)

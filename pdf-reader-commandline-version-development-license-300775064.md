@@ -1,1 +1,3 @@
-# PDF Reader Command-Line Version (Development License)<br />PDF Reader Command-Line Version is available on Windows. A development license allows you to get PDF Reader Command-Line Version software and install the software on one computer (including desktop, laptop workstation, and server). One license is required for each computer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300775064&affiliateid=200057808)
+# PDF Reader Command-Line Version (Development License)
+PDF Reader Command-Line Version is available on Windows. A development license allows you to get PDF Reader Command-Line Version software and install the software on one computer (including desktop, laptop workstation, and server). One license is required for each computer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300775064&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# MacUncle ODT Converter - Standard License<br />Convert ODT Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010017&affiliateid=200057808)
+# MacUncle ODT Converter - Standard License
+Convert ODT Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010017&affiliateid=200057808)

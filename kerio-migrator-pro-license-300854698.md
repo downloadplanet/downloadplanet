@@ -1,1 +1,3 @@
-# Kerio Migrator - Pro License<br />Software to Convert Kerio Mailboxes<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854698&affiliateid=200057808)
+# Kerio Migrator - Pro License
+Software to Convert Kerio Mailboxes
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854698&affiliateid=200057808)

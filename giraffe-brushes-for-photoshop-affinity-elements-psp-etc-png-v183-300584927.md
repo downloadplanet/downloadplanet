@@ -1,4 +1,6 @@
-# Giraffe brushes for Photoshop, Affinity, Elements, PSP, etc (PNG) V183<br />www.graphicxtras.com -- Giraffe Brushes for Adobe Photoshop & Elements & PSP Animals Wildlife V183
+# Giraffe brushes for Photoshop, Affinity, Elements, PSP, etc (PNG) V183
+www.graphicxtras.com -- Giraffe Brushes for Adobe Photoshop & Elements & PSP Animals Wildlife V183
 
 170 Giraffe brushes PNG files for Photoshop and Photoshop elements and psp and wordpress and more, commercial use. Many different designs, hi-quality, mixed sizes. PNG format giraffe designs (you can quickly convert the brushes to other formats if you wish). More information via http://www.graphicxtras.com or please e-mail us on support@graphicxtras.com. Use the giraffe brushes / iamges to create items for sale etc. If you have any questions about the giraffe brushes, please contact us on support@graphicxtras. How to load the giraffe brushes ?? use via the file open or file import. An action set is supplied to convert the designs into ABR brushes for use throughout Photoshop. The giraffes can also be used as layers in many applications and combined and blended to create millions of amazing unique designs for all your projects. PNG format + action files to load (if required). On buying the set, you receive the download link to the giraffes as well as documentation and a gallery and serial number for any future updates.
- <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300584927&affiliateid=200057808)
+ 
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300584927&affiliateid=200057808)

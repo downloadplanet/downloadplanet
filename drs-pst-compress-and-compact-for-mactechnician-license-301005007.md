@@ -1,1 +1,3 @@
-# DRS PST Compress and Compact For MAC[Technician License]<br />DRS PST Compress and Compact For MAC<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301005007&affiliateid=200057808)
+# DRS PST Compress and Compact For MAC[Technician License]
+DRS PST Compress and Compact For MAC
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301005007&affiliateid=200057808)

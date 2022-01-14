@@ -1,1 +1,2 @@
-# Situationsaufgabe Industriemeister/in mit Beispielsituationen aus der Prüfung, 5 Videos mit Begleitskripten von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300731032&affiliateid=200057808)
+# Situationsaufgabe Industriemeister/in mit Beispielsituationen aus der Prüfung, 5 Videos mit Begleitskripten von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300731032&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Psr2xls utility<br />The PSR2XLS utility allows you to convert saved PowerSoft Reports (PSR) into an Excel workbook
+# Psr2xls utility
+The PSR2XLS utility allows you to convert saved PowerSoft Reports (PSR) into an Excel workbook
 If you have any application developed using PowerBuilder...
 If your application allows you to save reports into PowerSoft Report files (*.psr)...
 But you can't e-mail it to your clients, since they haven't any tools for such files...
@@ -20,4 +21,5 @@ DropDownDW, DropDownListBox, Edit, Edit with Code Table and EditMask
 Any data types of the fields are supported:
 string, decimal, double, integer, date, time, datetime
 The PSR2XLS utility developed by using DW2XLS library. For more information about this library visit www.desta.com.ua/dw2xls/
-The PSR2XLS utility created by specialists of Desta company and based on experience of huge information system development and aspiration in full measure to satisfy requirements of our clients.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=192379&affiliateid=200057808)
+The PSR2XLS utility created by specialists of Desta company and based on experience of huge information system development and aspiration in full measure to satisfy requirements of our clients.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=192379&affiliateid=200057808)

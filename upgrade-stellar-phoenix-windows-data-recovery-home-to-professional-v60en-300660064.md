@@ -1,1 +1,2 @@
-# Upgrade - Stellar Phoenix Windows Data Recovery Home to Professional v6.0-EN<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300660064&affiliateid=200057808)
+# Upgrade - Stellar Phoenix Windows Data Recovery Home to Professional v6.0-EN
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300660064&affiliateid=200057808)

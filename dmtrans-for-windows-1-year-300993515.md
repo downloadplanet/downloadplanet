@@ -1,1 +1,4 @@
-# DMtrans for Windows 1 Year<br />![DMtrans for Windows 1 Year](https://mycommerce.akamaized.net/api/pimages/P300993515/BIG/300993515.PNG)<br />DMtrans for Windows is one of the best iOS data transfer software. It supports data transfer between iPhone or other iOS devices. Also, it can transfer data between iOS device and PC.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300993515&affiliateid=200057808)
+# DMtrans for Windows 1 Year
+![DMtrans for Windows 1 Year](https://mycommerce.akamaized.net/api/pimages/P300993515/BIG/300993515.PNG)
+DMtrans for Windows is one of the best iOS data transfer software. It supports data transfer between iPhone or other iOS devices. Also, it can transfer data between iOS device and PC.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300993515&affiliateid=200057808)

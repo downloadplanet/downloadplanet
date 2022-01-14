@@ -1,1 +1,2 @@
-# Kernel MBOX Viewer ( Corporate Licence ) - Best Deal for You<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300800698&affiliateid=200057808)
+# Kernel MBOX Viewer ( Corporate Licence ) - Best Deal for You
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300800698&affiliateid=200057808)

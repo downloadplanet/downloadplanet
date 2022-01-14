@@ -1,3 +1,5 @@
-# Star Pattern Swatches for Illustrator (AI) V45<br />www.graphicxtras.com -- 260 Star pattern Swatches for Adobe Illustrator Vector pattern tiles V45
+# Star Pattern Swatches for Illustrator (AI) V45
+www.graphicxtras.com -- 260 Star pattern Swatches for Adobe Illustrator Vector pattern tiles V45
 
-260 Star pattern Swatches for Illustrator CC 2017 2015 2014 CS6 CS5 etc. Find out more about the patterns via graphicxtras.com along with youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300529934&affiliateid=200057808)
+260 Star pattern Swatches for Illustrator CC 2017 2015 2014 CS6 CS5 etc. Find out more about the patterns via graphicxtras.com along with youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300529934&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# iStonsoft PDF Converter for Mac<br />![iStonsoft PDF Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917077/BIG/300917077.PNG)<br />iStonsoft PDF Converter for Mac is a comprehensive Mac PDF Converter to help Mac users convert PDF to Word, ePub, HTML, Image, Text on Mac.
+# iStonsoft PDF Converter for Mac
+![iStonsoft PDF Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917077/BIG/300917077.PNG)
+iStonsoft PDF Converter for Mac is a comprehensive Mac PDF Converter to help Mac users convert PDF to Word, ePub, HTML, Image, Text on Mac.
 
 ** Convert PDF to 5 formats accurately
 
@@ -36,4 +38,5 @@ You can flexibly convert selected pages or page ranges in the PDF files to ePub,
 
 After conversion, all the original text, images, graphics, tables, hyperlinks, layout and formatting are exactly preserved.
 
-iStonsoft PDF Converter for Mac is absolutely your best choice to convert PDF to various files formats with great quality on Mac! Sounds Wonderful? Now get the High Quality yet Affordable Mac PDF Converter!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917077&affiliateid=200057808)
+iStonsoft PDF Converter for Mac is absolutely your best choice to convert PDF to various files formats with great quality on Mac! Sounds Wonderful? Now get the High Quality yet Affordable Mac PDF Converter!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917077&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# OLM Converter for Mac- Standard License<br />Convert Outlook for Mac Mailboxes<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300978748&affiliateid=200057808)
+# OLM Converter for Mac- Standard License
+Convert Outlook for Mac Mailboxes
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300978748&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# SysVita Outlook PST Recovery : Personal License<br />Microsoft Outlook PST recovery tool is now loaded with an advanced search feature making it easier for users to search and locate specific hidden PST files in your system.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300849207&affiliateid=200057808)
+# SysVita Outlook PST Recovery : Personal License
+Microsoft Outlook PST recovery tool is now loaded with an advanced search feature making it easier for users to search and locate specific hidden PST files in your system.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300849207&affiliateid=200057808)

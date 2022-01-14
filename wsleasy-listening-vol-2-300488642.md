@@ -1,1 +1,3 @@
-# WSL-Easy Listening Vol 2<br />![WSL-Easy Listening Vol 2](https://mycommerce.akamaized.net/api/pimages/P300488642/BIG/300488642.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300488642&affiliateid=200057808)
+# WSL-Easy Listening Vol 2
+![WSL-Easy Listening Vol 2](https://mycommerce.akamaized.net/api/pimages/P300488642/BIG/300488642.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300488642&affiliateid=200057808)

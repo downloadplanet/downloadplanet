@@ -1,4 +1,5 @@
-# Trainingspaket "Scharf kalkuliert" am 10.09.2015 in Frankfurt<br />Seminar "Scharf kalkuliert"
+# Trainingspaket "Scharf kalkuliert" am 10.09.2015 in Frankfurt
+Seminar "Scharf kalkuliert"
 Zielgruppe : alle Mitarbeiter und Azubis der Küche
 
 Den Teilnehmern wird in diesem Seminar aufgezeigt, wie sich die Kosten in der Küche zusammensetzen. Sie werden darauf sensibilisiert, künftig bei der Zubereitung der Speisen die Kosten mit zu berücksichtigen.
@@ -27,4 +28,5 @@ Inklusive. Tagungspauschale pro Tag
 Motel One Airport Frankfurt
 Colmarer Str. 2
 60528 Frankfurt
-Tel: 069-660536-0<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634224&affiliateid=200057808)
+Tel: 069-660536-0
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634224&affiliateid=200057808)

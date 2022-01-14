@@ -1,4 +1,6 @@
-# iSkysoft Video Converter for Windows<br />![iSkysoft Video Converter for Windows](https://mycommerce.akamaized.net/api/pimages/P300948010/BIG/300948010.PNG)<br />iSkysoft Video Converter is an excellent Video Converter software which can convert all popular video files from one format to another on Windows with great output quality and high conversion speed. It lets you easily convert between all sorts of video files such as AVI to MPEG, WMV to MPEG, WMV to MP4, XviD, H.264, MKV, etc. which can be playback on almost all popular portable players including iPod, iPhone 4, iPhone 3GS, PSP, Zune, Zune HD, etc. Audio extraction and conversion is also supported by iSkysoft Video Converter. Besides, this Video Converter software offers you series video editing functions including crop, trim, set the brightness, saturation, etc.
+# iSkysoft Video Converter for Windows
+![iSkysoft Video Converter for Windows](https://mycommerce.akamaized.net/api/pimages/P300948010/BIG/300948010.PNG)
+iSkysoft Video Converter is an excellent Video Converter software which can convert all popular video files from one format to another on Windows with great output quality and high conversion speed. It lets you easily convert between all sorts of video files such as AVI to MPEG, WMV to MPEG, WMV to MP4, XviD, H.264, MKV, etc. which can be playback on almost all popular portable players including iPod, iPhone 4, iPhone 3GS, PSP, Zune, Zune HD, etc. Audio extraction and conversion is also supported by iSkysoft Video Converter. Besides, this Video Converter software offers you series video editing functions including crop, trim, set the brightness, saturation, etc.
 
 Key Features:
 
@@ -21,4 +23,5 @@ This best Video Converter allows you to join several video files or multiple seg
 This Video Converter software supports batch conversion and customizing conversion profile to make your conversion much easier.
 
 7. Easy to use
-With iSkysoft Video Converter, you can convert video and audio to all sorts of different formats with only a few intuitive clicks on Windows. You can also preview your video files before conversion to adjust the output settings.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948010&affiliateid=200057808)
+With iSkysoft Video Converter, you can convert video and audio to all sorts of different formats with only a few intuitive clicks on Windows. You can also preview your video files before conversion to adjust the output settings.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948010&affiliateid=200057808)

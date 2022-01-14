@@ -1,1 +1,3 @@
-# Advanced Excel Report for RAD Studio (with sources) + 3 Year Maintenance<br />Advanced Excel Report for RAD Studio is a powerful band-oriented generator of template-based reports in MS Excel.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300068138&affiliateid=200057808)
+# Advanced Excel Report for RAD Studio (with sources) + 3 Year Maintenance
+Advanced Excel Report for RAD Studio is a powerful band-oriented generator of template-based reports in MS Excel.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300068138&affiliateid=200057808)

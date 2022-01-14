@@ -1,1 +1,3 @@
-# ATS OST to MSG Converter Software - Business License<br />ATS OST to MSG Converter software is designed with advance algorithm based conversion solution to fix all kinds of errors from Outlook OST file and import OST emails into MSG format<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778900&affiliateid=200057808)
+# ATS OST to MSG Converter Software - Business License
+ATS OST to MSG Converter software is designed with advance algorithm based conversion solution to fix all kinds of errors from Outlook OST file and import OST emails into MSG format
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778900&affiliateid=200057808)

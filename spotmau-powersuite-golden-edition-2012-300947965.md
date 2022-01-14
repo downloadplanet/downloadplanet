@@ -1,4 +1,6 @@
-# Spotmau PowerSuite Golden Edition 2012<br />![Spotmau PowerSuite Golden Edition 2012](https://mycommerce.akamaized.net/api/pimages/P300947965/BIG/300947965.PNG)<br />Every computer owner deserves a handy toolset for Daily PC Maintenance and Emergency Rescue. Spotmau PowerSuite provides such an all-in-one solution to solve all your computer problems in an easy way!
+# Spotmau PowerSuite Golden Edition 2012
+![Spotmau PowerSuite Golden Edition 2012](https://mycommerce.akamaized.net/api/pimages/P300947965/BIG/300947965.PNG)
+Every computer owner deserves a handy toolset for Daily PC Maintenance and Emergency Rescue. Spotmau PowerSuite provides such an all-in-one solution to solve all your computer problems in an easy way!
 
 It optimizes and boosts your Windows performance; repairs and cleans your registry and system; eliminates Windows freeze and hang. It returns you a smooth computer as "fresh" as the day you got it.
 
@@ -12,4 +14,5 @@ It provides the most comprehensive hard disk utility toolsets including partitio
 
 And even more...
 
-Instead of shopping around everyday and buying expensive single task software, Spotmau PowerSuite 2009 saves your hundreds of dollars and your precious time.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947965&affiliateid=200057808)
+Instead of shopping around everyday and buying expensive single task software, Spotmau PowerSuite 2009 saves your hundreds of dollars and your precious time.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947965&affiliateid=200057808)

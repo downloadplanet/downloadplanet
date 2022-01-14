@@ -1,1 +1,3 @@
-# Papier Lineal drucken<br />Print paper rulers<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300280489&affiliateid=200057808)
+# Papier Lineal drucken
+Print paper rulers
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300280489&affiliateid=200057808)

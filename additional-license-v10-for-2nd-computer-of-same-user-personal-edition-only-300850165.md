@@ -1,1 +1,4 @@
-# Additional license V10 for 2nd computer of SAME USER (Personal Edition only)<br />![Additional license V10 for 2nd computer of SAME USER (Personal Edition only)](https://mycommerce.akamaized.net/api/pimages/P300850165/BIG/300850165.JPG)<br />Additional license for 2nd computer which is used by the SAME user (Personal Edition only), i.e for use on a desktop computer (office) and notebook (home office).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300850165&affiliateid=200057808)
+# Additional license V10 for 2nd computer of SAME USER (Personal Edition only)
+![Additional license V10 for 2nd computer of SAME USER (Personal Edition only)](https://mycommerce.akamaized.net/api/pimages/P300850165/BIG/300850165.JPG)
+Additional license for 2nd computer which is used by the SAME user (Personal Edition only), i.e for use on a desktop computer (office) and notebook (home office).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300850165&affiliateid=200057808)

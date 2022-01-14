@@ -1,1 +1,3 @@
-# Geprüfter Technischer Fachwirt - Rechnungswesen<br />![Geprüfter Technischer Fachwirt - Rechnungswesen](https://mycommerce.akamaized.net/api/pimages/P300549822/BIG/300549822.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300549822&affiliateid=200057808)
+# Geprüfter Technischer Fachwirt - Rechnungswesen
+![Geprüfter Technischer Fachwirt - Rechnungswesen](https://mycommerce.akamaized.net/api/pimages/P300549822/BIG/300549822.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300549822&affiliateid=200057808)

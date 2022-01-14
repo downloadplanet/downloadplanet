@@ -1,1 +1,3 @@
-# Project Password Recovery (for personal use)<br />Project Password Recovery is a program to recover lost or forgotten passwords for Microsoft Project password-protected documents (*.mpp) and templates (*.mpt). All passwords are recovered instantly regardless of length. Multilingual passwords are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=196282&affiliateid=200057808)
+# Project Password Recovery (for personal use)
+Project Password Recovery is a program to recover lost or forgotten passwords for Microsoft Project password-protected documents (*.mpp) and templates (*.mpt). All passwords are recovered instantly regardless of length. Multilingual passwords are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=196282&affiliateid=200057808)

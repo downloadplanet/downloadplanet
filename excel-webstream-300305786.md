@@ -1,1 +1,2 @@
-# Excel Web-stream<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300305786&affiliateid=200057808)
+# Excel Web-stream
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300305786&affiliateid=200057808)

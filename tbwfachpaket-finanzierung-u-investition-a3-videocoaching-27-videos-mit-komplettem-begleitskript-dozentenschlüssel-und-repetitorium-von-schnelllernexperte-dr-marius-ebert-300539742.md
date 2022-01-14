@@ -1,1 +1,2 @@
-# TBW-Fachpaket: Finanzierung u. Investition (A.3.), Videocoaching, 27 Videos mit komplettem Begleitskript, Dozentenschlüssel und Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300539742&affiliateid=200057808)
+# TBW-Fachpaket: Finanzierung u. Investition (A.3.), Videocoaching, 27 Videos mit komplettem Begleitskript, Dozentenschlüssel und Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300539742&affiliateid=200057808)

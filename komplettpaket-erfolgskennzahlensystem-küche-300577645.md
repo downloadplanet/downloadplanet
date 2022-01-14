@@ -1,4 +1,5 @@
-# Komplettpaket Erfolgskennzahlensystem Küche<br />Folgende Unterlagen und Dateien erhalten Sie:
+# Komplettpaket Erfolgskennzahlensystem Küche
+Folgende Unterlagen und Dateien erhalten Sie:
 
 Erfolgskennzahlensystem im Excelprogramm 2016-2019
 Grundgerüst Auswertung Vergleichskennzahlen 2016 - 2019 mit Diagrammen
@@ -29,4 +30,5 @@ Personalkosten in % Küche
 Food Index Produktivität/ Prime Cost
 Personalkosten pro Gast
 Personalkosten pro Arbeitsstunde
-Deckungsbeitrag 2<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300577645&affiliateid=200057808)
+Deckungsbeitrag 2
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300577645&affiliateid=200057808)

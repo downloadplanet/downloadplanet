@@ -1,4 +1,5 @@
-# Embellish symbols for Fireworks (PNG) V4<br />www.graphicxtras.com -- Embellish symbols Fireworks PNG Swirls & Flourishes V4
+# Embellish symbols for Fireworks (PNG) V4
+www.graphicxtras.com -- Embellish symbols Fireworks PNG Swirls & Flourishes V4
 
 Symbols for Adobe (R) Fireworks (R)
 200 Embellishment themed symbols for use in Adobe Fireworks + others
@@ -25,4 +26,5 @@ GRAPHICXTRAS.COM
 
 
 Any questions, please mail us on support@graphicxtras.comhttp://www.graphicxtras.com/swirls-flourishes.htm
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300193919&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300193919&affiliateid=200057808)

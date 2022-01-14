@@ -1,2 +1,5 @@
-# Heroglyph Creative Pack Vol. 2 (- 25%)<br />![Heroglyph Creative Pack Vol. 2 (- 25%)](https://mycommerce.akamaized.net/api/pimages/P300379988/BIG/300379988.JPG)<br />Extensive symbols and clipartto be used on motion paths as well as new project templates for again new possibilities in Heroglyph.
- Get more informations about this product, samples and descriptions...<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300379988&affiliateid=200057808)
+# Heroglyph Creative Pack Vol. 2 (- 25%)
+![Heroglyph Creative Pack Vol. 2 (- 25%)](https://mycommerce.akamaized.net/api/pimages/P300379988/BIG/300379988.JPG)
+Extensive symbols and clipartto be used on motion paths as well as new project templates for again new possibilities in Heroglyph.
+ Get more informations about this product, samples and descriptions...
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300379988&affiliateid=200057808)

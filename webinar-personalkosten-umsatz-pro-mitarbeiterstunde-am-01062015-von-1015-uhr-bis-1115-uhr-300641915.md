@@ -1,4 +1,5 @@
-# Webinar Personalkosten & Umsatz pro Mitarbeiterstunde am 01.06.2015 von 10:15 Uhr bis 11:15 Uhr<br />Seminarbeschreibung
+# Webinar Personalkosten & Umsatz pro Mitarbeiterstunde am 01.06.2015 von 10:15 Uhr bis 11:15 Uhr
+Seminarbeschreibung
 Mit diesem Webinar werden die Teilnehmer in die Lage versetzt, die Personalkosten pro Stunde für jeden ihrer Mitarbeiter und die komplette Abteilung in MS Excel mit geringem Zeitaufwand zu errechnen. Anschließend können sie den benötigten Soll-Umsatz pro Mitarbeiterstunde ermitteln. Sie werden künftig die Differenz zwischen IST- und Soll-Umsatz pro Mitarbeiterstunde für ihre Abteilung herausfinden und entsprechende Massnahmen bei Abweichungen durchzuführen.
 
 Inhalte
@@ -30,4 +31,5 @@ Folgende Unterlagen und Dateien erhalten Sie bei der Standard Version per Mail z
 Excelprogramm mit den Tabellenblättern:Arbeitsgruppenkosten, Arbeitszeitberechnung, Stundenkosten und Tabellenblatt mit allen Kennzahlen
 Konzept zur Berechnung der Arbeitsgruppenkosten als PDF Datei
 Beschreibung für die Excelvorlage als PDF
-Videoanleitung für das Excelschema<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300641915&affiliateid=200057808)
+Videoanleitung für das Excelschema
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300641915&affiliateid=200057808)

@@ -1,1 +1,4 @@
-# Bitwar PDF Converter ONLINE [Monthly Membership]<br />![Bitwar PDF Converter ONLINE [Monthly Membership]](https://mycommerce.akamaized.net/api/pimages/P301011995/BIG/301011995.PNG)<br />Support for interconverts PDF to Word document, Excel Spreadsheet, Powerpoint, image, HTML, CAD, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301011995&affiliateid=200057808)
+# Bitwar PDF Converter ONLINE [Monthly Membership]
+![Bitwar PDF Converter ONLINE [Monthly Membership]](https://mycommerce.akamaized.net/api/pimages/P301011995/BIG/301011995.PNG)
+Support for interconverts PDF to Word document, Excel Spreadsheet, Powerpoint, image, HTML, CAD, etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301011995&affiliateid=200057808)

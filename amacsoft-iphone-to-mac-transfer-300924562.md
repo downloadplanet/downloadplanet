@@ -1,4 +1,6 @@
-# Amacsoft iPhone to Mac Transfer<br />![Amacsoft iPhone to Mac Transfer](https://mycommerce.akamaized.net/api/pimages/P300924562/BIG/300924562.PNG)<br />Amacsoft iPhone to Mac Transfer makes it possible to back up iPhone music, movies, tv shows, podcasts, audiobooks, books, ringtones, playlist, vioce memos and camera roll to Mac.
+# Amacsoft iPhone to Mac Transfer
+![Amacsoft iPhone to Mac Transfer](https://mycommerce.akamaized.net/api/pimages/P300924562/BIG/300924562.PNG)
+Amacsoft iPhone to Mac Transfer makes it possible to back up iPhone music, movies, tv shows, podcasts, audiobooks, books, ringtones, playlist, vioce memos and camera roll to Mac.
 
 Transfer iPhone to Mac
 iPhone to Mac Transfer can transfer Music, Movies, TV Shows, Podcast, Audiobook, eBooks, Photo, Camera Roll, Ringtone, Playlist, Vioce Memos from iPhone to Mac for share and backup.
@@ -13,4 +15,5 @@ Super fast transfer speed
 This transfer will be finished in a short while. The results of the transfer will be shown in the bottom of the screen.
 
 Support iPad/iPod/iPhone
-This iPad Transfer for Mac supports iPod touch, iPhone, iPhone 4, iPhone 4S, iPad, and iPad 2, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924562&affiliateid=200057808)
+This iPad Transfer for Mac supports iPod touch, iPhone, iPhone 4, iPhone 4S, iPad, and iPad 2, etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924562&affiliateid=200057808)

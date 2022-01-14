@@ -1,1 +1,3 @@
-# SMS Credits - 200 pack<br />SMS credits<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300624412&affiliateid=200057808)
+# SMS Credits - 200 pack
+SMS credits
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300624412&affiliateid=200057808)

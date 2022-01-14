@@ -1,1 +1,3 @@
-# Cucusoft DVD Ripper+Video Converter Ultimate Suite<br />Converts DVD's and videos to play on almost any portable device including iPod, iPhone, Zune, PSP, video capable MP3 players, video capable mobile phones, and Pocket P.C.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300166011&affiliateid=200057808)
+# Cucusoft DVD Ripper+Video Converter Ultimate Suite
+Converts DVD's and videos to play on almost any portable device including iPod, iPhone, Zune, PSP, video capable MP3 players, video capable mobile phones, and Pocket P.C.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300166011&affiliateid=200057808)

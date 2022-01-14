@@ -1,4 +1,6 @@
-# Hörbuch "Der Dating Code"<br />![Hörbuch "Der Dating Code"](https://mycommerce.akamaized.net/api/pimages/P300577521/BIG/300577521.JPG)<br />Hören Sie selbst wie man praktisch jede Traumfrau rumkriegt!
+# Hörbuch "Der Dating Code"
+![Hörbuch "Der Dating Code"](https://mycommerce.akamaized.net/api/pimages/P300577521/BIG/300577521.JPG)
+Hören Sie selbst wie man praktisch jede Traumfrau rumkriegt!
 
 Die perfekte Vorbereitung
 - Step-by-Step zum perfekten Date
@@ -41,4 +43,5 @@ Lernen Sie selbst wie man praktisch jede Traumfrau rumkriegt!
 
 Über 130 Minuten voller wertvoller Informationen, Anleitungen, Tipps und Tricks.
 
-Das Hörbuch hat eine Spieldauer von insgesamt 130 Minuten und wird von einem männlichen professionellen Sprecher in Studio-Qualität vorgetragen.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300577521&affiliateid=200057808)
+Das Hörbuch hat eine Spieldauer von insgesamt 130 Minuten und wird von einem männlichen professionellen Sprecher in Studio-Qualität vorgetragen.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300577521&affiliateid=200057808)

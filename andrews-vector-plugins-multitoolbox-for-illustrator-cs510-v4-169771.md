@@ -1,4 +1,5 @@
-# Andrews Vector Plugins MultiToolbox for Illustrator CS5-10 V4<br />www.graphicxtras.com -- Andrews Vector Plugins MultiToolbox Illustrator CS5 - 10 PC & MAC OS X V4
+# Andrews Vector Plugins MultiToolbox for Illustrator CS5-10 V4
+www.graphicxtras.com -- Andrews Vector Plugins MultiToolbox Illustrator CS5 - 10 PC & MAC OS X V4
 
 Plug-in toolkit set for Adobe (R) Illustrator (R). Plugin for the toolbox. PC + MAC OS X
 Plugin set for Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10
@@ -35,4 +36,5 @@ MENU:
 
 For more information about the plug-in
 If you wish to contact me about the plug-in set, please e-mail on Please e-mail us on support@graphicxtras.com
-Other plugins - more info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=169771&affiliateid=200057808)
+Other plugins - more info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=169771&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Geprüfter Meister für Kraftverkehr IHK<br />![Geprüfter Meister für Kraftverkehr IHK](https://mycommerce.akamaized.net/api/pimages/P300635411/BIG/300635411.JPG)<br />A. Fachrichtungsübergreifende Basisqualifikationen
+# Geprüfter Meister für Kraftverkehr IHK
+![Geprüfter Meister für Kraftverkehr IHK](https://mycommerce.akamaized.net/api/pimages/P300635411/BIG/300635411.JPG)
+A. Fachrichtungsübergreifende Basisqualifikationen
   Rechtsbewusstes Handeln
 Betriebswirtschaftliches Handeln
 Anwendung von Methoden der Information, Kommunikation und Planung
@@ -19,4 +21,5 @@ EMail: verlag@lernlocker.de
 Internet: www.lernlocker.de
   Handelsregister Nr. HRA 7885
 Amtsgericht Aachen
-  Ust.-ID DE 249 894 277<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300635411&affiliateid=200057808)
+  Ust.-ID DE 249 894 277
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300635411&affiliateid=200057808)

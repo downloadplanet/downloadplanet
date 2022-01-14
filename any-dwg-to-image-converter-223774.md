@@ -1,1 +1,3 @@
-# Any DWG to Image Converter<br />Any DWG to Image Converter is a batch converter that allows you to convert DWG, DXF and DWF files to TIF (TIFF), JPG (JPEG), BMP, GIF, PNG, TGA, PCX, WMF and EMF without the need of AutoCAD.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=223774&affiliateid=200057808)
+# Any DWG to Image Converter
+Any DWG to Image Converter is a batch converter that allows you to convert DWG, DXF and DWF files to TIF (TIFF), JPG (JPEG), BMP, GIF, PNG, TGA, PCX, WMF and EMF without the need of AutoCAD.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=223774&affiliateid=200057808)

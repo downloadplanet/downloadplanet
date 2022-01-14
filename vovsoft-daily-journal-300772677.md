@@ -1,1 +1,3 @@
-# Vovsoft Daily Journal<br />Write your memories or appointments with ease. Daily Journal saves your data only in your own computer and helps you keep them private. This program is multi-user supported. Every single user unlocks his/her data by using his or her password. You can search your data. Interface is customizable. Backup import and export is provided.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300772677&affiliateid=200057808)
+# Vovsoft Daily Journal
+Write your memories or appointments with ease. Daily Journal saves your data only in your own computer and helps you keep them private. This program is multi-user supported. Every single user unlocks his/her data by using his or her password. You can search your data. Interface is customizable. Backup import and export is provided.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300772677&affiliateid=200057808)

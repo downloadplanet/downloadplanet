@@ -1,3 +1,6 @@
-# Quick Merge for Excel+Word - Business (10 PCs)<br />![Quick Merge for Excel+Word - Business (10 PCs)](https://mycommerce.akamaized.net/api/pimages/P300848763/BIG/300848763.PNG)<br />Business License - up to 10 PCs/Users within the same company.
+# Quick Merge for Excel+Word - Business (10 PCs)
+![Quick Merge for Excel+Word - Business (10 PCs)](https://mycommerce.akamaized.net/api/pimages/P300848763/BIG/300848763.PNG)
+Business License - up to 10 PCs/Users within the same company.
 
-Quick Merge for Excel™+Word™ is a software for Windows™ for the simplified creation of mail merge documents with Microsoft Excel™ and Word™. With Quick Merge, mail merge documents can be created very easily and quickly, without the hassle of creating data links and puzzling formatting. The biggest advantage is the automatic takeover of number and date formats as well as calculated values exactly as they are displayed in Excel spreadsheets.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300848763&affiliateid=200057808)
+Quick Merge for Excel™+Word™ is a software for Windows™ for the simplified creation of mail merge documents with Microsoft Excel™ and Word™. With Quick Merge, mail merge documents can be created very easily and quickly, without the hassle of creating data links and puzzling formatting. The biggest advantage is the automatic takeover of number and date formats as well as calculated values exactly as they are displayed in Excel spreadsheets.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300848763&affiliateid=200057808)

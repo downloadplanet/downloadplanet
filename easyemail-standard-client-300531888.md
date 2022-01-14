@@ -1,4 +1,5 @@
-# EasyEmail Standard Client<br />EasyEmail Standard Client
+# EasyEmail Standard Client
+EasyEmail Standard Client
 
 Standard version of UtilStudio EasyEmail. It is targetting (designed) to the seniors or young people and others PC begginers. Lockable sidebar will be notify you about incoming emails from unlimited number of buddies. There are only two basic buttons Read and Write for reading and write email messages from or to your buddies or family members. Lockable sidebar can not by close, if it is locked. It is very usefull function for PC begginers or seniors.
 
@@ -25,4 +26,5 @@ And have an attachments viewer allows to preview, open, save or print email atta
 
 Very simple installation and autoupdate.
 
-Please check UtilStudio web site for new updates.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300531888&affiliateid=200057808)
+Please check UtilStudio web site for new updates.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300531888&affiliateid=200057808)

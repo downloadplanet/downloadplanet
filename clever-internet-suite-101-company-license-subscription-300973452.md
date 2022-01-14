@@ -1,4 +1,6 @@
-# Clever Internet Suite 10.1 Company License Subscription<br />![Clever Internet Suite 10.1 Company License Subscription](https://mycommerce.akamaized.net/api/pimages/P300973452/BIG/300973452.JPG)<br />The Clever Internet Suite represents 100% Delphi VCL components with no external dependencies.
+# Clever Internet Suite 10.1 Company License Subscription
+![Clever Internet Suite 10.1 Company License Subscription](https://mycommerce.akamaized.net/api/pimages/P300973452/BIG/300973452.JPG)
+The Clever Internet Suite represents 100% Delphi VCL components with no external dependencies.
 These components allow you to send and receive mail, including HTML and MIME attachments, from within an application, download and upload Internet resources over most popular protocols.
 The suite includes more than 50 components for Internet development and its code is constantly being refined and improved.
 Features at a glance:
@@ -9,4 +11,5 @@ Easy creation of the mail messages in any formats. Combining and submitting the 
 Royalty free licensing. Free Unlimited Email support
 Fully-indexed help documentation. Delphi and C++Builder demos code
 Is source available?
-When purchasing the Clever Internet Suite you receive the full sources for all suite components and also free unlimited support.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300973452&affiliateid=200057808)
+When purchasing the Clever Internet Suite you receive the full sources for all suite components and also free unlimited support.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300973452&affiliateid=200057808)

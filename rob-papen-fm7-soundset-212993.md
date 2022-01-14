@@ -1,1 +1,3 @@
-# Rob Papen FM7 soundset<br />128 + 35 bonus presets of top-notch quality for the "Native Instruments FM7 Synthesizer" or "FM8 synthesizer"<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=212993&affiliateid=200057808)
+# Rob Papen FM7 soundset
+128 + 35 bonus presets of top-notch quality for the "Native Instruments FM7 Synthesizer" or "FM8 synthesizer"
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=212993&affiliateid=200057808)

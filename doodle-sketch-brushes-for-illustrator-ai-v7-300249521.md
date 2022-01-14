@@ -1,4 +1,5 @@
-# Doodle / sketch brushes for Illustrator (AI) V7<br />www.graphicxtras.com -- Doodle brushes for Adobe Illustrator Creative cloud Hand drawn & Sketch Strokes Vectors V7
+# Doodle / sketch brushes for Illustrator (AI) V7
+www.graphicxtras.com -- Doodle brushes for Adobe Illustrator Creative cloud Hand drawn & Sketch Strokes Vectors V7
 
 160 Doodle brushes for Adobe (R) Illustrator (R) CC Creative Cloud 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 10, PC + MAC OS X. Brushes pack includes scratchy brushes, doodles, line brushes, scratchy brushes, transparency brushes, circular design brushes, rough brushes, distress brushes, grunge brushes and many more
 
@@ -12,4 +13,5 @@ To purchase, please click the add to cart (cookies are required for this operati
 
 
 Mail me if you have any questions
-http://www.graphicxtras.com/brushes-collection.htm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300249521&affiliateid=200057808)
+http://www.graphicxtras.com/brushes-collection.htm
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300249521&affiliateid=200057808)

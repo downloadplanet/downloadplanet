@@ -1,4 +1,5 @@
-# Cute Translator Pro<br />Cute Translator Pro is the professional edition of Cute Translator, which translates text, documents between 53 major languages with unlimited translation, unlimited length of text and documents of popular formats.
+# Cute Translator Pro
+Cute Translator Pro is the professional edition of Cute Translator, which translates text, documents between 53 major languages with unlimited translation, unlimited length of text and documents of popular formats.
 Supported applications and formats are doubled in this new version,
 
 Adobe Acrobat (PDF)
@@ -39,4 +40,5 @@ Automatically download required components such as Microsoft Text-To-Speech engi
 
 Various options such as copy result to clipboard after translation, read aloud result after translation
 
-Advanced Live updater to detect new version available on this web site.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300072448&affiliateid=200057808)
+Advanced Live updater to detect new version available on this web site.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300072448&affiliateid=200057808)

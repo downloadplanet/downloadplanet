@@ -1,1 +1,2 @@
-# Upgrade to EMCO Ping Monitor Professional from Professional v.7 (Unlimited Copies)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300694707&affiliateid=200057808)
+# Upgrade to EMCO Ping Monitor Professional from Professional v.7 (Unlimited Copies)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300694707&affiliateid=200057808)

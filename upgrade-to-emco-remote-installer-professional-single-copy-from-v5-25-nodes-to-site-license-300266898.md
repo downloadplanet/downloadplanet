@@ -1,1 +1,2 @@
-# Upgrade to EMCO Remote Installer Professional (Single Copy) from v.5 (25 Nodes to Site License)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300266898&affiliateid=200057808)
+# Upgrade to EMCO Remote Installer Professional (Single Copy) from v.5 (25 Nodes to Site License)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300266898&affiliateid=200057808)

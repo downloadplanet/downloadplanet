@@ -1,4 +1,6 @@
-# EZ Meta Tag Editor<br />![EZ Meta Tag Editor](https://mycommerce.akamaized.net/api/pimages/P300869544/BIG/300869544.PNG)<br />Metadata editor for audio files
+# EZ Meta Tag Editor
+![EZ Meta Tag Editor](https://mycommerce.akamaized.net/api/pimages/P300869544/BIG/300869544.PNG)
+Metadata editor for audio files
 Manage music collection with the explorer style music file browser. Edit metadata of audio files. Perfect the audio files with high quality metadata and cover art. Batch edit multiple audio files at once.
 · Easiest way to manage the metadata of your audio files
 · Get metadata and cover art from 6 online databases
@@ -18,4 +20,5 @@ AAC, HE AAC, AIFF, Monkey's Audio, DSF, DFF, FLAC, MP3, MP2, MP1, Musepack, Opus
 Internet disc databases
 GD3, MusicBrainz, Discogs, Freedb, Amazon
 Other features
-· Full ReplayGain v2 support with EBU R128 loudness calculation algorithm · High DPI aware Unicode application<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300869544&affiliateid=200057808)
+· Full ReplayGain v2 support with EBU R128 loudness calculation algorithm · High DPI aware Unicode application
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300869544&affiliateid=200057808)

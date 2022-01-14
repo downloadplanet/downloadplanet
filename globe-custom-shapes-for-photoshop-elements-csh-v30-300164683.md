@@ -1,4 +1,5 @@
-# Globe Custom shapes for Photoshop & Elements (CSH) V30<br />www.graphicxtras.com -- Globe Custom Shapes for Adobe Photoshop & Elements Sphere & 3D & Wireframe CSH V30
+# Globe Custom shapes for Photoshop & Elements (CSH) V30
+www.graphicxtras.com -- Globe Custom Shapes for Adobe Photoshop & Elements Sphere & 3D & Wireframe CSH V30
 
 Custom shapes for Photoshop and Photoshop Elements
 50 Sphere / Globe Line designs themed custom shapes' designs for Adobe (R) Photoshop (R)
@@ -21,4 +22,5 @@ MENU:
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300164683&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300164683&affiliateid=200057808)

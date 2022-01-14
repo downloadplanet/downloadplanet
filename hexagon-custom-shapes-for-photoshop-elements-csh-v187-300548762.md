@@ -1,7 +1,9 @@
-# Hexagon Custom shapes for Photoshop & Elements (CSH) V187<br />www.graphicxtras.com -- Hexagon Custom Shapes for Adobe Photoshop & Elements CSH Creative Cloud Vectors V187
+# Hexagon Custom shapes for Photoshop & Elements (CSH) V187
+www.graphicxtras.com -- Hexagon Custom Shapes for Adobe Photoshop & Elements CSH Creative Cloud Vectors V187
 
 Hexagon custom shapes for Photoshop and elements
 100 Hexagon themed custom shapes for use in Photoshop CC 2017 2015 CS6 CS5 CS4 CS3 etc as well as standalone versions and also Photoshop Elements 15 - 1 PC and MAC. The set is all by graphicxtras.com / Andrew Buckle and can be used in all your projects, commercial as well as personal, royalty free, you can use them without any credit required. All are vectors for any size of work. They are all accessed via the custom shapes tool in Photoshop and added as layers and also pixels and more. The set can be used to create millions of different designs for all your projects such as leaflets, books, adverts, web pages, scrap booking, 3D work, textures, backgrounds, fabrics, etc You can combine them in millions of ways as well as use them as a Photoshop brush source as well as patterns and much more.
 nbsp;
 To see examples of the artworks included in the set, please check out Graphicxtras.com
-Check out http://www.graphicxtras.com/products/psshapes.htm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300548762&affiliateid=200057808)
+Check out http://www.graphicxtras.com/products/psshapes.htm
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300548762&affiliateid=200057808)

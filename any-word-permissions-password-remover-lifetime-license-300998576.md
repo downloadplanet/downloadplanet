@@ -1,1 +1,4 @@
-# Any Word Permissions Password Remover Lifetime License<br />![Any Word Permissions Password Remover Lifetime License](https://mycommerce.akamaized.net/api/pimages/P300998576/BIG/300998576.PNG)<br />Remove Password to Modify Word and Unlock Read-only Word<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998576&affiliateid=200057808)
+# Any Word Permissions Password Remover Lifetime License
+![Any Word Permissions Password Remover Lifetime License](https://mycommerce.akamaized.net/api/pimages/P300998576/BIG/300998576.PNG)
+Remove Password to Modify Word and Unlock Read-only Word
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998576&affiliateid=200057808)

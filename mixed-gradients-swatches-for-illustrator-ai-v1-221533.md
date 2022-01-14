@@ -1,4 +1,5 @@
-# Mixed gradients Swatches for Illustrator (AI) V1<br />www.graphicxtras.com -- Mixed gradients Swatches for Adobe Illustrator PC & MAC OS X V1
+# Mixed gradients Swatches for Illustrator (AI) V1
+www.graphicxtras.com -- Mixed gradients Swatches for Adobe Illustrator PC & MAC OS X V1
 
 1600 Gradient swatches: mixed gradients
 For Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10
@@ -22,4 +23,5 @@ Download only
 
 Questions??
 Swatches information on http://www.graphicxtras.com
-Find out more on graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=221533&affiliateid=200057808)
+Find out more on graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=221533&affiliateid=200057808)

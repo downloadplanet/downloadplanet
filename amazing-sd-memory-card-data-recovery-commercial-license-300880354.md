@@ -1,1 +1,4 @@
-# Amazing SD Memory Card Data Recovery Commercial License<br />![Amazing SD Memory Card Data Recovery Commercial License](https://mycommerce.akamaized.net/api/pimages/P300880354/BIG/300880354.PNG)<br />Recover lost, deleted, corrupted or formatted photos, videos, audios, documents from various memory cards, such as SD card, CF card, MMC(Multimedia Card), XD Picture Card, SDHC, MicroSD, MiniSD, Memory Stick and more.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300880354&affiliateid=200057808)
+# Amazing SD Memory Card Data Recovery Commercial License
+![Amazing SD Memory Card Data Recovery Commercial License](https://mycommerce.akamaized.net/api/pimages/P300880354/BIG/300880354.PNG)
+Recover lost, deleted, corrupted or formatted photos, videos, audios, documents from various memory cards, such as SD card, CF card, MMC(Multimedia Card), XD Picture Card, SDHC, MicroSD, MiniSD, Memory Stick and more.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300880354&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# EMS Data Import for InterBase/Firebird (Business) + 1 Year Maintenance<br />Import data to InterBase/Firebird database tables from MS Access, MS Excel, CSV, XML and other popular formats via user-friendly wizard interface.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300068028&affiliateid=200057808)
+# EMS Data Import for InterBase/Firebird (Business) + 1 Year Maintenance
+Import data to InterBase/Firebird database tables from MS Access, MS Excel, CSV, XML and other popular formats via user-friendly wizard interface.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300068028&affiliateid=200057808)

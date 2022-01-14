@@ -1,1 +1,4 @@
-# ZylBurner (Delphi/C++Builder) - Single Developer License<br />![ZylBurner (Delphi/C++Builder) - Single Developer License](https://mycommerce.akamaized.net/api/pimages/P202037/BIG/202037.JPG)<br />ZylBurner is a CD / DVD burner Delphi component. It needs Nero Burning ROM to be installed.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=202037&affiliateid=200057808)
+# ZylBurner (Delphi/C++Builder) - Single Developer License
+![ZylBurner (Delphi/C++Builder) - Single Developer License](https://mycommerce.akamaized.net/api/pimages/P202037/BIG/202037.JPG)
+ZylBurner is a CD / DVD burner Delphi component. It needs Nero Burning ROM to be installed.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=202037&affiliateid=200057808)

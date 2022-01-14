@@ -1,1 +1,2 @@
-# TBW-Fachpaket: Info- u. Kommunikationstechniken (B.III.), Videocoaching, 8 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300540567&affiliateid=200057808)
+# TBW-Fachpaket: Info- u. Kommunikationstechniken (B.III.), Videocoaching, 8 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300540567&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# SysInfo PST Converter for Windows[Technician License]<br />SysInfo PST Converter/a><br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300945570&affiliateid=200057808)
+# SysInfo PST Converter for Windows[Technician License]
+SysInfo PST Converter/a>
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300945570&affiliateid=200057808)

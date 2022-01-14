@@ -1,4 +1,7 @@
-# CalcTape Pro for Windows<br />![CalcTape Pro for Windows](https://mycommerce.akamaized.net/api/pimages/P300380670/BIG/300380670.PNG)<br />CalcTape Pro for Windows is a revolutionary new kind of calculator. With CalcTape, also extensive calculations remain clearly structured. CalcTape makes the arithmetic process visible - you can generate intermediate results and subsequently correct or change all numbers and operations.
+# CalcTape Pro for Windows
+![CalcTape Pro for Windows](https://mycommerce.akamaized.net/api/pimages/P300380670/BIG/300380670.PNG)
+CalcTape Pro for Windows is a revolutionary new kind of calculator. With CalcTape, also extensive calculations remain clearly structured. CalcTape makes the arithmetic process visible - you can generate intermediate results and subsequently correct or change all numbers and operations.
 CalcTape is also available for Android, iPhone, iPad and MacOS!
 Try CalcTape Pro for 30 days without any restriction.
-Visit www.calctape.com for further information.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300380670&affiliateid=200057808)
+Visit www.calctape.com for further information.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300380670&affiliateid=200057808)

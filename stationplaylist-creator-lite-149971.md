@@ -1,1 +1,3 @@
-# StationPlaylist Creator Lite<br />Creator Lite<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=149971&affiliateid=200057808)
+# StationPlaylist Creator Lite
+Creator Lite
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=149971&affiliateid=200057808)

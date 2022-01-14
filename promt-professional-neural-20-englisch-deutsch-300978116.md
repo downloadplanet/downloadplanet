@@ -1,4 +1,5 @@
-# PROMT Professional Neural 20 Englisch <-> Deutsch<br />Neuronale maschinelle Übersetzung (NMT) lokal und diskret auf Ihrem Computer oder Laptop. Diese Übersetzungstechnologie ermöglicht eine genauere und natürlich klingende Textübersetzung.
+# PROMT Professional Neural 20 Englisch <-> Deutsch
+Neuronale maschinelle Übersetzung (NMT) lokal und diskret auf Ihrem Computer oder Laptop. Diese Übersetzungstechnologie ermöglicht eine genauere und natürlich klingende Textübersetzung.
 
 Highlights im Überblick
 Neuronale maschinelle Übersetzung Präzise und hochwertige neuronale Übersetzung von Texten und Dokumenten jeden Umfangs. PROMT Professional Neural ist mit mehr als 100 Millionen Parallelsegmenten trainiert und liefert in Sekundenschnelle einen absolut verständlichen Text in einer anderen Sprache; ganz ohne maschinellen Akzent und ohne menschliche Nachbearbeitung.
@@ -11,4 +12,5 @@ Betriebssystem: Microsoft Windows® 10, 8, und 7 (32-/64-bit)
 Prozessor: Intel Core i5-44xx oder neuer (oder AMD Ryzen 3 oder neuer), Prozessor mit 6 Kernen wird empfohlen.
 Arbeitsspeicher: mindestens 8Gb (16 GB werden empfohlen).
 Festplattenspeicher: mindestens 10 GB
-Um die Übersetzungsgeschwindigkeit zu erhöhen, empfehlen wir eine Grafikkarte (GPU) mit mindestens 4 GB Arbeitsspeicher und CUDA 10.x zu verwenden (NVidia GeForce GTX1050 oder neuer).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300978116&affiliateid=200057808)
+Um die Übersetzungsgeschwindigkeit zu erhöhen, empfehlen wir eine Grafikkarte (GPU) mit mindestens 4 GB Arbeitsspeicher und CUDA 10.x zu verwenden (NVidia GeForce GTX1050 oder neuer).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300978116&affiliateid=200057808)

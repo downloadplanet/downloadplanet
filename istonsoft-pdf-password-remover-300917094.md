@@ -1,4 +1,6 @@
-# iStonsoft PDF Password Remover<br />![iStonsoft PDF Password Remover](https://mycommerce.akamaized.net/api/pimages/P300917094/BIG/300917094.PNG)<br />iStonsoft PDF Password Remover (also called a PDF password cracker, password reset, or password recovery tool, depending on its ability) is a program that can be used to either find, remove, or bypass the security on a PDF file that prevents you from opening, printing, or changing the PDF file.
+# iStonsoft PDF Password Remover
+![iStonsoft PDF Password Remover](https://mycommerce.akamaized.net/api/pimages/P300917094/BIG/300917094.PNG)
+iStonsoft PDF Password Remover (also called a PDF password cracker, password reset, or password recovery tool, depending on its ability) is a program that can be used to either find, remove, or bypass the security on a PDF file that prevents you from opening, printing, or changing the PDF file.
 
 iStonsoft PDF Password Remover is a utility to decrypt Adobe Acrobat PDF. It can be used to remove standard PDF security including owner password which restricts PDF from copying, editing and printing and user/open password which protect PDF files with password for opening.
 
@@ -24,4 +26,5 @@ What PDF Password Remover CAN NOT Do
 
 PDF Password Remover can't find out user/open password and present to you.
 
-PDF Password Removal tool can not remove other protections, e.g. DRM.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917094&affiliateid=200057808)
+PDF Password Removal tool can not remove other protections, e.g. DRM.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917094&affiliateid=200057808)

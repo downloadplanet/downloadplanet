@@ -1,3 +1,5 @@
-# Letter Displacement textures for Photoshop & Elements & PSP (PSD) V13<br />www.graphicxtras.com -- Letter Displacement textures Photoshop & Elements & PSP Alphabet & Type & Text V13
+# Letter Displacement textures for Photoshop & Elements & PSP (PSD) V13
+www.graphicxtras.com -- Letter Displacement textures Photoshop & Elements & PSP Alphabet & Type & Text V13
 
-Displacement maps for Photoshop, PSP and others - for PC and MAC - license: commercial (and personal), royalty-free - create items for sale - all are by graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468991&affiliateid=200057808)
+Displacement maps for Photoshop, PSP and others - for PC and MAC - license: commercial (and personal), royalty-free - create items for sale - all are by graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468991&affiliateid=200057808)

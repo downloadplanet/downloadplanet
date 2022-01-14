@@ -1,4 +1,5 @@
-# Upgrate to Advanced ETL Processor Professional<br />Advanced ETL Processor Professional is a Codeless Automation Tool.
+# Upgrate to Advanced ETL Processor Professional
+Advanced ETL Processor Professional is a Codeless Automation Tool.
 Users can design Data transformations and Sql script add them to the package together with report, file, ftp, email and many more actions and schedule them for execution on regular basis
 By combining simple Package actions together Advanced ETL Processor Professional helps businesses to automate complicated business processes and everyday tasks.
 Advanced ETL Processor Professional supports complex enterprise environments including database, file, smtp, pop3 and ftp servers.
@@ -140,4 +141,5 @@ Advanced ETL Processor runs on Microsoft Windows 98/ME/NT 4.0/2000/XP/2003/Vista
 LICENSING
 There are two types of licenses available
 1. A single computer usage license. The user purchases one license to use the SOFTWARE PRODUCT on one computer.
-2. A SITE usage license. The user purchases a single usage license, authorising the use of SOFTWARE PRODUCT, by the purchaser, the purchaser's employees or accredited agents, on an unlimited number of computers at the same physical site location. This site location would normally be defined as a single building, but could be considered to be a number of buildings within the same, general, geographical location, such as an industrial estate or small town.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300293731&affiliateid=200057808)
+2. A SITE usage license. The user purchases a single usage license, authorising the use of SOFTWARE PRODUCT, by the purchaser, the purchaser's employees or accredited agents, on an unlimited number of computers at the same physical site location. This site location would normally be defined as a single building, but could be considered to be a number of buildings within the same, general, geographical location, such as an industrial estate or small town.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300293731&affiliateid=200057808)

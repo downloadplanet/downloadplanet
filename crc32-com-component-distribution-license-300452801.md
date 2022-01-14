@@ -1,3 +1,5 @@
-# CRC32 COM Component (Distribution License)<br />CRC32 COM Component is for ASP, Cold Fusion, VB, VC and other languages. The com component will quickly generate a CRC32 checksum in hex or numeric.
+# CRC32 COM Component (Distribution License)
+CRC32 COM Component is for ASP, Cold Fusion, VB, VC and other languages. The com component will quickly generate a CRC32 checksum in hex or numeric.
 This license allows you to send unlimited copies of the software out with your own software, by no means must this software be sold separately. You are by no means allowed to directly compete with Traction Software Ltd by using this software component. e.g. a crc check program
-All Updates to 1.xx are free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300452801&affiliateid=200057808)
+All Updates to 1.xx are free of charge.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300452801&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Preset Shapes collection for Paint Shop Pro (JSL)<br />www.graphicxtras.com -- Preset Shapes collection for Paint Shop Pro PSP vector graphics PC
+# Preset Shapes collection for Paint Shop Pro (JSL)
+www.graphicxtras.com -- Preset Shapes collection for Paint Shop Pro PSP vector graphics PC
 
 Presets shapes (for Corel (R) Paint Shop Pro (R) Photo X9 X8 X7 X6 X5 X4 X3 X2 X1 10 9 8 for use on the PC (Windows Vista, Windows XP, Windows 7, Windows 8, Windows 8.1 etc)
 Hundreds of stunning vector shapes / preset shapes including basic shapes, unusual shapes, weird shapes, frames and edge shapes, distorted shapes, curved, contours, dotted, splats, rosettes and many more - all wonderful design elements for all your work and projects. A totally unique and amazing set of artworks for your work
@@ -17,4 +18,5 @@ MENU:
 
 Please mail me with any questions
 
-More info on graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=181021&affiliateid=200057808)
+More info on graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=181021&affiliateid=200057808)

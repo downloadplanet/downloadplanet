@@ -1,1 +1,4 @@
-# Rcysoft Card Data Recovery Pro - Single Personal License - CN<br />![Rcysoft Card Data Recovery Pro - Single Personal License - CN](https://mycommerce.akamaized.net/api/pimages/P300915001/BIG/300915001.PNG)<br />领先的SD存储卡数据恢复软件允许您从SD卡中检索已删除或格式化的图像，照片，图片，视频，音频，档案，办公文档文件，TXT文件和更多其他文件类型。它完全支持所有流行的存储卡，包括SD卡，CF卡，MMC（多媒体卡），XD图片卡，SDHC，MicroSD，MiniSD和Memory Stick。 SD存储卡数据恢复在不同情况下执行SD卡数据恢复，包括删除，格式化，丢失分区，病毒攻击，系统崩溃，损坏，损坏等。<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915001&affiliateid=200057808)
+# Rcysoft Card Data Recovery Pro - Single Personal License - CN
+![Rcysoft Card Data Recovery Pro - Single Personal License - CN](https://mycommerce.akamaized.net/api/pimages/P300915001/BIG/300915001.PNG)
+领先的SD存储卡数据恢复软件允许您从SD卡中检索已删除或格式化的图像，照片，图片，视频，音频，档案，办公文档文件，TXT文件和更多其他文件类型。它完全支持所有流行的存储卡，包括SD卡，CF卡，MMC（多媒体卡），XD图片卡，SDHC，MicroSD，MiniSD和Memory Stick。 SD存储卡数据恢复在不同情况下执行SD卡数据恢复，包括删除，格式化，丢失分区，病毒攻击，系统崩溃，损坏，损坏等。
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915001&affiliateid=200057808)

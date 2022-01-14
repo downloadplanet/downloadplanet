@@ -1,4 +1,5 @@
-# Webinar Weiterbildungspaket 1 Jahr<br />Webinar Weiterbildungspaket 1 Jahr
+# Webinar Weiterbildungspaket 1 Jahr
+Webinar Weiterbildungspaket 1 Jahr
 Mit diesem Webinar Weiterbildungspaket, können Sie an allen Webinaren des F&B Support für 12 Monate teilnehmen.
 
 
@@ -46,4 +47,5 @@ Komplettpaket "Dienstplanung in Excel"
 Komplettpaket "Budgetierung"
 Komplettpaket "Gewinneinflussfaktoren im Restaurant"
 Komplettpaket "Soll und IST Wareneinsatzkontrolle für Küche und Service"
-Komplettpaket "Break - Even - Analyse im F&B Management"<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300612322&affiliateid=200057808)
+Komplettpaket "Break - Even - Analyse im F&B Management"
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300612322&affiliateid=200057808)

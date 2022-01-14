@@ -1,1 +1,3 @@
-# Geprüfter Wirtschaftsfachwirt - Volks- und Betriebswirtschaft<br />![Geprüfter Wirtschaftsfachwirt - Volks- und Betriebswirtschaft](https://mycommerce.akamaized.net/api/pimages/P300381767/BIG/300381767.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381767&affiliateid=200057808)
+# Geprüfter Wirtschaftsfachwirt - Volks- und Betriebswirtschaft
+![Geprüfter Wirtschaftsfachwirt - Volks- und Betriebswirtschaft](https://mycommerce.akamaized.net/api/pimages/P300381767/BIG/300381767.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381767&affiliateid=200057808)

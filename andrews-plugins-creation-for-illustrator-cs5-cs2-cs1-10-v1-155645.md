@@ -1,4 +1,5 @@
-# Andrews Plugins Creation for Illustrator CS5 CS2 CS1 10 V1<br />www.graphicxtras.com -- Andrews Vector Plugins Creation Illustrator CS5 - 10 PC & MAC OS X V1
+# Andrews Plugins Creation for Illustrator CS5 CS2 CS1 10 V1
+www.graphicxtras.com -- Andrews Vector Plugins Creation Illustrator CS5 - 10 PC & MAC OS X V1
 
 Illustrator plugin set: volume 1
 Plug-in set for Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10
@@ -24,4 +25,5 @@ MENU:
 
 For more information about the plug-in on http://www.graphicxtras.com
 If you wish to contact me about the plug-in set, please e-mail on Please e-mail us on support@graphicxtras.com
-Other plugins - more info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=155645&affiliateid=200057808)
+Other plugins - more info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=155645&affiliateid=200057808)

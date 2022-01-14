@@ -1,3 +1,5 @@
-# Rosette Font Adobe & PSP & Apple PagesV85<br />www.graphicxtras.com -- Rosette Font Adobe Indesign & PSP & Apple Pages Truetype & EPS PC & MAC OSX V85
+# Rosette Font Adobe & PSP & Apple PagesV85
+www.graphicxtras.com -- Rosette Font Adobe Indesign & PSP & Apple Pages Truetype & EPS PC & MAC OSX V85
 
-Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469360&affiliateid=200057808)
+Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469360&affiliateid=200057808)

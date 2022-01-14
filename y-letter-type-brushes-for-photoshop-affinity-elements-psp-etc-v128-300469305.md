@@ -1,3 +1,5 @@
-# Y Letter / Type brushes for Photoshop, Affinity, Elements, PSP, etc V128<br />www.graphicxtras.com -- Y Letter Brushes for Adobe Photoshop & Elements & PSP Text & Type & Alphabet & Characters V128
+# Y Letter / Type brushes for Photoshop, Affinity, Elements, PSP, etc V128
+www.graphicxtras.com -- Y Letter Brushes for Adobe Photoshop & Elements & PSP Text & Type & Alphabet & Characters V128
 
-Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469305&affiliateid=200057808)
+Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469305&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# PROMT Home 12 Multilingual<br />![PROMT Home 12 Multilingual](https://mycommerce.akamaized.net/api/pimages/P300753755/BIG/300753755.PNG)<br />WICHTIG - Nicht zur Installation in einer Domänenumgebung eines Unternehmensnetzwerkes geeignet.
+# PROMT Home 12 Multilingual
+![PROMT Home 12 Multilingual](https://mycommerce.akamaized.net/api/pimages/P300753755/BIG/300753755.PNG)
+WICHTIG - Nicht zur Installation in einer Domänenumgebung eines Unternehmensnetzwerkes geeignet.
 
 Der ideale Textübersetzer für Zuhause. Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt.
 
@@ -44,4 +46,5 @@ ISBN
 978-3-89894-703-9
 
 Systemvoraussetzungen
-Microsoft Windows® 10, 8, und 7 (32-/64-bit)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300753755&affiliateid=200057808)
+Microsoft Windows® 10, 8, und 7 (32-/64-bit)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300753755&affiliateid=200057808)

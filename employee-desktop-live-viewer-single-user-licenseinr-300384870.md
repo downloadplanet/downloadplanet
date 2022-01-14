@@ -1,1 +1,2 @@
-# Employee Desktop Live Viewer - Single User License[INR]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384870&affiliateid=200057808)
+# Employee Desktop Live Viewer - Single User License[INR]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384870&affiliateid=200057808)

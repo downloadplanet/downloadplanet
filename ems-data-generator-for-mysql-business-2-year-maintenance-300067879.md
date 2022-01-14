@@ -1,1 +1,3 @@
-# EMS Data Generator for MySQL (Business) + 2 Year Maintenance<br />Generate test data for MySQL database for testing purposes in a simple and direct way. Wide range of data generation parameters, user-friendly wizard interface and useful console utility to automate MySQL test data generation.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067879&affiliateid=200057808)
+# EMS Data Generator for MySQL (Business) + 2 Year Maintenance
+Generate test data for MySQL database for testing purposes in a simple and direct way. Wide range of data generation parameters, user-friendly wizard interface and useful console utility to automate MySQL test data generation.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067879&affiliateid=200057808)

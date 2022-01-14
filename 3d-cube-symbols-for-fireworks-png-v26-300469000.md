@@ -1,3 +1,5 @@
-# 3D Cube symbols for Fireworks (PNG) V26<br />www.graphicxtras.com -- 3D Cube Symbols Fireworks CS 6 5 4 3 MX PC & MAC OSX Vector shapes V26
+# 3D Cube symbols for Fireworks (PNG) V26
+www.graphicxtras.com -- 3D Cube Symbols Fireworks CS 6 5 4 3 MX PC & MAC OSX Vector shapes V26
 
-3D cube shapes, textured cube shapes - PNG format for Fireworks, exciting wonderful 3D shapes / symbols for commercial use - amazing designs, all vectors, all unique More information about fireworks symbols can be found via graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469000&affiliateid=200057808)
+3D cube shapes, textured cube shapes - PNG format for Fireworks, exciting wonderful 3D shapes / symbols for commercial use - amazing designs, all vectors, all unique More information about fireworks symbols can be found via graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469000&affiliateid=200057808)

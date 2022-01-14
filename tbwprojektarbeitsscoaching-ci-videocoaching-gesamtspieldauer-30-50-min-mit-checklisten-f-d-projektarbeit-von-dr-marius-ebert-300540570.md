@@ -1,1 +1,2 @@
-# TBW-Projektarbeitsscoaching (C.I.), Videocoaching, Gesamtspieldauer 30 : 50 min. mit Checklisten f. d. Projektarbeit von Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300540570&affiliateid=200057808)
+# TBW-Projektarbeitsscoaching (C.I.), Videocoaching, Gesamtspieldauer 30 : 50 min. mit Checklisten f. d. Projektarbeit von Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300540570&affiliateid=200057808)

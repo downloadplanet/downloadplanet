@@ -1,4 +1,5 @@
-# Gothic / Goth brushes for Photoshop, Affinity, Elements, PSP, etc V66<br />www.graphicxtras.com -- Gothic & Goth Brushes for Adobe Photoshop & Elements & PSP & Xara V66
+# Gothic / Goth brushes for Photoshop, Affinity, Elements, PSP, etc V66
+www.graphicxtras.com -- Gothic & Goth Brushes for Adobe Photoshop & Elements & PSP & Xara V66
 
 Goth brushes for Photoshop and others
 100 Goth Brushes for Photoshop, Photoshop Elements, Affinity Photo, GIMP, PaintShop Pro and many others. Set includes brushes in ABR and PNG format.
@@ -19,4 +20,5 @@ The set also includes the designs in PNG format and they can be used in Photosho
 
 
 The license agreement can be found on the graphicxtras.com site, basically you can do virtually anything with the brushes with very few minor restrictions.
-Please e-mail us on support@graphicxtras.com or check out our site http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300425574&affiliateid=200057808)
+Please e-mail us on support@graphicxtras.com or check out our site http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300425574&affiliateid=200057808)

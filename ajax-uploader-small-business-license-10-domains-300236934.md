@@ -1,1 +1,3 @@
-# Ajax Uploader Small Business License (10 Domains)<br />You may also install and use the Software on an unlimited number of developer workstations (but not on a development server) for use in connection with the same single website host name when accessed by the http://localhost/Webapplication<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236934&affiliateid=200057808)
+# Ajax Uploader Small Business License (10 Domains)
+You may also install and use the Software on an unlimited number of developer workstations (but not on a development server) for use in connection with the same single website host name when accessed by the http://localhost/Webapplication
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236934&affiliateid=200057808)

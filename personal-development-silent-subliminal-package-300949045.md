@@ -1,1 +1,4 @@
-# Personal Development Silent Subliminal Package<br />![Personal Development Silent Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300949045/BIG/300949045.JPG)<br />The Personal Development 3A Silent Subliminal will help you improve. Listen to this subliminal daily for several weeks or longer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949045&affiliateid=200057808)
+# Personal Development Silent Subliminal Package
+![Personal Development Silent Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300949045/BIG/300949045.JPG)
+The Personal Development 3A Silent Subliminal will help you improve. Listen to this subliminal daily for several weeks or longer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949045&affiliateid=200057808)

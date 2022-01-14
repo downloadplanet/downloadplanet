@@ -1,4 +1,5 @@
-# Easter egg patterns for Photoshop & Elements V7<br />www.graphicxtras.com -- Easter egg patterns for Adobe Photoshop & Elements V7
+# Easter egg patterns for Photoshop & Elements V7
+www.graphicxtras.com -- Easter egg patterns for Adobe Photoshop & Elements V7
 
 100 Easter eggs patterns Photoshop and Photoshop Elements, PC + MAC OS X. Patterns include many different mixed designs such as colorful easter eggs covered with heart designs, star designs, embellishment designs, rough designs and many more
 
@@ -17,4 +18,5 @@ Set is download, you are e-mailed the download link
 
 
 
-Any questions please mail me<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300225203&affiliateid=200057808)
+Any questions please mail me
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300225203&affiliateid=200057808)

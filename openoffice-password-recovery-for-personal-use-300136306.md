@@ -1,1 +1,3 @@
-# OpenOffice Password Recovery (for personal use)<br />OpenOffice Password Recovery is a program that recovers lost or forgotten passwords for OpenOffice.org Writer documents, Calc spreadsheets, Impress presentations, Draw and Math documents. All versions of OpenOffice.org are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300136306&affiliateid=200057808)
+# OpenOffice Password Recovery (for personal use)
+OpenOffice Password Recovery is a program that recovers lost or forgotten passwords for OpenOffice.org Writer documents, Calc spreadsheets, Impress presentations, Draw and Math documents. All versions of OpenOffice.org are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300136306&affiliateid=200057808)

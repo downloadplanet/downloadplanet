@@ -1,4 +1,6 @@
-# Adorage ALL-IN-ONE package (DL + CDoD)<br />![Adorage ALL-IN-ONE package (DL + CDoD)](https://mycommerce.akamaized.net/api/pimages/P300428560/BIG/300428560.JPG)<br /> Get more informations about this product series, samples and descriptions...
+# Adorage ALL-IN-ONE package (DL + CDoD)
+![Adorage ALL-IN-ONE package (DL + CDoD)](https://mycommerce.akamaized.net/api/pimages/P300428560/BIG/300428560.JPG)
+ Get more informations about this product series, samples and descriptions...
 
 Order Information
 ALL PLUGINS and all available EFFECTPACKAGES in one single package!!!
@@ -63,4 +65,5 @@ More than 2000 great effects for your travel documentation. Effects with Tourist
 More than 2000 great effects for your travel documentation. Effects with Tourist attractions, Skylines and Shapes related to traveling.
 
 Order Now
-Request Quote<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428560&affiliateid=200057808)
+Request Quote
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428560&affiliateid=200057808)

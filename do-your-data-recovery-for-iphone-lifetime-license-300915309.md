@@ -1,1 +1,4 @@
-# Do Your Data Recovery for iPhone Lifetime License<br />![Do Your Data Recovery for iPhone Lifetime License](https://mycommerce.akamaized.net/api/pimages/P300915309/BIG/300915309.PNG)<br />Do Your Data Recovery for iPhone, easy-to-use yet powerful iPhone data recovery software, provides iPhone users with reliable data recovery solution to retrieve lost iOS data from iPhone, iPad, iPod touch. It also can restore lost iOS data from iTunes backup.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915309&affiliateid=200057808)
+# Do Your Data Recovery for iPhone Lifetime License
+![Do Your Data Recovery for iPhone Lifetime License](https://mycommerce.akamaized.net/api/pimages/P300915309/BIG/300915309.PNG)
+Do Your Data Recovery for iPhone, easy-to-use yet powerful iPhone data recovery software, provides iPhone users with reliable data recovery solution to retrieve lost iOS data from iPhone, iPad, iPod touch. It also can restore lost iOS data from iTunes backup.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915309&affiliateid=200057808)

@@ -1,2 +1,4 @@
-# The Curse Of Ra: Roman Invasion (Mission Pack 4)<br />Roman Invasion is a mission pack for The Curse Of Ra. It features 50 brand new levels for you to solve. Play the dynasties XXXIII to XL of this sequel to The Curse Of Ra.
-The Curse Of Ra is a next generation version of the classic mahjongg game. It introduces new elements such as bombs, magnets and walls, and uses the one-layer two-angles arcade rules.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300106890&affiliateid=200057808)
+# The Curse Of Ra: Roman Invasion (Mission Pack 4)
+Roman Invasion is a mission pack for The Curse Of Ra. It features 50 brand new levels for you to solve. Play the dynasties XXXIII to XL of this sequel to The Curse Of Ra.
+The Curse Of Ra is a next generation version of the classic mahjongg game. It introduces new elements such as bombs, magnets and walls, and uses the one-layer two-angles arcade rules.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300106890&affiliateid=200057808)

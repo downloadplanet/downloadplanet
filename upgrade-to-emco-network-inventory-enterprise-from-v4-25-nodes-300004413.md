@@ -1,1 +1,2 @@
-# Upgrade to EMCO Network Inventory Enterprise from v.4 (25 Nodes)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300004413&affiliateid=200057808)
+# Upgrade to EMCO Network Inventory Enterprise from v.4 (25 Nodes)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300004413&affiliateid=200057808)

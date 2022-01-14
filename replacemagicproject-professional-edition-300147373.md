@@ -1,4 +1,6 @@
-# ReplaceMagic.Project Professional Edition<br />![ReplaceMagic.Project Professional Edition](https://mycommerce.akamaized.net/api/pimages/P300147373/BIG/300147373.JPG)<br />ReplaceMagic - search and replace all over in your Project documents
+# ReplaceMagic.Project Professional Edition
+![ReplaceMagic.Project Professional Edition](https://mycommerce.akamaized.net/api/pimages/P300147373/BIG/300147373.JPG)
+ReplaceMagic - search and replace all over in your Project documents
 
 Package 2 - 5-user license is 2 times the single-license price
 Package 3 - 10-user license is 3 times the single-license price
@@ -28,4 +30,5 @@ As a matter of fact our prices start from $119...
 
 By using standard Microsoft Office you cannot do anything what ReplaceMagic can.
 
-If you did not download/buy ReplaceMagic until now test it and see how powerful application it is.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300147373&affiliateid=200057808)
+If you did not download/buy ReplaceMagic until now test it and see how powerful application it is.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300147373&affiliateid=200057808)

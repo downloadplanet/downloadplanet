@@ -1,1 +1,3 @@
-# EMS DB Comparer for SQL Server (Business) + 1 Year Maintenance<br />Compare and synchronize the structure of SQL Server databases. Move changes on your development database to production with ease.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067998&affiliateid=200057808)
+# EMS DB Comparer for SQL Server (Business) + 1 Year Maintenance
+Compare and synchronize the structure of SQL Server databases. Move changes on your development database to production with ease.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067998&affiliateid=200057808)

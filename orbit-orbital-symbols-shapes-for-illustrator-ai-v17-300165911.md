@@ -1,4 +1,5 @@
-# Orbit / orbital symbols/ shapes for Illustrator (AI) V17<br />www.graphicxtras.com -- Orbit Symbols for Adobe Illustrator V17
+# Orbit / orbital symbols/ shapes for Illustrator (AI) V17
+www.graphicxtras.com -- Orbit Symbols for Adobe Illustrator V17
 
 360 Orbits symbols for Adobe (R) Illustrator (R) (orbit symbols, crop symbols, orbital symbols, dynamic circular designs)
 
@@ -8,4 +9,5 @@ The symbols are all royalty-free, for use in commercial and hobby projects; the 
 
 The symbols are all in native format AI files, easy to use and install. To install in Illustrator, simply place the files in the symbols folder and access via the Illustrator symbols palette. Symbols are resolution free, use to any size.
 
-. Find out more about them via the youtube.com/graphicxtras channel as well as our site, graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300165911&affiliateid=200057808)
+. Find out more about them via the youtube.com/graphicxtras channel as well as our site, graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300165911&affiliateid=200057808)

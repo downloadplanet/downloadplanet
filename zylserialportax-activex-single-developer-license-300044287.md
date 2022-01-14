@@ -1,1 +1,3 @@
-# ZylSerialPortAX (ActiveX) - Single Developer License<br />ZylSerialPortAX is a thread based asynchronous serial port ActiveX control. Use ZylSerialPortAX control to easily communicate with external devices on serial port connection, such as modems, bar code readers, GSM modules and others.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300044287&affiliateid=200057808)
+# ZylSerialPortAX (ActiveX) - Single Developer License
+ZylSerialPortAX is a thread based asynchronous serial port ActiveX control. Use ZylSerialPortAX control to easily communicate with external devices on serial port connection, such as modems, bar code readers, GSM modules and others.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300044287&affiliateid=200057808)

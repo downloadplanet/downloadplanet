@@ -1,1 +1,3 @@
-# Geprüfter Meister für Kreislauf- und Abfallwirtschaft und Städtereinigung IHK<br />![Geprüfter Meister für Kreislauf- und Abfallwirtschaft und Städtereinigung IHK](https://mycommerce.akamaized.net/api/pimages/P300579755/BIG/300579755.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300579755&affiliateid=200057808)
+# Geprüfter Meister für Kreislauf- und Abfallwirtschaft und Städtereinigung IHK
+![Geprüfter Meister für Kreislauf- und Abfallwirtschaft und Städtereinigung IHK](https://mycommerce.akamaized.net/api/pimages/P300579755/BIG/300579755.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300579755&affiliateid=200057808)

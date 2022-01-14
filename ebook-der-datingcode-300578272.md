@@ -1,4 +1,6 @@
-# eBook "Der Dating-Code"<br />![eBook "Der Dating-Code"](https://mycommerce.akamaized.net/api/pimages/P300578272/BIG/300578272.JPG)<br />Wo machen heute die meisten Leute neue Bekanntschaften oder finden gar die Frau fürs Leben?
+# eBook "Der Dating-Code"
+![eBook "Der Dating-Code"](https://mycommerce.akamaized.net/api/pimages/P300578272/BIG/300578272.JPG)
+Wo machen heute die meisten Leute neue Bekanntschaften oder finden gar die Frau fürs Leben?
 Nein, nicht mehr am Arbeitsplatz, sondern im Internet.
 
 Mittlerweile werden schon über ein Drittel der neuen Bekanntschaften über Partnervermittlungen, Singlebörsen oder andere Communitys gemacht. Tendenz steigend!
@@ -24,4 +26,5 @@ Aber von Fehlern lernt man! Was, das können Sie jetzt selbst herausfinden. Lern
 
 Über 70 Seiten voller wertvoller Informationen, Anleitungen, Tipps und Tricks. Inklusive:
 • Die zehn Todsünden des Datings
-• Die zehn Gebote des Datings<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300578272&affiliateid=200057808)
+• Die zehn Gebote des Datings
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300578272&affiliateid=200057808)

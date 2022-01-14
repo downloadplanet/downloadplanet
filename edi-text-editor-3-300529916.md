@@ -1,4 +1,6 @@
-# Edi - Text Editor 3<br />![Edi - Text Editor 3](https://mycommerce.akamaized.net/api/pimages/P300529916/BIG/300529916.PNG)<br />Before purchase
+# Edi - Text Editor 3
+![Edi - Text Editor 3](https://mycommerce.akamaized.net/api/pimages/P300529916/BIG/300529916.PNG)
+Before purchase
 Activation key, its purpose and required amount
 To activate Edi PRO you need to purchase an activation key. The key is individually produced for each buyer.
 If you are an individual customer (commercial or non-commercial) and you are the only user of Edi and you buy the activation key using your own funds - you need only one key to activate Edi on all your computers.
@@ -16,4 +18,5 @@ After purchase
 Activating Edi with the activation key
 Make sure you are using the latest program version. Eventually download and install the latest one.
 Open the activation key file (*.edikey) or double click it in Windows Explorer. After the activating process is completed you will see the confirmation message.
-The activation key file was primarily attached to the e-mail message and offered as hyperlink to download, after you purchased it.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300529916&affiliateid=200057808)
+The activation key file was primarily attached to the e-mail message and offered as hyperlink to download, after you purchased it.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300529916&affiliateid=200057808)

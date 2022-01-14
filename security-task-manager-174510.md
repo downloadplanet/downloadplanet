@@ -1,4 +1,6 @@
-# Security Task Manager<br />![Security Task Manager](https://mycommerce.akamaized.net/api/pimages/P174510/BIG/174510.GIF)<br />Security Task Manager shows comprehensible information about programs and processes running on the computer. For each Windows process, it improves on Windows Task Manager, providing:
+# Security Task Manager
+![Security Task Manager](https://mycommerce.akamaized.net/api/pimages/P174510/BIG/174510.GIF)
+Security Task Manager shows comprehensible information about programs and processes running on the computer. For each Windows process, it improves on Windows Task Manager, providing:
 unique security risk rating
 comments from our experts and user community
 free online scan with all known Antivirus engines
@@ -21,4 +23,5 @@ e.g. cookies, cache, history, typed URLs and temporary files
 eliminate the traces of your work on computer
 e.g. recent used file list of programs (Word, ACDSee, PDF, WinZip, Mediaplayer)
 
-further information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=174510&affiliateid=200057808)
+further information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=174510&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# World of Banknotes (Russian)<br />![World of Banknotes (Russian)](https://mycommerce.akamaized.net/api/pimages/P300914307/BIG/300914307.JPG)<br />"World of banknotes" is designed to create an electronic catalog of the collection of paper money.
+# World of Banknotes (Russian)
+![World of Banknotes (Russian)](https://mycommerce.akamaized.net/api/pimages/P300914307/BIG/300914307.JPG)
+"World of banknotes" is designed to create an electronic catalog of the collection of paper money.
 
 Features:
 Creating your own catalog of banknotes
@@ -15,4 +17,5 @@ Print reports with the ability export into MS Excel, MS Word and PDF
 Working with external drive
 Unicode support
 
-http://www.hobbykeeper.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300914307&affiliateid=200057808)
+http://www.hobbykeeper.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300914307&affiliateid=200057808)

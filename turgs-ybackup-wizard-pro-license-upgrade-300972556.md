@@ -1,1 +1,3 @@
-# Turgs yBackup Wizard - Pro License Upgrade<br />Convert Maildir files to Various File Types<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300972556&affiliateid=200057808)
+# Turgs yBackup Wizard - Pro License Upgrade
+Convert Maildir files to Various File Types
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300972556&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Picture Information Extractor<br />![Picture Information Extractor](https://mycommerce.akamaized.net/api/pimages/P300747350/BIG/300747350.PNG)<br />Deluxe viewer and photo metadata toolkit.
+# Picture Information Extractor
+![Picture Information Extractor](https://mycommerce.akamaized.net/api/pimages/P300747350/BIG/300747350.PNG)
+Deluxe viewer and photo metadata toolkit.
 
 PIE is an image browser and viewer with perfectly integrated photo metadata and file renaming features. It extracts EXIF, XMP and IPTC information from JPG, TIFF and RAW files and makes it available in a convenient and welcoming interface. Its metadata engine is based on ExifTool which provides the most complete metadata repository currently available. At the same time, with PIE's unique multicore ExifTool control, scanning and searching metadata is blazingly fast.
 
@@ -21,4 +23,5 @@ Edit EXIF and IPTC metadata, add or delete tags, change date picture taken, upda
 Geotagging of photos
 Quick batch change of capture date/time, works with JPG and RAW formats.
 Stamp photo data on JPG images
-Remove EXIF, IPTC and/or XMP headers from JPG-files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300747350&affiliateid=200057808)
+Remove EXIF, IPTC and/or XMP headers from JPG-files.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300747350&affiliateid=200057808)

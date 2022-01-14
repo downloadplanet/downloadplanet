@@ -1,1 +1,2 @@
-# Kernel Lotus Notes Migration Suite - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300806891&affiliateid=200057808)
+# Kernel Lotus Notes Migration Suite - Corporate License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300806891&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# PST + MBOX Migrator - Pro License<br />Software to Convert Outlook Data Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300999492&affiliateid=200057808)
+# PST + MBOX Migrator - Pro License
+Software to Convert Outlook Data Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300999492&affiliateid=200057808)

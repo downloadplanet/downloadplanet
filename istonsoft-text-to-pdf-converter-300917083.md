@@ -1,4 +1,6 @@
-# iStonsoft Text to PDF Converter<br />![iStonsoft Text to PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300917083/BIG/300917083.PNG)<br />iStonsoft Text to PDF Converter performs fast and accurate conversion from Text to PDF with layout reproduced just as they were in the original document. Text to PDF Converter converts old txt, text, textual report to nice PDF file on all Windows Systems.
+# iStonsoft Text to PDF Converter
+![iStonsoft Text to PDF Converter](https://mycommerce.akamaized.net/api/pimages/P300917083/BIG/300917083.PNG)
+iStonsoft Text to PDF Converter performs fast and accurate conversion from Text to PDF with layout reproduced just as they were in the original document. Text to PDF Converter converts old txt, text, textual report to nice PDF file on all Windows Systems.
 
 With iStonsoft Text to PDF Converter, you can:
 - Convert plain Text(.txt) to PDF fast and easily.
@@ -21,4 +23,5 @@ User-friendly interface: Bring you easier and smarter Text to PDF converting exp
 Drag-drop: TXT to PDF Converter supports multiple methods to add text (.txt) documents, such as drag and drop, add file button on the software or use windows explorer function.
 
 Preview function
-You are allowed to preview the input TXT file page by page through the preview window and selected pages or page ranges in the TXT files to PDF format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917083&affiliateid=200057808)
+You are allowed to preview the input TXT file page by page through the preview window and selected pages or page ranges in the TXT files to PDF format.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917083&affiliateid=200057808)

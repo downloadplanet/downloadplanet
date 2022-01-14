@@ -1,1 +1,3 @@
-# Turgs eM Client to NSF Wizard - Pro License<br />Convert Email Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300954696&affiliateid=200057808)
+# Turgs eM Client to NSF Wizard - Pro License
+Convert Email Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300954696&affiliateid=200057808)

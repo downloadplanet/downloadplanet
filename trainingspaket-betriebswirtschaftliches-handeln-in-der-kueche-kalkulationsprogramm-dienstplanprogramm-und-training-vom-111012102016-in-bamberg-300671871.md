@@ -1,4 +1,5 @@
-# Trainingspaket "Betriebswirtschaftliches Handeln in der Kueche" Kalkulationsprogramm, Dienstplanprogramm und Training vom 11.10.-12.10.2016 in Bamberg<br />Folgende Produkte erhalten Sie von uns:
+# Trainingspaket "Betriebswirtschaftliches Handeln in der Kueche" Kalkulationsprogramm, Dienstplanprogramm und Training vom 11.10.-12.10.2016 in Bamberg
+Folgende Produkte erhalten Sie von uns:
 
 Komplettpaket Kalkulation Speisen mit Deckungsbeitrag
 Komplettpaket Portfolio Analyse Hauptgerichte Speisen
@@ -23,4 +24,5 @@ Beginn: Dienstag, 11.10.2016, 10.00 - 18.00 Uhr
 Ende: Mittwoch, 12.10.2016, 09.00 -17.00 Uhr
 
 Seminarort: Bamberg
-Übernachtungsmöglichkeiten:<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671871&affiliateid=200057808)
+Übernachtungsmöglichkeiten:
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671871&affiliateid=200057808)

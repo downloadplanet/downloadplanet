@@ -1,1 +1,3 @@
-# Abakus VCL source lifetime<br />Abakus VCL is a professional set of Borland/Inprise Delphi / C++Builder components for virtual instrumentation. The library supports all Delphi / C++Builder versions (D3..6, CB3..5) ! Source included (source license only) Visit us at http://www.AbakusVCL.com for more information.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300745881&affiliateid=200057808)
+# Abakus VCL source lifetime
+Abakus VCL is a professional set of Borland/Inprise Delphi / C++Builder components for virtual instrumentation. The library supports all Delphi / C++Builder versions (D3..6, CB3..5) ! Source included (source license only) Visit us at http://www.AbakusVCL.com for more information.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300745881&affiliateid=200057808)

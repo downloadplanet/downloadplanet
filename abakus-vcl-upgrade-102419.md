@@ -1,1 +1,3 @@
-# Abakus VCL, Upgrade<br />Abakus VCL is a professional set of Borland/Inprise Delphi components for virtual instrumentation. The library supports all Delphi versions ! Source included (source license only) Visit us at http://www.abaecker.com for more information. ++++ For this Upgrade you must be registered user of the Abakus VCL ++++<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=102419&affiliateid=200057808)
+# Abakus VCL, Upgrade
+Abakus VCL is a professional set of Borland/Inprise Delphi components for virtual instrumentation. The library supports all Delphi versions ! Source included (source license only) Visit us at http://www.abaecker.com for more information. ++++ For this Upgrade you must be registered user of the Abakus VCL ++++
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=102419&affiliateid=200057808)

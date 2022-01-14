@@ -1,4 +1,5 @@
-# Flame Custom shapes for Photoshop & Elements Fire CSH Adobe V39<br />www.graphicxtras.com -- Flame Custom Shapes for Adobe Photoshop & Elements Fire Vectors CSH Adobe V39
+# Flame Custom shapes for Photoshop & Elements Fire CSH Adobe V39
+www.graphicxtras.com -- Flame Custom Shapes for Adobe Photoshop & Elements Fire Vectors CSH Adobe V39
 
 120 Flames custom shapes (flames, fiery, burning, drag custom shapes, hot rod shapes, tattoo shapes, fire shapes and more) for use in Adobe (R) Photoshop (R) Creative Cloud CC 2017 2015 2014 CS6-6 (and the standalone versions) + Photoshop Elements, all the shapes are royalty-free for use in commercial as well as hobby projects. Many different designs of custom shapes are included, as well as gallery and documentation and serial number. The shapes are a superb toolkit for Adobe (R) Photoshop (R), use as vector layers, paths and selections, or as a fill design. Use the shapes in many different designs such as fashions, leaflets, books, CDs, illustrations, stamps, scrap booking and others
 
@@ -12,4 +13,5 @@ The custom shapes are part of an ongoing series of custom shapes designs for Ado
 
 Many other shapes and brushes and styles are available on graphicxtras.com
 
-To purchase the set, please click the add to cart button, this requires cookies to be allowed. All transactions are handled by shareit.com secure sales. Or click the buy now to go to the checkout and purchase section: paypal, mastercard, visa etc are accepted.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300177811&affiliateid=200057808)
+To purchase the set, please click the add to cart button, this requires cookies to be allowed. All transactions are handled by shareit.com secure sales. Or click the buy now to go to the checkout and purchase section: paypal, mastercard, visa etc are accepted.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300177811&affiliateid=200057808)

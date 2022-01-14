@@ -1,4 +1,5 @@
-# Küchenkomplettpaket für eine wirtschaftliche Küchenführung<br />Küchenkomplettpaket für eine wirtschaftliche Küchenführung
+# Küchenkomplettpaket für eine wirtschaftliche Küchenführung
+Küchenkomplettpaket für eine wirtschaftliche Küchenführung
 
 In diesem Paket erhalten Sie alle wichtigen Excelprogramme für eine wirtschaftliche Küchenführung
 
@@ -21,4 +22,5 @@ Video Aufzeichung vom Webinar zu folgenden Themen:
 =>Kalkulation Speisen mit Deckungsbeitrag Wareneinsatzkontrolle Küche
 =>Die wichtigsten Kennzahlen der Küche
 =>Dienstplangestaltung in Excel
-=>Berechnung Soll Umsatz pro Mitarbeiterstunde und Personalkosten pro Mitarbeiterstunde Gesamt, pro Mitarbeiter<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300587016&affiliateid=200057808)
+=>Berechnung Soll Umsatz pro Mitarbeiterstunde und Personalkosten pro Mitarbeiterstunde Gesamt, pro Mitarbeiter
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300587016&affiliateid=200057808)

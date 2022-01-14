@@ -1,1 +1,3 @@
-# SysInfo ZIP Recovery[Administrator License]<br />Get very smart and very effective ZIP repair software at very affordable price from SysInfoTools. SysInfo ZIP Repair tool is an advanced method of recovering data from corrupt ZIP files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534148&affiliateid=200057808)
+# SysInfo ZIP Recovery[Administrator License]
+Get very smart and very effective ZIP repair software at very affordable price from SysInfoTools. SysInfo ZIP Repair tool is an advanced method of recovering data from corrupt ZIP files.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534148&affiliateid=200057808)

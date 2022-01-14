@@ -1,1 +1,4 @@
-# eSoftTools Access Password Recovery - Technician License<br />![eSoftTools Access Password Recovery - Technician License](https://mycommerce.akamaized.net/api/pimages/P300878425/BIG/300878425.GIF)<br />Advance tool for Access Password Recovery gives simplest way to unlock MDB Files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300878425&affiliateid=200057808)
+# eSoftTools Access Password Recovery - Technician License
+![eSoftTools Access Password Recovery - Technician License](https://mycommerce.akamaized.net/api/pimages/P300878425/BIG/300878425.GIF)
+Advance tool for Access Password Recovery gives simplest way to unlock MDB Files.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300878425&affiliateid=200057808)

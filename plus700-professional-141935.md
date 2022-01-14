@@ -1,1 +1,3 @@
-# PLUS700 professional<br />Proffesional edition of PLUS700 game<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=141935&affiliateid=200057808)
+# PLUS700 professional
+Proffesional edition of PLUS700 game
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=141935&affiliateid=200057808)

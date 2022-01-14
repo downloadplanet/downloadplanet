@@ -1,1 +1,4 @@
-# AquaSkin.Net<br />![AquaSkin.Net](https://mycommerce.akamaized.net/api/pimages/P300236397/BIG/300236397.JPG)<br />OS-X Aqua skin component for .NET Developers<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236397&affiliateid=200057808)
+# AquaSkin.Net
+![AquaSkin.Net](https://mycommerce.akamaized.net/api/pimages/P300236397/BIG/300236397.JPG)
+OS-X Aqua skin component for .NET Developers
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236397&affiliateid=200057808)

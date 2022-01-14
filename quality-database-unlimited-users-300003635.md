@@ -1,4 +1,6 @@
-# Quality DataBase (Unlimited Users)<br />![Quality DataBase (Unlimited Users)](https://mycommerce.akamaized.net/api/pimages/P300003635/BIG/300003635.GIF)<br />Key Features
+# Quality DataBase (Unlimited Users)
+![Quality DataBase (Unlimited Users)](https://mycommerce.akamaized.net/api/pimages/P300003635/BIG/300003635.GIF)
+Key Features
 Corrective Actions
 Preventive Actions
 Risk Management
@@ -24,4 +26,5 @@ Tracks customer complaints
 Helps organize and document management review meetings
 A vital tool to ensure ISO9001:2015 compliance
 Paperless system
-Scan and link digital photographs or other electronic documents<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300003635&affiliateid=200057808)
+Scan and link digital photographs or other electronic documents
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300003635&affiliateid=200057808)

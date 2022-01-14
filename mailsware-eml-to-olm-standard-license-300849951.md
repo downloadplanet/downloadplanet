@@ -1,1 +1,3 @@
-# Mailsware EML to OLM - Standard License<br />Convert EML & EMLX Messages to Various File Types<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300849951&affiliateid=200057808)
+# Mailsware EML to OLM - Standard License
+Convert EML & EMLX Messages to Various File Types
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300849951&affiliateid=200057808)

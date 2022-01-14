@@ -1,3 +1,5 @@
-# Christmas Bauble Truetype font / EPS Shapes V165<br />www.graphicxtras.com -- Christmas Bauble Font Word & PSP & CorelDRAW & Pages & GIMP Xmas & Festive PC & MAC OSX V165
+# Christmas Bauble Truetype font / EPS Shapes V165
+www.graphicxtras.com -- Christmas Bauble Font Word & PSP & CorelDRAW & Pages & GIMP Xmas & Festive PC & MAC OSX V165
 
-100+ Christmas bauble shapes in true type font - set includes TTF and EPS format files containing a wide variety of commercial use shapes, all royalty-free, all by graphicxtras, all vectors for any size of document - use in Microsoft Word, Adobe Indesign, Photoshop etc PC and MAC OS X<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300484304&affiliateid=200057808)
+100+ Christmas bauble shapes in true type font - set includes TTF and EPS format files containing a wide variety of commercial use shapes, all royalty-free, all by graphicxtras, all vectors for any size of document - use in Microsoft Word, Adobe Indesign, Photoshop etc PC and MAC OS X
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300484304&affiliateid=200057808)

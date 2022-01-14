@@ -1,4 +1,6 @@
-# iStonsoft PDF to HTML Converter for Mac<br />![iStonsoft PDF to HTML Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917064/BIG/300917064.PNG)<br />iStonsoft PDF to HTML Converter for Mac is one practical program which can help Mac users to convert PDF to HTML Mac for making PDF files visible and fully searchable on the Internet. As a user-friendly program, this PDF to HTML Converter for Mac provides some features which enables you to customize output HTML web pages.
+# iStonsoft PDF to HTML Converter for Mac
+![iStonsoft PDF to HTML Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917064/BIG/300917064.PNG)
+iStonsoft PDF to HTML Converter for Mac is one practical program which can help Mac users to convert PDF to HTML Mac for making PDF files visible and fully searchable on the Internet. As a user-friendly program, this PDF to HTML Converter for Mac provides some features which enables you to customize output HTML web pages.
 
 Get the PDF to HTML Converter for Mac to easily and efficiently convert PDF to HTML Mac for publishing on the web. It is a standalone program, you can use it without the assistance of any other program like Adobe Acrobat or Adobe Reader and so on.
 
@@ -15,4 +17,5 @@ Good Preservation
 Text, Hyperlinks, Images, Layouts, Tables, Columns, Graphics, Colors can be preserved after PDF to HTML Conversion.
 
 Simple and Easy-to-use
-Easy to use with its intuitive and user-friendly interface, finish the conversion job with only several clicks.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917064&affiliateid=200057808)
+Easy to use with its intuitive and user-friendly interface, finish the conversion job with only several clicks.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917064&affiliateid=200057808)

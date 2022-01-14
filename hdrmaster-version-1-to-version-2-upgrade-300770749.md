@@ -1,1 +1,4 @@
-# HDRmaster Version 1 to Version 2 upgrade<br />![HDRmaster Version 1 to Version 2 upgrade](https://mycommerce.akamaized.net/api/pimages/P300770749/BIG/300770749.GIF)<br />For users of SEIedit.com. This Upgrade will get you a full version of HDRmaster.com, so that you can benefit from the additional functions like: Signal analysis, image export, MaxCll and MaxFall values export and more.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300770749&affiliateid=200057808)
+# HDRmaster Version 1 to Version 2 upgrade
+![HDRmaster Version 1 to Version 2 upgrade](https://mycommerce.akamaized.net/api/pimages/P300770749/BIG/300770749.GIF)
+For users of SEIedit.com. This Upgrade will get you a full version of HDRmaster.com, so that you can benefit from the additional functions like: Signal analysis, image export, MaxCll and MaxFall values export and more.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300770749&affiliateid=200057808)

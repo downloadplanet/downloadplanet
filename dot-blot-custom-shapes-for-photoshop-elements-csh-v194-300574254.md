@@ -1,4 +1,5 @@
-# Dot & blot Custom shapes for Photoshop & Elements (CSH) V194<br />www.graphicxtras.com -- Dot & blot Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X CSH V194
+# Dot & blot Custom shapes for Photoshop & Elements (CSH) V194
+www.graphicxtras.com -- Dot & blot Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X CSH V194
 
 Dot / blots custom shapes for Photoshop and elements
 70 Dot / blot / rough / distress shapes for use throughout Photoshop and Photoshop Elements. CSH format
@@ -10,4 +11,5 @@ Super hi-quality shapes for all your work - all vectors for any size of work. Us
 Questions about the shapes
 Please contact us if you have any questions about the Photoshop custom shapes designs (support@graphicxtras.com) or check out the demos on the graphicxtras.com website as well as check out our video tutorials on custom shapes on Youtube
 Installation of the shapes
-Install the CSH custom shapes via the file open command as well as via the custom shapes palette load / replace - use with the shapes tool in the Photoshop toolbox. Also the shapes can be used with the cookie cutter tool as well as the shape blur tool<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300574254&affiliateid=200057808)
+Install the CSH custom shapes via the file open command as well as via the custom shapes palette load / replace - use with the shapes tool in the Photoshop toolbox. Also the shapes can be used with the cookie cutter tool as well as the shape blur tool
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300574254&affiliateid=200057808)

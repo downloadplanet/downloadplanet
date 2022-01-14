@@ -1,4 +1,6 @@
-# iPubsoft PDF Creator<br />![iPubsoft PDF Creator](https://mycommerce.akamaized.net/api/pimages/P300921975/BIG/300921975.PNG)<br />Impress you with the speed and ease of this reliable PDF creation program!
+# iPubsoft PDF Creator
+![iPubsoft PDF Creator](https://mycommerce.akamaized.net/api/pimages/P300921975/BIG/300921975.PNG)
+Impress you with the speed and ease of this reliable PDF creation program!
 
 PDF is a wonderful format commonly used in multiple industries. There is often a need to create a PDF document. To produce your own PDF, you generally need to fork out for a copy of Acrobat. However, the high cost of Adobe software becomes the major hurdle. No need to fear! iPubsoft PDF Creator, just as the name suggests, is a program which has ability of creating Adobe PDF.
 
@@ -19,4 +21,5 @@ Batch creation mode allows you to add and convert files at one time, in order to
 Flexible Options
 Multiple import ways: "Add File" button, drag-drop, add from the menu.
 Merge option allows you to combine multiple files into one single PDF.
-Optional output directory lets you customize your desired one freely.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921975&affiliateid=200057808)
+Optional output directory lets you customize your desired one freely.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921975&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Customised Bundle ( Kernel for Windows Data Recovery + Kernel for Mac )<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300524249&affiliateid=200057808)
+# Customised Bundle ( Kernel for Windows Data Recovery + Kernel for Mac )
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300524249&affiliateid=200057808)

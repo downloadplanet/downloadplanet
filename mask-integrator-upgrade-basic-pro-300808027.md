@@ -1,4 +1,6 @@
-# Mask Integrator - Upgrade Basic -> Pro<br />![Mask Integrator - Upgrade Basic -> Pro](https://mycommerce.akamaized.net/api/pimages/P300808027/BIG/300808027.JPG)<br />h1>Features:
+# Mask Integrator - Upgrade Basic -> Pro
+![Mask Integrator - Upgrade Basic -> Pro](https://mycommerce.akamaized.net/api/pimages/P300808027/BIG/300808027.JPG)
+h1>Features:
 The Mask Integrator is a tool that lets you crop or extract the motifs you photograph already while you are photographing them if you already work with the following applications:
 Freemask or Freemask 1000 by Hensel: More Info
 Other systems that can alternate two flash groups automatically (basic and backlight)
@@ -26,4 +28,5 @@ Target group
 Product photographers
 People photographers
 Online-Shops
-All users of Hensel Freemask, Freemask 1000 or similar systems<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300808027&affiliateid=200057808)
+All users of Hensel Freemask, Freemask 1000 or similar systems
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300808027&affiliateid=200057808)

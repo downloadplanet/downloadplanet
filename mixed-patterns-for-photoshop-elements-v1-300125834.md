@@ -1,4 +1,5 @@
-# Mixed patterns for Photoshop & Elements V1<br />www.graphicxtras.com -- Mixed patterns for Adobe Photoshop & Elements Seamless tiles PC & MAC OS X V1
+# Mixed patterns for Photoshop & Elements V1
+www.graphicxtras.com -- Mixed patterns for Adobe Photoshop & Elements Seamless tiles PC & MAC OS X V1
 
 200 Patterns for Adobe (R) Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 + Adobe (R) Photoshop (R) Elements 15 14 13 12 11 10 9 8 7 6 5 4 3 2, PC + MAC OS X. Patterns include many different mixed designs such as circular patterns, square patterns, petal patterns, heart designs and many more.
 
@@ -16,4 +17,5 @@ To purchase click the add to cart (cookies are required), go to the checkout on 
 
 
 Any questions please mail me
-http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300125834&affiliateid=200057808)
+http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300125834&affiliateid=200057808)

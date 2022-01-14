@@ -1,4 +1,6 @@
-# iPubsoft PDF Password Remover for Mac<br />![iPubsoft PDF Password Remover for Mac](https://mycommerce.akamaized.net/api/pimages/P300921985/BIG/300921985.PNG)<br />Professionally Remove PDF Password Protection, Restrictions on Mac!
+# iPubsoft PDF Password Remover for Mac
+![iPubsoft PDF Password Remover for Mac](https://mycommerce.akamaized.net/api/pimages/P300921985/BIG/300921985.PNG)
+Professionally Remove PDF Password Protection, Restrictions on Mac!
 
 iPubsoft PDF Password Remover for Mac is ultimate software for Mac users to decrypt PDF password and unlock PDF files on Mac OS X. With it, you can:
 
@@ -17,4 +19,5 @@ Efficient in processing multiple PDF files
 Batch decryption mode and drag-and-drop operation would highly improve your working efficiency without any quality losing or quantity limitation.
 
 Approachable for users of all skill levels
-This PDF password cracker for Mac program has a user-friendly interface making it easy to use for both beginners and advanced users. There are only 4 major operating buttons clearly displayed on the main window and no complicated options make you confused.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921985&affiliateid=200057808)
+This PDF password cracker for Mac program has a user-friendly interface making it easy to use for both beginners and advanced users. There are only 4 major operating buttons clearly displayed on the main window and no complicated options make you confused.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921985&affiliateid=200057808)

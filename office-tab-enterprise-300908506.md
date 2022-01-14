@@ -1,4 +1,7 @@
-# Office Tab Enterprise<br />![Office Tab Enterprise](https://mycommerce.akamaized.net/api/pimages/P300908506/BIG/300908506.PNG)<br />Office Tab brings the tabbed user interface to Microsoft Office 2003, 2007, 2010, 2013, 2016, 2019 and Office 365 (include Word, Excel, PowerPoint, Publisher, Access, Project and Visio).
+# Office Tab Enterprise
+![Office Tab Enterprise](https://mycommerce.akamaized.net/api/pimages/P300908506/BIG/300908506.PNG)
+Office Tab brings the tabbed user interface to Microsoft Office 2003, 2007, 2010, 2013, 2016, 2019 and Office 365 (include Word, Excel, PowerPoint, Publisher, Access, Project and Visio).
 It gives users the ability to open, read, edit and manage multiple Office documents in the same tabbed window.
 Easy to deploy in your Enterprise or Organization.
-Supports all languages that are supported by Microsoft Office.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300908506&affiliateid=200057808)
+Supports all languages that are supported by Microsoft Office.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300908506&affiliateid=200057808)

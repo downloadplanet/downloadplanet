@@ -1,1 +1,2 @@
-# Kernel Windows Recovery Suite<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300734368&affiliateid=200057808)
+# Kernel Windows Recovery Suite
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300734368&affiliateid=200057808)

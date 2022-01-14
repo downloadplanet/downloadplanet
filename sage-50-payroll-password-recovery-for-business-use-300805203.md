@@ -1,1 +1,3 @@
-# Sage 50 Payroll Password Recovery (for business use)<br />Sage 50 Payroll Password Recovery is a solution that instantly recovers passwords for Sage 50 Payroll company files. All passwords are recovered instantly regardless of their length (including multi-lingual ones). All versions of Sage 50 Payroll are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300805203&affiliateid=200057808)
+# Sage 50 Payroll Password Recovery (for business use)
+Sage 50 Payroll Password Recovery is a solution that instantly recovers passwords for Sage 50 Payroll company files. All passwords are recovered instantly regardless of their length (including multi-lingual ones). All versions of Sage 50 Payroll are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300805203&affiliateid=200057808)

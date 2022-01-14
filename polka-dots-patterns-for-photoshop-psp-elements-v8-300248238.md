@@ -1,4 +1,5 @@
-# Polka Dots Patterns for Photoshop & PSP & Elements V8<br />www.graphicxtras.com -- Polka Dots Patterns Adobe Photoshop & PSP & Elements V8
+# Polka Dots Patterns for Photoshop & PSP & Elements V8
+www.graphicxtras.com -- Polka Dots Patterns Adobe Photoshop & PSP & Elements V8
 
 100 Polka dots patterns for Photoshop, Photoshop Elements, Affinity, PSP etc
 The patterns are in PAT (standard Photoshop patterns format) and PNG format
@@ -12,4 +13,5 @@ PC and MAC
 Commercial use, all royalty free, no credits, no time limits, world wide use
 Use to create designs for scrap booking, leaflets, books, illustrations, packaging, skate boards, posters, items for sale on Cafepress, items for sale on Zazzle etc
 300 DPI
-Mail us - questions about the polka dot patterns as well as http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300248238&affiliateid=200057808)
+Mail us - questions about the polka dot patterns as well as http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300248238&affiliateid=200057808)

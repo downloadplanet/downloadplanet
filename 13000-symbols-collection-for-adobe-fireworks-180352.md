@@ -1,4 +1,5 @@
-# 13000 Symbols collection for Adobe Fireworks<br />www.graphicxtras.com -- 13000 Symbols collection Adobe Fireworks CS 6 5 4 3 MX PC & MAC OSX PNG & Commercial use Vectors
+# 13000 Symbols collection for Adobe Fireworks
+www.graphicxtras.com -- 13000 Symbols collection Adobe Fireworks CS 6 5 4 3 MX PC & MAC OSX PNG & Commercial use Vectors
 
 Symbols for Fireworks (R)
 13,000 stunning symbols for use in Adobe (R) / Macromedia (R) Fireworks (TM)
@@ -20,4 +21,5 @@ To purchase, click add to cart or buy now - e-mail means digital download
 
 Any questions, e-mail support@graphicxtras.com - commercial use, digital downloads, royalty-free
 
-GRAPHICXTRAS.COM<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180352&affiliateid=200057808)
+GRAPHICXTRAS.COM
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180352&affiliateid=200057808)

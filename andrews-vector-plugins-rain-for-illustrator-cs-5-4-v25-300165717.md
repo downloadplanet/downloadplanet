@@ -1,4 +1,5 @@
-# Andrews Vector Plugins Rain for Illustrator CS 5 4 V25<br />www.graphicxtras.com -- Andrews Vector Plugins Rain Illustrator CS 5 4 PC & MAC OS X V25
+# Andrews Vector Plugins Rain for Illustrator CS 5 4 V25
+www.graphicxtras.com -- Andrews Vector Plugins Rain Illustrator CS 5 4 PC & MAC OS X V25
 
 Graphicxtras.com 'Andrew's Vector Plug-ins Volume 25': GXRain Plug-in Set
 Plug-in Set for Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10
@@ -28,4 +29,5 @@ Graphicxtras.com
 
 For more information about the plug-in set as well as demos and documentation - go http://www.graphicxtras.com
 If you wish to contact me about the plug-in set, please e-mail on Please e-mail us on support@graphicxtras.com
-plug-ins for Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300165717&affiliateid=200057808)
+plug-ins for Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300165717&affiliateid=200057808)

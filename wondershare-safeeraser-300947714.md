@@ -1,6 +1,9 @@
-# Wondershare SafeEraser<br />![Wondershare SafeEraser](https://mycommerce.akamaized.net/api/pimages/P300947714/BIG/300947714.PNG)<br />Wondershare SafeEraser is the ideal iDevice "erase" application designed to permanently wipe all personal information from the device using US Military spec over-writing technology to render the data unrecoverable; returning the device to a “clean slate” state before you resell, donate or trade it in.
+# Wondershare SafeEraser
+![Wondershare SafeEraser](https://mycommerce.akamaized.net/api/pimages/P300947714/BIG/300947714.PNG)
+Wondershare SafeEraser is the ideal iDevice "erase" application designed to permanently wipe all personal information from the device using US Military spec over-writing technology to render the data unrecoverable; returning the device to a “clean slate” state before you resell, donate or trade it in.
 
 Wipe EVERYTHING from iDevices: contacts, messages, photos, videos, apps, account info, passwords and other personal data stored on iDevices.
 Meets Mil-spec DOD 5220 – 22 M standard for permanent data destruction; prevents personal data from being recoverable.
 Works with all iDevices - Jailbroken iPhone friendly and also compatible with carrier-locked iPhones.
-Keep your personal information safe, permanently remove it with SafeEraser prior to disposing of your old iDevice.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947714&affiliateid=200057808)
+Keep your personal information safe, permanently remove it with SafeEraser prior to disposing of your old iDevice.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947714&affiliateid=200057808)

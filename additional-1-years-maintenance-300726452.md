@@ -1,1 +1,3 @@
-# Additional 1 Year's Maintenance<br />Maintenance provides free upgrades for one year, even across major version releases. You will also receive our priority support via email, skype, phone and web-chat.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300726452&affiliateid=200057808)
+# Additional 1 Year's Maintenance
+Maintenance provides free upgrades for one year, even across major version releases. You will also receive our priority support via email, skype, phone and web-chat.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300726452&affiliateid=200057808)

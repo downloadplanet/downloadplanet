@@ -1,4 +1,6 @@
-# iStonsoft CHM to HTML Converter for Mac<br />![iStonsoft CHM to HTML Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917093/BIG/300917093.PNG)<br />iStonsoft CHM to HTML Converter for Mac - Convert CHM Files to HTML on Mac!
+# iStonsoft CHM to HTML Converter for Mac
+![iStonsoft CHM to HTML Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917093/BIG/300917093.PNG)
+iStonsoft CHM to HTML Converter for Mac - Convert CHM Files to HTML on Mac!
 
 CHM is abbreviated from Microsoft Compiled HTML Help and it is a proprietary online help format developed by Microsoft in 1997 with the file extension .chm. If you wan to edit, republish, or extract the original HTML files from the CHM archive, you need this Mac version CHM to HTML Converter. The tool enables you to:
 
@@ -30,4 +32,5 @@ When you are converting CHM to HTML on Mac, the software will indicate you basic
 
 More Features Designed to Help Live an Easy Life
 
-If you like, you can move, delete, clear all or select partially to manage the files for your conversion and make things easier.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917093&affiliateid=200057808)
+If you like, you can move, delete, clear all or select partially to manage the files for your conversion and make things easier.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917093&affiliateid=200057808)

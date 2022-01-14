@@ -1,3 +1,5 @@
-# Spiral brushes for Photoshop, Affinity, Elements, PSP, etc V110<br />www.graphicxtras.com -- Spiral Brushes for Adobe Photoshop & Elements & PSP PC & MAC OSX V110
+# Spiral brushes for Photoshop, Affinity, Elements, PSP, etc V110
+www.graphicxtras.com -- Spiral Brushes for Adobe Photoshop & Elements & PSP PC & MAC OSX V110
 
-Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469279&affiliateid=200057808)
+Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469279&affiliateid=200057808)

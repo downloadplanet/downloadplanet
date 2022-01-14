@@ -1,1 +1,4 @@
-# DoYourClone for Windows Lifetime License<br />![DoYourClone for Windows Lifetime License](https://mycommerce.akamaized.net/api/pimages/P300996952/BIG/300996952.PNG)<br />DoYourClone for Windows is the 100% safe, powerful and easy-to-use disk cloning software. It is able to help you securely and easily clone HDD, SSD, System hard drive, USB flash drive, memory card, RAID, Server, and other storage device.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300996952&affiliateid=200057808)
+# DoYourClone for Windows Lifetime License
+![DoYourClone for Windows Lifetime License](https://mycommerce.akamaized.net/api/pimages/P300996952/BIG/300996952.PNG)
+DoYourClone for Windows is the 100% safe, powerful and easy-to-use disk cloning software. It is able to help you securely and easily clone HDD, SSD, System hard drive, USB flash drive, memory card, RAID, Server, and other storage device.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300996952&affiliateid=200057808)

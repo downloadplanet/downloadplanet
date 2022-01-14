@@ -1,1 +1,2 @@
-# Kernel Undelete[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384674&affiliateid=200057808)
+# Kernel Undelete[BRL]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384674&affiliateid=200057808)

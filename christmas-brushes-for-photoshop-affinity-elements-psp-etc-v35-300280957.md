@@ -1,4 +1,5 @@
-# Christmas brushes for Photoshop, Affinity, Elements, PSP, etc V35<br />www.graphicxtras.com -- Christmas Brushes for Adobe Photoshop & Elements & PSP Xmas & Festive V35
+# Christmas brushes for Photoshop, Affinity, Elements, PSP, etc V35
+www.graphicxtras.com -- Christmas Brushes for Adobe Photoshop & Elements & PSP Xmas & Festive V35
 
 100 Christmas tree / angels / snow / candles festive brushes Photoshop and Photoshop Elements + PNG brushes for use in other applications such as Paint Shop Pro (R)
 
@@ -22,4 +23,5 @@ All the brushes have been created by graphicxtras.com (Andrew Buckle)
 
 To purchase, please click the add to cart (cookies required) or the buy now button, the item set is download only
 
-Part of an ongoing series of Photoshop (R) brushes from the graphicxtras.com site, along with custom shapes and patterns and styles.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300280957&affiliateid=200057808)
+Part of an ongoing series of Photoshop (R) brushes from the graphicxtras.com site, along with custom shapes and patterns and styles.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300280957&affiliateid=200057808)

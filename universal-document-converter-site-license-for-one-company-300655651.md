@@ -1,1 +1,3 @@
-# Universal Document Converter - Site license for one company<br />Convert PDF, Word, Excel or any other document to PDF, JPEG, TIFF or PNG! Universal Document Converter is a groundbreaking tool for creating high quality graphic images from any document for inclusion in presentations, email and web publishing.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300655651&affiliateid=200057808)
+# Universal Document Converter - Site license for one company
+Convert PDF, Word, Excel or any other document to PDF, JPEG, TIFF or PNG! Universal Document Converter is a groundbreaking tool for creating high quality graphic images from any document for inclusion in presentations, email and web publishing.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300655651&affiliateid=200057808)

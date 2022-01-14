@@ -1,1 +1,3 @@
-# CubexSoft DXL to PST - Technical License<br />CubexSoft DXL to PST Export tool to Export Domino (.DXL) data into Outlook PST Format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300784206&affiliateid=200057808)
+# CubexSoft DXL to PST - Technical License
+CubexSoft DXL to PST Export tool to Export Domino (.DXL) data into Outlook PST Format.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300784206&affiliateid=200057808)

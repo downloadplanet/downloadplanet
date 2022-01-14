@@ -1,1 +1,2 @@
-# NSF Local Security Removal - Home License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300754204&affiliateid=200057808)
+# NSF Local Security Removal - Home License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300754204&affiliateid=200057808)

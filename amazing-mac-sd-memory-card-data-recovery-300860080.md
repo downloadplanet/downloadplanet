@@ -1,1 +1,4 @@
-# Amazing Mac SD Memory Card Data Recovery<br />![Amazing Mac SD Memory Card Data Recovery](https://mycommerce.akamaized.net/api/pimages/P300860080/BIG/300860080.PNG)<br />Leading Amazing Mac SD Memory Card Data Recovery software to recover lost, deleted, corrupted or formatted photos, videos, audios, documents from various memory cards, such as SD card, CF card, MMC(Multimedia Card), XD Picture Card, SDHC, MicroSD, MiniSD, Memory Stick and more.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300860080&affiliateid=200057808)
+# Amazing Mac SD Memory Card Data Recovery
+![Amazing Mac SD Memory Card Data Recovery](https://mycommerce.akamaized.net/api/pimages/P300860080/BIG/300860080.PNG)
+Leading Amazing Mac SD Memory Card Data Recovery software to recover lost, deleted, corrupted or formatted photos, videos, audios, documents from various memory cards, such as SD card, CF card, MMC(Multimedia Card), XD Picture Card, SDHC, MicroSD, MiniSD, Memory Stick and more.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300860080&affiliateid=200057808)

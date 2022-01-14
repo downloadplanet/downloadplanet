@@ -1,1 +1,3 @@
-# Patient Manager Advanced 4<br />![Patient Manager Advanced 4](https://mycommerce.akamaized.net/api/pimages/P300648220/BIG/300648220.PNG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300648220&affiliateid=200057808)
+# Patient Manager Advanced 4
+![Patient Manager Advanced 4](https://mycommerce.akamaized.net/api/pimages/P300648220/BIG/300648220.PNG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300648220&affiliateid=200057808)

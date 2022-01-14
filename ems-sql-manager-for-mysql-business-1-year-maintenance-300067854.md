@@ -1,1 +1,3 @@
-# EMS SQL Manager for MySQL (Business) + 1 Year Maintenance<br />Simplify and automate your MySQL database development process, design, explore and maintain existing MySQL databases, build compound MySQL query statements, manage MySQL database user rights and manipulate data in different ways.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067854&affiliateid=200057808)
+# EMS SQL Manager for MySQL (Business) + 1 Year Maintenance
+Simplify and automate your MySQL database development process, design, explore and maintain existing MySQL databases, build compound MySQL query statements, manage MySQL database user rights and manipulate data in different ways.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067854&affiliateid=200057808)

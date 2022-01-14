@@ -1,1 +1,4 @@
-# eSoftTools Zip Password Recovery - Enterprise License<br />![eSoftTools Zip Password Recovery - Enterprise License](https://mycommerce.akamaized.net/api/pimages/P300942751/BIG/300942751.PNG)<br />Recover lost or forgotten Zip and Zipx file password by using eSoftTools Zip Password Recovery Software.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300942751&affiliateid=200057808)
+# eSoftTools Zip Password Recovery - Enterprise License
+![eSoftTools Zip Password Recovery - Enterprise License](https://mycommerce.akamaized.net/api/pimages/P300942751/BIG/300942751.PNG)
+Recover lost or forgotten Zip and Zipx file password by using eSoftTools Zip Password Recovery Software.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300942751&affiliateid=200057808)

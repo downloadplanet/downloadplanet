@@ -1,1 +1,3 @@
-# QuickMigrations for OST to PST - Business License<br />QuickMigrations for OST to PST is a standalone OST to PST Migration software helps in recovering the data from OST file to PST file format. Just download the tool and perform the migration within a few clicks.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300907208&affiliateid=200057808)
+# QuickMigrations for OST to PST - Business License
+QuickMigrations for OST to PST is a standalone OST to PST Migration software helps in recovering the data from OST file to PST file format. Just download the tool and perform the migration within a few clicks.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300907208&affiliateid=200057808)

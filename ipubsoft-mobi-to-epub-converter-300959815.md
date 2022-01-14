@@ -1,4 +1,6 @@
-# iPubsoft MOBI to ePub Converter<br />![iPubsoft MOBI to ePub Converter](https://mycommerce.akamaized.net/api/pimages/P300959815/BIG/300959815.PNG)<br />iPubsoft MOBI to ePub Converter - The Simplest Way to Make ePub from MOBI or PRC!
+# iPubsoft MOBI to ePub Converter
+![iPubsoft MOBI to ePub Converter](https://mycommerce.akamaized.net/api/pimages/P300959815/BIG/300959815.PNG)
+iPubsoft MOBI to ePub Converter - The Simplest Way to Make ePub from MOBI or PRC!
 
 ePub is popularly used for Kobo, Playbook, iPhone, iPad, iTouch, Nook, Sony Reader, BeBook, Adobe Digital Editions, etc. However, MOBI is restricted to be read on less eReaders like Kindle, Mobipocket Reader. If you have .mobi or .prc eBooks and wanna read on other devices without hassles, iPubsoft MOBI to ePub Converter thus is the desired tool.
 
@@ -21,4 +23,5 @@ Entering the application and viewing the refreshing user interface, you will und
 
 Detailed file info display for useful reference
 
-All the MOBI files will be listed in the pane with file size, output type, output name and status bar indicated to make your actions become much more intuitive and easier.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300959815&affiliateid=200057808)
+All the MOBI files will be listed in the pane with file size, output type, output name and status bar indicated to make your actions become much more intuitive and easier.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300959815&affiliateid=200057808)

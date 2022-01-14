@@ -1,4 +1,6 @@
-# SimpleSYN Business 5 License / one time payment<br />![SimpleSYN Business 5 License / one time payment](https://mycommerce.akamaized.net/api/pimages/P300872203/BIG/300872203.PNG)<br />SimpleSYN Business
+# SimpleSYN Business 5 License / one time payment
+![SimpleSYN Business 5 License / one time payment](https://mycommerce.akamaized.net/api/pimages/P300872203/BIG/300872203.PNG)
+SimpleSYN Business
 SimpleSYN is the synchronization solution for synchronizing Outlook on several computers effectively and competitively. The data synchronization is carried out via network (LAN, WLAN) or optionally over the Internet – automatically and in real-time. No cloud-service or Exchange server necessary!
 The SimpleSYN Business Edition also includes a filter function and the option to start SimpleSYN via Windows service.
 Whether you wish to synchronize e-mails, calendar, contacts, notes or tasks, SimpleSYN will keep your data up-to-date and uniform, regardless of where you are. Only a few simple steps and the practical Sync-software is installed, ready to use, and running unobtrusively in the background.
@@ -22,4 +24,5 @@ A active Internet connection is required during the synchronization (SimpleSYN B
 Please note:
 The Windows service is only available in the SimpleSYN business version. In the SimpleSYN standard version, a Windows user must be logged in to the computer for synchronization
 You cannot synchronize your Google calendar or iCloud data with SimpleSYN
-More Information about SimpleSYN Business<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300872203&affiliateid=200057808)
+More Information about SimpleSYN Business
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300872203&affiliateid=200057808)

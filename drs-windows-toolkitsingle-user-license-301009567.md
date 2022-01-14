@@ -1,1 +1,3 @@
-# DRS Windows Toolkit[Single User License]<br />SysInfoTools Backup Exec BKF Pro Repair and MS SQL Database Recovery Toolkit<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301009567&affiliateid=200057808)
+# DRS Windows Toolkit[Single User License]
+SysInfoTools Backup Exec BKF Pro Repair and MS SQL Database Recovery Toolkit
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301009567&affiliateid=200057808)

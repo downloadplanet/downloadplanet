@@ -1,4 +1,5 @@
-# Andrews Vector Plugins Zigzag for Illustrator CS5-10 V5<br />www.graphicxtras.com -- Andrews Vector Plugins Zigzag Illustrator CS5 - 10 PC & MAC OS X V5
+# Andrews Vector Plugins Zigzag for Illustrator CS5-10 V5
+www.graphicxtras.com -- Andrews Vector Plugins Zigzag Illustrator CS5 - 10 PC & MAC OS X V5
 
 Zigzag plug-in toolbox for Adobe (R) Illustrator (R) PC + MAC OS X version X
 Plug-in is for CS5 CS4 CS3 CS2 CS1 10
@@ -24,4 +25,5 @@ MENU:
 
 For more information about the plug-in on http://www.graphicxtras.com
 If you wish to contact me about the plug-in set, please e-mail on Please e-mail us on support@graphicxtras.com
-Other plugins - more info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=148269&affiliateid=200057808)
+Other plugins - more info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=148269&affiliateid=200057808)

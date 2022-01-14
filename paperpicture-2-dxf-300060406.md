@@ -1,1 +1,3 @@
-# Paper/Picture 2 DXF<br />Convert CAD drawings from paper sheets or pictures into digital DXF files for editing in your CAD application. Scan a drawing or open a picture from your hard disk. The program recognizes the lines and saves the result as a DXF file. This saves much of time and money if you need to import paper drawings into your CAD application.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060406&affiliateid=200057808)
+# Paper/Picture 2 DXF
+Convert CAD drawings from paper sheets or pictures into digital DXF files for editing in your CAD application. Scan a drawing or open a picture from your hard disk. The program recognizes the lines and saves the result as a DXF file. This saves much of time and money if you need to import paper drawings into your CAD application.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060406&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Aimersoft Video Converter Std - Multi-User Personal License (11-15 PCs)<br />![Aimersoft Video Converter Std - Multi-User Personal License (11-15 PCs)](https://mycommerce.akamaized.net/api/pimages/P300952400/BIG/300952400.PNG)<br />Aimersoft Video Converter Std is the best video converter which helps to convert videos between media formats. As a featured video file converter, it is expert at converting HD videos like AVCHD, and SD videos like AVI, MP4, WMV, MOV, MPEG, Xvid with perfect output quality and high conversion speed. With this Video Converter, you can freely convert videos for iPad, iPhone 4(4G), iPhone 3GS, iPod Touch, iPod Nano,Google nexus one, etc.
+# Aimersoft Video Converter Std - Multi-User Personal License (11-15 PCs)
+![Aimersoft Video Converter Std - Multi-User Personal License (11-15 PCs)](https://mycommerce.akamaized.net/api/pimages/P300952400/BIG/300952400.PNG)
+Aimersoft Video Converter Std is the best video converter which helps to convert videos between media formats. As a featured video file converter, it is expert at converting HD videos like AVCHD, and SD videos like AVI, MP4, WMV, MOV, MPEG, Xvid with perfect output quality and high conversion speed. With this Video Converter, you can freely convert videos for iPad, iPhone 4(4G), iPhone 3GS, iPod Touch, iPod Nano,Google nexus one, etc.
 
 Convert HD Video, SD Video and Audio
 - Support High-Definition video conversion
@@ -38,4 +40,5 @@ Easy, Quick and Convenient to Convert
 The intuitive interface and drag-and-drop functionality enable you to finish the conversion only with a few clicks, even if you are a beginner. This video file converter also allows you to preview the original and the edited files side-by-side for easy comparison.
 
 - Batch conversion
-The multi-threading process ensures you the fast and stable conversion of multiple files at the same time.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952400&affiliateid=200057808)
+The multi-threading process ensures you the fast and stable conversion of multiple files at the same time.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952400&affiliateid=200057808)

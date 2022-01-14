@@ -1,1 +1,3 @@
-# DRS PST Splitter For Windows[Administrator License]<br />DRS PST Splitter For Windows<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004994&affiliateid=200057808)
+# DRS PST Splitter For Windows[Administrator License]
+DRS PST Splitter For Windows
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004994&affiliateid=200057808)

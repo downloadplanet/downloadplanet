@@ -1,3 +1,5 @@
-# Y Letter / Type Custom shapes for Photoshop & Elements (CSH) V125<br />www.graphicxtras.com -- Y Letter Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X Text & Alphabet & Type V125
+# Y Letter / Type Custom shapes for Photoshop & Elements (CSH) V125
+www.graphicxtras.com -- Y Letter Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X Text & Alphabet & Type V125
 
-custom shapes for Photoshop and Elements - License: commercial use (and personal), royalty-free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468576&affiliateid=200057808)
+custom shapes for Photoshop and Elements - License: commercial use (and personal), royalty-free.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468576&affiliateid=200057808)

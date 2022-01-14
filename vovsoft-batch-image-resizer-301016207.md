@@ -1,1 +1,3 @@
-# Vovsoft Batch Image Resizer<br />Resizes image files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301016207&affiliateid=200057808)
+# Vovsoft Batch Image Resizer
+Resizes image files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301016207&affiliateid=200057808)

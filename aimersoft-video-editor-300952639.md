@@ -1,4 +1,6 @@
-# Aimersoft Video Editor<br />![Aimersoft Video Editor](https://mycommerce.akamaized.net/api/pimages/P300952639/BIG/300952639.JPG)<br />As an easy yet powerful video editor, Aimersoft Video Studio Express is the best help for digital video editing enthusiasts and beginners. It can edit any movie or video projects regardless the size and format in a few simple steps and produce video with stylish movie effects, magic scene transitions and personalized background music. It also support to save edited video to any portable devices or local computer in any formats.
+# Aimersoft Video Editor
+![Aimersoft Video Editor](https://mycommerce.akamaized.net/api/pimages/P300952639/BIG/300952639.JPG)
+As an easy yet powerful video editor, Aimersoft Video Studio Express is the best help for digital video editing enthusiasts and beginners. It can edit any movie or video projects regardless the size and format in a few simple steps and produce video with stylish movie effects, magic scene transitions and personalized background music. It also support to save edited video to any portable devices or local computer in any formats.
 
 Features of Aimersoft Video Studio Express
 
@@ -9,4 +11,5 @@ Videos downloaded from all video sharing sites and in any formats like AVI, MOV,
 Three separate rows to video, audio and background audio in the timeline allow users to edit precisely to both video and audio. To cut out the bad lighting, remove the background noise or some other bad scenes very easily.
 
 3. Multiple Ways to Share
-Save the newly edited video onto your local computer in any formats you like for further processing, to transfer it to your portable devices like iPhone, iPad, PSP, iPod, etc. or to upload to YouTube timely and conveniently.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952639&affiliateid=200057808)
+Save the newly edited video onto your local computer in any formats you like for further processing, to transfer it to your portable devices like iPhone, iPad, PSP, iPod, etc. or to upload to YouTube timely and conveniently.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952639&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Amacsoft PDF Password Remover for Mac<br />![Amacsoft PDF Password Remover for Mac](https://mycommerce.akamaized.net/api/pimages/P300924571/BIG/300924571.PNG)<br />PDF Password Remover for Mac is a small and efficient PDF decryption tool on Mac OS X. Mac PDF Password Remover gives Mac users the ability to unlock PDF files protected for copying and printing without requiring the password. It works fast and supports batch decryption, which can help users quickly recover PDF documents when losing copying and printing PDF passwords.
+# Amacsoft PDF Password Remover for Mac
+![Amacsoft PDF Password Remover for Mac](https://mycommerce.akamaized.net/api/pimages/P300924571/BIG/300924571.PNG)
+PDF Password Remover for Mac is a small and efficient PDF decryption tool on Mac OS X. Mac PDF Password Remover gives Mac users the ability to unlock PDF files protected for copying and printing without requiring the password. It works fast and supports batch decryption, which can help users quickly recover PDF documents when losing copying and printing PDF passwords.
 
 - Remove copying and printing restrictions from encrypted PDF files directly;
 - Remove open password from encrypted PDF files (with authorized password);
@@ -24,4 +26,5 @@ Efficient and Easy to Use
 
 - Remove PDF password and restrictions on Mac with just 3 simple steps: Launch ? Import ? Decrypt.
 
-- Mac PDF Password Remover supports drag-and-drop operation.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924571&affiliateid=200057808)
+- Mac PDF Password Remover supports drag-and-drop operation.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924571&affiliateid=200057808)

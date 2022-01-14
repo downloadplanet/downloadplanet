@@ -1,3 +1,5 @@
-# Guaranteed PDF Decrypter (restrictions remover, Windows)<br />The primary goal of GuaPDF is to
+# Guaranteed PDF Decrypter (restrictions remover, Windows)
+The primary goal of GuaPDF is to
 - remove restrictions on any PDF document (you should have the right to do it, for example, if you forgot the password). Any Acrobat version up to XI is supported, even with 256-bit AES or 128-bit RC4 encryption. PDF permission password removal is an instant process. Decrypted file can be opened in any PDF viewer without any restrictions so you may edit/copy/print it. GuaPDF can be also used for
-- remove PDF open password. Decryption of the file with password for opening is guaranteed for PDF files with 40-bit key only (Acrobat 3, 4 compatible encryption). This process takes several days on one home computer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=152349&affiliateid=200057808)
+- remove PDF open password. Decryption of the file with password for opening is guaranteed for PDF files with 40-bit key only (Acrobat 3, 4 compatible encryption). This process takes several days on one home computer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=152349&affiliateid=200057808)

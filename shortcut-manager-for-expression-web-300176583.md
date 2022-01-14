@@ -1,4 +1,6 @@
-# Shortcut Manager for Expression Web<br />Shortcut Manager for Expression Web enables you to:
+# Shortcut Manager for Expression Web
+Shortcut Manager for Expression Web enables you to:
 Define your own keyboard shortcuts to menu items and recorded macros.
 Define shortcuts to commands that aren't available directly through the Expression Web User Interface.
-Shortcut Manager for Expression Web works with Microsoft Expression Web 2.0 and Microsoft Expression Web 1.0. Download the addin and install it in your machine. After the addin is loaded successfully, you can start assigning shortcuts using the customize shortcuts dialog. The customize shortcuts dialog can be invoked by selecting (Tools | Customize Shortcuts...).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300176583&affiliateid=200057808)
+Shortcut Manager for Expression Web works with Microsoft Expression Web 2.0 and Microsoft Expression Web 1.0. Download the addin and install it in your machine. After the addin is loaded successfully, you can start assigning shortcuts using the customize shortcuts dialog. The customize shortcuts dialog can be invoked by selecting (Tools | Customize Shortcuts...).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300176583&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# QuickMigrations for Apple Mail to Outlook<br />QuickMigrations for Apple Mail to Outlook is a standalone Apple Mail to Outlook Migration software helps in converting the data from MAC Mail file to Outlook PST file format. Just download the tool and perform the migration within a few clicks.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300909498&affiliateid=200057808)
+# QuickMigrations for Apple Mail to Outlook
+QuickMigrations for Apple Mail to Outlook is a standalone Apple Mail to Outlook Migration software helps in converting the data from MAC Mail file to Outlook PST file format. Just download the tool and perform the migration within a few clicks.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300909498&affiliateid=200057808)

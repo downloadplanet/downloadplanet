@@ -1,4 +1,5 @@
-# Beratungspaket Kalkulation Speisen im Excelprogramm, inkl. Konzept, Beschreibung und Videoanleitung und 1 Tag Beratung<br />Folgende Themen beinhaltet der Beratungstag:
+# Beratungspaket Kalkulation Speisen im Excelprogramm, inkl. Konzept, Beschreibung und Videoanleitung und 1 Tag Beratung
+Folgende Themen beinhaltet der Beratungstag:
 
 Grundlagen der Kalkulation Speisen
 Berechnung des Gemeinkostenzuschlagsatzes, Kalkulationsfaktors und des Deckungsbeitrages pro Gericht für Ihren Betrieb
@@ -52,4 +53,5 @@ Konzept Kalkulation Speisen
 Beschreibung Excelschema Kalkulation
 Videoanleitung Excelschema
 Videoaufzeichnung vom Webinar Grundlagen der Kalkulation
-Video Schnitzel oder Rinderfilet? Woran verdienen wir mehr Geld?<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585075&affiliateid=200057808)
+Video Schnitzel oder Rinderfilet? Woran verdienen wir mehr Geld?
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585075&affiliateid=200057808)

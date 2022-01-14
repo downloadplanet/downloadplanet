@@ -1,2 +1,5 @@
-# Virtual Serial Port Kit CE<br />![Virtual Serial Port Kit CE](https://mycommerce.akamaized.net/api/pimages/P300019654/BIG/300019654.GIF)<br />Virtual Serial Port Kit CE creates pair of virtual serial ports connected to each other in any pocket PC. Virtual serial port pair looks and works exactly like real hardware serial ports connected via null modem cable. Virtual Serial Port Kit CE allows to connect two applications (like GPS simulation programs) over virtual serial ports.
-Virtual Serial Port Kit CE can be installed in any handheld computer which runs the Windows CE Operating System. ARM, MIPS, SH3, SH4 and x86 processors are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300019654&affiliateid=200057808)
+# Virtual Serial Port Kit CE
+![Virtual Serial Port Kit CE](https://mycommerce.akamaized.net/api/pimages/P300019654/BIG/300019654.GIF)
+Virtual Serial Port Kit CE creates pair of virtual serial ports connected to each other in any pocket PC. Virtual serial port pair looks and works exactly like real hardware serial ports connected via null modem cable. Virtual Serial Port Kit CE allows to connect two applications (like GPS simulation programs) over virtual serial ports.
+Virtual Serial Port Kit CE can be installed in any handheld computer which runs the Windows CE Operating System. ARM, MIPS, SH3, SH4 and x86 processors are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300019654&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# ReplaceMagic.Office Professional Edition<br />![ReplaceMagic.Office Professional Edition](https://mycommerce.akamaized.net/api/pimages/P300147372/BIG/300147372.JPG)<br />ReplaceMagic - search and replace all over in your Word, Excel, PowerPoint, Visio and Project documents
+# ReplaceMagic.Office Professional Edition
+![ReplaceMagic.Office Professional Edition](https://mycommerce.akamaized.net/api/pimages/P300147372/BIG/300147372.JPG)
+ReplaceMagic - search and replace all over in your Word, Excel, PowerPoint, Visio and Project documents
 
 Package 2 - 5-user license is 2 times the single-license price
 Package 3 - 10-user license is 3 times the single-license price
@@ -28,4 +30,5 @@ As a matter of fact our prices start from $119...
 
 By using standard Office search&replace functionality you are very limited and we removed those limits.
 
-If you did not download/buy ReplaceMagic until now test it and see how powerful application it is.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300147372&affiliateid=200057808)
+If you did not download/buy ReplaceMagic until now test it and see how powerful application it is.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300147372&affiliateid=200057808)

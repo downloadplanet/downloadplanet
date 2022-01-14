@@ -1,3 +1,5 @@
-# Greek brushes for Photoshop, Affinity, Elements, PSP, etc V160<br />www.graphicxtras.com -- Greek Brushes for Adobe Photoshop & Elements & PaintShop Pro V160
+# Greek brushes for Photoshop, Affinity, Elements, PSP, etc V160
+www.graphicxtras.com -- Greek Brushes for Adobe Photoshop & Elements & PaintShop Pro V160
 
-100 Greek brushes for use in Photoshop, Photoshop Elements, PSP and many other applications. 300 DPI. The brushes are in ABR format as well as vector EPS format - all for license commercial use - Released February 8th 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300501875&affiliateid=200057808)
+100 Greek brushes for use in Photoshop, Photoshop Elements, PSP and many other applications. 300 DPI. The brushes are in ABR format as well as vector EPS format - all for license commercial use - Released February 8th 2012
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300501875&affiliateid=200057808)

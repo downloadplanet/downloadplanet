@@ -1,4 +1,6 @@
-# AnyLexic 2.0 - Corporate License (2 PCs)<br />![AnyLexic 2.0 - Corporate License (2 PCs)](https://mycommerce.akamaized.net/api/pimages/P300177556/BIG/300177556.GIF)<br />AnyLexic is a terminology Management Software for multiple dictionaries or glossaries. It is designed for easy and convenient terminology database managing. This advanced software is used for working with terminology database, creating, editing and exchanging glossaries and dictionaries in a reliable and convenient way.
+# AnyLexic 2.0 - Corporate License (2 PCs)
+![AnyLexic 2.0 - Corporate License (2 PCs)](https://mycommerce.akamaized.net/api/pimages/P300177556/BIG/300177556.GIF)
+AnyLexic is a terminology Management Software for multiple dictionaries or glossaries. It is designed for easy and convenient terminology database managing. This advanced software is used for working with terminology database, creating, editing and exchanging glossaries and dictionaries in a reliable and convenient way.
 Manage terminology dictionaries in a reliable and convenient way: all the terminology is stored in one database.
 Exchange terminology dictionaries and glossaries with your colleagues without loosing term consistency. Keep terminology consistency while working under one project with your colleagues by dictionary exchanging. Dictionary import and export supports TXT CSV XLS formats.
 Create your own terminology glossaries exchange them with colleagues, gaining ultimate terminology and term consistency.
@@ -14,4 +16,5 @@ Automatic memorizing of last 16 searched words.
 Simple and intuitive interface.
 User-configurable hot-keys allowing quick search of the text fragment, currently selected in an open document.
 Unicode support.
-Windows Vista compatible.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300177556&affiliateid=200057808)
+Windows Vista compatible.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300177556&affiliateid=200057808)

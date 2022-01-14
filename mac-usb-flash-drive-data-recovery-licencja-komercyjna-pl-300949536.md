@@ -1,1 +1,4 @@
-# Mac USB flash Drive Data Recovery Licencja komercyjna - PL<br />![Mac USB flash Drive Data Recovery Licencja komercyjna - PL](https://mycommerce.akamaized.net/api/pimages/P300949536/BIG/300949536.PNG)<br />Mac USB Flash Drive Data Recovery Pro może odzyskać utracone lub usunięte pliki z różnych dysków flash, w tym pamięci USB, pamięci flash USB, pen drive, Pocket Drive, JumpDrive, Thumb Drive i wielu innych napędów flash USB na Mac.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949536&affiliateid=200057808)
+# Mac USB flash Drive Data Recovery Licencja komercyjna - PL
+![Mac USB flash Drive Data Recovery Licencja komercyjna - PL](https://mycommerce.akamaized.net/api/pimages/P300949536/BIG/300949536.PNG)
+Mac USB Flash Drive Data Recovery Pro może odzyskać utracone lub usunięte pliki z różnych dysków flash, w tym pamięci USB, pamięci flash USB, pen drive, Pocket Drive, JumpDrive, Thumb Drive i wielu innych napędów flash USB na Mac.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949536&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# PFK, 3. Fachpaket, Personalplanung, -marketing, -controlling, 11 Videos mit Begleitskript und Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300590474&affiliateid=200057808)
+# PFK, 3. Fachpaket, Personalplanung, -marketing, -controlling, 11 Videos mit Begleitskript und Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300590474&affiliateid=200057808)

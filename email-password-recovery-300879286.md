@@ -1,1 +1,3 @@
-# Email Password Recovery<br />Recover logins and passwords to email accounts stored by Windows Mail, Windows Live Mail, Mozilla Thunderbird, Opera Mail, Gmail Notifier, Eudora, Incredimail, Reach-a-Mail, The Bat!, PocoMail, Becky! Internet Mail, Phoenix Mail, Ipswitch IMail Server, Pegasus Mail, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879286&affiliateid=200057808)
+# Email Password Recovery
+Recover logins and passwords to email accounts stored by Windows Mail, Windows Live Mail, Mozilla Thunderbird, Opera Mail, Gmail Notifier, Eudora, Incredimail, Reach-a-Mail, The Bat!, PocoMail, Becky! Internet Mail, Phoenix Mail, Ipswitch IMail Server, Pegasus Mail, etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879286&affiliateid=200057808)

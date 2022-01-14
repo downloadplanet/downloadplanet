@@ -1,4 +1,5 @@
-# Border Frames Displacement maps V7<br />www.graphicxtras.com -- Border frames displacements Photoshop & Elements & PSP PSD Textures & Distortions V7
+# Border Frames Displacement maps V7
+www.graphicxtras.com -- Border frames displacements Photoshop & Elements & PSP PSD Textures & Distortions V7
 
 Displacement maps for Adobe (R) Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 6 + Photoshop Elements + Corel (R) Paint Shop Pro (R) Photo
 100 Borders and lines and frames and links themed displacement maps for Adobe (R) Photoshop (R)
@@ -21,4 +22,5 @@ To purchase, click add to cart or buy now - e-mail means digital download
 Any questions, e-mail support@graphicxtras.com - commercial use, digital downloads, royalty-free
 MENU:
 
-Any questions, please mail us on support@graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300226071&affiliateid=200057808)
+Any questions, please mail us on support@graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300226071&affiliateid=200057808)

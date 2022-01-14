@@ -1,4 +1,5 @@
-# Protomissume Software Box Shot Professional (Single User)<br />Protomissume Professional is able to create realistic images of 3D software boxes from your existing logos and promotional materials. Protomissume delivers professional results by supporting the anti-aliasing feature.
+# Protomissume Software Box Shot Professional (Single User)
+Protomissume Professional is able to create realistic images of 3D software boxes from your existing logos and promotional materials. Protomissume delivers professional results by supporting the anti-aliasing feature.
 
 Features
 Written in .Net 3 and utilizes the strengths of WPF 3D.
@@ -11,4 +12,5 @@ Box Size
 Image Anti-Aliasing
 
 
-The Single User License allows the software to be used by a single person on a single computer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300329217&affiliateid=200057808)
+The Single User License allows the software to be used by a single person on a single computer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300329217&affiliateid=200057808)

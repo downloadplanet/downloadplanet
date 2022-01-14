@@ -1,4 +1,5 @@
-# Trainingspaket "Effiziente Kuechenorganisation" mit Kalkulationsprogramm, Dienstplanprogramm und Training vom 13.10.- 14.10.2016 in Bamberg<br />Folgende Produkte erhalten Sie von uns:
+# Trainingspaket "Effiziente Kuechenorganisation" mit Kalkulationsprogramm, Dienstplanprogramm und Training vom 13.10.- 14.10.2016 in Bamberg
+Folgende Produkte erhalten Sie von uns:
 
 Komplettpaket Kalkulation Speisen mit Deckungsbeitrag
 Komplettpaket Dienstplanprogramm in Excel
@@ -20,4 +21,5 @@ Ende: Freitag, 14.10.2016, 09.00 - 17.00 Uhr
 
 Seminarort: Bamberg
 
-Übernachtungsmöglichkeiten:<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671874&affiliateid=200057808)
+Übernachtungsmöglichkeiten:
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671874&affiliateid=200057808)

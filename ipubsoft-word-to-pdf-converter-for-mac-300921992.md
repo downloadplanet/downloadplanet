@@ -1,4 +1,6 @@
-# iPubsoft Word to PDF Converter for Mac<br />![iPubsoft Word to PDF Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300921992/BIG/300921992.PNG)<br />Batch Convert Microsoft Word Documents into Adobe PDF on Mac OS X!
+# iPubsoft Word to PDF Converter for Mac
+![iPubsoft Word to PDF Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300921992/BIG/300921992.PNG)
+Batch Convert Microsoft Word Documents into Adobe PDF on Mac OS X!
 
 PDF is used to easily transfer documents via the Internet. PDF files are protected from changes and retain a presentation?s exact elements, thereby avoiding problems like missing fonts or broken layouts. So many people prefer to use PDF format when then need send a Word document to many recipients, or transfer files from one OS to another. iPubsoft Word to PDF Converter for Mac is such a tool to achieve Word to PDF conversion on Mac OS X.
 
@@ -29,4 +31,5 @@ This Word to PDF Converter for Mac enables you to combine multiple Microsoft Wor
 
 Support multi-languages
 
-Supports English, French, German, Italian, Portuguese, Spanish, Japanese, Korean, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921992&affiliateid=200057808)
+Supports English, French, German, Italian, Portuguese, Spanish, Japanese, Korean, etc.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300921992&affiliateid=200057808)

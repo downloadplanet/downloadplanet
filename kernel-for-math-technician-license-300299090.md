@@ -1,1 +1,2 @@
-# kernel for math - technician license<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300299090&affiliateid=200057808)
+# kernel for math - technician license
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300299090&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Zebra brushes for Photoshop, psp, Affinity Photo etc V232<br />100 Zebra brushes themed designs (also great for patterns, displacements etc) for use in Photoshop, PSP, Affinity Photo etc - many different zebra designs including sketched designs, rough designs, etc Commercial use, all royalty free, find out more from graphicxtras.com / Andrew Buckle<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300800149&affiliateid=200057808)
+# Zebra brushes for Photoshop, psp, Affinity Photo etc V232
+100 Zebra brushes themed designs (also great for patterns, displacements etc) for use in Photoshop, PSP, Affinity Photo etc - many different zebra designs including sketched designs, rough designs, etc Commercial use, all royalty free, find out more from graphicxtras.com / Andrew Buckle
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300800149&affiliateid=200057808)

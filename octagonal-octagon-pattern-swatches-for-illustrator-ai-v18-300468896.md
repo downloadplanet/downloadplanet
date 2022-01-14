@@ -1,3 +1,5 @@
-# Octagonal / octagon pattern swatches for Illustrator (AI) V18<br />www.graphicxtras.com -- 360 Octagonal Swatches for Adobe Illustrator CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 V18-----
+# Octagonal / octagon pattern swatches for Illustrator (AI) V18
+www.graphicxtras.com -- 360 Octagonal Swatches for Adobe Illustrator CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 V18-----
 
-360 Patterns swatches for Adobe Illustrator, PC + MAC OS X. License - commercial use OK, royalty-free, all by graphicxtras.com - use to create items for sale. Find out more about the patterns via the graphicxtras.com as well as youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468896&affiliateid=200057808)
+360 Patterns swatches for Adobe Illustrator, PC + MAC OS X. License - commercial use OK, royalty-free, all by graphicxtras.com - use to create items for sale. Find out more about the patterns via the graphicxtras.com as well as youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468896&affiliateid=200057808)

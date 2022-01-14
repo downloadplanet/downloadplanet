@@ -1,4 +1,5 @@
-# Andrews Plugins Pixel hazy for Photoshop & PSP (PC Only) V8<br />www.graphicxtras.com -- Andrews Plugins Pixel hazy Adobe Photoshop & PSP PC Filters V8
+# Andrews Plugins Pixel hazy for Photoshop & PSP (PC Only) V8
+www.graphicxtras.com -- Andrews Plugins Pixel hazy Adobe Photoshop & PSP PC Filters V8
 
 Andrew' Plug-ins volume 8 PixelHazy includes six powerful plug-ins for use in Paint Shop Pro (R) Photo and Photoshop (R) + Painter and others, PC only
 
@@ -20,4 +21,5 @@ To purchase the plug-in set, please select the add to cart button (cookies are r
 
 Plug-in set also contains PDF documentation explaining the plug-in functionality as well as hints and tips. Corel and Paint Shop Pro and Painter are registered trademarks or trademarks of the Corel Corporation. See all our video tutorials on the subject via http://www.youtube.com/graphicxtras
 
-Home page is http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=181244&affiliateid=200057808)
+Home page is http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=181244&affiliateid=200057808)

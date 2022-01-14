@@ -1,4 +1,5 @@
-# Komplettpaket Excelprogramm Ermittlung der Arbeitsgruppenkosten, Konzept und Beschreibung als PDF und Videoanleitung<br />Folgende Vorlagen und Ergebnisse sind in der Exceldatei enthalten:
+# Komplettpaket Excelprogramm Ermittlung der Arbeitsgruppenkosten, Konzept und Beschreibung als PDF und Videoanleitung
+Folgende Vorlagen und Ergebnisse sind in der Exceldatei enthalten:
 
 Personalkosten Gesamt pro Abteilung inkl. aller Nebenkosten
 Personalkosten pro Stunde im Durchschnitt pro Abteilung
@@ -14,4 +15,5 @@ Folgende Unterlagen und Dateien erhalten Sie bei der Standard Version per Mail z
 Excelprogramm mit den Tabellenblättern:Arbeitsgruppenkosten, Arbeitszeitberechnung, Stundenkosten und Tabellenblatt mit allen Kennzahlen
 Konzept zur Berechnung der Arbeitsgruppenkosten als PDF Datei
 Beschreibung für die Excelvorlage als PDF
-Videoanleitung für das Excelschema<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300547380&affiliateid=200057808)
+Videoanleitung für das Excelschema
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300547380&affiliateid=200057808)

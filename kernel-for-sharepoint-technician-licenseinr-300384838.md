@@ -1,1 +1,2 @@
-# Kernel for SharePoint - Technician License[INR]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384838&affiliateid=200057808)
+# Kernel for SharePoint - Technician License[INR]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384838&affiliateid=200057808)

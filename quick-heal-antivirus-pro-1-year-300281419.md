@@ -1,1 +1,4 @@
-# Quick Heal Antivirus Pro (1 year)<br />![Quick Heal Antivirus Pro (1 year)](https://mycommerce.akamaized.net/api/pimages/P300281419/BIG/300281419.JPG)<br />Smart. Light. Effective. The amazingly simple yet dynamic interface ensures complete protection without interrupting or slowing down your system. Real time cloud security protection restricts access to malware infected websites. Uninterrupted PC usage and viewing without prompts.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300281419&affiliateid=200057808)
+# Quick Heal Antivirus Pro (1 year)
+![Quick Heal Antivirus Pro (1 year)](https://mycommerce.akamaized.net/api/pimages/P300281419/BIG/300281419.JPG)
+Smart. Light. Effective. The amazingly simple yet dynamic interface ensures complete protection without interrupting or slowing down your system. Real time cloud security protection restricts access to malware infected websites. Uninterrupted PC usage and viewing without prompts.
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300281419&affiliateid=200057808)

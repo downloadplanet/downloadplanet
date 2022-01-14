@@ -1,4 +1,6 @@
-# Chroma Mask - Pro<br />![Chroma Mask - Pro](https://mycommerce.akamaized.net/api/pimages/P300808028/BIG/300808028.JPG)<br />Features:
+# Chroma Mask - Pro
+![Chroma Mask - Pro](https://mycommerce.akamaized.net/api/pimages/P300808028/BIG/300808028.JPG)
+Features:
 Chroma Mask is THE software for masking and cropping using Chroma Key. It can automatically mask and crop the subject already while shooting and display the cropped subject in front of a new background. You can save color corrections along with a background as a "theme" so spontaneous motto-shoots are always possible. Besides using the popular green and blue background for masking Chroma Key also lets you key using the red channel. This is usually avoided in people photography since skin tones are rich in reds but it can be a great solution for shooting products that feature a lot of blue or green.
 Overview:
 Remove a green, blue or red background automatically while still shooting
@@ -15,4 +17,5 @@ By using a colored infinity cove it is very easy to mask subjects from top to bo
 Shadows cast by the subject can be transferred to the new background by using a lighter compression of the tone values.
 Chroma Keys' disadvantages compared to masking with backlight
 Extremely fine details like fur or hair can be masked better using backlight photography.
-A backlit image usually has a better contrast than a single color channel and therefore allows for softer transitions at the edges or when using semi-transparent materials.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300808028&affiliateid=200057808)
+A backlit image usually has a better contrast than a single color channel and therefore allows for softer transitions at the edges or when using semi-transparent materials.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300808028&affiliateid=200057808)

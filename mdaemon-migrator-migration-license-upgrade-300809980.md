@@ -1,1 +1,3 @@
-# MDaemon Migrator - Migration License Upgrade<br />Software to Convert MDaemon Accounts<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300809980&affiliateid=200057808)
+# MDaemon Migrator - Migration License Upgrade
+Software to Convert MDaemon Accounts
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300809980&affiliateid=200057808)

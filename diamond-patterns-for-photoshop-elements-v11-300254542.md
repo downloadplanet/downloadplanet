@@ -1,4 +1,5 @@
-# Diamond Patterns for Photoshop & Elements V11<br />www.graphicxtras.com -- Diamond patterns for Adobe Photoshop & Elements V11
+# Diamond Patterns for Photoshop & Elements V11
+www.graphicxtras.com -- Diamond patterns for Adobe Photoshop & Elements V11
 
 70 Diamonds patterns Photoshop and Photoshop Elements + other applications such as Paint Shop Pro (R), PC + MAC OS X. Patterns includes many different colorful diamond patterns
 
@@ -18,4 +19,5 @@ Set is download, you are e-mailed the download link
 
 http://www.graphicxtras.com/diamonds.htm
 Any questions please mail me
-on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300254542&affiliateid=200057808)
+on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300254542&affiliateid=200057808)

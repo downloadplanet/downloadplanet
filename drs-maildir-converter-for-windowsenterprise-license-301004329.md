@@ -1,1 +1,3 @@
-# DRS Maildir Converter For Windows[Enterprise License]<br />DRS MailDir Converter<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004329&affiliateid=200057808)
+# DRS Maildir Converter For Windows[Enterprise License]
+DRS MailDir Converter
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004329&affiliateid=200057808)

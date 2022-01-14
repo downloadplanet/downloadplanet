@@ -1,1 +1,2 @@
-# TBW-Fachpaket: Personalmanagement (B.II.), Videocoaching, 29 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300542058&affiliateid=200057808)
+# TBW-Fachpaket: Personalmanagement (B.II.), Videocoaching, 29 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300542058&affiliateid=200057808)

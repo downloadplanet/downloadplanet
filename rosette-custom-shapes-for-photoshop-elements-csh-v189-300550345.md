@@ -1,4 +1,5 @@
-# Rosette Custom shapes for Photoshop & Elements (CSH) V189<br />www.graphicxtras.com -- Rosette Custom Shapes for Adobe Photoshop & Elements CSH V189
+# Rosette Custom shapes for Photoshop & Elements (CSH) V189
+www.graphicxtras.com -- Rosette Custom Shapes for Adobe Photoshop & Elements CSH V189
 
 Rosette custom shapes for Photoshop and elements
 80 Rosette shapes for use throughout Adobe Photoshop CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 6 etc as well as Adobe Photoshop Elements 15-1 PC and MAC OS X CSH format
@@ -12,4 +13,5 @@ Please contact us if you have any questions about the Photoshop custom shapes de
 Installation of rosette shapes
 Install the CSH custom shapes via the file open command as well as via the custom shapes palette load / replace - use with the shapes tool in the Photoshop toolbox. Also the shapes can be used with the cookie cutter tool as well as the shape blur tool
 
-Check out http://www.graphicxtras.com/products/psshapes.htm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300550345&affiliateid=200057808)
+Check out http://www.graphicxtras.com/products/psshapes.htm
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300550345&affiliateid=200057808)

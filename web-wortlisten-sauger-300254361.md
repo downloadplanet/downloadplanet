@@ -1,1 +1,3 @@
-# Web Wortlisten Sauger<br />Create word lists<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300254361&affiliateid=200057808)
+# Web Wortlisten Sauger
+Create word lists
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300254361&affiliateid=200057808)

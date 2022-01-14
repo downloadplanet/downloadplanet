@@ -1,1 +1,2 @@
-# Bundle Novell Server Recovery - Technician License[INR]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384856&affiliateid=200057808)
+# Bundle Novell Server Recovery - Technician License[INR]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384856&affiliateid=200057808)

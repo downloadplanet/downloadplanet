@@ -1,1 +1,4 @@
-# Amazing Any iPhone Data Recovery Commercial License<br />![Amazing Any iPhone Data Recovery Commercial License](https://mycommerce.akamaized.net/api/pimages/P300920463/BIG/300920463.PNG)<br />ree Any iPhone Data Recovery enables you to recover lost or deleted files from iPhone, iPad, iPod Touch and iTunes Backup directly.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300920463&affiliateid=200057808)
+# Amazing Any iPhone Data Recovery Commercial License
+![Amazing Any iPhone Data Recovery Commercial License](https://mycommerce.akamaized.net/api/pimages/P300920463/BIG/300920463.PNG)
+ree Any iPhone Data Recovery enables you to recover lost or deleted files from iPhone, iPad, iPod Touch and iTunes Backup directly.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300920463&affiliateid=200057808)

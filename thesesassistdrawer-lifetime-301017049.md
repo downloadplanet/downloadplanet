@@ -1,4 +1,6 @@
-# ThesesAssistDrawer (lifetime)<br />![ThesesAssistDrawer (lifetime)](https://mycommerce.akamaized.net/api/pimages/P301017049/BIG/301017049.GIF)<br />ThesesAssistDrawer, shorted as TAD, is a powerful MS Word addin that can help you configure the layout of papers, theses or science articles. TAD is compatible with 2007 or newer version of Microsoft Word.
+# ThesesAssistDrawer (lifetime)
+![ThesesAssistDrawer (lifetime)](https://mycommerce.akamaized.net/api/pimages/P301017049/BIG/301017049.GIF)
+ThesesAssistDrawer, shorted as TAD, is a powerful MS Word addin that can help you configure the layout of papers, theses or science articles. TAD is compatible with 2007 or newer version of Microsoft Word.
 The program enables you to easily manage thesis template styles. You can also generate thesis templates featuring auto-numbered headings with a single mouse click. In addition, it offers you the possibility to include cross-references to headings, captions, pages and references with minimum effort. References can be edited or added by automatically merging consecutive cross-references, or by listing end notes and paragraphs. Complex keyboard operations or shortcut keys commands can be easily executed, as well.
 The program is compatible with 2007 or newer version of Microsoft Word.
 Thesis Template
@@ -26,4 +28,5 @@ TAD enables you to layout 2 through 30 figures in one of two ways: shared captio
 Planet Wheel
 TAD enable you to execute shortcut keys command or complex keyboard operations via moving the mouse.
 All in All
-TAD enable you to layout your paper or thesis quickly and easily, thus to have more time focusing on the thesis content.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301017049&affiliateid=200057808)
+TAD enable you to layout your paper or thesis quickly and easily, thus to have more time focusing on the thesis content.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301017049&affiliateid=200057808)

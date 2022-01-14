@@ -1,1 +1,3 @@
-# DRS Amazon WorkMail Backup for Windows[Administrator License]<br />DRS Amazon WorkMail Backup for Windows<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004432&affiliateid=200057808)
+# DRS Amazon WorkMail Backup for Windows[Administrator License]
+DRS Amazon WorkMail Backup for Windows
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004432&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Windows Cleaner<br />Windows Cleaner Pro is a fast, efficient and powerful system optimizer that scans every part of your Windows system to detect and fix all issues causing your computer to run slowly, including registry. Windows Cleaner Pro removes all the registry errors and invalid shortcuts, delete junk files and so on.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300549344&affiliateid=200057808)
+# Windows Cleaner
+Windows Cleaner Pro is a fast, efficient and powerful system optimizer that scans every part of your Windows system to detect and fix all issues causing your computer to run slowly, including registry. Windows Cleaner Pro removes all the registry errors and invalid shortcuts, delete junk files and so on.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300549344&affiliateid=200057808)

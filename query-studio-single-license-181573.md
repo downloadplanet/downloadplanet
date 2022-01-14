@@ -1,1 +1,3 @@
-# Query Studio - Single License<br />Query Studio is a set Delphi/CBB component for visual sql construction and database-oriented application development. The single license allows 1 developer to use the components for development, obtain free updates & support for a full version cycle of the product. The license is not transferable.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=181573&affiliateid=200057808)
+# Query Studio - Single License
+Query Studio is a set Delphi/CBB component for visual sql construction and database-oriented application development. The single license allows 1 developer to use the components for development, obtain free updates & support for a full version cycle of the product. The license is not transferable.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=181573&affiliateid=200057808)

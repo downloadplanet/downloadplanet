@@ -1,1 +1,4 @@
-# IUWEshare Mac iPhone Data Recovery<br />![IUWEshare Mac iPhone Data Recovery](https://mycommerce.akamaized.net/api/pimages/P300864137/BIG/300864137.JPG)<br />Sometimes bad things happen to good data. IUWEshare Mac iPhone Data Recovery software can recover files from a locked or otherwise inaccessible iPhone, iPad, or iPod Touch. You can even easily recover files that you've long since deleted.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300864137&affiliateid=200057808)
+# IUWEshare Mac iPhone Data Recovery
+![IUWEshare Mac iPhone Data Recovery](https://mycommerce.akamaized.net/api/pimages/P300864137/BIG/300864137.JPG)
+Sometimes bad things happen to good data. IUWEshare Mac iPhone Data Recovery software can recover files from a locked or otherwise inaccessible iPhone, iPad, or iPod Touch. You can even easily recover files that you've long since deleted.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300864137&affiliateid=200057808)

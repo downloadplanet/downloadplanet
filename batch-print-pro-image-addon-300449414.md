@@ -1,1 +1,3 @@
-# Batch & Print Pro IMAGE Addon<br />Batch & Print Pro IMAGE Addon is a plugin for Batch & Print Pro that gives the user more control over the print process. options include image scaling, header & footer text in the Batch & Print Pro enviroment. supports BMP, ICON, JPEG, Exif, PNG, WMF and EMF<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300449414&affiliateid=200057808)
+# Batch & Print Pro IMAGE Addon
+Batch & Print Pro IMAGE Addon is a plugin for Batch & Print Pro that gives the user more control over the print process. options include image scaling, header & footer text in the Batch & Print Pro enviroment. supports BMP, ICON, JPEG, Exif, PNG, WMF and EMF
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300449414&affiliateid=200057808)

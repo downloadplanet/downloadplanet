@@ -1,4 +1,5 @@
-# Andrews Plugins Gradienthypergenerator for Photoshop (PC only) V12<br />www.graphicxtras.com -- Andrews Plugins Gradienthypergenerator Adobe Photoshop & PSP PC Filters V12
+# Andrews Plugins Gradienthypergenerator for Photoshop (PC only) V12
+www.graphicxtras.com -- Andrews Plugins Gradienthypergenerator Adobe Photoshop & PSP PC Filters V12
 
 Andrew's' Plug-ins volume 12 GX Gradienthypergenerator includes three powerful plug-ins for use in Paint Shop Pro (R) Photo and Photoshop (R) CC 2017 2015 2014 2015 CS6 CS5 CS4 CS3 CS2 CS1 7 + PaintShop Pro + Painter and others, PC only
 
@@ -18,4 +19,5 @@ Plug-in set is a new plug-in set from the creator of the Andrew's Filters series
 
 To purchase the plug-in set, please select the add to cart button (cookies are required to use the cart) or quick buy. After purchase, you will be sent the download link to the plug-in set
 
-Plug-in set also contains PDF documentation explaining the plug-in functionality as well as hints and tips. Corel and Paint Shop Pro and Painter are registered trademarks or trademarks of the Corel Corporation. See all our videos via the http://www.youtube.com/graphicxtras site. The plugins are for 32bit and 64bit versions of Photoshop etc<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=183463&affiliateid=200057808)
+Plug-in set also contains PDF documentation explaining the plug-in functionality as well as hints and tips. Corel and Paint Shop Pro and Painter are registered trademarks or trademarks of the Corel Corporation. See all our videos via the http://www.youtube.com/graphicxtras site. The plugins are for 32bit and 64bit versions of Photoshop etc
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=183463&affiliateid=200057808)

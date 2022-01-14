@@ -1,4 +1,5 @@
-# Video Trainingspaket Kalkulation Speisen mit allen Kalkulationsvarianten<br />Folgende Unterlagen und Dateien erhalten Sie:
+# Video Trainingspaket Kalkulation Speisen mit allen Kalkulationsvarianten
+Folgende Unterlagen und Dateien erhalten Sie:
 
 =>Video Training Kalkulation Speisen ca. 30 Minuten
 
@@ -22,4 +23,5 @@ Themen im Trainingsvideo:
 
 Unter folgendem Link erhalten Sie die Videoanleitung für das Kalkulationsprogramm.
 
-https://www.youtube.com/watch?v=qWpW3KteCkQ<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300666183&affiliateid=200057808)
+https://www.youtube.com/watch?v=qWpW3KteCkQ
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300666183&affiliateid=200057808)

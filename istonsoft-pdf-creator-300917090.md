@@ -1,4 +1,6 @@
-# iStonsoft PDF Creator<br />![iStonsoft PDF Creator](https://mycommerce.akamaized.net/api/pimages/P300917090/BIG/300917090.PNG)<br />iStonsoft PDF Creator - All-functional PDF maker that can create PDF documents from Image, Text, and so on!
+# iStonsoft PDF Creator
+![iStonsoft PDF Creator](https://mycommerce.akamaized.net/api/pimages/P300917090/BIG/300917090.PNG)
+iStonsoft PDF Creator - All-functional PDF maker that can create PDF documents from Image, Text, and so on!
 
 PDF Creator allows you to convert PDF files from Image(JPEG, GIF, PNG, BMP, EMF, EWF, TIFF), Text, etc. Besides, the PDF Creator can also work as a virtual printer, which can realize PDF creating with simple "Print" button clicking.
 
@@ -28,4 +30,5 @@ Edit PDF files with PDF Creator
 Fast creating speed and easy-to-use design
 
 - Various PDF creating ways help users easily create PDF files.
-- PDF Creator can output PDF document (1.2/1.3/1.4) compatible with Adobe Acrobat 9.0.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917090&affiliateid=200057808)
+- PDF Creator can output PDF document (1.2/1.3/1.4) compatible with Adobe Acrobat 9.0.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917090&affiliateid=200057808)

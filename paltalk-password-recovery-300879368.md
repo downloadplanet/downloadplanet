@@ -1,1 +1,3 @@
-# Paltalk Password Recovery<br />Recover all passwords for your MSN, AIM (AOL Instant Messenger), ICQ and Yahoo! Messenger accounts that are stored by Paltalk.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879368&affiliateid=200057808)
+# Paltalk Password Recovery
+Recover all passwords for your MSN, AIM (AOL Instant Messenger), ICQ and Yahoo! Messenger accounts that are stored by Paltalk.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879368&affiliateid=200057808)

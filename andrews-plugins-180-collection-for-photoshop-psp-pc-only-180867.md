@@ -1,4 +1,5 @@
-# Andrews Plugins 180 Collection for Photoshop + PSP (PC Only)<br />www.graphicxtras.com -- Andrews Plugins Collection Photoshop & PSP and many others PC
+# Andrews Plugins 180 Collection for Photoshop + PSP (PC Only)
+www.graphicxtras.com -- Andrews Plugins Collection Photoshop & PSP and many others PC
 
 ** Add plug-in collection to secure shareit.com shopping cart (graphicxtras.com)
 Special priced bundle deal of all our 180 plug-ins for Adobe (R) Photoshop (R) CC 2018 2017 2015 2104 CS6 CS5 etc + Corel (R) Paint Shop Pro (R) X9 X8 X8 X6 etc / Painter / Photo-Paint / Canvas / PhotoImpact and many others graphic applications ---- 64 bit + 32 bit PC
@@ -24,4 +25,5 @@ A toolkit of stunning imagery and designs
 
 
 MENU:
-Home page is https://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180867&affiliateid=200057808)
+Home page is https://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180867&affiliateid=200057808)

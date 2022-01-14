@@ -1,4 +1,5 @@
-# Komplettpaket Erfolgskennzahlensystem Hotel mit Restaurantbetrieb<br />Folgende Unterlagen und Dateien erhalten Sie:
+# Komplettpaket Erfolgskennzahlensystem Hotel mit Restaurantbetrieb
+Folgende Unterlagen und Dateien erhalten Sie:
 
 Erfolgskennzahlensystem im Excelprogramm für ein Hotel mit einem Restaurantbetrieb
 Grundgerüst Auswertung Vergleichskennzahlen mit Diagrammen
@@ -46,4 +47,5 @@ Umsatz pro verfügbarem Zimmer (Revpar)
 Auslastung, Umsatz pro Mitarbeiter Hotel
 Umsatz Hotel pro Übernachtung (AVR)
 Umsatz Hotel pro Gast
-Umsatzverhältnis Hotel zum Gesamtbetrieb<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300576024&affiliateid=200057808)
+Umsatzverhältnis Hotel zum Gesamtbetrieb
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300576024&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Nozzles Collection for Corel Painter (RIFF) PC<br />www.graphicxtras.com -- Nozzles Collection Corel Painter Image Hose Presets PC
+# Nozzles Collection for Corel Painter (RIFF) PC
+www.graphicxtras.com -- Nozzles Collection Corel Painter Image Hose Presets PC
 
 1200 Mixed nozzles for Corel (R) Painter (TM) Image Hose, PC Version
 Mixed nozzles are for Corel (R) Painter (TM) X3 12 11 X IX 8 7 6 5.5 and other versions of Painter (TM)
@@ -14,4 +15,5 @@ Download or CD (P&P Extra)
 
 To purchase, click add to cart or buy now - e-mail means digital download
 
-Any questions, e-mail support@graphicxtras.com - commercial use, digital downloads, royalty-free Mail on support@graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180704&affiliateid=200057808)
+Any questions, e-mail support@graphicxtras.com - commercial use, digital downloads, royalty-free Mail on support@graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=180704&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Kernel File Repair ( Word + Excel )<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300647905&affiliateid=200057808)
+# Kernel File Repair ( Word + Excel )
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300647905&affiliateid=200057808)

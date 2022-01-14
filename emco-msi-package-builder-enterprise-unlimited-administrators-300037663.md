@@ -1,1 +1,2 @@
-# EMCO MSI Package Builder Enterprise (Unlimited Administrators)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300037663&affiliateid=200057808)
+# EMCO MSI Package Builder Enterprise (Unlimited Administrators)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300037663&affiliateid=200057808)

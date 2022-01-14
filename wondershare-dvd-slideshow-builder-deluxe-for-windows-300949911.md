@@ -1,4 +1,6 @@
-# Wondershare DVD Slideshow Builder Deluxe for Windows<br />![Wondershare DVD Slideshow Builder Deluxe for Windows](https://mycommerce.akamaized.net/api/pimages/P300949911/BIG/300949911.PNG)<br />Wondershare DVD Slideshow Builder Deluxe is the all-in-one phio & video to DVD slideshow software to make professional photo DVD slideshows with smooth transition effects, background music and animated titles, or instantly create DVD home movies with Hollywood-like movie styles. With it, you can easily preserve memories and share with family and friends on TV, web and mobile devices. It's the ideal tool to relive all your previous memories, including wedding, family, baby, holidays, etc.
+# Wondershare DVD Slideshow Builder Deluxe for Windows
+![Wondershare DVD Slideshow Builder Deluxe for Windows](https://mycommerce.akamaized.net/api/pimages/P300949911/BIG/300949911.PNG)
+Wondershare DVD Slideshow Builder Deluxe is the all-in-one phio & video to DVD slideshow software to make professional photo DVD slideshows with smooth transition effects, background music and animated titles, or instantly create DVD home movies with Hollywood-like movie styles. With it, you can easily preserve memories and share with family and friends on TV, web and mobile devices. It's the ideal tool to relive all your previous memories, including wedding, family, baby, holidays, etc.
 
 
 It's also an excellent DVD authoring tool combined with video editing and DVD burning features. You could easily author DVDs for business presentation purpose, to say greetings to friends, or to send as gift for birthday, wedding, anniversary, and so on.
@@ -18,4 +20,5 @@ The unique features are as follow:
 12. Capturing video from Camera, Camcorder and other devices
 13. One-click to voice over home movies.
 14. Supports all popular image formats and all-round video formats.
-15. Free upgrade online.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949911&affiliateid=200057808)
+15. Free upgrade online.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949911&affiliateid=200057808)

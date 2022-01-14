@@ -1,3 +1,5 @@
-# Face / Head symbols for Illustrator (AI) V89<br />www.graphicxtras.com -- 125 Face Symbols for Adobe Illustrator Shapes PC & MAC OS X V89
+# Face / Head symbols for Illustrator (AI) V89
+www.graphicxtras.com -- 125 Face Symbols for Adobe Illustrator Shapes PC & MAC OS X V89
 
-Symbols for Illustrator CC 2018 2017 2015 2014 CS6-10 PC and MAC, License: commercial use OK, royalty-free. Many different face designs, all vectors for any size of work. All the face symbols are by graphicxtras.com, please check out the site for examples and freebies and images etc<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469206&affiliateid=200057808)
+Symbols for Illustrator CC 2018 2017 2015 2014 CS6-10 PC and MAC, License: commercial use OK, royalty-free. Many different face designs, all vectors for any size of work. All the face symbols are by graphicxtras.com, please check out the site for examples and freebies and images etc
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469206&affiliateid=200057808)

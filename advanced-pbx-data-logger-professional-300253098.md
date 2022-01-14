@@ -1,3 +1,6 @@
-# Advanced PBX Data Logger Professional<br />![Advanced PBX Data Logger Professional](https://mycommerce.akamaized.net/api/pimages/P300253098/BIG/300253098.PNG)<br />Advanced PBX Data Logger enables users to record, track and archive phone calls and can capture SMDR or CIR data from RS232, RS845, TCP or UDP ports and write real-time data to disk, Excel, database (MSSQL, MySQL, ODBC) or to other targets.
+# Advanced PBX Data Logger Professional
+![Advanced PBX Data Logger Professional](https://mycommerce.akamaized.net/api/pimages/P300253098/BIG/300253098.PNG)
+Advanced PBX Data Logger enables users to record, track and archive phone calls and can capture SMDR or CIR data from RS232, RS845, TCP or UDP ports and write real-time data to disk, Excel, database (MSSQL, MySQL, ODBC) or to other targets.
 
-This version supports Windows 2000 and higher service mode, and all types of plugins, except filter plugins.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300253098&affiliateid=200057808)
+This version supports Windows 2000 and higher service mode, and all types of plugins, except filter plugins.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300253098&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Easy Photo Recovery<br />Easy Photo Recovery provides you a handy tool to recover deleted photos from memory cards. The simple interface yet dedicated recovery logic helps you to recover lost images from digital media like Compact Flash, SD, MMC, memory stick, etc from any manufacturer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300042264&affiliateid=200057808)
+# Easy Photo Recovery
+Easy Photo Recovery provides you a handy tool to recover deleted photos from memory cards. The simple interface yet dedicated recovery logic helps you to recover lost images from digital media like Compact Flash, SD, MMC, memory stick, etc from any manufacturer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300042264&affiliateid=200057808)

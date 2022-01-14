@@ -1,1 +1,3 @@
-# Geprüfter Wassermeister IHK<br />![Geprüfter Wassermeister IHK](https://mycommerce.akamaized.net/api/pimages/P300579739/BIG/300579739.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300579739&affiliateid=200057808)
+# Geprüfter Wassermeister IHK
+![Geprüfter Wassermeister IHK](https://mycommerce.akamaized.net/api/pimages/P300579739/BIG/300579739.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300579739&affiliateid=200057808)

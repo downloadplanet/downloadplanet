@@ -1,1 +1,3 @@
-# 0034 - Das magische Dreieck<br />Das magische Dreieck<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854275&affiliateid=200057808)
+# 0034 - Das magische Dreieck
+Das magische Dreieck
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854275&affiliateid=200057808)

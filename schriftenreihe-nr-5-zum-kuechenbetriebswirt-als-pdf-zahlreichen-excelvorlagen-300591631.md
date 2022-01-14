@@ -1,4 +1,5 @@
-# Schriftenreihe Nr. 5 zum Kuechenbetriebswirt als PDF zahlreichen Excelvorlagen<br />Schriftenreihe Nr. 5 zum Küchenbetriebswirt
+# Schriftenreihe Nr. 5 zum Kuechenbetriebswirt als PDF zahlreichen Excelvorlagen
+Schriftenreihe Nr. 5 zum Küchenbetriebswirt
 - die Schriftenreihe Nr. 5 mit ca. 80 Seiten als PDF Datei mit zahlreichen Excelvorlagen
 
 Hier können Sie sich das Inhaltsverzeichnis der kompletten Schriftenreihe zum Küchenbetriebswirt anschauen!
@@ -30,4 +31,5 @@ Vorwort zur 3.Schriftenreihe
 9. Maßnahmenkatalog
 10. Erfolgs-Kennzahlen-System in Ihrer Küche
 12. Mein Aktivitätenplan
-13.Lernfragen<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300591631&affiliateid=200057808)
+13.Lernfragen
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300591631&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Bopup Messenger (Hosted IM service)<br />![Bopup Messenger (Hosted IM service)](https://mycommerce.akamaized.net/api/pimages/P300885084/BIG/300885084.GIF)<br />Bopup Messenger is a secure instant messenger for business designed to communicate over LAN and enterprise-size networks. This clear, easy to use and light-weight IM client offers a set of corporate features and answers most of the business needs you may have.
+# Bopup Messenger (Hosted IM service)
+![Bopup Messenger (Hosted IM service)](https://mycommerce.akamaized.net/api/pimages/P300885084/BIG/300885084.GIF)
+Bopup Messenger is a secure instant messenger for business designed to communicate over LAN and enterprise-size networks. This clear, easy to use and light-weight IM client offers a set of corporate features and answers most of the business needs you may have.
 
 With this corporate messenger, you can easily connect users from all other offices and locations into one IM workspace and exchange files, urgent messages with links, font and color formatting and emoticons, receive assigned files and directories from the IM server, have group chats. Personal contact lists are accessible to employees from any workplace so users see who is online and available to communicate among their contacts.
 
@@ -8,4 +10,5 @@ No user experience and skills are needed to use the program. The smart and comfo
 
 The centralized client/server architecture offers complete and flexible management for controlling your corporate IM infrastructure. The central server logs all user activity and archives all messages and transfers with the reporting, search and printing options. It allows you to manage messaging groups, users' contact information and permissions to send and view other users, assign and distribute important files and documents to users. It is easy to import user accounts from your Active Directory (LDAP) and start an efficient Instant Messaging system immediately.
 
-Several authentication modes are supported in the IM software: Simple (only matches Windows Login ID and instant messenger account name on the server), Windows Authentication or private login ID (can be e-mail or any different name instead Windows Login ID) and password pair.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300885084&affiliateid=200057808)
+Several authentication modes are supported in the IM software: Simple (only matches Windows Login ID and instant messenger account name on the server), Windows Authentication or private login ID (can be e-mail or any different name instead Windows Login ID) and password pair.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300885084&affiliateid=200057808)

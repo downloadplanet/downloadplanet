@@ -1,4 +1,6 @@
-# dOPC XGate<br />![dOPC XGate](https://mycommerce.akamaized.net/api/pimages/P183721/BIG/183721.PNG)<br />With our OPC compliance tested dOPC XGate Server Gateway it is possible to enlarge any COM DA based OPC server with an OPC XML-DA interface.
+# dOPC XGate
+![dOPC XGate](https://mycommerce.akamaized.net/api/pimages/P183721/BIG/183721.PNG)
+With our OPC compliance tested dOPC XGate Server Gateway it is possible to enlarge any COM DA based OPC server with an OPC XML-DA interface.
 No .NET Framework and no web server is required !!!
 
 OPC Gateway overview:
@@ -16,4 +18,5 @@ The dOPC XGate Server Gateway is based on the OPC XML DA specification 1.01 and 
 Hence, Internet connectivity has become reality in automation.
 
 
-More information at: http://www.dopc.kassl.de<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=183721&affiliateid=200057808)
+More information at: http://www.dopc.kassl.de
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=183721&affiliateid=200057808)

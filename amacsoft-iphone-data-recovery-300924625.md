@@ -1,4 +1,6 @@
-# Amacsoft iPhone Data Recovery<br />![Amacsoft iPhone Data Recovery](https://mycommerce.akamaized.net/api/pimages/P300924625/BIG/300924625.JPG)<br />Ultimate Solution to Recover Lost iPhone Data!
+# Amacsoft iPhone Data Recovery
+![Amacsoft iPhone Data Recovery](https://mycommerce.akamaized.net/api/pimages/P300924625/BIG/300924625.JPG)
+Ultimate Solution to Recover Lost iPhone Data!
 
 In wrong cases, such as accidental deletion, system crash, failed jailbreak on your iPhone, you data is gone unfortunately. But no need to panic! Amacsoft iPhone Data Recovery is a professional and reliable program that specially designed to recover lost, deleted and corrupted files from iPhone.
 
@@ -8,4 +10,5 @@ In wrong cases, such as accidental deletion, system crash, failed jailbreak on y
 
 * Support to recover iPhone contacts, SMS, call history, photos, voice memos, etc;
 
-* Preview found data in thumbnail or list to select your exactly desired files soon.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924625&affiliateid=200057808)
+* Preview found data in thumbnail or list to select your exactly desired files soon.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924625&affiliateid=200057808)

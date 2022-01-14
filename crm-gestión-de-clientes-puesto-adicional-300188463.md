@@ -1,1 +1,3 @@
-# CRM Gestión de Clientes (Puesto Adicional)<br />Customer relationship management application<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300188463&affiliateid=200057808)
+# CRM Gestión de Clientes (Puesto Adicional)
+Customer relationship management application
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300188463&affiliateid=200057808)

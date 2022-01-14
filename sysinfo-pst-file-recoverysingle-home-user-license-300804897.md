@@ -1,1 +1,3 @@
-# SysInfo PST File Recovery[Single Home User License]<br />SysInfoTools PST Recovery is an excellent solution to repair corrupt .pst files of Microsoft Outlook. It restores all your email messages and other mailbox items, such as: calendar, contacts, appointments, tasks, journals, notes, etc. from corrupt .pst files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300804897&affiliateid=200057808)
+# SysInfo PST File Recovery[Single Home User License]
+SysInfoTools PST Recovery is an excellent solution to repair corrupt .pst files of Microsoft Outlook. It restores all your email messages and other mailbox items, such as: calendar, contacts, appointments, tasks, journals, notes, etc. from corrupt .pst files.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300804897&affiliateid=200057808)

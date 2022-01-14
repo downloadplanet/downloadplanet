@@ -1,1 +1,3 @@
-# DRS Office365 Restore and Backup for Windows[Technician License]<br />Office 365 Backup Software for Windows<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004337&affiliateid=200057808)
+# DRS Office365 Restore and Backup for Windows[Technician License]
+Office 365 Backup Software for Windows
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004337&affiliateid=200057808)

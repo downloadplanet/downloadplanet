@@ -1,4 +1,6 @@
-# PROMT Expert 20 Englisch-Deutsch<br />![PROMT Expert 20 Englisch-Deutsch](https://mycommerce.akamaized.net/api/pimages/P300966636/BIG/300966636.JPG)<br />PROMT Expert Englisch-Deutsch und Deutsch-Englisch ist die brandneue Lösung der PROMT-Produktfamilie für freiberufliche Übersetzer und Sprachdienstleister, die ihre Übersetzungsprozesse automatisieren möchten. Einzigartige Funktionen zum Optimieren der Übersetzungsprozesse und zur Terminologie- bzw. Translation-Memory-Verwaltung machen PROMT Expert zum idealen Werkzeug in jedem Übersetzungsbüro. Mit PROMT-Plugin für SDL Trados Studio; Werkzeugen zur automatischen Ergänzung der Translation Memory-Datenbanken (TM) mit den Ergebnissen der maschinellen Übersetzung; Unterstützung neuester Translation-Memory-Formate wie OLIF, TBX, TMW, XLIFF; verschiedenste Sprachwerkzeuge zum Auswerten der Übersetzungsqualität.
+# PROMT Expert 20 Englisch-Deutsch
+![PROMT Expert 20 Englisch-Deutsch](https://mycommerce.akamaized.net/api/pimages/P300966636/BIG/300966636.JPG)
+PROMT Expert Englisch-Deutsch und Deutsch-Englisch ist die brandneue Lösung der PROMT-Produktfamilie für freiberufliche Übersetzer und Sprachdienstleister, die ihre Übersetzungsprozesse automatisieren möchten. Einzigartige Funktionen zum Optimieren der Übersetzungsprozesse und zur Terminologie- bzw. Translation-Memory-Verwaltung machen PROMT Expert zum idealen Werkzeug in jedem Übersetzungsbüro. Mit PROMT-Plugin für SDL Trados Studio; Werkzeugen zur automatischen Ergänzung der Translation Memory-Datenbanken (TM) mit den Ergebnissen der maschinellen Übersetzung; Unterstützung neuester Translation-Memory-Formate wie OLIF, TBX, TMW, XLIFF; verschiedenste Sprachwerkzeuge zum Auswerten der Übersetzungsqualität.
 
 HIGHLIGHTS FÜR PROFIS
 PROMT für TM - ein Werkzeug zur automatischen Ergänzung der Translation Memory-Datenbanken (TM) mit den Ergebnissen der maschinellen PROMT-Übersetzung in den Formaten TMX und TMW (SDL Trados).
@@ -13,4 +15,5 @@ Werkzeug zur Stapelübersetzung mehrerer Dateien nacheinandern.
 Erfahren Sie mehr >>>
 
 Systemvoraussetzungen
-Microsoft Windows® 10, 8, und 7 (32-/64-bit)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300966636&affiliateid=200057808)
+Microsoft Windows® 10, 8, und 7 (32-/64-bit)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300966636&affiliateid=200057808)

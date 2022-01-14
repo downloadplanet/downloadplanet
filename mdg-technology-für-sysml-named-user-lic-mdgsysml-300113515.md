@@ -1,1 +1,3 @@
-# MDG Technology für SysML named user lic. [MDGSYSML]<br />MDG Technology for SysML Basic Lic. (SKU MDGSYS) With advanced modeling capabilities, low cost and a wealth of innovative features, Enterprise Architect combined with MDG Technology for SysML is the premier team-based modeling environment for the System Engineer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300113515&affiliateid=200057808)
+# MDG Technology für SysML named user lic. [MDGSYSML]
+MDG Technology for SysML Basic Lic. (SKU MDGSYS) With advanced modeling capabilities, low cost and a wealth of innovative features, Enterprise Architect combined with MDG Technology for SysML is the premier team-based modeling environment for the System Engineer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300113515&affiliateid=200057808)

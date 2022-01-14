@@ -1,1 +1,3 @@
-# ShareMouse Standard - Incl. 1 year maintenance<br />Learn more about ShareMouse at https://www.sharemouse.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300605049&affiliateid=200057808)
+# ShareMouse Standard - Incl. 1 year maintenance
+Learn more about ShareMouse at https://www.sharemouse.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300605049&affiliateid=200057808)

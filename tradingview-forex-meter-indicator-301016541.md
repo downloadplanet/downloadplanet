@@ -1,1 +1,3 @@
-# TradingView Forex Meter Indicator<br />The Forex Strength Meter measures the decorrelated and normalized strength of the major currencies USD (US Dollar), CAD (Canadian Dollar), EUR (Euro), GBP (British Pound), AUD (Australian Dollar), NZD (New Zealand Dollar), JPY (Japanese Yen), and CHF (Swiss Franc).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301016541&affiliateid=200057808)
+# TradingView Forex Meter Indicator
+The Forex Strength Meter measures the decorrelated and normalized strength of the major currencies USD (US Dollar), CAD (Canadian Dollar), EUR (Euro), GBP (British Pound), AUD (Australian Dollar), NZD (New Zealand Dollar), JPY (Japanese Yen), and CHF (Swiss Franc).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301016541&affiliateid=200057808)

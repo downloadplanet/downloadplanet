@@ -1,4 +1,6 @@
-# MobiKin Backup Manager for Android (Mac) - Lifetime, 1 PC License<br />![MobiKin Backup Manager for Android (Mac) - Lifetime, 1 PC License](https://mycommerce.akamaized.net/api/pimages/P300995866/BIG/300995866.PNG)<br />Back Up Android to Mac with One-click
+# MobiKin Backup Manager for Android (Mac) - Lifetime, 1 PC License
+![MobiKin Backup Manager for Android (Mac) - Lifetime, 1 PC License](https://mycommerce.akamaized.net/api/pimages/P300995866/BIG/300995866.PNG)
+Back Up Android to Mac with One-click
 All of us know about the importance of backing up data on our Android phone. It would be the ultimate insurance policy if all of the data on your phone got lost. If you consider that losing data is unavoidable, you learn to value the importance of backups. MobiKin Android Backup & Restore for Mac can safely and quickly back up data from Android device to Mac.
 * It only takes three steps to back up all or specified data to Mac.
 * It allows you to preview the name and count of Android files before backing them up.
@@ -19,4 +21,5 @@ This Android data backup and restore utility is known for running efficiently an
 * It prides itself on offering you easy access to your Android device via Mac.
 *The program comes with many customization options, and provides straightforward and clear "press of a button" options for users who are not familiar with these details.
 * Supports 8000+ Android devices, including Samsung, HTC, Motorola, Sony, LG, Huawei, OnePlus, Google, Xiaomi, Oppo, etc.
-* It only reads your Android data; it won't keep, modify, or even leak your Android data.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300995866&affiliateid=200057808)
+* It only reads your Android data; it won't keep, modify, or even leak your Android data.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300995866&affiliateid=200057808)

@@ -1,1 +1,4 @@
-# Have a Strong Personality Silent Subliminal Package<br />![Have a Strong Personality Silent Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300961719/BIG/300961719.PNG)<br />Have a Strong Personality 3A Silent Subliminal - listen to it once or twice daily for several weeks.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300961719&affiliateid=200057808)
+# Have a Strong Personality Silent Subliminal Package
+![Have a Strong Personality Silent Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300961719/BIG/300961719.PNG)
+Have a Strong Personality 3A Silent Subliminal - listen to it once or twice daily for several weeks.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300961719&affiliateid=200057808)

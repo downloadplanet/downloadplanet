@@ -1,1 +1,2 @@
-# MBOX Converter - Home License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300769244&affiliateid=200057808)
+# MBOX Converter - Home License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300769244&affiliateid=200057808)

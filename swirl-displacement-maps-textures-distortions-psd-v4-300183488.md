@@ -1,4 +1,5 @@
-# Swirl displacement maps Textures & Distortions (PSD) V4<br />www.graphicxtras.com -- Swirl displacement maps Textures & Distortions Photoshop & Elements & PSP PSD PC & MAC OS X V4
+# Swirl displacement maps Textures & Distortions (PSD) V4
+www.graphicxtras.com -- Swirl displacement maps Textures & Distortions Photoshop & Elements & PSP PSD PC & MAC OS X V4
 
 Displacement maps for Adobe (R) Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 6 + Adobe (R) Photoshop (R) Elements + Corel (R) Paint Shop Pro (R)
 100 Swirls Embellishment + foliage + flourish displacement maps for Adobe (R) Photoshop (R)
@@ -24,4 +25,5 @@ MENU:
 Any questions, please mail us on support@graphicxtras.com
 http://www.graphicxtras.com/swirls-flourishes.htm
 
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300183488&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300183488&affiliateid=200057808)

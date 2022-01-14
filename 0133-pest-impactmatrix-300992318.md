@@ -1,1 +1,3 @@
-# 0133 - PEST - Impact-Matrix<br />0133 - PEST - Impact-Matrix<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300992318&affiliateid=200057808)
+# 0133 - PEST - Impact-Matrix
+0133 - PEST - Impact-Matrix
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300992318&affiliateid=200057808)

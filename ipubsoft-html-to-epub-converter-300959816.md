@@ -1,4 +1,6 @@
-# iPubsoft HTML to ePub Converter<br />![iPubsoft HTML to ePub Converter](https://mycommerce.akamaized.net/api/pimages/P300959816/BIG/300959816.PNG)<br />iPubsoft HTML to ePub Converter - Your Ultimate Solution to Convert HTML webpage to ePub eBooks Breezily!
+# iPubsoft HTML to ePub Converter
+![iPubsoft HTML to ePub Converter](https://mycommerce.akamaized.net/api/pimages/P300959816/BIG/300959816.PNG)
+iPubsoft HTML to ePub Converter - Your Ultimate Solution to Convert HTML webpage to ePub eBooks Breezily!
 
 Have troubles to read HTML files on your eBook reader? Eager to turn it to ePub? Most devices such as iPad, iPhone, iTouch, Nook, Sony Reader, Kobo Vox, iRiver Story HD, etc. are ePub-friendly. If you have many HTML files and dislike reading them with Web browser, you can create ePub files with iPubsoft HTML to ePub Converter.
 
@@ -20,4 +22,5 @@ Once files are loaded, the program will show you the basic information of the so
 
 Very fast conversion speed
 
-No matter converting HTML files to ePub in a batch or converting selected files straightforwardly, the fast ePub crafting will quicken your pulse and make everything be ready for you at ease.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300959816&affiliateid=200057808)
+No matter converting HTML files to ePub in a batch or converting selected files straightforwardly, the fast ePub crafting will quicken your pulse and make everything be ready for you at ease.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300959816&affiliateid=200057808)

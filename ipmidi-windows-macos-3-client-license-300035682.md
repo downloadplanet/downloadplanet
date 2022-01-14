@@ -1,4 +1,5 @@
-# ipMIDI Windows / MacOS - 3 Client License<br />ipMIDI
+# ipMIDI Windows / MacOS - 3 Client License
+ipMIDI
 MIDI over Ethernet ports - send MIDI over your LAN.
 You can route MIDI over your Ethernet network, using ipMIDI ports to send and receive MIDI data between PC's connected to your LAN. For example, if you have a music studio with several computers connected via MIDI interfaces and MIDI cables, ipMIDI will replace them all.
 Any MIDI application on the LAN can communicate with any other without any new physical connections, eliminating separate MIDI cables and additional hardware interfaces and if you are running a wireless IP network (i.e. 802.11 a/b/g) you don’t need any cables at all! This is becoming more in demand, the ability to just establish a temporary local wireless network and hook in the PCs.
@@ -16,4 +17,5 @@ The numbers of ports are adjustable. Select only the number you need and only th
 ipMIDI comes with a system tray application (ipMIDI Monitor) to mute every MIDI port individually. A muted port behaves similar like an audio port. All data sent to the port is simply discarded, but the sending application will not realize anything. Muting a port closes all network connections used by this port.
 Simple Installation and Uninstallation.
 Double-click the ipMIDI installer and you are ready to use ipMIDI. Thats all.
-Starting the uninstaller will completely remove ipMIDI from your system again.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300035682&affiliateid=200057808)
+Starting the uninstaller will completely remove ipMIDI from your system again.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300035682&affiliateid=200057808)

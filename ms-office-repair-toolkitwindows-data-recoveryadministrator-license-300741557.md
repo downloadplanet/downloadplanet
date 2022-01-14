@@ -1,1 +1,3 @@
-# MS Office Repair Toolkit+Windows Data Recovery[Administrator License]<br />MS Office Recovery Toolkit + Windows Data Recovery<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300741557&affiliateid=200057808)
+# MS Office Repair Toolkit+Windows Data Recovery[Administrator License]
+MS Office Recovery Toolkit + Windows Data Recovery
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300741557&affiliateid=200057808)

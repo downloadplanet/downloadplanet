@@ -1,4 +1,5 @@
-# ChartingControl.NET for Windows Forms (VS 2005)<br />ChartingControl.NET offers the most affordable .NET 2.0 Windows Forms charting control, built with 100% managed code and the C# language. If you are looking for a complex charting engine that does not cost too much, this is your solution.
+# ChartingControl.NET for Windows Forms (VS 2005)
+ChartingControl.NET offers the most affordable .NET 2.0 Windows Forms charting control, built with 100% managed code and the C# language. If you are looking for a complex charting engine that does not cost too much, this is your solution.
 
 Main features:
 - .Net Framework 2.0 Support
@@ -9,4 +10,5 @@ Main features:
 - Multiple chart types
 - Design-Time support
 - Tool tip support
-- Advanced settings<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300132847&affiliateid=200057808)
+- Advanced settings
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300132847&affiliateid=200057808)

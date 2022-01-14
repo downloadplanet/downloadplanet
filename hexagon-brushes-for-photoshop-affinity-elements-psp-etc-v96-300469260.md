@@ -1,4 +1,6 @@
-# Hexagon brushes for Photoshop, Affinity, Elements, PSP, etc V96<br />www.graphicxtras.com -- Hexagon Brushes for Adobe Photoshop & Elements & PSP PC & MAC OS X V96
+# Hexagon brushes for Photoshop, Affinity, Elements, PSP, etc V96
+www.graphicxtras.com -- Hexagon Brushes for Adobe Photoshop & Elements & PSP PC & MAC OS X V96
 
 Hexagon brushes for Photoshop and others
-200 Hexagon brushes in PNG format + bonus eps designs and more for Photoshop, psp, Indesign, pages, Affinity Photo, Clip Studio Paint etc all by graphicxtras.com, all for commercial use, all royalty free. Many different hexagon brushes designs all with an unique touch and excitement. Use throughout the applications. See the gallery of all the designs via the graphicxtras.com website as well as check out our tutorials on the artworks via http://www.youtube.com/graphicxtras channel<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469260&affiliateid=200057808)
+200 Hexagon brushes in PNG format + bonus eps designs and more for Photoshop, psp, Indesign, pages, Affinity Photo, Clip Studio Paint etc all by graphicxtras.com, all for commercial use, all royalty free. Many different hexagon brushes designs all with an unique touch and excitement. Use throughout the applications. See the gallery of all the designs via the graphicxtras.com website as well as check out our tutorials on the artworks via http://www.youtube.com/graphicxtras channel
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469260&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# DRS Zoho Email Backup for MAC[Single User License]<br />DRS Zoho Email Backup for MAC<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004953&affiliateid=200057808)
+# DRS Zoho Email Backup for MAC[Single User License]
+DRS Zoho Email Backup for MAC
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004953&affiliateid=200057808)

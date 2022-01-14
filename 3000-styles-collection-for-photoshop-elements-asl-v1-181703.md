@@ -1,4 +1,5 @@
-# 3000 Styles Collection for Photoshop & Elements (ASL) V1<br />www.graphicxtras.com -- 3000 Styles Collection Photoshop & Elements Layer Effects ASL PC & MAC OS X V1
+# 3000 Styles Collection for Photoshop & Elements (ASL) V1
+www.graphicxtras.com -- 3000 Styles Collection Photoshop & Elements Layer Effects ASL PC & MAC OS X V1
 
 3000 Stunning styles and layer effects for Adobe (R) Photoshop (R) + Photoshop Elements
 Styles for Adobe (R) Photoshop (R) are all royalty-free effects, apply in commercial or hobby or otherwise
@@ -16,4 +17,5 @@ Download only
 
 To purchase, click add to cart or buy now - e-mail means digital download
 
-Any questions, e-mail support@graphicxtras.com - commercial use, digital downloads, royalty-free<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=181703&affiliateid=200057808)
+Any questions, e-mail support@graphicxtras.com - commercial use, digital downloads, royalty-free
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=181703&affiliateid=200057808)

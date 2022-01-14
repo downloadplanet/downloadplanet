@@ -1,1 +1,3 @@
-# PDF Management Toolkit(PDF Recovery + PDF Merge + PDF Split + PDF Unlocker + PDF Protection + PDF Image Extractor)Technician License<br />https://www.sysinfotools.com/toolkit/pdf-management.php<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300868459&affiliateid=200057808)
+# PDF Management Toolkit(PDF Recovery + PDF Merge + PDF Split + PDF Unlocker + PDF Protection + PDF Image Extractor)Technician License
+https://www.sysinfotools.com/toolkit/pdf-management.php
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300868459&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# Background Remover<br />![Background Remover](https://mycommerce.akamaized.net/api/pimages/P300064602/BIG/300064602.JPG)<br />Background Remover
+# Background Remover
+![Background Remover](https://mycommerce.akamaized.net/api/pimages/P300064602/BIG/300064602.JPG)
+Background Remover
 Background Remover is a Photoshop-compatible plug-in for Windows designed by ImageSkill Sofware that can work with graphic programs - Adobe Photoshop, Adobe Photoshop Elements, Corel Paint Shop Pro, Macromedia Fireworks etc.
 The main purpose of the Background Remover is to extract some part of an image i.e. 'the object' and remove part that which is unwanted, i.e. 'the background'. It is capable of determining areas of pixels to be modified, areas of pixels to be partly modified and areas of pixels to remain unmodified. The partly modification means the restoration of the non-distinct edges of objects. It is done by reinstating their partly transparent nature and also by subtracting the background color so that only the object color is left in these partly transparent regions. This ensures that the cut-out object will blend or composite correctly with a different background. The cutting objects may be used for collage, scrap-book and greeting card creation.
 Unlike the knowing masking tools Background Remover is not implemented as a brush.
@@ -6,4 +8,5 @@ Background Remover is capable of cutting objects out from images having complex 
 You can cut object step-by-step adding (or removing) object's and background's marks at any moment in order to achieve desirable effect. Both the source image and the result image getting at the previous step may serve as the source image for the next iteration.
 There are many additional possibilities - you can feather object mask in order to receive soft transition. You can contract mask in order to avoid undesirable border around objects and you can smooth boundary contour of the object. Using Defringe tool you can unmix colors for correct background replacing.
 You can switch between original image and result one and preview the extracted object against a colored matte background.
-Our product has simple install and uninstall procedures, help and small tutorial. More information about our products you can find on ImageSkill site<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300064602&affiliateid=200057808)
+Our product has simple install and uninstall procedures, help and small tutorial. More information about our products you can find on ImageSkill site
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300064602&affiliateid=200057808)

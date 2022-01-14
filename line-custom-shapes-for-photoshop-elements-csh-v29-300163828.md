@@ -1,4 +1,5 @@
-# Line Custom shapes for Photoshop & Elements (CSH) V29<br />www.graphicxtras.com -- Line Custom Shapes for Adobe Photoshop & Elements Vectors CSH & Commercial use V29
+# Line Custom shapes for Photoshop & Elements (CSH) V29
+www.graphicxtras.com -- Line Custom Shapes for Adobe Photoshop & Elements Vectors CSH & Commercial use V29
 
 Line custom shapes for Photoshop
 Custom shapes Photoshop and Photoshop Elements
@@ -18,4 +19,5 @@ Any questions, e-mail support@graphicxtras.com - commercial use, digital downloa
 MENU:
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300163828&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300163828&affiliateid=200057808)

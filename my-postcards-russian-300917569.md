@@ -1,4 +1,6 @@
-# My Postcards (Russian)<br />![My Postcards (Russian)](https://mycommerce.akamaized.net/api/pimages/P300917569/BIG/300917569.JPG)<br />"My postcards" is designed to create an electronic catalog of the collection of postcards.
+# My Postcards (Russian)
+![My Postcards (Russian)](https://mycommerce.akamaized.net/api/pimages/P300917569/BIG/300917569.JPG)
+"My postcards" is designed to create an electronic catalog of the collection of postcards.
 
 Features:
 Creating your own catalog of postcards
@@ -15,4 +17,5 @@ Print reports with the ability export into MS Excel, MS Word and PDF
 Working with external drive
 Unicode support
 
-http://www.hobbykeeper.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917569&affiliateid=200057808)
+http://www.hobbykeeper.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917569&affiliateid=200057808)

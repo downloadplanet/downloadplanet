@@ -1,1 +1,3 @@
-# AutoText Master 1<br />AutoText Master allows the use of text modules in almost all applications. The software helps in typing of frequently used text passages, complicated terminology or text blocks in which only one value, such as a date or name is to be entered via an input mask and represents a sophisticated alternative to the rather rudimentary Word Autotext.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300663543&affiliateid=200057808)
+# AutoText Master 1
+AutoText Master allows the use of text modules in almost all applications. The software helps in typing of frequently used text passages, complicated terminology or text blocks in which only one value, such as a date or name is to be entered via an input mask and represents a sophisticated alternative to the rather rudimentary Word Autotext.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300663543&affiliateid=200057808)

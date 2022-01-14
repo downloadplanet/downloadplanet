@@ -1,1 +1,3 @@
-# Millions of Light Years ScreenSaver<br />Try Millions of Light Years ScreenSaver that gives you a global sense of relaxation that frees you from anxious thoughts. A relaxing visualization bring more oxygen into your bloodstream, making you feel better overall. This screen saver gives you an excellent chance to help you relax!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=184009&affiliateid=200057808)
+# Millions of Light Years ScreenSaver
+Try Millions of Light Years ScreenSaver that gives you a global sense of relaxation that frees you from anxious thoughts. A relaxing visualization bring more oxygen into your bloodstream, making you feel better overall. This screen saver gives you an excellent chance to help you relax!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=184009&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Biometrics for Remote Desktop - Update Subscription<br />![Biometrics for Remote Desktop - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300765878/BIG/300765878.GIF)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300765878&affiliateid=200057808)
+# Biometrics for Remote Desktop - Update Subscription
+![Biometrics for Remote Desktop - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300765878/BIG/300765878.GIF)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300765878&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# MacUncle IMAP Backup Wizard - Pro Edition<br />All-in-One Email Backup Software in One Package<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300992524&affiliateid=200057808)
+# MacUncle IMAP Backup Wizard - Pro Edition
+All-in-One Email Backup Software in One Package
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300992524&affiliateid=200057808)

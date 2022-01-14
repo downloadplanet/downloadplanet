@@ -1,1 +1,2 @@
-# BW-Fachpakete: I. Prüfungsteil Wirtschaftliches Handeln, Videocoaching, 150 Videos plus komplette Begleitskripte mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300598019&affiliateid=200057808)
+# BW-Fachpakete: I. Prüfungsteil Wirtschaftliches Handeln, Videocoaching, 150 Videos plus komplette Begleitskripte mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300598019&affiliateid=200057808)

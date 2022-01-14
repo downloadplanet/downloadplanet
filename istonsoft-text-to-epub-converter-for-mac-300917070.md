@@ -1,4 +1,6 @@
-# iStonsoft Text to ePub Converter for Mac<br />![iStonsoft Text to ePub Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917070/BIG/300917070.PNG)<br />As known to us, TXT format is the most common format which can be read on almost all popular eBook readers. However, the TXT is too plain that it can't satisfy all the users 'need too read their ebook files enjoyable.
+# iStonsoft Text to ePub Converter for Mac
+![iStonsoft Text to ePub Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300917070/BIG/300917070.PNG)
+As known to us, TXT format is the most common format which can be read on almost all popular eBook readers. However, the TXT is too plain that it can't satisfy all the users 'need too read their ebook files enjoyable.
 
 Sometimes, we may would like to convert TXT to ePub format for reading in better quality because EPUB is designed for reflowable content, meaning that the text display can be optimized for the particular display device used by the reader of the EPUB-formatted book.
 
@@ -14,4 +16,5 @@ Simple to handle
 Easy and clear interface makes Text to ePub conversion simple. Just several clicks, you can convert Text to ePub fast.
 
 Stand alone program
-No need to install any 3-rd party software. Only one iStonsoft Text to ePub Converter for Mac, you can convert Text to ePub easily.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917070&affiliateid=200057808)
+No need to install any 3-rd party software. Only one iStonsoft Text to ePub Converter for Mac, you can convert Text to ePub easily.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917070&affiliateid=200057808)

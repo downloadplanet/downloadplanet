@@ -1,1 +1,3 @@
-# Funny Pieces<br />Funny Pieces v1.0 · 25 jigsaw puzzles · nice music to relax · simple to play · best choice for coffee-break · free-to-try sofware<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300171320&affiliateid=200057808)
+# Funny Pieces
+Funny Pieces v1.0 · 25 jigsaw puzzles · nice music to relax · simple to play · best choice for coffee-break · free-to-try sofware
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300171320&affiliateid=200057808)

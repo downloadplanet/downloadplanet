@@ -1,1 +1,3 @@
-# Batch & Print Enterprise EML Addon Site License (Worldwide)<br />Batch & Print Enterprise EML Addon is a plugin for Batch & Print Enterprise that gives the user more control over the print process of Outlook Express EML files. NOTE: Outlook Express is NOT required. UNLIMITED LICENSE TO BE USED WITHIN A COMPANY WORLDWIDE. All Updates to 3.xx are free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300745164&affiliateid=200057808)
+# Batch & Print Enterprise EML Addon Site License (Worldwide)
+Batch & Print Enterprise EML Addon is a plugin for Batch & Print Enterprise that gives the user more control over the print process of Outlook Express EML files. NOTE: Outlook Express is NOT required. UNLIMITED LICENSE TO BE USED WITHIN A COMPANY WORLDWIDE. All Updates to 3.xx are free of charge.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300745164&affiliateid=200057808)

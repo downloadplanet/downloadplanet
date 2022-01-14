@@ -1,1 +1,4 @@
-# Control Your Mind 1A Subliminal<br />![Control Your Mind 1A Subliminal](https://mycommerce.akamaized.net/api/pimages/P300739231/BIG/300739231.JPG)<br />With the Control Your Mind 1A Subliminal you improve the control of your mind and your thoughts. If you control your mind, you control your life. If you want to change anything about your life, you have to change your programming.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300739231&affiliateid=200057808)
+# Control Your Mind 1A Subliminal
+![Control Your Mind 1A Subliminal](https://mycommerce.akamaized.net/api/pimages/P300739231/BIG/300739231.JPG)
+With the Control Your Mind 1A Subliminal you improve the control of your mind and your thoughts. If you control your mind, you control your life. If you want to change anything about your life, you have to change your programming.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300739231&affiliateid=200057808)

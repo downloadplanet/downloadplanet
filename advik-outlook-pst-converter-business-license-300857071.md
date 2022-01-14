@@ -1,1 +1,3 @@
-# Advik Outlook PST Converter - Business License<br />Software to Convert Outlook PST Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300857071&affiliateid=200057808)
+# Advik Outlook PST Converter - Business License
+Software to Convert Outlook PST Files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300857071&affiliateid=200057808)

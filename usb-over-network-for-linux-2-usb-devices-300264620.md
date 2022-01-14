@@ -1,2 +1,5 @@
-# USB over Network for Linux (2 USB devices)<br />![USB over Network for Linux (2 USB devices)](https://mycommerce.akamaized.net/api/pimages/P300264620/BIG/300264620.GIF)<br />USB over Network allows you to work with the remote USB devices over a local network or Internet as if they were connected directly to your local PC.
-It's very convenient when you have to share some USB devices among several users.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300264620&affiliateid=200057808)
+# USB over Network for Linux (2 USB devices)
+![USB over Network for Linux (2 USB devices)](https://mycommerce.akamaized.net/api/pimages/P300264620/BIG/300264620.GIF)
+USB over Network allows you to work with the remote USB devices over a local network or Internet as if they were connected directly to your local PC.
+It's very convenient when you have to share some USB devices among several users.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300264620&affiliateid=200057808)

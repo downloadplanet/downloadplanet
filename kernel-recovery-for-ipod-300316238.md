@@ -1,1 +1,2 @@
-# Kernel Recovery for iPod<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300316238&affiliateid=200057808)
+# Kernel Recovery for iPod
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300316238&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# iTube Studio for Mac(Lifetime)<br />![iTube Studio for Mac(Lifetime)](https://mycommerce.akamaized.net/api/pimages/P300948020/BIG/300948020.PNG)<br />iTube Studio for Mac is powerful software that helps you download online flash(FLV) videos from YouTube, Yahoo Video, Google Video, Vimeo, MySpace, Gofish and many other video-sharing sites. The built-in Mac FLV player enables you to view the downloaded FLV videos directly on Mac. Plus, it helps you convert the downloaded videos to any video and audio format of your choice, or convert directly to portable devices like iPhone, iPod, PSP, Zune HD, Creative Zen, Mobile Phone, etc.
+# iTube Studio for Mac(Lifetime)
+![iTube Studio for Mac(Lifetime)](https://mycommerce.akamaized.net/api/pimages/P300948020/BIG/300948020.PNG)
+iTube Studio for Mac is powerful software that helps you download online flash(FLV) videos from YouTube, Yahoo Video, Google Video, Vimeo, MySpace, Gofish and many other video-sharing sites. The built-in Mac FLV player enables you to view the downloaded FLV videos directly on Mac. Plus, it helps you convert the downloaded videos to any video and audio format of your choice, or convert directly to portable devices like iPhone, iPod, PSP, Zune HD, Creative Zen, Mobile Phone, etc.
 
 Download Online Videos Easily
 
@@ -40,4 +42,5 @@ Cell phones (3GP, 3GP2, MP4)
 Other digital video and audio players
 
 2. For optimized settings:
-For example, choose "iPod (320*240) MPEG-4 Normal-.*MP4" on the output format list when you want iPod 320*240 files in normal quality.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948020&affiliateid=200057808)
+For example, choose "iPod (320*240) MPEG-4 Normal-.*MP4" on the output format list when you want iPod 320*240 files in normal quality.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948020&affiliateid=200057808)

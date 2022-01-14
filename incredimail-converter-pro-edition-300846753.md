@@ -1,1 +1,3 @@
-# IncrediMail Converter - Pro Edition<br />Software to Backup Email Account<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300846753&affiliateid=200057808)
+# IncrediMail Converter - Pro Edition
+Software to Backup Email Account
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300846753&affiliateid=200057808)

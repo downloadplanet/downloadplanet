@@ -1,1 +1,3 @@
-# Kernel Recovery for Access Password - Home User License<br />Kernel Recovery for Access Password restores the lost and forgotten passwords of access databases. The demo version only displays first two characters of the password whereas Full version of the Kernel software recovers the complete password.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136816&affiliateid=200057808)
+# Kernel Recovery for Access Password - Home User License
+Kernel Recovery for Access Password restores the lost and forgotten passwords of access databases. The demo version only displays first two characters of the password whereas Full version of the Kernel software recovers the complete password.
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136816&affiliateid=200057808)

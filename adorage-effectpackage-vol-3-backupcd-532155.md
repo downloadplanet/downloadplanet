@@ -1,3 +1,6 @@
-# Adorage Effectpackage Vol. 3 Backup-CD<br />![Adorage Effectpackage Vol. 3 Backup-CD](https://mycommerce.akamaized.net/api/pimages/P532155/BIG/532155.GIF)<br />Ready for Broadcasting, professional and just amazing: fantastic Picture-in-Picture (PIP) effects, supported by dynamic movements and attractive motifs. Eaysy usable by a single mouseclick! Forget keying and keyframe mechanisms to be prepared to use, just choose the effect and optionally add a in- or out transition or move. All hundreds of these effects can being directly integrated in your video editing solution by using the optional "Adorage All Plugins Collection".
+# Adorage Effectpackage Vol. 3 Backup-CD
+![Adorage Effectpackage Vol. 3 Backup-CD](https://mycommerce.akamaized.net/api/pimages/P532155/BIG/532155.GIF)
+Ready for Broadcasting, professional and just amazing: fantastic Picture-in-Picture (PIP) effects, supported by dynamic movements and attractive motifs. Eaysy usable by a single mouseclick! Forget keying and keyframe mechanisms to be prepared to use, just choose the effect and optionally add a in- or out transition or move. All hundreds of these effects can being directly integrated in your video editing solution by using the optional "Adorage All Plugins Collection".
  Product Website
- Demos<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=532155&affiliateid=200057808)
+ Demos
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=532155&affiliateid=200057808)

@@ -1,1 +1,4 @@
-# eSoftTools EML Attachment Extractor - Corporate License<br />![eSoftTools EML Attachment Extractor - Corporate License](https://mycommerce.akamaized.net/api/pimages/P301011968/BIG/301011968.PNG)<br />EML Attachment Extractor Software easy to extract any kinds of attachments from EML and EMLX files. The software also provide to extract user specific attachment from EML and EMLX files. The tool has another option to extract email address from EML and EMLX files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301011968&affiliateid=200057808)
+# eSoftTools EML Attachment Extractor - Corporate License
+![eSoftTools EML Attachment Extractor - Corporate License](https://mycommerce.akamaized.net/api/pimages/P301011968/BIG/301011968.PNG)
+EML Attachment Extractor Software easy to extract any kinds of attachments from EML and EMLX files. The software also provide to extract user specific attachment from EML and EMLX files. The tool has another option to extract email address from EML and EMLX files.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301011968&affiliateid=200057808)

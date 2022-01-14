@@ -1,4 +1,6 @@
-# DataNumen PowerPoint Recovery<br />![DataNumen PowerPoint Recovery](https://mycommerce.akamaized.net/api/pimages/P300590392/BIG/300590392.JPG)<br />DataNumen PowerPoint Recovery (DPPTR) is a powerful tool to repair and recover corrupt Microsoft PowerPoint PPTX files. It uses advanced technologies to scan the corrupt or damaged PowerPoint PPTX files and recover your data in them as much as possible, so to minimize the loss in file corruption. Currently DPPTR supports to recover Microsoft PowerPoint 2007 to 2019 and PowerPoint for Office 365 files. Moreover, it is integrated with Windows Explorer, supports drag & drop operations and command line parameters, which will make you repair files easily and quickly.
+# DataNumen PowerPoint Recovery
+![DataNumen PowerPoint Recovery](https://mycommerce.akamaized.net/api/pimages/P300590392/BIG/300590392.JPG)
+DataNumen PowerPoint Recovery (DPPTR) is a powerful tool to repair and recover corrupt Microsoft PowerPoint PPTX files. It uses advanced technologies to scan the corrupt or damaged PowerPoint PPTX files and recover your data in them as much as possible, so to minimize the loss in file corruption. Currently DPPTR supports to recover Microsoft PowerPoint 2007 to 2019 and PowerPoint for Office 365 files. Moreover, it is integrated with Windows Explorer, supports drag & drop operations and command line parameters, which will make you repair files easily and quickly.
 
 Main Features:
 
@@ -10,4 +12,5 @@ Main Features:
 6. Support to find and select the PowerPoint files to be repaired on the local computer.
 7. Support integration with Windows Explorer, so you can repair a PowerPoint file with the context menu of Windows Explorer easily.
 8. Support drag & drop operation.
-9. Support command line parameters.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300590392&affiliateid=200057808)
+9. Support command line parameters.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300590392&affiliateid=200057808)

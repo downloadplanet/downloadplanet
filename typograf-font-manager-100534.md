@@ -1,4 +1,6 @@
-# Typograf font manager<br />![Typograf font manager](https://mycommerce.akamaized.net/api/pimages/P100534/BIG/100534.GIF)<br />View and preview fonts
+# Typograf font manager
+![Typograf font manager](https://mycommerce.akamaized.net/api/pimages/P100534/BIG/100534.GIF)
+View and preview fonts
 Display all OpenType, TrueType and Type 1 fonts on hard disks, flash and network drives or particular folders including all sub folders. Sorts viewed fonts by name, file, family, copyright, width, date, size.
 Typograf displays following font types:
 OpenType and TrueType fonts (preview, installed, loaded by Typograf)
@@ -42,4 +44,5 @@ Mixing & Matching Typefaces
 Choosing an appropriate Type
 Typesetting
 
-further information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=100534&affiliateid=200057808)
+further information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=100534&affiliateid=200057808)

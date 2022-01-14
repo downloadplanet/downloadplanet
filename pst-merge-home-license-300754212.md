@@ -1,1 +1,2 @@
-# PST Merge - Home License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300754212&affiliateid=200057808)
+# PST Merge - Home License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300754212&affiliateid=200057808)

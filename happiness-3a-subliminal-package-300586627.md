@@ -1,3 +1,6 @@
-# Happiness 3A Subliminal Package<br />![Happiness 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300586627/BIG/300586627.JPG)<br />Happiness 3A Subliminal
+# Happiness 3A Subliminal Package
+![Happiness 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300586627/BIG/300586627.JPG)
+Happiness 3A Subliminal
 
-Your happiness has to be unconditional and part of your subconscious programming. No matter how happy you are, you can further raise your degree of happiness. In case you are not a very happy person, with the support of the 3A subliminal you will become happier. Understand that you are changing a many years old programming, which takes some time. Listen to this subliminal twice a day for weeks. It is worth it!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300586627&affiliateid=200057808)
+Your happiness has to be unconditional and part of your subconscious programming. No matter how happy you are, you can further raise your degree of happiness. In case you are not a very happy person, with the support of the 3A subliminal you will become happier. Understand that you are changing a many years old programming, which takes some time. Listen to this subliminal twice a day for weeks. It is worth it!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300586627&affiliateid=200057808)

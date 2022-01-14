@@ -1,1 +1,3 @@
-# CubexSoft PST to MBOX - Technical License Special Offer<br />PST to MBOX Converter to convert PST files to MBOX files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799638&affiliateid=200057808)
+# CubexSoft PST to MBOX - Technical License Special Offer
+PST to MBOX Converter to convert PST files to MBOX files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799638&affiliateid=200057808)

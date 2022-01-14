@@ -1,3 +1,5 @@
-# Dinosaur Truetype font / EPS Shapes (T-Rex etc) V130<br />www.graphicxtras.com -- Dinosaur Font PSP & Indesign & CorelDRAW & Pages & Xpress Trex & Raptor Animals V130
+# Dinosaur Truetype font / EPS Shapes (T-Rex etc) V130
+www.graphicxtras.com -- Dinosaur Font PSP & Indesign & CorelDRAW & Pages & Xpress Trex & Raptor Animals V130
 
-Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469405&affiliateid=200057808)
+Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469405&affiliateid=200057808)

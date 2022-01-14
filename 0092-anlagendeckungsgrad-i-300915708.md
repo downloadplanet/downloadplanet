@@ -1,1 +1,3 @@
-# 0092 - Anlagendeckungsgrad I<br />0092 - Anlagendeckungsgrad I<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915708&affiliateid=200057808)
+# 0092 - Anlagendeckungsgrad I
+0092 - Anlagendeckungsgrad I
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300915708&affiliateid=200057808)

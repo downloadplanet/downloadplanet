@@ -1,3 +1,6 @@
-# OLKeeper Site-License (en)<br />![OLKeeper Site-License (en)](https://mycommerce.akamaized.net/api/pimages/P300158207/BIG/300158207.PNG)<br />OLKeeper reliably prevents users from closing their Outlook window and thus possibly missing reminders or important e-mails. Set in which situations Outlook should only minimize or really terminate.
+# OLKeeper Site-License (en)
+![OLKeeper Site-License (en)](https://mycommerce.akamaized.net/api/pimages/P300158207/BIG/300158207.PNG)
+OLKeeper reliably prevents users from closing their Outlook window and thus possibly missing reminders or important e-mails. Set in which situations Outlook should only minimize or really terminate.
 This license allows as many installations of OLKeeper as you like in one company.
-All details | Switch to German version<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300158207&affiliateid=200057808)
+All details | Switch to German version
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300158207&affiliateid=200057808)

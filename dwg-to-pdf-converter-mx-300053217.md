@@ -1,4 +1,6 @@
-# DWG to PDF Converter MX<br />![DWG to PDF Converter MX](https://mycommerce.akamaized.net/api/pimages/P300053217/BIG/300053217.GIF)<br />DWG To PDF Converter MX allows you convert DWG to PDF, DXF to PDF and DWF to PDF directly without need of AutoCAD, it converts DWG, DXF and DWF files into PDF files quickly and easily.
+# DWG to PDF Converter MX
+![DWG to PDF Converter MX](https://mycommerce.akamaized.net/api/pimages/P300053217/BIG/300053217.GIF)
+DWG To PDF Converter MX allows you convert DWG to PDF, DXF to PDF and DWF to PDF directly without need of AutoCAD, it converts DWG, DXF and DWF files into PDF files quickly and easily.
 Batch convert DWG to PDF, DXF to PDF and DWF to PDF.
 Supports all versions of DWG , DXF and DWF formats (Supports R2.5-2021).
 Supports AutoCAD pen sets file (*.ctb).
@@ -15,4 +17,5 @@ Creates bookmark with layout name and file name, and also you can edit them.
 You can set quality of PDF with DPI parameter.
 Encrypt the outputted PDF files, supports PDF's security options.
 Supports 'true colors', 'gray' and 'white/black' color mode.
-Easy to use.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300053217&affiliateid=200057808)
+Easy to use.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300053217&affiliateid=200057808)

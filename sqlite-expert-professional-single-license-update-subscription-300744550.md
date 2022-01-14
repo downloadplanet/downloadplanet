@@ -1,4 +1,5 @@
-# SQLite Expert Professional - single license + update subscription<br />SQLite Expert Professional 5.0
+# SQLite Expert Professional - single license + update subscription
+SQLite Expert Professional 5.0
 
 SQLite Expert is a powerful visual tool that enables you to easily administer your SQLite3 databases and gain significantly better visibility into how your databases are operating. SQLite Expert integrates database management and maintenance into a single, seamless environment, with a clear and intuitive graphical user interface.
 
@@ -17,4 +18,5 @@ Generate HTML reports from data displayed in the grid.
 System Requirements
 
 Operating System: Windows 2000/XP/2003/Vista/7/8/10;
-SQLite - sqlite.dll version 3.x.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300744550&affiliateid=200057808)
+SQLite - sqlite.dll version 3.x.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300744550&affiliateid=200057808)

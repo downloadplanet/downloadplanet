@@ -1,8 +1,10 @@
-# Background Strokes Symbols for Illustrator (AI) V7<br />www.graphicxtras.com -- Background Strokes Symbols for Adobe Illustrator CC 2017 2015 2014 CS6 5 4 3 2 1 Vector designs V7
+# Background Strokes Symbols for Illustrator (AI) V7
+www.graphicxtras.com -- Background Strokes Symbols for Adobe Illustrator CC 2017 2015 2014 CS6 5 4 3 2 1 Vector designs V7
 
 500 Background strokes and abstract royalty-free designs for Adobe (R) Illustrator CC 2017 2015 2014 and CS6 5 4 3 2 1 and 10 (Illustrator 17 - 10) PC and MAC OS X. The symbols are based around stroked paths instead of a fill design. The symbols can be used as a background; used in combination; used as an overlay; expanded; use as a frame design by cutting the design and more. Download only. Commercial use, all royalty-free - the designs are all by graphicxtras.com (Andrew Buckle). Use them to create amazing backgrounds, mugs, posters, textiles, fashions, ceramics, logos, blog designs, web page designs and much more. Many different hi-impact vector designs / shapes are included in the set. A truly wow toolkit of shapes / symbols for all your projects. 500 Truly wow designs... if you need any more information, please contact us or check out our video section on www.youtube.com/graphicxtras where you can find a large selection of videos on the subject of Illustrator symbols and shapes
 MENU:
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108770&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108770&affiliateid=200057808)

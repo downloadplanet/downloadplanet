@@ -1,1 +1,2 @@
-# Bundle Novell Server Recovery - Corporate License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384683&affiliateid=200057808)
+# Bundle Novell Server Recovery - Corporate License[BRL]
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384683&affiliateid=200057808)

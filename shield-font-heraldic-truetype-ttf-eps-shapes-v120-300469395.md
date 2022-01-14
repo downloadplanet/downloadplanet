@@ -1,4 +1,6 @@
-# Shield Font / Heraldic Truetype TTF & EPS Shapes V120<br />www.graphicxtras.com -- Shield Font Truetype & EPS Shapes CorelDRAW & PSP & Word Heraldic V120
+# Shield Font / Heraldic Truetype TTF & EPS Shapes V120
+www.graphicxtras.com -- Shield Font Truetype & EPS Shapes CorelDRAW & PSP & Word Heraldic V120
 
 100 shield shapes - Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, CorelDRAW, Corel Photo-Paint, GIMP, Photoshop elements, Apple Pages etc - License: commercial use (and personal), royalty-free - all the shapes are by graphicxtras.com (Andrew Buckle) http://www.graphicxtras.com/shields.htm shields font many wonderful designs. If you have any questions about the shields (rounded shield shapes, intricate shield shapes, basic shield shapes etc) - please contact us on support@graphicxtras.com.
- <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469395&affiliateid=200057808)
+ 
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469395&affiliateid=200057808)

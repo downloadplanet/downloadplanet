@@ -1,1 +1,2 @@
-# BFW, Wirtschaftsbezogene Qualifikation, alle Videos, alle Skripte von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300646475&affiliateid=200057808)
+# BFW, Wirtschaftsbezogene Qualifikation, alle Videos, alle Skripte von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300646475&affiliateid=200057808)

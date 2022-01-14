@@ -1,1 +1,3 @@
-# Geprüfter Technischer Betriebswirt - Organisation und Unternehmensführung<br />![Geprüfter Technischer Betriebswirt - Organisation und Unternehmensführung](https://mycommerce.akamaized.net/api/pimages/P300381621/BIG/300381621.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381621&affiliateid=200057808)
+# Geprüfter Technischer Betriebswirt - Organisation und Unternehmensführung
+![Geprüfter Technischer Betriebswirt - Organisation und Unternehmensführung](https://mycommerce.akamaized.net/api/pimages/P300381621/BIG/300381621.JPG)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381621&affiliateid=200057808)

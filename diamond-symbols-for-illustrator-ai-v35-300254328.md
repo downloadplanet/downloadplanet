@@ -1,4 +1,5 @@
-# Diamond symbols for Illustrator (AI) V35<br />www.graphicxtras.com -- Diamond Symbols for Adobe Illustrator PC & MAC OSX Shapes V35
+# Diamond symbols for Illustrator (AI) V35
+www.graphicxtras.com -- Diamond Symbols for Adobe Illustrator PC & MAC OSX Shapes V35
 
 200 Diamond designs for Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10 (many different designs including basic and complex designs, emboss designs, background designs, multiple designs, drop shadow designs and more)
 
@@ -16,4 +17,5 @@ To buy, click the buy button - secure sales - download only
 Any questions, please e-mail me on Please e-mail us on support@graphicxtras.com
 symbols packs for Illustrator from graphicxtras.com.
 
-http://www.graphicxtras.com for product info<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300254328&affiliateid=200057808)
+http://www.graphicxtras.com for product info
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300254328&affiliateid=200057808)

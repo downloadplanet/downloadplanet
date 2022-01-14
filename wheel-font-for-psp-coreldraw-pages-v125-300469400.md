@@ -1,3 +1,5 @@
-# Wheel Font for PSP & & CorelDRAW & Pages V125<br />www.graphicxtras.com -- Wheel Font PSP & Indesign & CorelDRAW & Pages & Xpress PC & MAC OSX V125
+# Wheel Font for PSP & & CorelDRAW & Pages V125
+www.graphicxtras.com -- Wheel Font PSP & Indesign & CorelDRAW & Pages & Xpress PC & MAC OSX V125
 
-Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469400&affiliateid=200057808)
+Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469400&affiliateid=200057808)

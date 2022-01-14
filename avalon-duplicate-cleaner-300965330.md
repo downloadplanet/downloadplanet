@@ -1,1 +1,3 @@
-# Avalon Duplicate Cleaner<br />.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300965330&affiliateid=200057808)
+# Avalon Duplicate Cleaner
+.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300965330&affiliateid=200057808)

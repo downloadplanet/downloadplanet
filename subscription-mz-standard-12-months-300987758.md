@@ -1,4 +1,5 @@
-# Subscription mZ Standard 12 Months<br />meineZIELE Standard
+# Subscription mZ Standard 12 Months
+meineZIELE Standard
 That sounds familiar?
 Your desk is spilling over? Your time is fragmented? Too many bagatelles done and the big issues on hold? Everything planned in detail but no progress anyway? Just the most productive time of the day being wasted for peanuts and emails?
 You can't make a silk purse out of a sow's ear. A simple organizer will fail. Without professional time management know-how we stay caught in the treadmill of life. Here meineZIELE comes in: A sophisticated tool, combining software and knowhow, which really improves success.
@@ -19,4 +20,5 @@ Accumulating small and big achievements starts a spiral of improving self-confid
 You will hit Your targets
 Get away from saving seconds and arrive at pursueing objectives. And You will reach more, bigger and more important objectives.
 Why mZ Standard?
-mZ Standard is part of the world class meineZIELE product family. mZ Standard has all of the core functions for goals and time management. A subscription of effectiviTREE is included.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300987758&affiliateid=200057808)
+mZ Standard is part of the world class meineZIELE product family. mZ Standard has all of the core functions for goals and time management. A subscription of effectiviTREE is included.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300987758&affiliateid=200057808)

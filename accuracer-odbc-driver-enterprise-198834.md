@@ -1,1 +1,3 @@
-# Accuracer ODBC Driver Enterprise<br />The Accuracer ODBC Driver provides read/write access to Accuracer database in accordance with Level1 interface conformance of ODBC v.2 specification. It enables you to use Accuracer databases with any development environment that supports ODBC (BDE, Visual Studio, etc.)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=198834&affiliateid=200057808)
+# Accuracer ODBC Driver Enterprise
+The Accuracer ODBC Driver provides read/write access to Accuracer database in accordance with Level1 interface conformance of ODBC v.2 specification. It enables you to use Accuracer databases with any development environment that supports ODBC (BDE, Visual Studio, etc.)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=198834&affiliateid=200057808)

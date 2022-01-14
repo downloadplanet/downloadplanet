@@ -1,4 +1,5 @@
-# F&B Support Küchenbetriebswirt (F&BS) 6 Monate<br />Zertifikatslehrgang zum „Küchenbetriebswirt F&BS“
+# F&B Support Küchenbetriebswirt (F&BS) 6 Monate
+Zertifikatslehrgang zum „Küchenbetriebswirt F&BS“
 des F&B Supports Laufzeit 6 Monate
 
 Folgende Seminare umfasst der Lehrgang
@@ -28,4 +29,5 @@ senden Sie uns Ihre Auswahl per Mail an info@f-bsupport.de.
 
 Alle Informationen zu den Seminarorten und Terminen finden Sie in der Broschüre des F&B Supports
 Gerne können Sie uns bei Fragen eine Nachricht zusenden oder
-unter 02154-953 52 45 anrufen.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300576924&affiliateid=200057808)
+unter 02154-953 52 45 anrufen.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300576924&affiliateid=200057808)

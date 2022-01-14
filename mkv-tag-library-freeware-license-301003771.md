@@ -1,4 +1,6 @@
-# MKV Tag Library Freeware License<br />![MKV Tag Library Freeware License](https://mycommerce.akamaized.net/api/pimages/P301003771/BIG/301003771.PNG)<br />MKV Tag Library is a tag reader-writer component for Delphi (Win32, Win64) for Matroska container files (MKV, MKA).
+# MKV Tag Library Freeware License
+![MKV Tag Library Freeware License](https://mycommerce.akamaized.net/api/pimages/P301003771/BIG/301003771.PNG)
+MKV Tag Library is a tag reader-writer component for Delphi (Win32, Win64) for Matroska container files (MKV, MKA).
 
 Features:
 Loading of matroska tags
@@ -13,4 +15,5 @@ For the shareware license, the product must sell for no more than €40 each. Th
 In all cases there are no royalties to pay, and you can use all future updates without further cost, all you need to do is just obtain the newest version.
 Note that the library's license is GPL.
 
-If none of these licenses match your requirements, or if you have any questions, get in touch (3delite@3delite.hu).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301003771&affiliateid=200057808)
+If none of these licenses match your requirements, or if you have any questions, get in touch (3delite@3delite.hu).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301003771&affiliateid=200057808)

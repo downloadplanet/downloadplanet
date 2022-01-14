@@ -1,1 +1,4 @@
-# Amazing iPad Message Transfer<br />![Amazing iPad Message Transfer](https://mycommerce.akamaized.net/api/pimages/P300864428/BIG/300864428.PNG)<br />copy iPad SMS (MMS) and contacts to computer which offers the best solution for users to transfer SMS and iMessages from iPad including iMessages from iPod and iPad to PC to backup your important messages.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300864428&affiliateid=200057808)
+# Amazing iPad Message Transfer
+![Amazing iPad Message Transfer](https://mycommerce.akamaized.net/api/pimages/P300864428/BIG/300864428.PNG)
+copy iPad SMS (MMS) and contacts to computer which offers the best solution for users to transfer SMS and iMessages from iPad including iMessages from iPod and iPad to PC to backup your important messages.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300864428&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Andrews Plugins Power Blend for Photoshop & PSP (PC Only) V16<br />www.graphicxtras.com -- Andrews Plugins Power Blend Adobe Photoshop & PSP PC V16
+# Andrews Plugins Power Blend for Photoshop & PSP (PC Only) V16
+www.graphicxtras.com -- Andrews Plugins Power Blend Adobe Photoshop & PSP PC V16
 
 Two powerhouse plug-ins: color gradients plug-in + distortion / warp plug-in
 Create 1000s of different color gradient designs for overlays, backgrounds, visual effects, illustrations, fills and more
@@ -13,4 +14,5 @@ Plug-in set for many applications such as Photoshop (R) and others
 You can find our more about the plugins via the http://www.youtube.com/graphicxtras video tutorials
 
 
-Home page is http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=205313&affiliateid=200057808)
+Home page is http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=205313&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# Bundle Offer Turgs - (eM Wizard +eM Client to NSF Wizard) - Personal License<br />(eM Wiard +eM Client to NSF Wizard) Bundle Offer<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998638&affiliateid=200057808)
+# Bundle Offer Turgs - (eM Wizard +eM Client to NSF Wizard) - Personal License
+(eM Wiard +eM Client to NSF Wizard) Bundle Offer
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998638&affiliateid=200057808)

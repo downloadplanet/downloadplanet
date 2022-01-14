@@ -1,6 +1,9 @@
-# Vibosoft ePub Converter for Mac<br />![Vibosoft ePub Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300859748/BIG/300859748.JPG)<br />Accurately & Batch Create ePub Digital Books in Popular Formats
+# Vibosoft ePub Converter for Mac
+![Vibosoft ePub Converter for Mac](https://mycommerce.akamaized.net/api/pimages/P300859748/BIG/300859748.JPG)
+Accurately & Batch Create ePub Digital Books in Popular Formats
 With the eReaders like the Kindle, iPad, Nook and smartphones becoming more and more popular, that comes a ePub format, it's also quickly becoming a standard in the field of digital books, But for the moment, different manufacturers has their own main supported ebook formatted, and they create incompatibilities between various devices. Moreover, for publishers, If you're struggling to build high-quality EPUB books, it's imperative for you to create a flawless ePUB files of your book, Vibosoft Mac ePub Creator app is available and provide strong performance levels, let's dig into...
 Batch conversion capability: Load over 300+ files at a time without crash;
 Accurately build ePub from: PDF, Prc, MOBI, HTML, Word, Text and more;
 Totally preserve all original layouts after conversion like: graphics, fonts, size;
-The generated ePub ebooks can be read on a wide variety of screen sizes<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300859748&affiliateid=200057808)
+The generated ePub ebooks can be read on a wide variety of screen sizes
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300859748&affiliateid=200057808)

@@ -1,3 +1,6 @@
-# Advanced Serial Data Logger Standard<br />![Advanced Serial Data Logger Standard](https://mycommerce.akamaized.net/api/pimages/P186168/BIG/186168.GIF)<br />Advanced Serial Data Logger is the unique serial port data logging and communication spying solution that supports various interfaces and features convenient user interface as well as flexibly configured modes of operation.
+# Advanced Serial Data Logger Standard
+![Advanced Serial Data Logger Standard](https://mycommerce.akamaized.net/api/pimages/P186168/BIG/186168.GIF)
+Advanced Serial Data Logger is the unique serial port data logging and communication spying solution that supports various interfaces and features convenient user interface as well as flexibly configured modes of operation.
 
-This version supports Windows 2000 and higher service mode, but doesn't support plugins at all.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=186168&affiliateid=200057808)
+This version supports Windows 2000 and higher service mode, but doesn't support plugins at all.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=186168&affiliateid=200057808)

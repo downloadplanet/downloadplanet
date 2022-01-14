@@ -1,4 +1,6 @@
-# DataNumen Exchange Recovery<br />![DataNumen Exchange Recovery](https://mycommerce.akamaized.net/api/pimages/P300055189/BIG/300055189.JPG)<br />DataNumen Exchange Recovery(formerly Advanced Exchange Recovery) is the best recovery tool for Microsoft Exchange offline storage(.ost) files. When disaster occurs on Microsoft Exchange server, such as server crashes, server database corruption, etc., the Exchange offline storage files(.ost) on the client computer still contain the mail messages and all other items of your Exchange mail account. Advanced Exchange Recovery uses advanced technologies to scan the orphaned or damaged Exchange offline storage files(.ost) and recover your mail messages and other items as much as possible, so to minimize the loss in data disaster.
+# DataNumen Exchange Recovery
+![DataNumen Exchange Recovery](https://mycommerce.akamaized.net/api/pimages/P300055189/BIG/300055189.JPG)
+DataNumen Exchange Recovery(formerly Advanced Exchange Recovery) is the best recovery tool for Microsoft Exchange offline storage(.ost) files. When disaster occurs on Microsoft Exchange server, such as server crashes, server database corruption, etc., the Exchange offline storage files(.ost) on the client computer still contain the mail messages and all other items of your Exchange mail account. Advanced Exchange Recovery uses advanced technologies to scan the orphaned or damaged Exchange offline storage files(.ost) and recover your mail messages and other items as much as possible, so to minimize the loss in data disaster.
 Main Features:
 1. Support Exchange 5.0 to 2019, Outlook 97 to 2019 and Outlook for Office 365.
 2. Support to recover mail messages, folders, posts, appointments, meeting requests, contacts, distribution lists, tasks, task requests, journals and notes in OST files. All properties, such as subject, to, from, cc, bcc, date, etc., are recovered.
@@ -16,4 +18,5 @@ Main Features:
 15. Support to find and select the OST files to be repaired on the client computer.
 16. Support integration with Windows Explorer, so you can repair an OST file with the context menu of Windows Explorer easily.
 17. Support drag & drop operation.
-18. Support command line parameters.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300055189&affiliateid=200057808)
+18. Support command line parameters.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300055189&affiliateid=200057808)

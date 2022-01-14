@@ -1,5 +1,8 @@
-# Kingsoft Internet Security 9<br />![Kingsoft Internet Security 9](https://mycommerce.akamaized.net/api/pimages/P300952389/BIG/300952389.JPG)<br />An award-winning, easy-to-use, all-in-one PC protection solution. KingSoft Internet Security provides a complete protection against viruses, spywares, identify theft, phishing, spam and hacker. Advanced firewall technologies build an unbreakable security between your family and evil threats from internet. Provide accelerated full system scan and protect your computer in no time.
+# Kingsoft Internet Security 9
+![Kingsoft Internet Security 9](https://mycommerce.akamaized.net/api/pimages/P300952389/BIG/300952389.JPG)
+An award-winning, easy-to-use, all-in-one PC protection solution. KingSoft Internet Security provides a complete protection against viruses, spywares, identify theft, phishing, spam and hacker. Advanced firewall technologies build an unbreakable security between your family and evil threats from internet. Provide accelerated full system scan and protect your computer in no time.
 
 Two time Virus Bulletin 100 award winner – the highest award in anti-virus softwares!
 
-Instantly download full-function 180-day trial version. Buy your license at Spotmau with only $19.95 (regularly $29.95) – exclusive offer from KingSoft power reseller Spotmau.com. Lowest price guaranteed! Get this limited time offer today!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952389&affiliateid=200057808)
+Instantly download full-function 180-day trial version. Buy your license at Spotmau with only $19.95 (regularly $29.95) – exclusive offer from KingSoft power reseller Spotmau.com. Lowest price guaranteed! Get this limited time offer today!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952389&affiliateid=200057808)

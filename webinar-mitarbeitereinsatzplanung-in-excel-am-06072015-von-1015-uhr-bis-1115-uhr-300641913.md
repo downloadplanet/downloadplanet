@@ -1,4 +1,5 @@
-# Webinar Mitarbeitereinsatzplanung in Excel am 06.07.2015 von 10:15 Uhr bis 11:15 Uhr<br />Seminarbeschreibung
+# Webinar Mitarbeitereinsatzplanung in Excel am 06.07.2015 von 10:15 Uhr bis 11:15 Uhr
+Seminarbeschreibung
 Seit über 30 Jahren sind die Personalkosten höher wie der Wareneinsatz. Trotzdem gibt es mehr Warenwirtschaftssysteme als Dienstplanprogramme. Mit diesem Webinar erlernen die Teilnehmer, eine wirtschaftlichere Mitarbeitereinsatzplanung mit MS Excel durchzuführen. Nach der Veranstaltung sind sie in der Lage, selbstständig ihren Dienstplan in MS Excel zu erstellen.
 
 Inhalte
@@ -29,4 +30,5 @@ Folgende Unterlagen, Inhalte, Beschreibungen und Vorlagen erhalten Sie bzw. sind
 => Auswertungen Täglich und für die komplette Kalenderwoche
 => Auswertung in farblicher Kennzeichnung
 => Automatisierte Programmabläufe (z.b löschen von Werten) durch Makrobefehle und Schaltflächen
-=> Tabelle kann durch Felder und Zusätzliche Informationen erweitert werden<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300641913&affiliateid=200057808)
+=> Tabelle kann durch Felder und Zusätzliche Informationen erweitert werden
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300641913&affiliateid=200057808)

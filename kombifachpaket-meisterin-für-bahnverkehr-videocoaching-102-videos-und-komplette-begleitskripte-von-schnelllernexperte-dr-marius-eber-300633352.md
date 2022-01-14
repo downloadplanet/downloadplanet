@@ -1,1 +1,2 @@
-# Kombi-Fachpaket Meister/in für Bahnverkehr, Videocoaching, 102 Videos und komplette Begleitskripte von Schnell-Lernexperte Dr. Marius Eber<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300633352&affiliateid=200057808)
+# Kombi-Fachpaket Meister/in für Bahnverkehr, Videocoaching, 102 Videos und komplette Begleitskripte von Schnell-Lernexperte Dr. Marius Eber
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300633352&affiliateid=200057808)

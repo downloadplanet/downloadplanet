@@ -1,1 +1,3 @@
-# DRS Backup Exec BKF Repair Pro[Technician License]<br />DRS Backup Exec BKF Repair Pro<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301009942&affiliateid=200057808)
+# DRS Backup Exec BKF Repair Pro[Technician License]
+DRS Backup Exec BKF Repair Pro
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301009942&affiliateid=200057808)

@@ -1,1 +1,2 @@
-# Bundle Kernel Microsoft Email Repair - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300336768&affiliateid=200057808)
+# Bundle Kernel Microsoft Email Repair - Corporate License
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300336768&affiliateid=200057808)

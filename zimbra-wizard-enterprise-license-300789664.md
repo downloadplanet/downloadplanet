@@ -1,1 +1,3 @@
-# Zimbra Wizard - Enterprise License<br />Software to Convert Zimbra Exported TGZ Mailboxes<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300789664&affiliateid=200057808)
+# Zimbra Wizard - Enterprise License
+Software to Convert Zimbra Exported TGZ Mailboxes
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300789664&affiliateid=200057808)

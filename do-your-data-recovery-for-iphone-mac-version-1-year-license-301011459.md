@@ -1,1 +1,4 @@
-# Do Your Data Recovery for iPhone (Mac Version) 1 Year License<br />![Do Your Data Recovery for iPhone (Mac Version) 1 Year License](https://mycommerce.akamaized.net/api/pimages/P301011459/BIG/301011459.PNG)<br />Recover lost contacts, SMS, notes, photos, videos, call history and more from iPhone or iPad. Do Your Data Recovery for iPhone (Mac version) is a good choice for Mac users to recover deleted or lost iPhone data under Mac OS.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301011459&affiliateid=200057808)
+# Do Your Data Recovery for iPhone (Mac Version) 1 Year License
+![Do Your Data Recovery for iPhone (Mac Version) 1 Year License](https://mycommerce.akamaized.net/api/pimages/P301011459/BIG/301011459.PNG)
+Recover lost contacts, SMS, notes, photos, videos, call history and more from iPhone or iPad. Do Your Data Recovery for iPhone (Mac version) is a good choice for Mac users to recover deleted or lost iPhone data under Mac OS.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301011459&affiliateid=200057808)

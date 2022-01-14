@@ -1,1 +1,3 @@
-# EMS DB Comparer for MySQL (Business) + 3 Year Maintenance<br />EMS DB Comparer for MySQL is a tool for comparing MySQL database schemas and discovering differences in their structures.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067892&affiliateid=200057808)
+# EMS DB Comparer for MySQL (Business) + 3 Year Maintenance
+EMS DB Comparer for MySQL is a tool for comparing MySQL database schemas and discovering differences in their structures.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067892&affiliateid=200057808)

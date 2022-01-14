@@ -1,1 +1,4 @@
-# Amazing iTunes Backup Extractor<br />![Amazing iTunes Backup Extractor](https://mycommerce.akamaized.net/api/pimages/P300860069/BIG/300860069.PNG)<br />Easily navigate the file system of your iTunes backup with a powerful file browser. Extract and recover lost iPhone contacts, SMS, photos, videos, notes, WhatsApp, Viber, and more data from iTunes backup files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300860069&affiliateid=200057808)
+# Amazing iTunes Backup Extractor
+![Amazing iTunes Backup Extractor](https://mycommerce.akamaized.net/api/pimages/P300860069/BIG/300860069.PNG)
+Easily navigate the file system of your iTunes backup with a powerful file browser. Extract and recover lost iPhone contacts, SMS, photos, videos, notes, WhatsApp, Viber, and more data from iTunes backup files.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300860069&affiliateid=200057808)

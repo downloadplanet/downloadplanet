@@ -1,2 +1,4 @@
-# Windows Garbage Collector (Site License)<br />A decent little tool that has the potential to clean quite a bit from your system, and can even automatically compress little-used files to make them occupy less disk space.
-Windows Garbage Collector offers you an expanded selection of cleanup choices including Temp Setup Files, Downloaded Program Files, Temp Internet Files, Debug Dump Files, Office Setup Files, old Chkdsk files, Recycle Bin, Temp Remote Desktop Files, Setup Log Files, Temp Files, WebClient temp files, Catalog files for content Indexer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300062761&affiliateid=200057808)
+# Windows Garbage Collector (Site License)
+A decent little tool that has the potential to clean quite a bit from your system, and can even automatically compress little-used files to make them occupy less disk space.
+Windows Garbage Collector offers you an expanded selection of cleanup choices including Temp Setup Files, Downloaded Program Files, Temp Internet Files, Debug Dump Files, Office Setup Files, old Chkdsk files, Recycle Bin, Temp Remote Desktop Files, Setup Log Files, Temp Files, WebClient temp files, Catalog files for content Indexer.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300062761&affiliateid=200057808)

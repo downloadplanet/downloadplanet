@@ -1,1 +1,2 @@
-# BW-Fachpakete: II. Prüfungsteil Führung u. Management, Videocoaching, 72 Videos plus komplette Begleitskripte mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300598020&affiliateid=200057808)
+# BW-Fachpakete: II. Prüfungsteil Führung u. Management, Videocoaching, 72 Videos plus komplette Begleitskripte mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300598020&affiliateid=200057808)

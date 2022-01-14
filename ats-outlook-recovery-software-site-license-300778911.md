@@ -1,1 +1,3 @@
-# ATS Outlook Recovery Software :- Site License<br />ATS Outlook Recovery Software easy to recover your corrupted outlook pst file & restore all outlook items to new outlook pst files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778911&affiliateid=200057808)
+# ATS Outlook Recovery Software :- Site License
+ATS Outlook Recovery Software easy to recover your corrupted outlook pst file & restore all outlook items to new outlook pst files.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778911&affiliateid=200057808)

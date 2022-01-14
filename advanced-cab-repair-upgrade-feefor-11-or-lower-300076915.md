@@ -1,4 +1,5 @@
-# Advanced CAB Repair Upgrade Fee(For 1.1 or lower)<br />Advanced CAB Repair(ACR) is a powerful tool to repair corrupt CAB files. It can scan the damaged CAB archives and recover your data in them as much as possible, so to minimize the loss in file corruption.
+# Advanced CAB Repair Upgrade Fee(For 1.1 or lower)
+Advanced CAB Repair(ACR) is a powerful tool to repair corrupt CAB files. It can scan the damaged CAB archives and recover your data in them as much as possible, so to minimize the loss in file corruption.
 
 Main features:
 1.Support to fix all version of Microsoft cabinet files
@@ -9,4 +10,5 @@ Main features:
 6.Integrated with Windows shell, so you can repair a file with context menu in the Explorer easily.
 7.Support to find and select the CAB files to be repaired on the client computer.
 8.Support drag & drop operation.
-9.Support command line parameters.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300076915&affiliateid=200057808)
+9.Support command line parameters.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300076915&affiliateid=200057808)

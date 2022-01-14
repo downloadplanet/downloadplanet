@@ -1,1 +1,3 @@
-# Foto Rahmen<br />Create photo frames<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300418857&affiliateid=200057808)
+# Foto Rahmen
+Create photo frames
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300418857&affiliateid=200057808)

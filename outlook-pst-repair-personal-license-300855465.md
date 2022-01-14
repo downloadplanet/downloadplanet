@@ -1,1 +1,2 @@
-# Outlook PST Repair - Personal License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300855465&affiliateid=200057808)
+# Outlook PST Repair - Personal License
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300855465&affiliateid=200057808)

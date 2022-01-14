@@ -1,1 +1,3 @@
-# SerialTools Standard .NET (source code license)<br />SerialTools Standard .NET (source code license)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=218306&affiliateid=200057808)
+# SerialTools Standard .NET (source code license)
+SerialTools Standard .NET (source code license)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=218306&affiliateid=200057808)

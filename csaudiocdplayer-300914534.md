@@ -1,1 +1,4 @@
-# CSAudioCDPlayer<br />![CSAudioCDPlayer](https://mycommerce.akamaized.net/api/pimages/P300914534/BIG/300914534.PNG)<br />The CSAudioCDPlayer is a .NET component that can play an Audio CD tracks with a specific format and audio visualization and a built in FreeDB control.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300914534&affiliateid=200057808)
+# CSAudioCDPlayer
+![CSAudioCDPlayer](https://mycommerce.akamaized.net/api/pimages/P300914534/BIG/300914534.PNG)
+The CSAudioCDPlayer is a .NET component that can play an Audio CD tracks with a specific format and audio visualization and a built in FreeDB control.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300914534&affiliateid=200057808)

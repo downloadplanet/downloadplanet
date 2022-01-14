@@ -1,1 +1,4 @@
-# MiniTool ShadowMaker Annual Subscription<br />![MiniTool ShadowMaker Annual Subscription](https://mycommerce.akamaized.net/api/pimages/P300991234/BIG/300991234.PNG)<br />MiniTool ShadowMaker Yearly Subscription 1 Year Free Upgrade Snap-in WinPE Bootable Builder For Windows 10/8.1/8/7 1 License for 2PC<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300991234&affiliateid=200057808)
+# MiniTool ShadowMaker Annual Subscription
+![MiniTool ShadowMaker Annual Subscription](https://mycommerce.akamaized.net/api/pimages/P300991234/BIG/300991234.PNG)
+MiniTool ShadowMaker Yearly Subscription 1 Year Free Upgrade Snap-in WinPE Bootable Builder For Windows 10/8.1/8/7 1 License for 2PC
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300991234&affiliateid=200057808)

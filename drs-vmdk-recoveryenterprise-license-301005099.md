@@ -1,1 +1,3 @@
-# DRS VMDK Recovery[Enterprise License]<br />DRS VMDK Recovery<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301005099&affiliateid=200057808)
+# DRS VMDK Recovery[Enterprise License]
+DRS VMDK Recovery
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301005099&affiliateid=200057808)

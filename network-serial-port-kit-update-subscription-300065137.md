@@ -1,2 +1,5 @@
-# Network Serial Port Kit - Update Subscription<br />![Network Serial Port Kit - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300065137/BIG/300065137.GIF)<br />Network Serial Port Kit allows you to share any serial port devices (bar code scanners, modems, sensors, telephone PBX systems, laboratory or industrial instruments, and so on) over the TCP/IP network or Internet.
-There is also a possibility to emulate a null-modem cable over your local network or Internet. In other words you can create any number of virtual serial ports on your PC which will be connected over TCP/IP network to another PC via a virtual null-modem cable.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300065137&affiliateid=200057808)
+# Network Serial Port Kit - Update Subscription
+![Network Serial Port Kit - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300065137/BIG/300065137.GIF)
+Network Serial Port Kit allows you to share any serial port devices (bar code scanners, modems, sensors, telephone PBX systems, laboratory or industrial instruments, and so on) over the TCP/IP network or Internet.
+There is also a possibility to emulate a null-modem cable over your local network or Internet. In other words you can create any number of virtual serial ports on your PC which will be connected over TCP/IP network to another PC via a virtual null-modem cable.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300065137&affiliateid=200057808)

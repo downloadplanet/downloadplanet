@@ -1,4 +1,5 @@
-# Mega-Workshop Pinnacle Studio 12 & proDAD products for Studio (- 25%)<br />Book-CD : Pinnacle Studio 12 (all versions)
+# Mega-Workshop Pinnacle Studio 12 & proDAD products for Studio (- 25%)
+Book-CD : Pinnacle Studio 12 (all versions)
 New, the Book-CD for Pinnacle Studio 12 as CHM and PDF in step by step description
 Table of Contents:
 Welcome
@@ -107,4 +108,5 @@ Tips and Tricks in Drawing a Route
 Split Screen with Image and Title
 proDAD Adorage
 Plug-in as video effect (Picture with Fade IN / OUT)
-Plug-in as transition (2D)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300380005&affiliateid=200057808)
+Plug-in as transition (2D)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300380005&affiliateid=200057808)

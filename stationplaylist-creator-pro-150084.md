@@ -1,4 +1,5 @@
-# StationPlaylist Creator Pro<br />Music and spot scheduler, and playlist creator software for radio station broadcasting, internet streaming, and in-store automated music systems.
+# StationPlaylist Creator Pro
+Music and spot scheduler, and playlist creator software for radio station broadcasting, internet streaming, and in-store automated music systems.
 A user-definable playlist format provides compatibility with most audio players from Winamp through to sophisticated broadcast playback systems, including our own StationPlaylist Studio. Additional software is included to integrate with the Winamp audio player for a very low-budget automation solution.
 Playlists are based on hourly rotations of music categories and spots which may be scheduled for any hour of any day.
 Other features include:
@@ -10,4 +11,5 @@ Voice tracking. Record and insert voice tracks in the playlist. This helps your 
 Automatic song intros/outros. Pre-recorded song introductions can be included along with selected songs. This can help your station sound live without voice tracking.
 Generate Track Summaries for royalty reporting, and Spot Summaries for advertisement billing.
 Integrates with 3rd party traffic/billing software.
-and many more features.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=150084&affiliateid=200057808)
+and many more features.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=150084&affiliateid=200057808)

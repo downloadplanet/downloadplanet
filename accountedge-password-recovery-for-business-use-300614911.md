@@ -1,1 +1,3 @@
-# AccountEdge Password Recovery (for business use)<br />AccountEdge Password Recovery is a solution that instantly recovers passwords for AccountEdge and MYOB Accounting files. All passwords are recovered instantly regardless of their length (including multi-lingual ones). All versions of AccountEdge are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300614911&affiliateid=200057808)
+# AccountEdge Password Recovery (for business use)
+AccountEdge Password Recovery is a solution that instantly recovers passwords for AccountEdge and MYOB Accounting files. All passwords are recovered instantly regardless of their length (including multi-lingual ones). All versions of AccountEdge are supported.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300614911&affiliateid=200057808)

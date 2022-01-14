@@ -1,1 +1,2 @@
-# ImmFW: 3. Personal, Arbeitsorg. u. Qualifizierung, Videocoaching, 11 Videos plus komplettes Begleitskript mit Dozentenschlüssel und Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300627456&affiliateid=200057808)
+# ImmFW: 3. Personal, Arbeitsorg. u. Qualifizierung, Videocoaching, 11 Videos plus komplettes Begleitskript mit Dozentenschlüssel und Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300627456&affiliateid=200057808)

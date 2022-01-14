@@ -1,2 +1,4 @@
-# Goal staircase<br />The program for recording your personal goals for every month and year.
-Goal staircase is plug-in for Windows-version of LeaderTask software (ID 300627106).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300775955&affiliateid=200057808)
+# Goal staircase
+The program for recording your personal goals for every month and year.
+Goal staircase is plug-in for Windows-version of LeaderTask software (ID 300627106).
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300775955&affiliateid=200057808)

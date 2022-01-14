@@ -1,1 +1,3 @@
-# Oclipboard Pro<br />.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300992749&affiliateid=200057808)
+# Oclipboard Pro
+.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300992749&affiliateid=200057808)

@@ -1,1 +1,3 @@
-# SysInfo DXL to PST Converter[Administrator License]<br />SysInfoTools DXL to PST Converter is an advanced solution for converting your DXL files into Outlook PST format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300670196&affiliateid=200057808)
+# SysInfo DXL to PST Converter[Administrator License]
+SysInfoTools DXL to PST Converter is an advanced solution for converting your DXL files into Outlook PST format.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300670196&affiliateid=200057808)

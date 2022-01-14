@@ -1,4 +1,5 @@
-# Tubed displacement maps and textures PSD V1<br />www.graphicxtras.com -- Tubed displacement maps Photoshop & Elements & PSP Textures PSD PC & MAC OSX V1
+# Tubed displacement maps and textures PSD V1
+www.graphicxtras.com -- Tubed displacement maps Photoshop & Elements & PSP Textures PSD PC & MAC OSX V1
 
 Displacement maps for Adobe (R) Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 6 + Adobe (R) Photoshop (R) Elements and PaintShop Pro etc
 100 'Tubed' and 'tube' mixed displacement maps for Adobe (R) Photoshop (R)
@@ -24,4 +25,5 @@ MENU:
 Any questions, please mail us on support@graphicxtras.com
 on http://www.graphicxtras.com
 
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300048473&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300048473&affiliateid=200057808)

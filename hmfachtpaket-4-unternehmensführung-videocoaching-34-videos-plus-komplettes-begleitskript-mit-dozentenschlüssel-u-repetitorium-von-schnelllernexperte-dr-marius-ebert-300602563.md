@@ -1,1 +1,2 @@
-# HM-Fachtpaket: 4. Unternehmensführung, Videocoaching, 34 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300602563&affiliateid=200057808)
+# HM-Fachtpaket: 4. Unternehmensführung, Videocoaching, 34 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300602563&affiliateid=200057808)

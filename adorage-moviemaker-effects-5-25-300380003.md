@@ -1,2 +1,5 @@
-# Adorage Moviemaker Effects # 5 (- 25%)<br />![Adorage Moviemaker Effects # 5 (- 25%)](https://mycommerce.akamaized.net/api/pimages/P300380003/BIG/300380003.GIF)<br />NEW: Broadcasting Video-Effects as direct integration into Microsoft Movie Maker!
- Get more informations about this product, samples and descriptions...<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300380003&affiliateid=200057808)
+# Adorage Moviemaker Effects # 5 (- 25%)
+![Adorage Moviemaker Effects # 5 (- 25%)](https://mycommerce.akamaized.net/api/pimages/P300380003/BIG/300380003.GIF)
+NEW: Broadcasting Video-Effects as direct integration into Microsoft Movie Maker!
+ Get more informations about this product, samples and descriptions...
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300380003&affiliateid=200057808)

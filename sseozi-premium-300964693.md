@@ -1,1 +1,3 @@
-# sseozi - PREMIUM<br />.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300964693&affiliateid=200057808)
+# sseozi - PREMIUM
+.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300964693&affiliateid=200057808)

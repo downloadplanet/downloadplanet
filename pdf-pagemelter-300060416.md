@@ -1,1 +1,3 @@
-# PDF PageMelter<br />Place 4 pdf pages on one page<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060416&affiliateid=200057808)
+# PDF PageMelter
+Place 4 pdf pages on one page
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060416&affiliateid=200057808)

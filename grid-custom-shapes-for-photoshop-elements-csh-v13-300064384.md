@@ -1,4 +1,5 @@
-# Grid Custom shapes for Photoshop & Elements (CSH) V13<br />www.graphicxtras.com -- Grid Custom Shapes for Adobe Photoshop & Elements CSH PC & MAC OSX V13
+# Grid Custom shapes for Photoshop & Elements (CSH) V13
+www.graphicxtras.com -- Grid Custom Shapes for Adobe Photoshop & Elements CSH PC & MAC OSX V13
 
 Grid custom shapes for Photoshop
 340 Grids custom shapes + tabular designs + many variant grid designs. Grid set includes many different types of grid: basic grids, line grids, circular grids shapes, thin grids, complex grid custom shapes, unusual table shapes, basic table custom shapes and many more for Adobe (R) Photoshop (R) and elements PC and MAC
@@ -25,4 +26,5 @@ MENU:
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300064384&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300064384&affiliateid=200057808)

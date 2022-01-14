@@ -1,4 +1,5 @@
-# Zoom lines displacements Textures & Distortions PSD for Photoshop & Elements & PSP V2<br />www.graphicxtras.com -- Zoom lines displacements Textures & Distortions PSD Photoshop & Elements & PSP V2
+# Zoom lines displacements Textures & Distortions PSD for Photoshop & Elements & PSP V2
+www.graphicxtras.com -- Zoom lines displacements Textures & Distortions PSD Photoshop & Elements & PSP V2
 
 Displacement maps for Adobe (R) Photoshop (R) CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 CS1 7 6 + Adobe (R) Photoshop (R) Elements 10 9 8 7 6 5 3 2 1 + Corel (R) Paint Shop Pro (R) Photo
 150 Zoom line / focus line mixed displacement maps for Adobe (R) Photoshop (R)
@@ -25,4 +26,5 @@ MENU:
 Any questions, please mail us on support@graphicxtras.com
 http://www.graphicxtras.com/zooms.htm
 
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300073222&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300073222&affiliateid=200057808)

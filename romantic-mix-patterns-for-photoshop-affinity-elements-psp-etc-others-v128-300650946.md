@@ -1,4 +1,5 @@
-# Romantic Mix Patterns for Photoshop, Affinity, Elements, PSP, etc & Others V128<br />www.graphicxtras.com -- Romantic mix patterns for Adobe Photoshop & Elements & Painter & PSP V127
+# Romantic Mix Patterns for Photoshop, Affinity, Elements, PSP, etc & Others V128
+www.graphicxtras.com -- Romantic mix patterns for Adobe Photoshop & Elements & Painter & PSP V127
 
 40 Romantic mix / heart artworks pattern seamless tiles
 1500 x 1500 Hi-quality artworks
@@ -34,4 +35,5 @@ Text can be combined with the patterns in numerous ways
 
 
 
-Additional paths such as stars can be added to any of the artworks<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300650946&affiliateid=200057808)
+Additional paths such as stars can be added to any of the artworks
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300650946&affiliateid=200057808)

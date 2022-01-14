@@ -1,3 +1,5 @@
-# Abstract Patterns for Photoshop & Elements & PSP V70<br />www.graphicxtras.com -- Abstract patterns for Adobe Photoshop & Elements & PSP V70
+# Abstract Patterns for Photoshop & Elements & PSP V70
+www.graphicxtras.com -- Abstract patterns for Adobe Photoshop & Elements & PSP V70
 
-50 Abstract Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by http://www.graphicxtras.com (Andrew Buckle) - 500 x 500 but can be re-scaled etc. Set includes the patterns in PAT and PNG format<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300482641&affiliateid=200057808)
+50 Abstract Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by http://www.graphicxtras.com (Andrew Buckle) - 500 x 500 but can be re-scaled etc. Set includes the patterns in PAT and PNG format
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300482641&affiliateid=200057808)

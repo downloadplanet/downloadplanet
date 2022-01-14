@@ -1,4 +1,6 @@
-# Heroglyph V1 Backup-CD<br />![Heroglyph V1 Backup-CD](https://mycommerce.akamaized.net/api/pimages/P532160/BIG/532160.GIF)<br />VERSION 1 reduced now (instead of 169 Euro)!!!
+# Heroglyph V1 Backup-CD
+![Heroglyph V1 Backup-CD](https://mycommerce.akamaized.net/api/pimages/P532160/BIG/532160.GIF)
+VERSION 1 reduced now (instead of 169 Euro)!!!
 HEROGLYPH: Create fantastic titles and easy composite Video,Graphic and Text in one software
 Looking for professional trailers?
 Or powerful intros?
@@ -23,4 +25,5 @@ productwebsite
 
 samples / demos
 Summary: Heroglyph - a new kind of titling and compositing software for your outstanding productions!
-Screenshot samples<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=532160&affiliateid=200057808)
+Screenshot samples
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=532160&affiliateid=200057808)

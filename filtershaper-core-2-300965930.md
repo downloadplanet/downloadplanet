@@ -1,1 +1,3 @@
-# FilterShaper Core 2<br />Experience all the richness, warmth and intricacy of a high-quality analogue filter with FilterShaper Core 2. Choose from warm Sallen-Key filters based on classic hardware designs, and Clean zero-delay feedback (ZDF) modes. Create amazing modulations and wild patterns in seconds with a drawable LFO and envelope follower on every band.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300965930&affiliateid=200057808)
+# FilterShaper Core 2
+Experience all the richness, warmth and intricacy of a high-quality analogue filter with FilterShaper Core 2. Choose from warm Sallen-Key filters based on classic hardware designs, and Clean zero-delay feedback (ZDF) modes. Create amazing modulations and wild patterns in seconds with a drawable LFO and envelope follower on every band.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300965930&affiliateid=200057808)

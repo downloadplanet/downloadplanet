@@ -1,1 +1,4 @@
-# PWM Generator<br />![PWM Generator](https://mycommerce.akamaized.net/api/pimages/P300338229/BIG/300338229.PNG)<br />The PWM Generator can generate PWM signals in real time.You can save 4 memory presets and the software supports multiple sound cards.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300338229&affiliateid=200057808)
+# PWM Generator
+![PWM Generator](https://mycommerce.akamaized.net/api/pimages/P300338229/BIG/300338229.PNG)
+The PWM Generator can generate PWM signals in real time.You can save 4 memory presets and the software supports multiple sound cards.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300338229&affiliateid=200057808)

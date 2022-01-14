@@ -1,1 +1,3 @@
-# TMS Business Subscription - Site License<br />TMS BI Pack is a bundle from TMS Software (http://www.tmssoftware.com) that includes the following products: TMS Aurelius TMS Data Modeler TMS Scripter Studio Pro TMS Workflow Studio TMS Diagram Studio TMS Query Studio<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300527392&affiliateid=200057808)
+# TMS Business Subscription - Site License
+TMS BI Pack is a bundle from TMS Software (http://www.tmssoftware.com) that includes the following products: TMS Aurelius TMS Data Modeler TMS Scripter Studio Pro TMS Workflow Studio TMS Diagram Studio TMS Query Studio
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300527392&affiliateid=200057808)

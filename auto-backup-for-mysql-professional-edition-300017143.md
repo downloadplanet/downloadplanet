@@ -1,4 +1,6 @@
-# Auto Backup for MySQL Professional Edition<br />![Auto Backup for MySQL Professional Edition](https://mycommerce.akamaized.net/api/pimages/P300017143/BIG/300017143.JPG)<br />Auto Backup for MySQL Professional Edition
+# Auto Backup for MySQL Professional Edition
+![Auto Backup for MySQL Professional Edition](https://mycommerce.akamaized.net/api/pimages/P300017143/BIG/300017143.JPG)
+Auto Backup for MySQL Professional Edition
 
 Professional and Easy-To-Use MySQL Backup GUI Software to Schedule Backing Up and Restoring of Your MySQL Databases.
 
@@ -22,4 +24,5 @@ Auto Backup for MySQL Professional Edition works as a stand-alone utility, and d
 
 The software can be used to back up MySQL databases from the original server to the SQL files on the local disk or network driver, to the backup server, or copy a database to the other, vice verse, it can be used to restore MySQL databases from the SQL files, the backup server or database.
 
-Auto Backup for MySQL Professional Edition will automatically perform the backup and restore work unattended. You can also run the program manually, any time you'd like. You can even run the software as a Windows Service, this way, you do not need to log in Windows for backing up and restoring.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300017143&affiliateid=200057808)
+Auto Backup for MySQL Professional Edition will automatically perform the backup and restore work unattended. You can also run the program manually, any time you'd like. You can even run the software as a Windows Service, this way, you do not need to log in Windows for backing up and restoring.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300017143&affiliateid=200057808)

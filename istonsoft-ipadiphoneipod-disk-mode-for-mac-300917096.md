@@ -1,4 +1,6 @@
-# iStonsoft iPad/iPhone/iPod Disk Mode for Mac<br />![iStonsoft iPad/iPhone/iPod Disk Mode for Mac](https://mycommerce.akamaized.net/api/pimages/P300917096/BIG/300917096.PNG)<br />iPad, iPhone and iPod disk mode is made easy with iStonsoft iPad/iPhone/iPod Disk Mode for Mac, which is designed to mount iOS device as hard drive.
+# iStonsoft iPad/iPhone/iPod Disk Mode for Mac
+![iStonsoft iPad/iPhone/iPod Disk Mode for Mac](https://mycommerce.akamaized.net/api/pimages/P300917096/BIG/300917096.PNG)
+iPad, iPhone and iPod disk mode is made easy with iStonsoft iPad/iPhone/iPod Disk Mode for Mac, which is designed to mount iOS device as hard drive.
 
 This software allows you to use iOS device as a portable hard disk, so you can copy files like video, audio, images, etc. between Mac and iPhone, iPod, iPad.
 
@@ -28,4 +30,5 @@ Comes with intuitive interface, iStonsoft iPad/iPhone/iPod Disk Mode is easy to 
 
 Upgrade constantly to support next generation iOS devices
 
-iStonsoft iPad/iPhone/iPod Disk Mode will upgrade constantly to keep up with new iOS and the next generation iPhone, iPod, iPad! You will enjoy life time free upgrade services as your will.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917096&affiliateid=200057808)
+iStonsoft iPad/iPhone/iPod Disk Mode will upgrade constantly to keep up with new iOS and the next generation iPhone, iPod, iPad! You will enjoy life time free upgrade services as your will.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917096&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Embellishment custom shapes for Photoshop and Elements V28<br />www.graphicxtras.com -- Embellish Custom Shapes Flourish & Swirls Photoshop & Elements V28
+# Embellishment custom shapes for Photoshop and Elements V28
+www.graphicxtras.com -- Embellish Custom Shapes Flourish & Swirls Photoshop & Elements V28
 
 Custom shapes for Photoshop and Photoshop Elements
 200 Embellishment themed custom shapes' designs for Adobe (R) Photoshop (R)
@@ -22,4 +23,5 @@ MENU:
 
 Any questions about the custom shapes??
 Other custom shapes can be found on http://www.graphicxtras.com
-More info on http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300161758&affiliateid=200057808)
+More info on http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300161758&affiliateid=200057808)

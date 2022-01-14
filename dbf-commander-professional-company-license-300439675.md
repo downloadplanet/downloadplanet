@@ -1,4 +1,6 @@
-# DBF Commander Professional (Company License)<br />![DBF Commander Professional (Company License)](https://mycommerce.akamaized.net/api/pimages/P300439675/BIG/300439675.JPG)<br />DBF Commander Professional
+# DBF Commander Professional (Company License)
+![DBF Commander Professional (Company License)](https://mycommerce.akamaized.net/api/pimages/P300439675/BIG/300439675.JPG)
+DBF Commander Professional
 
 Today there are a lot of DBF editors. During developing the application our team paramount purpose were to create something new, filled with unique features. But at the same time, the application needs to supply the most common DBF file operations and a convenient user interface. As a result of the work we are glad to offer for you the DBF Commander Professional - the most powerful, flexible, comfortable, and professional tool for DBF file work up!
 
@@ -27,4 +29,5 @@ Export to SQL file - script DBF file as CREATE TABLE and INSERT INTO clauses of 
 Wizard of building a chart (graph, bar, pie, area, point, and etc. styles)
 Command line support
 Multiple (MDI) document interface
-Fastest print preview report generation.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300439675&affiliateid=200057808)
+Fastest print preview report generation.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300439675&affiliateid=200057808)

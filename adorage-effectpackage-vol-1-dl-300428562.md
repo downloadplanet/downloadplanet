@@ -1,2 +1,5 @@
-# Adorage Effectpackage Vol. 1 (DL)<br />![Adorage Effectpackage Vol. 1 (DL)](https://mycommerce.akamaized.net/api/pimages/P300428562/BIG/300428562.JPG)<br />Classic - the universal effect collection
- Get more informations about this product, samples and descriptions...<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428562&affiliateid=200057808)
+# Adorage Effectpackage Vol. 1 (DL)
+![Adorage Effectpackage Vol. 1 (DL)](https://mycommerce.akamaized.net/api/pimages/P300428562/BIG/300428562.JPG)
+Classic - the universal effect collection
+ Get more informations about this product, samples and descriptions...
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428562&affiliateid=200057808)

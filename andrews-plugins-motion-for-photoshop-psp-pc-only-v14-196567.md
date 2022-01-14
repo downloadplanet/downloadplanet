@@ -1,4 +1,5 @@
-# Andrews Plugins Motion for Photoshop & PSP (PC only) V14<br />www.graphicxtras.com -- Andrews Plugins GX Motion Adobe Photoshop & PSP & Elements PC V14
+# Andrews Plugins Motion for Photoshop & PSP (PC only) V14
+www.graphicxtras.com -- Andrews Plugins GX Motion Adobe Photoshop & PSP & Elements PC V14
 
 ** Add plug-in set to secure shareit.com shopping cart (graphicxtras.com)
 Power effects for graphics applications PC
@@ -25,4 +26,5 @@ A demo set is available on the graphicxtras.com site
 See all our video tutorials on http://www.youtube.com/graphicxtras
 
 
-Home page is http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=196567&affiliateid=200057808)
+Home page is http://www.graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=196567&affiliateid=200057808)

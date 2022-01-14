@@ -1,1 +1,2 @@
-# Industriemeister/in - Pharmazie (IHK), B.II.4., Personalführung, 7 Videos, Gesamtspielzeit 02 : 12 Std. mit 89 S. Begleitskript und Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634409&affiliateid=200057808)
+# Industriemeister/in - Pharmazie (IHK), B.II.4., Personalführung, 7 Videos, Gesamtspielzeit 02 : 12 Std. mit 89 S. Begleitskript und Repetitorium von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634409&affiliateid=200057808)

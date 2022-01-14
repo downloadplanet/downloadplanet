@@ -1,4 +1,5 @@
-# Mixed symbols for Flash (FLA) V2<br />www.graphicxtras.com -- Mixed symbols Flash CC & CS6 5 4 3 MX FLA Shapes V2
+# Mixed symbols for Flash (FLA) V2
+www.graphicxtras.com -- Mixed symbols Flash CC & CS6 5 4 3 MX FLA Shapes V2
 
 1000 Stunning mixed symbols for Adobe (R) Flash (R)
 Royalty-free, use in commercial or hobby projects
@@ -19,4 +20,5 @@ MENU:
 
 
 Any questions, please mail us on support@graphicxtras.comFlash symbols on http://www.graphicxtras.com
-http://www.graphicxtras.com for all our product information<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300061073&affiliateid=200057808)
+http://www.graphicxtras.com for all our product information
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300061073&affiliateid=200057808)

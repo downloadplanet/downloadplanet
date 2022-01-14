@@ -1,3 +1,5 @@
-# Arrow Custom shapes for Photoshop & Elements (CSH) V174<br />www.graphicxtras.com -- Arrow Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X V174
+# Arrow Custom shapes for Photoshop & Elements (CSH) V174
+www.graphicxtras.com -- Arrow Custom Shapes for Adobe Photoshop & Elements PC & MAC OS X V174
 
-100 Arrow arrows shapes for Photoshop and Elements - License: commercial use (and personal), all by graphicxtras.com --- released February 12th 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300502256&affiliateid=200057808)
+100 Arrow arrows shapes for Photoshop and Elements - License: commercial use (and personal), all by graphicxtras.com --- released February 12th 2012
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300502256&affiliateid=200057808)

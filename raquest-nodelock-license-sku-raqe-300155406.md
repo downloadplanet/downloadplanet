@@ -1,1 +1,3 @@
-# RaQuest Nodelock License (SKU RAQE)<br />RaQuest Nodelock License (SKU RAQE) Requirements Management is used for managing the requirements of systems and applications effectively. With RaQuest, you can track changes of requirements and manage requirements with a range of features. RaQuest is the ideal tool for the enhanced development of your software.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300155406&affiliateid=200057808)
+# RaQuest Nodelock License (SKU RAQE)
+RaQuest Nodelock License (SKU RAQE) Requirements Management is used for managing the requirements of systems and applications effectively. With RaQuest, you can track changes of requirements and manage requirements with a range of features. RaQuest is the ideal tool for the enhanced development of your software.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300155406&affiliateid=200057808)

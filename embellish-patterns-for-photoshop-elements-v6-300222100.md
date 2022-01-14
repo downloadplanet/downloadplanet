@@ -1,4 +1,5 @@
-# Embellish patterns for Photoshop & Elements V6<br />www.graphicxtras.com -- Embellish patterns for Adobe Photoshop & Elements V6
+# Embellish patterns for Photoshop & Elements V6
+www.graphicxtras.com -- Embellish patterns for Adobe Photoshop & Elements V6
 
 120 Embellishment patterns Photoshop and Photoshop Elements, PC + MAC OS X. Patterns include many different mixed designs such as basic embellishment patterns, flourish patterns, foliage patterns, curved patterns, unusual patterns, distress patterns and more
 
@@ -17,4 +18,5 @@ Set is download, you are e-mailed the download link
 
 
 
-Any questions please mail me<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300222100&affiliateid=200057808)
+Any questions please mail me
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300222100&affiliateid=200057808)

@@ -1,3 +1,5 @@
-# Christmas Cracker brushes for Photoshop, Affinity, Elements, PSP, etc Xmas & Festive V84<br />www.graphicxtras.com -- Christmas Cracker Brushes for Adobe Photoshop & Elements & PSP Xmas & Festive V84
+# Christmas Cracker brushes for Photoshop, Affinity, Elements, PSP, etc Xmas & Festive V84
+www.graphicxtras.com -- Christmas Cracker Brushes for Adobe Photoshop & Elements & PSP Xmas & Festive V84
 
-Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469246&affiliateid=200057808)
+Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469246&affiliateid=200057808)

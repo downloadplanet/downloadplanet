@@ -1,4 +1,6 @@
-# Fachkaufmann für Marketing - Rechtliche Aspekte im Marketing<br />![Fachkaufmann für Marketing - Rechtliche Aspekte im Marketing](https://mycommerce.akamaized.net/api/pimages/P300381788/BIG/300381788.JPG)<br />  Prüfungsfach
+# Fachkaufmann für Marketing - Rechtliche Aspekte im Marketing
+![Fachkaufmann für Marketing - Rechtliche Aspekte im Marketing](https://mycommerce.akamaized.net/api/pimages/P300381788/BIG/300381788.JPG)
+  Prüfungsfach
   Rechtliche Aspekte im Marketing
   Das Bürgerliche Recht im Marketing
 Das Wettbewerbsrecht und der gewerbliche Rechtsschutz
@@ -17,4 +19,5 @@ EMail: verlag@lernlocker.de
 Internet: www.lernlocker.de
   Handelsregister Nr. HRA 7885
 Amtsgericht Aachen
-  Ust.-ID DE 249 894 277<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381788&affiliateid=200057808)
+  Ust.-ID DE 249 894 277
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381788&affiliateid=200057808)

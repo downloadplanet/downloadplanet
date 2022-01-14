@@ -1,1 +1,3 @@
-# Layer2 Tag Cloud Web Part for SharePoint<br />Navigate the content by its importance using a familiar taxonomy-based tag cloud. Flexible link building, e.g. link to Tag Profile page or content result list. Optionally additional information, e.g. tag description and usage count. Template-based design.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300482363&affiliateid=200057808)
+# Layer2 Tag Cloud Web Part for SharePoint
+Navigate the content by its importance using a familiar taxonomy-based tag cloud. Flexible link building, e.g. link to Tag Profile page or content result list. Optionally additional information, e.g. tag description and usage count. Template-based design.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300482363&affiliateid=200057808)

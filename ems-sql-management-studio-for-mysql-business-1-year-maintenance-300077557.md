@@ -1,1 +1,3 @@
-# EMS SQL Management Studio for MySQL (Business) + 1 Year Maintenance<br />EMS SQL Management Studio for MySQL is a complete solution for MySQL database administration and development. SQL Studio unites the must-have MySQL tools in one powerful and easy-to-use environment that will make you more productive than ever before!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300077557&affiliateid=200057808)
+# EMS SQL Management Studio for MySQL (Business) + 1 Year Maintenance
+EMS SQL Management Studio for MySQL is a complete solution for MySQL database administration and development. SQL Studio unites the must-have MySQL tools in one powerful and easy-to-use environment that will make you more productive than ever before!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300077557&affiliateid=200057808)

@@ -1,4 +1,6 @@
-# BasicAudio ( Delphi/C++Builder Edition ) Single License<br />![BasicAudio ( Delphi/C++Builder Edition ) Single License](https://mycommerce.akamaized.net/api/pimages/P300236996/BIG/300236996.JPG)<br />BasicAudio is a set of components, based on OpenWire technology for audio capture and playback. They allow creating audio capture, playback with zero lines of program code.
+# BasicAudio ( Delphi/C++Builder Edition ) Single License
+![BasicAudio ( Delphi/C++Builder Edition ) Single License](https://mycommerce.akamaized.net/api/pimages/P300236996/BIG/300236996.JPG)
+BasicAudio is a set of components, based on OpenWire technology for audio capture and playback. They allow creating audio capture, playback with zero lines of program code.
 BasicAudio is low cost subset of the more powerful AudioLab. BasicAudio contains only capture, recording and playback components. It is designed for only basic audio functionality such as recording and playback.
 BasicAudio supports both the old fashion Wave Win32 API, Audio ACM, and DirectShow, and even allows if needed any mixture of them. The developer can choose to go with any of them, to use all, or can switch from the one to the other at any moment. The components hide the complexity of both approaches, and make them look almost identical from the users prospective.
 The library is fully multi-threaded, utilizes well modern multi-core systems, and runs at full native performance.
@@ -11,4 +13,5 @@ Output - plays audio aver speakers, LineOut, Modem or other Output device (Direc
 Custom Generator - generate custom audio.
 Processing - Custom audio filter.
 Typical applications:
-Audio recording/playback.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236996&affiliateid=200057808)
+Audio recording/playback.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236996&affiliateid=200057808)

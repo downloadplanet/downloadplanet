@@ -1,1 +1,2 @@
-# DMDE Professional Edition 1-OS<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300329323&affiliateid=200057808)
+# DMDE Professional Edition 1-OS
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300329323&affiliateid=200057808)

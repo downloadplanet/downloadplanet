@@ -1,4 +1,5 @@
-# Excel Regenerator<br />30-day money back guarantee
+# Excel Regenerator
+30-day money back guarantee
 Unlimited license period
 Free minor updates
 Large discounts on major upgrades
@@ -9,4 +10,5 @@ Ability to recover corrupted documents from entire disk instead of retrieving da
 The product scans disk at physical level and supports all versions of FAT and NTFS
 The product recovers files from lost, deleted partitions, and from reformatted disks
 Autosave allows continuing recovery, terminated at any stage
-Filter Option - easy find the documents you need among all recovered files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300945155&affiliateid=200057808)
+Filter Option - easy find the documents you need among all recovered files
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300945155&affiliateid=200057808)

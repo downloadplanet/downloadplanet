@@ -1,3 +1,5 @@
-# Cat pattern swatches for Illustrator (AI format)<br />www.graphicxtras.com -- 260 Cat Pattern Swatches for Adobe Illustrator PC & MAC OSX Animals Vector pattern tiles V1
+# Cat pattern swatches for Illustrator (AI format)
+www.graphicxtras.com -- 260 Cat Pattern Swatches for Adobe Illustrator PC & MAC OSX Animals Vector pattern tiles V1
 
-260 Cat Swatches for Illustrator CC 2017 2015 2014 CS6 CS5 etc and all in standard AI format, all for commercial use, all royalty-free, create items for sale, all are by graphicxtras.com / Andrew Buckle (based on renders of a cat model). Access the AI cat patterns via the swatches panel in Illustrator and apply to paths and type etc. Find out more via the graphicxtras.com site along with youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300542589&affiliateid=200057808)
+260 Cat Swatches for Illustrator CC 2017 2015 2014 CS6 CS5 etc and all in standard AI format, all for commercial use, all royalty-free, create items for sale, all are by graphicxtras.com / Andrew Buckle (based on renders of a cat model). Access the AI cat patterns via the swatches panel in Illustrator and apply to paths and type etc. Find out more via the graphicxtras.com site along with youtube.com/graphicxtras
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300542589&affiliateid=200057808)

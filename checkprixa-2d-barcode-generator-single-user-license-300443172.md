@@ -1,3 +1,5 @@
-# CheckPrixa 2D Barcode Generator (Single User License)<br />CheckPrixa 2D Barcode Generator is capable of generating high resolution barcode images of DataMatrix, PDF417, QR and MICRO QR 2D symbologies. These images may be inserted into third party applications such as Microsoft Office, Adobe InDesign or Google Docs for further processing and print production.
+# CheckPrixa 2D Barcode Generator (Single User License)
+CheckPrixa 2D Barcode Generator is capable of generating high resolution barcode images of DataMatrix, PDF417, QR and MICRO QR 2D symbologies. These images may be inserted into third party applications such as Microsoft Office, Adobe InDesign or Google Docs for further processing and print production.
 
-The Single User License allows the use of the 2D Barcode Generator on a single machine.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300443172&affiliateid=200057808)
+The Single User License allows the use of the 2D Barcode Generator on a single machine.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300443172&affiliateid=200057808)

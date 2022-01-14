@@ -1,4 +1,6 @@
-# AnyMini C: Character Count Software - Corporate License: 5 PCs<br />![AnyMini C: Character Count Software - Corporate License: 5 PCs](https://mycommerce.akamaized.net/api/pimages/P300036063/BIG/300036063.GIF)<br />AnyMini C is automatic character count software. It is character count program for all common file formats, which supports .DOC, .RTF, .XLS, .PPT, .PPS, .HTM, .CSV,.
+# AnyMini C: Character Count Software - Corporate License: 5 PCs
+![AnyMini C: Character Count Software - Corporate License: 5 PCs](https://mycommerce.akamaized.net/api/pimages/P300036063/BIG/300036063.GIF)
+AnyMini C is automatic character count software. It is character count program for all common file formats, which supports .DOC, .RTF, .XLS, .PPT, .PPS, .HTM, .CSV,.
 After character count is completed, you can:
 view character count results on the screen;
 print character count results;
@@ -15,4 +17,5 @@ You can view results of text count in various units without need to count the te
 Add Files dialog enhanced.
 Check out other text count products by Advanced International Translators used by thousands of users worldwide:
 AnyCount: Word Count, Character Count and Line Count Software at http://www.anycount.com
-AnyMaxi: Text Count and Invoicing Software at http://www.anymaxi.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300036063&affiliateid=200057808)
+AnyMaxi: Text Count and Invoicing Software at http://www.anymaxi.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300036063&affiliateid=200057808)

@@ -1,4 +1,5 @@
-# Face Patterns for Photoshop & Elements & PSPV90<br />www.graphicxtras.com -- Face patterns for Adobe Photoshop & Elements & PSP V90
+# Face Patterns for Photoshop & Elements & PSPV90
+www.graphicxtras.com -- Face patterns for Adobe Photoshop & Elements & PSP V90
 
 100 Female face patterns / seamless tiles
 Patterns / tiles / swatches for Photoshop CC 2017 2015 2014 CS6 CS5 CS4 CS3 CS2 etc as well as Photoshop Elements 13 12 11 10 9 8 7 etc and also standalone
@@ -15,4 +16,5 @@ Also use as a source for brushes and just as layers / images
 Commercial use as well as personal, royalty free, no credit required, no time limits, world wide use
 All created by Andrew Buckle / graphicxtras.com
 On purchase, receive the PAT and PNG along with documentation and gallery and serial
-See our video tutorials on how to install, load, re-color, use in styles, with adjustments and effects and more Tutorials<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300502453&affiliateid=200057808)
+See our video tutorials on how to install, load, re-color, use in styles, with adjustments and effects and more Tutorials
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300502453&affiliateid=200057808)

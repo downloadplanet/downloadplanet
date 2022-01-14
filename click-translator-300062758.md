@@ -1,4 +1,5 @@
-# Click Translator<br />Click Translator is a tool that provides instant translation of your selected text in 53 major languages.
+# Click Translator
+Click Translator is a tool that provides instant translation of your selected text in 53 major languages.
 /p> All you have to do is to select text from anywhere on screen and with one keystroke you will get its translation in a balloon message.
 /p> Click Translator removes language barriers across the World Wide Web and enables you to communicate in different languages with ease.
 FEATURES:
@@ -22,4 +23,5 @@ Freeze current window and wait for translation result.
 
 Transparent Window and Minimize to Systray (system tray).
 
-Switch between normal GUI and simplified GUI.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300062758&affiliateid=200057808)
+Switch between normal GUI and simplified GUI.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300062758&affiliateid=200057808)

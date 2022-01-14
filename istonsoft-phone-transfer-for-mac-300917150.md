@@ -1,5 +1,8 @@
-# iStonsoft Phone Transfer for Mac<br />![iStonsoft Phone Transfer for Mac](https://mycommerce.akamaized.net/api/pimages/P300917150/BIG/300917150.PNG)<br />iStonsoft Phone Transfer for Mac is a risk-free yet easy-to-use phone to phone transfer program, which allows users to transfer contacts, text messages, call logs, calendar, photos, etc. between Android phones.
+# iStonsoft Phone Transfer for Mac
+![iStonsoft Phone Transfer for Mac](https://mycommerce.akamaized.net/api/pimages/P300917150/BIG/300917150.PNG)
+iStonsoft Phone Transfer for Mac is a risk-free yet easy-to-use phone to phone transfer program, which allows users to transfer contacts, text messages, call logs, calendar, photos, etc. between Android phones.
 * Transfer photo contacts, SMS, media files, call logs, etc. from one device to another.
 * Backup Phone Data and Restore in Zero Losing Quality. You can directly use the “Backup” function to backup your phone to the PC at one time. You can restore the backed up files to the new device, or restore partial of data from the phone backup as you like.
 * Support for 3000+ phones and networks, it works well with Samsung, HTC, LG, Sony, Google, HUAWEI etc.
-* Backup and secure transfer to keep your phone data from being erased.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917150&affiliateid=200057808)
+* Backup and secure transfer to keep your phone data from being erased.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917150&affiliateid=200057808)

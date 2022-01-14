@@ -1,4 +1,6 @@
-# Coolmuster iOS Eraser - Lifetime License(6-10PCs)<br />![Coolmuster iOS Eraser - Lifetime License(6-10PCs)](https://mycommerce.akamaized.net/api/pimages/P300882136/BIG/300882136.PNG)<br />To guard against theft your data on your old iPad, iPhone and iPod when you sell, donate or trade your device, Coolmuster meticulously releases the iOS Eraser that wipes all private information, system settings, deleted files and more from the device with zero possibility of recovery.
+# Coolmuster iOS Eraser - Lifetime License(6-10PCs)
+![Coolmuster iOS Eraser - Lifetime License(6-10PCs)](https://mycommerce.akamaized.net/api/pimages/P300882136/BIG/300882136.PNG)
+To guard against theft your data on your old iPad, iPhone and iPod when you sell, donate or trade your device, Coolmuster meticulously releases the iOS Eraser that wipes all private information, system settings, deleted files and more from the device with zero possibility of recovery.
 Perfectly Erase Data on Your iDevice without Restoration
 To protect your data from leakage, Coolmuster iOS Eraser can meet all of your requirement to completely and permanently delete all data on your iDevice and release more space on your device.
 
@@ -32,4 +34,5 @@ Coolmuster iOS Eraser works with almost all iOS devices and supports to erase al
 
 * Supported Files: It supports text messages, contacts, call logs, videos, photos, music, apps & app data, reminders, calendars, account info (iCloud & iTunes), passwords, voice memos, bookmarks, notes, browsing history and more.
 
-* Supported Devices: Almost all iOS devices are supported by this program, including iPhone, iPad and iPod touch.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300882136&affiliateid=200057808)
+* Supported Devices: Almost all iOS devices are supported by this program, including iPhone, iPad and iPod touch.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300882136&affiliateid=200057808)

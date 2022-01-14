@@ -1,2 +1,5 @@
-# Light Energy 3A Subliminal Package<br />![Light Energy 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300635535/BIG/300635535.JPG)<br />Light Energy 3A Subliminal
-supports you to use light energy. Light energy from pleasantly bright white light flows into your body, cleans, renewed and heals your body and mind and gives you a strong radiation. It will positively transform your life. Hear the Light Energy 3A Subliminal once daily for several weeks.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300635535&affiliateid=200057808)
+# Light Energy 3A Subliminal Package
+![Light Energy 3A Subliminal Package](https://mycommerce.akamaized.net/api/pimages/P300635535/BIG/300635535.JPG)
+Light Energy 3A Subliminal
+supports you to use light energy. Light energy from pleasantly bright white light flows into your body, cleans, renewed and heals your body and mind and gives you a strong radiation. It will positively transform your life. Hear the Light Energy 3A Subliminal once daily for several weeks.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300635535&affiliateid=200057808)

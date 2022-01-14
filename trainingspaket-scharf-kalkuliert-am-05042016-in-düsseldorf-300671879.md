@@ -1,4 +1,5 @@
-# Trainingspaket "Scharf kalkuliert" am 05.04.2016 in Düsseldorf<br />Seminar "Scharf kalkuliert"
+# Trainingspaket "Scharf kalkuliert" am 05.04.2016 in Düsseldorf
+Seminar "Scharf kalkuliert"
 Zielgruppe : alle Mitarbeiter und Azubis der Küche
 
 Den Teilnehmern wird in diesem Seminar aufgezeigt, wie sich die Kosten in der Küche zusammensetzen. Sie werden darauf sensibilisiert, künftig bei der Zubereitung der Speisen die Kosten mit zu berücksichtigen.
@@ -18,4 +19,5 @@ Ende: Dienstag, 05.04.2016, 17.00 Uhr
 
 Seminarort:Düsseldorf
 
-Übernachtungsmöglichkeiten: Düsseldorf<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671879&affiliateid=200057808)
+Übernachtungsmöglichkeiten: Düsseldorf
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671879&affiliateid=200057808)

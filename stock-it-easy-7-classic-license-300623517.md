@@ -1,4 +1,6 @@
-# Stock It Easy 7 classic license<br />![Stock It Easy 7 classic license](https://mycommerce.akamaized.net/api/pimages/P300623517/BIG/300623517.JPG)<br />Inventory management software Stock It Easy.
+# Stock It Easy 7 classic license
+![Stock It Easy 7 classic license](https://mycommerce.akamaized.net/api/pimages/P300623517/BIG/300623517.JPG)
+Inventory management software Stock It Easy.
 
 Descriptives
 
@@ -72,4 +74,5 @@ Quantity in 0 to 6 digits
 Free choice of currency resumed on various printed materials
 Titres des factures et des notes de crédit paramétrables
 Tracks invoices and credit notes configurable
-Customizing the title and content of emails generated<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300623517&affiliateid=200057808)
+Customizing the title and content of emails generated
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300623517&affiliateid=200057808)

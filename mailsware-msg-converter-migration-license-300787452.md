@@ -1,1 +1,3 @@
-# Mailsware MSG Converter - Migration License<br />Convert MSG Messages to Various File Types<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300787452&affiliateid=200057808)
+# Mailsware MSG Converter - Migration License
+Convert MSG Messages to Various File Types
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300787452&affiliateid=200057808)

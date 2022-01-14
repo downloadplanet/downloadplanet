@@ -1,4 +1,6 @@
-# TEX PACK 007 Ground<br />![TEX PACK 007 Ground](https://mycommerce.akamaized.net/api/pimages/P300534020/BIG/300534020.JPG)<br />Six Super high resolution texture for detail renderings.
+# TEX PACK 007 Ground
+![TEX PACK 007 Ground](https://mycommerce.akamaized.net/api/pimages/P300534020/BIG/300534020.JPG)
+Six Super high resolution texture for detail renderings.
 
 The package includes:
 
@@ -13,4 +15,5 @@ Pavement 4
 Pavement 5
 Pavement 11
 Pavement 12
-Pavement 13<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534020&affiliateid=200057808)
+Pavement 13
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300534020&affiliateid=200057808)

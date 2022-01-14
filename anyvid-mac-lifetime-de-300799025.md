@@ -1,1 +1,4 @@
-# AnyVid Mac Lifetime (DE)<br />![AnyVid Mac Lifetime (DE)](https://mycommerce.akamaized.net/api/pimages/P300799025/BIG/300799025.PNG)<br />Pool all video resources, supply video search and play. Download multi-format video from 1,000+ channels, convert videos to music files, and download whole playlist in batch. No virus, no ads, only fast and free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799025&affiliateid=200057808)
+# AnyVid Mac Lifetime (DE)
+![AnyVid Mac Lifetime (DE)](https://mycommerce.akamaized.net/api/pimages/P300799025/BIG/300799025.PNG)
+Pool all video resources, supply video search and play. Download multi-format video from 1,000+ channels, convert videos to music files, and download whole playlist in batch. No virus, no ads, only fast and free.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799025&affiliateid=200057808)

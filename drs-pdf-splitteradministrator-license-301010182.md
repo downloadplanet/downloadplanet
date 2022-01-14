@@ -1,1 +1,3 @@
-# DRS PDF Splitter[Administrator License]<br />DRS PDF Splitter- A very quick and advanced tool<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010182&affiliateid=200057808)
+# DRS PDF Splitter[Administrator License]
+DRS PDF Splitter- A very quick and advanced tool
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010182&affiliateid=200057808)

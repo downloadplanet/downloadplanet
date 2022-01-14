@@ -1,4 +1,5 @@
-# Easter Eggs fonts Truetype TTF & EPS for Apple Pages CorelDRAW & Word V16<br />www.graphicxtras.com -- Easter Eggs fonts Truetype & EPS Pages & Indesign & CorelDRAW & Word Vectors V16
+# Easter Eggs fonts Truetype TTF & EPS for Apple Pages CorelDRAW & Word V16
+www.graphicxtras.com -- Easter Eggs fonts Truetype & EPS Pages & Indesign & CorelDRAW & Word Vectors V16
 
 Easter eggs wrappings designs: TTF (true type font set) + EPS (vector shape set)
 Includes 102 unique designs and exciting and useful design elements
@@ -21,4 +22,5 @@ Access the fonts as you would any normal font such as Verdana or Arial or Times 
 Open or place or import EPS designs into many different applications
 Fonts are stored in normal true type font format
 http://www.graphicxtras.com for more details about font sets such as see examples of the designs as well as a thumbnail gallery of many of the designs as well as many additional examples of the vector designs.
-Mail any questions to support at graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300224550&affiliateid=200057808)
+Mail any questions to support at graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300224550&affiliateid=200057808)

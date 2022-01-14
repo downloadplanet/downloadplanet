@@ -1,4 +1,5 @@
-# Snow flake (Christmas) Custom shapes for Photoshop & Elements V24<br />www.graphicxtras.com -- Snow flake Custom Shapes for Adobe Photoshop & Elements Festive & Frosty & Christmas V24
+# Snow flake (Christmas) Custom shapes for Photoshop & Elements V24
+www.graphicxtras.com -- Snow flake Custom Shapes for Adobe Photoshop & Elements Festive & Frosty & Christmas V24
 
 315 Festive and snowflake and Xmas designs custom shapes
 
@@ -8,4 +9,5 @@ Royalty-free, use in most commercial and non commercial work (such as items for 
 
 Resolution-free designs, use as layers, web designs and paths
 
-PC + MAC OS X.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300133749&affiliateid=200057808)
+PC + MAC OS X.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300133749&affiliateid=200057808)

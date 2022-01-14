@@ -1,1 +1,3 @@
-# TZ-EasyBuch Bilanz<br />Accounting Software Germany<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300747802&affiliateid=200057808)
+# TZ-EasyBuch Bilanz
+Accounting Software Germany
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300747802&affiliateid=200057808)

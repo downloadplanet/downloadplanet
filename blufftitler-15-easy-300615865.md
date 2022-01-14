@@ -1,1 +1,2 @@
-# BluffTitler 15 EASY<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300615865&affiliateid=200057808)
+# BluffTitler 15 EASY
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300615865&affiliateid=200057808)

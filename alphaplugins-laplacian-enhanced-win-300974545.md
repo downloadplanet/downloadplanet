@@ -1,4 +1,6 @@
-# AlphaPlugins Laplacian Enhanced (Win)<br />![AlphaPlugins Laplacian Enhanced (Win)](https://mycommerce.akamaized.net/api/pimages/P300974545/BIG/300974545.JPG)<br />AlphaPlugins Laplacian Enhanced plug-in for Photoshop
+# AlphaPlugins Laplacian Enhanced (Win)
+![AlphaPlugins Laplacian Enhanced (Win)](https://mycommerce.akamaized.net/api/pimages/P300974545/BIG/300974545.JPG)
+AlphaPlugins Laplacian Enhanced plug-in for Photoshop
 
 The AlphaPlugins Laplacian Enhanced is a new FREE Photoshop plug-in that uses Laplacian pyramids to increase or decrease image details with very high quality and without any artifacts, halos or other undesirable effects.
 The AlphaPlugins Laplacian Enhanced can enforce image details and produce a pseudo HDR effect on usual source photos or opposite - loose details and reduce noise but keep all main image contours.
@@ -10,4 +12,5 @@ Highest quality of details enhancement without halo and artifacts.
 Incredible speed of calculation in real time.
 Can be used to produce pseudo HDR effects.
 Modern and intuitively user interface for efficient work.
-The plug-in is FREE<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300974545&affiliateid=200057808)
+The plug-in is FREE
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300974545&affiliateid=200057808)

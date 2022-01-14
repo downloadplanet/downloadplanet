@@ -1,1 +1,4 @@
-# AnyUTube Win Monthly (DE)<br />![AnyUTube Win Monthly (DE)](https://mycommerce.akamaized.net/api/pimages/P300788870/BIG/300788870.PNG)<br />The Best YouTube Downloader & Converter<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300788870&affiliateid=200057808)
+# AnyUTube Win Monthly (DE)
+![AnyUTube Win Monthly (DE)](https://mycommerce.akamaized.net/api/pimages/P300788870/BIG/300788870.PNG)
+The Best YouTube Downloader & Converter
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300788870&affiliateid=200057808)

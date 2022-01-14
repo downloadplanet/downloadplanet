@@ -1,4 +1,6 @@
-# iStonsoft PDF to HTML Converter<br />![iStonsoft PDF to HTML Converter](https://mycommerce.akamaized.net/api/pimages/P300948124/BIG/300948124.JPG)<br />iStonsoft PDF to HTML Converter can help you convert PDF files into HTML so they can be used for online browsing. Graphics, hyperlinks, bookmarks and lines will all be preserved. Converting PDF documents to HTML makes their contents more accessible and available for a larger target audience.
+# iStonsoft PDF to HTML Converter
+![iStonsoft PDF to HTML Converter](https://mycommerce.akamaized.net/api/pimages/P300948124/BIG/300948124.JPG)
+iStonsoft PDF to HTML Converter can help you convert PDF files into HTML so they can be used for online browsing. Graphics, hyperlinks, bookmarks and lines will all be preserved. Converting PDF documents to HTML makes their contents more accessible and available for a larger target audience.
 
 Convert PDF to HTML
 
@@ -22,4 +24,5 @@ Easy to use
 
 - Fast conversion speed to finish pdf to html conversion.
 
-iStonsoft PDF to HTML Converter is the professional and accurate PDF to HTML Converter software. It can help you convert PDF file to HTML, and then you can view it with your browser, such as IE, Firefox, Chrome, Safari, Opera, etc. So don't hesitate, free download or purchase it to convert PDF to HTML right now!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948124&affiliateid=200057808)
+iStonsoft PDF to HTML Converter is the professional and accurate PDF to HTML Converter software. It can help you convert PDF file to HTML, and then you can view it with your browser, such as IE, Firefox, Chrome, Safari, Opera, etc. So don't hesitate, free download or purchase it to convert PDF to HTML right now!
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948124&affiliateid=200057808)

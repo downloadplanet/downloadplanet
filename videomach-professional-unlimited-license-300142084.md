@@ -1,1 +1,3 @@
-# VideoMach Professional - Unlimited License<br />Convert images to video, movies to other formats, add music to animations, decompile movies to images, extract music from videos, create web videos. Resize, crop, rotate, speed up, slow down and apply numerous effects to videos and images. Visit VideoMach.com for more details.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300142084&affiliateid=200057808)
+# VideoMach Professional - Unlimited License
+Convert images to video, movies to other formats, add music to animations, decompile movies to images, extract music from videos, create web videos. Resize, crop, rotate, speed up, slow down and apply numerous effects to videos and images. Visit VideoMach.com for more details.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300142084&affiliateid=200057808)

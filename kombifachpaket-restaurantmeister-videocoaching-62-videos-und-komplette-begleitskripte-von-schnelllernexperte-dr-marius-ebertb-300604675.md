@@ -1,1 +1,2 @@
-# Kombi-Fachpaket Restaurantmeister, Videocoaching, 62 Videos und komplette Begleitskripte von Schnell-Lernexperte Dr. Marius Ebertb<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300604675&affiliateid=200057808)
+# Kombi-Fachpaket Restaurantmeister, Videocoaching, 62 Videos und komplette Begleitskripte von Schnell-Lernexperte Dr. Marius Ebertb
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300604675&affiliateid=200057808)

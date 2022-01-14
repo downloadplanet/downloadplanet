@@ -1,4 +1,6 @@
-# Star brushes for Photoshop, Affinity, Elements, PSP, etc V21<br />![Star brushes for Photoshop, Affinity, Elements, PSP, etc V21](https://mycommerce.akamaized.net/api/pimages/P300236196/BIG/300236196.PNG)<br />www.graphicxtras.com -- Star Brushes for Adobe Photoshop & Elements & PSP V21
+# Star brushes for Photoshop, Affinity, Elements, PSP, etc V21
+![Star brushes for Photoshop, Affinity, Elements, PSP, etc V21](https://mycommerce.akamaized.net/api/pimages/P300236196/BIG/300236196.PNG)
+www.graphicxtras.com -- Star Brushes for Adobe Photoshop & Elements & PSP V21
 
 100 Star brushes (many different star brush designs including intense star bursts, star brushes, complex brushes, glare brushes and more) for Adobe (R) Photoshop (R) +Elements 8 7 6 5 4 3 2 1 + PNG brushes for use in other applications such as Paint Shop Pro and Xara.
 
@@ -32,4 +34,5 @@ Menu:
 
 If you would like to learn more about the brushes, please e-mail me on support.
 More brushes on http://www.graphicxtras.com
-graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236196&affiliateid=200057808)
+graphicxtras.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300236196&affiliateid=200057808)

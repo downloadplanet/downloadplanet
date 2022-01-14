@@ -1,1 +1,2 @@
-# RhinoResurf educational upgrade from Rhino4(32-bit) to Rhino 5(64-bit)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300577682&affiliateid=200057808)
+# RhinoResurf educational upgrade from Rhino4(32-bit) to Rhino 5(64-bit)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300577682&affiliateid=200057808)

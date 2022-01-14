@@ -1,4 +1,6 @@
-# CryptoForge 5 - Enterprise License<br />![CryptoForge 5 - Enterprise License](https://mycommerce.akamaized.net/api/pimages/P301011578/BIG/301011578.GIF)<br />CryptoForge is easy-to-use file encryption software for personal and professional security. It allows you to encrypt files and folders of any type and size, on any kind of media. Encrypted files can be stored on insecure media, like the cloud or removable drives, or sent by email or over insecure networks, and still remain secret. Later, data can be decrypted into its original form. CryptoForge data encryption software adds to Windows the strongest encryption available today, (including the new AES encryption) allowing you to protect your data files while in transit or for secure storage.
+# CryptoForge 5 - Enterprise License
+![CryptoForge 5 - Enterprise License](https://mycommerce.akamaized.net/api/pimages/P301011578/BIG/301011578.GIF)
+CryptoForge is easy-to-use file encryption software for personal and professional security. It allows you to encrypt files and folders of any type and size, on any kind of media. Encrypted files can be stored on insecure media, like the cloud or removable drives, or sent by email or over insecure networks, and still remain secret. Later, data can be decrypted into its original form. CryptoForge data encryption software adds to Windows the strongest encryption available today, (including the new AES encryption) allowing you to protect your data files while in transit or for secure storage.
 
 The file encryption module enables you to encrypt and shred (with the built-in file shredder) any type of file and folder, from within Windows Explorer or My Computer with right-click ease. The file encryption module handles files of any type and size, on any kind of media, and even on network folders.
 
@@ -8,4 +10,5 @@ CryptoForge data encryption software features four strong encryption algorithms:
 
 The command-line interface allows quick integration into automated processes and scripts, and allows you to perform tasks in both interactive and non-interactive-server running modes. Furthermore, a visual tool helps you to build command-line parameters without having to learn the syntax for these parameters.
 
-Additional unique features include multiple encryption, file name encryption, compression level control, and ciphers' speed meter.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301011578&affiliateid=200057808)
+Additional unique features include multiple encryption, file name encryption, compression level control, and ciphers' speed meter.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301011578&affiliateid=200057808)

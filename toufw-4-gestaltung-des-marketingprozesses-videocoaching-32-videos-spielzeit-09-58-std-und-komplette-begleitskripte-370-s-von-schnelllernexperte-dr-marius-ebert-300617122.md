@@ -1,1 +1,2 @@
-# TouFW, 4. Gestaltung des Marketingprozesses, Videocoaching, 32 Videos, Spielzeit 09 : 58 Std. und komplette Begleitskripte, 370 S., von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300617122&affiliateid=200057808)
+# TouFW, 4. Gestaltung des Marketingprozesses, Videocoaching, 32 Videos, Spielzeit 09 : 58 Std. und komplette Begleitskripte, 370 S., von Schnell-Lernexperte Dr. Marius Ebert
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300617122&affiliateid=200057808)

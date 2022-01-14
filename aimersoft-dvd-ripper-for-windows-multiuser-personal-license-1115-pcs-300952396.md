@@ -1,4 +1,5 @@
-# Aimersoft DVD Ripper for Windows - Multi-User Personal License (11-15 PCs)<br />Aimersoft DVD Ripper is a professional DVD ripping software that helps you rip DVD to computer with 1:1 quality. With this best DVD Ripper, you can easily rip DVD to AVI, MKV, MP4, WMV, MOV, MPG, MPEG, 3GP, 3GPP, MPG, ASF, FLV, VOB, WMA, M4A, MP3, etc. with super fast speed and high quality.
+# Aimersoft DVD Ripper for Windows - Multi-User Personal License (11-15 PCs)
+Aimersoft DVD Ripper is a professional DVD ripping software that helps you rip DVD to computer with 1:1 quality. With this best DVD Ripper, you can easily rip DVD to AVI, MKV, MP4, WMV, MOV, MPG, MPEG, 3GP, 3GPP, MPG, ASF, FLV, VOB, WMA, M4A, MP3, etc. with super fast speed and high quality.
 (Note: Please make sure that all the DVD ripping are just for personal use.)
 
 Aimersoft DVD Ripper supports all common portable players, with this best DVD Ripper you can rip DVD movie to iPod, iPhone, PSP, Zune, Archos, Creative Zen, Walkman, BlackBerry, Cell phone, etc. It is the best DVD Ripper among all DVD ripping software to color your digital life.
@@ -11,4 +12,5 @@ The best DVD Ripper supports iPod, iPhone, PSP, Zune, Creative Zen, Sandisk, Son
 3.Powerful Video editing function
 Aimersoft DVD Ripper supports movie trimming, cropping and effect adjustment. You can set brightness, contrast, saturation and choose the suitable resolution for your players.
 4.Customize DVD ripping
-This DVD Ripper software allows you to join several chapters into one file and rip DVD by chapters as you want, you can also select target subtitle and audio track. 5.Support photo capturing of the playing video, and saving as jpeg, bmp.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952396&affiliateid=200057808)
+This DVD Ripper software allows you to join several chapters into one file and rip DVD by chapters as you want, you can also select target subtitle and audio track. 5.Support photo capturing of the playing video, and saving as jpeg, bmp.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300952396&affiliateid=200057808)

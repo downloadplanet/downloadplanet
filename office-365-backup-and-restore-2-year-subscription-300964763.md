@@ -1,1 +1,2 @@
-# Office 365 Backup and Restore (2 Year Subscription)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300964763&affiliateid=200057808)
+# Office 365 Backup and Restore (2 Year Subscription)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300964763&affiliateid=200057808)

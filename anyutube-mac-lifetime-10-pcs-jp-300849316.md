@@ -1,1 +1,4 @@
-# AnyUTube Mac Lifetime (10 PCs) (JP)<br />![AnyUTube Mac Lifetime (10 PCs) (JP)](https://mycommerce.akamaized.net/api/pimages/P300849316/BIG/300849316.PNG)<br />Whatever you want to get YouTube videos, download YouTube music, or convert YouTube to MP3, AnyUTube has got you covered! We promise 100% ad-free and plugin-free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300849316&affiliateid=200057808)
+# AnyUTube Mac Lifetime (10 PCs) (JP)
+![AnyUTube Mac Lifetime (10 PCs) (JP)](https://mycommerce.akamaized.net/api/pimages/P300849316/BIG/300849316.PNG)
+Whatever you want to get YouTube videos, download YouTube music, or convert YouTube to MP3, AnyUTube has got you covered! We promise 100% ad-free and plugin-free.
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300849316&affiliateid=200057808)

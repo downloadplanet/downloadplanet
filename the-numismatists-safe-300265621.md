@@ -1,4 +1,6 @@
-# The Numismatist's Safe<br />![The Numismatist's Safe](https://mycommerce.akamaized.net/api/pimages/P300265621/BIG/300265621.JPG)<br />"The numismatist's safe" was developed specifically for numismatists. It helps managing an electronic catalogue of coins.
+# The Numismatist's Safe
+![The Numismatist's Safe](https://mycommerce.akamaized.net/api/pimages/P300265621/BIG/300265621.JPG)
+"The numismatist's safe" was developed specifically for numismatists. It helps managing an electronic catalogue of coins.
 
 Key features:
 Manage unlimited number of coin collections
@@ -14,4 +16,5 @@ Print reports with the ability of detailed set-up and export into MS Excel and M
 Built-in image viewer
 The function of uploading collections to a web server and viewing the collection online
 
-http://www.hobbykeeper.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300265621&affiliateid=200057808)
+http://www.hobbykeeper.com
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300265621&affiliateid=200057808)
