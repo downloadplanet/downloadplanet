@@ -1,0 +1,1 @@
+# Vovsoft Universal License<br />Universal license key for all Vovsoft desktop applications<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300780276&affiliateid=200057808)

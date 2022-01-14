@@ -1,0 +1,1 @@
+# EmailRaser Wizard - Standard Edition<br />All-in-One Email Backup Software in One Package<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300999901&affiliateid=200057808)

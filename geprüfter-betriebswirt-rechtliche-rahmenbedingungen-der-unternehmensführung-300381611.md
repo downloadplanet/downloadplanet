@@ -1,0 +1,1 @@
+# Geprüfter Betriebswirt - Rechtliche Rahmenbedingungen der Unternehmensführung<br />![Geprüfter Betriebswirt - Rechtliche Rahmenbedingungen der Unternehmensführung](https://mycommerce.akamaized.net/api/pimages/P300381611/BIG/300381611.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381611&affiliateid=200057808)

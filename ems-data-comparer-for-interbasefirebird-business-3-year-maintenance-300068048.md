@@ -1,0 +1,1 @@
+# EMS Data Comparer for InterBase/Firebird (Business) + 3 Year Maintenance<br />Compare and synchronize the structure of InterBase/Firebird databases. Move changes on your development database to production with ease.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300068048&affiliateid=200057808)

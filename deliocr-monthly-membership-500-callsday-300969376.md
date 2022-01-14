@@ -1,0 +1,1 @@
+# DeliOCR Monthly Membership (500 Calls/Day)<br />![DeliOCR Monthly Membership (500 Calls/Day)](https://mycommerce.akamaized.net/api/pimages/P300969376/BIG/300969376.PNG)<br />Text recognition, convert the image to words.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300969376&affiliateid=200057808)

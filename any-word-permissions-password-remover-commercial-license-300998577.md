@@ -1,0 +1,1 @@
+# Any Word Permissions Password Remover Commercial License<br />![Any Word Permissions Password Remover Commercial License](https://mycommerce.akamaized.net/api/pimages/P300998577/BIG/300998577.PNG)<br />Remove Password to Modify Word and Unlock Read-only Word<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300998577&affiliateid=200057808)

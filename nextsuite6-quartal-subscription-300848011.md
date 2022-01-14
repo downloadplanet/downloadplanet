@@ -1,0 +1,1 @@
+# NextSuite6 - Quartal Subscription<br />Quartal (3 months) support for NextSuite components.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300848011&affiliateid=200057808)

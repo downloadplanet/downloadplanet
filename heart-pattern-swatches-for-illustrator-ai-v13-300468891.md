@@ -1,0 +1,3 @@
+# Heart pattern swatches for Illustrator (AI) V13<br />www.graphicxtras.com -- 150 Heart Pattern Swatches for Adobe Illustrator Vector pattern tiles Valentines & Love & Romance V13
+
+Patterns swatches for Adobe Illustrator, PC + MAC OS X. License - commercial use OK, royalty-free, all by graphicxtras.com. For more information about the heart pattern swatches, please check out the graphicxtras.com site along with youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468891&affiliateid=200057808)

@@ -1,0 +1,2 @@
+# Virtual Modem<br />![Virtual Modem](https://mycommerce.akamaized.net/api/pimages/P300060139/BIG/300060139.GIF)<br />Virtual Modem allows any modem communications applications to interact via LAN or the Internet. Application "dials" remote IP address instead of making a dial-direct call using hardware modem.
+Moreover, it looks as if the application worked with hardware modem. But in fact, a hardware modem is not used.\<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060139&affiliateid=200057808)

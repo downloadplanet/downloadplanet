@@ -1,0 +1,1 @@
+# Bankfachwirt/in, Volkswirtschaft (I.3.), Videocoaching, 30 Videos, Spieldauer 7 : 05 Std. u. 248 Seiten Begleitskripte von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300654320&affiliateid=200057808)

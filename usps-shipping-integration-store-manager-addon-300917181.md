@@ -1,0 +1,6 @@
+# USPS Shipping Integration (Store Manager Addon)<br />![USPS Shipping Integration (Store Manager Addon)](https://mycommerce.akamaized.net/api/pimages/P300917181/BIG/300917181.PNG)<br />The features of Shipping Integration addon are numerous. To name a few:
+Address Verification Verify the shipping address before printing the postage label. Verification is made using US Postal Service address database. Avoid returned mail and speed delivery to your destination.(for the US only)
+Mail Class Choice You can choose any mail class offered by USPS (First-Class Mail, Priority Mail, Express Mail, Media Mail, etc). It helps you to eliminate the problem of postage overpay.
+E-mail Notifications Send your customers shipment notification e-mail with the shipping details (date of shipping, mail class and destination address).
+Safeguard the Shipping Provide your customers with on-time shipping delivery. Shipping Integration addon ensures the reliable and secure delivery service which adds up to the overall positive image of your company.
+Cost-Effective Solution Get the quality and reasonable price perfectly combined in this software that meets your needs.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300917181&affiliateid=200057808)

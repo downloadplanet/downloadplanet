@@ -1,0 +1,1 @@
+# PowerPoint VBA<br />VBA programmer add-in for knowledge and productivity. This version includes the add-on for Outlook VBA.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301006644&affiliateid=200057808)

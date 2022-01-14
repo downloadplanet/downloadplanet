@@ -1,0 +1,1 @@
+# Advik Mass Delete Gmail Messages - Personal License<br />Software to Delete Email Messages in Bulk<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300805013&affiliateid=200057808)

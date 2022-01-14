@@ -1,0 +1,1 @@
+# Upgrade to EMCO Ping Monitor Enterprise from Professional (Single Copy)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300773206&affiliateid=200057808)

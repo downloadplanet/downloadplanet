@@ -1,0 +1,3 @@
+# Line Displacement textures for Photoshop & Elements & PSP (PSD) V14<br />www.graphicxtras.com -- Line Displacement textures Photoshop & Elements & PSP PSD Distortions V14
+
+Displacement maps for Photoshop, PSP and others - for PC and MAC - license: commercial (and personal), royalty-free - exciting line displacements that can be used in 1000s of ways to create amazing designs in displace etc filters - all can be used to create items for sale<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468992&affiliateid=200057808)

@@ -1,0 +1,3 @@
+# Alien & Space symbols for Illustrator Shapes (AI) V103<br />www.graphicxtras.com -- Alien & Space Symbols for Adobe Illustrator Shapes 10 PC & MAC OSX V103
+
+100 Space symbols for Illustrator - wonderful commercial use designs, royalty-free, all from graphicxtras.com. Easy to use and apply vector shapes. Released: April 10th 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300517827&affiliateid=200057808)

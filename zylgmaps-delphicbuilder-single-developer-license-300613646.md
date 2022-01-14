@@ -1,0 +1,1 @@
+# ZylGMaps (Delphi/C++Builder) - Single Developer License<br />ZylGMaps is a Delphi / C++Builder component which displays Google maps positions in your applications.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300613646&affiliateid=200057808)

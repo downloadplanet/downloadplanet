@@ -1,0 +1,1 @@
+# MacUncle MBOX Splitter - Standard License<br />Split MBOX Files to Various Format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301000465&affiliateid=200057808)

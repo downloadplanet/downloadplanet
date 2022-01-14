@@ -1,0 +1,4 @@
+# Bow Tie Font Shapes / EPS Shapes for all apps V101<br />www.graphicxtras.com -- Bow Tie Font Shapes Truetype & EPS PSP & Indesign & CorelDRAW & Pages & Xpress V101
+
+130 Bow tie shapes - Font set include true type font TTF and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages CorelDRAW etc - License: commercial use (and personal), royalty-free - many wonderful designs Use to create items for sale. All the bow tie shapes are vectors for any size of work. The shapes can be combined, blended, warped, distorted, effects applied and more.
+ <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469376&affiliateid=200057808)

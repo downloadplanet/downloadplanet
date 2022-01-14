@@ -1,0 +1,6 @@
+# Ondesoft Screen Rulers for Mac<br />![Ondesoft Screen Rulers for Mac](https://mycommerce.akamaized.net/api/pimages/P300871619/BIG/300871619.PNG)<br />Ondesoft Screen Rulers is a highly configurable measuring utility for Mac with many intuitive features, enable you to measure objects quickly and precisely on your Mac screen in Pixels, Inches, Picas, Centimeters and multiple customizable units according to your need. It can measure square areas, diagonals and display angles.
+Online measuring tool to measure the dimensions of any objects on Mac.
+Easy protractor enables you to measure angles in radians or degrees with Ondesoft Screen Rulers.
+Detail Window provides you a magnifier and pixel value for accurate measurements.
+Logger Window serving as your personal notebook can remember all the detailed measurements data history.
+Customize keyboard shortcuts, ruler colors and transparency settings according to your preference.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300871619&affiliateid=200057808)

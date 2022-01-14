@@ -1,0 +1,1 @@
+# ProfiCAD 11 multilicense for schools<br />ProfiCAD is an electrical diagrams editor.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300113799&affiliateid=200057808)

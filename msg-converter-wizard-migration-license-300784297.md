@@ -1,0 +1,1 @@
+# MSG Converter Wizard - Migration License<br />MSG Email messages converter software for Windows to convert .msg files to various files types<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300784297&affiliateid=200057808)

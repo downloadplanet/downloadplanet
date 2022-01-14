@@ -1,0 +1,1 @@
+# Meister/in f. Kraftverkehr (IHK), B.III.8., Personalentwicklung, 2 Videos, Gesamtspielzeit 35 : 04 min mit 26 S. Begleitskript u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634238&affiliateid=200057808)

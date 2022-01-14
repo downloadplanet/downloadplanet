@@ -1,0 +1,9 @@
+# MD5 Password Pro<br />MD5 Password is a password recovery tool for security professionals, which can be used to recover a password if its MD5 hash is known. MD5 is an industry standard hash algorithm that is used in many applications to store passwords. MD5 Password features fast, highly optimized recovery engine that can recover multiple hashes at once: up to 32,000 hashes in the Pro version. The number of hashes being recovered simultaneously does not have significant performance impact. The recovery engine is fully configurable, so you can adjust the recovery options as needed.
+Since there is no known way to reverse the MD5 algorithm, MD5 Password provides a number of tools to recover the password:
+Brute Force Attack
+Dictionary Attack
+Hybrid Dictionary Attack
+Smart Force Attack
+MD5 Password supports the distributed recovery technology, which allows you to utilize the power of several computers when performing the recovery process, drastically reducing the recovery time.
+MD5 Password has a feature-rich user interface that allows you to utilize its functionality with maximum efficiency. The export and import feature can be used to export and import hashes to or from text files and the Report feature is used to generate text reports after the recovery process is completed.
+MD5 Password comes in two versions: Standard and Pro. The Standard version can process up to 10 hashes simultaneously and the Pro version has a technical limit of 32,000. There is also a free Demo version that can recover only short passwords (up to 3 characters).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300073786&affiliateid=200057808)

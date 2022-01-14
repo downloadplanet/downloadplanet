@@ -1,0 +1,1 @@
+# AC Generator WEB<br />AC Generator WEB is an ActiveX COM server component. Use it to easily integrate generation of activation codes and validation of serial numbers over Internet connection.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=185800&affiliateid=200057808)

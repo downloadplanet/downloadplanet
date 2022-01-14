@@ -1,0 +1,1 @@
+# Abakus VCL update to lifetime subscription<br />Abakus VCL Update from previous version<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300745880&affiliateid=200057808)

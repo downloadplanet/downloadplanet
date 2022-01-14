@@ -1,0 +1,1 @@
+# loc00179 Plate 4013 (Layout / Private)<br />Backplate image for CGI productions.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300733552&affiliateid=200057808)

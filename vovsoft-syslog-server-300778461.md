@@ -1,0 +1,1 @@
+# Vovsoft Syslog Server<br />View and archive syslog messages in real-time<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778461&affiliateid=200057808)

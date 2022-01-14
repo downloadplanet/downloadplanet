@@ -1,0 +1,3 @@
+# Orbit Font for PSP & & CorelDRAW & Pages Circular & Abstract V79<br />www.graphicxtras.com -- Orbit Font PSP & Indesign & CorelDRAW & Pages & Xpress Circular & Abstract Truetype & EPS V79
+
+Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469354&affiliateid=200057808)

@@ -1,0 +1,3 @@
+# Turtle Patterns V88<br />www.graphicxtras.com -- Turtle patterns for Adobe Photoshop & Elements & PSP Animals Pets Tortoise V88
+
+100 Turtle Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use. All the patterns are by http://www.graphicxtras.com (Andrew Buckle). Different formats including PAT etc released: February 10th 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300502102&affiliateid=200057808)

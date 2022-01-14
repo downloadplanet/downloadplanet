@@ -1,0 +1,1 @@
+# MacUncle TIFF Page Counter - Standard License<br />Best TIFF Page Counter<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301009235&affiliateid=200057808)

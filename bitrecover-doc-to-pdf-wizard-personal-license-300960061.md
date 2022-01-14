@@ -1,0 +1,1 @@
+# BitRecover DOC to PDF Wizard - Personal License<br />Bat Converter Wizard<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300960061&affiliateid=200057808)

@@ -1,0 +1,2 @@
+# Kraken Client Console Application<br />Kraken WebSockets Public API offers real-time market data updates. WebSockets is a bidirectional protocol offering fastest real-time data, helping you build real-time applications.
+Client component supports Ticker, OHLC, Trade, Booke, Spread, Ping and other methods.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300977775&affiliateid=200057808)

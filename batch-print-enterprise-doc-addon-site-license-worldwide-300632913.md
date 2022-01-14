@@ -1,0 +1,3 @@
+# Batch & Print Enterprise DOC Addon Site License (Worldwide)<br />Batch & Print Enterprise DOC Addon is a plugin for Batch & Print Enterprise that gives the user more control over the print process. options include page start and end,in the Batch & Print Enterprise environment.
+UNLIMITED LICENSE TO BE USED WITHIN A COMPANY WORLDWIDE.
+All Updates to 2.xx are free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300632913&affiliateid=200057808)

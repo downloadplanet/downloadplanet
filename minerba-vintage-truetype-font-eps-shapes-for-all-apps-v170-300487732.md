@@ -1,0 +1,4 @@
+# Minerba / Vintage Truetype font / EPS Shapes for all apps V170<br />www.graphicxtras.com -- Minerba Font Word & PSP & CorelDRAW & Pages & GIMP Letters & Text & Type & Alphabet Historical V170
+
+100+ Minerba text font shapes in true type font - set includes TTF and EPS format files containing a wide variety of commercial use shapes, all royalty-free, all by graphicxtras, all vectors for any size of document - use in Microsoft Word, Adobe Indesign, Photoshop etc PC and MAC OS X
+  Please e-mail us on support@graphicxtras.com or check out our site http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300487732&affiliateid=200057808)

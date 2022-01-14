@@ -1,0 +1,1 @@
+# FWLogS. Kommunikation, Führung u. Zusammenarbeit, 19 Videos mit Begleitskripten von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300738708&affiliateid=200057808)

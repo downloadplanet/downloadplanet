@@ -1,0 +1,1 @@
+# PDF Password Recovery Commercial License<br />![PDF Password Recovery Commercial License](https://mycommerce.akamaized.net/api/pimages/P300879798/BIG/300879798.PNG)<br />It is professional PDF Password Recovery program which can remove all PDF restrictions.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879798&affiliateid=200057808)

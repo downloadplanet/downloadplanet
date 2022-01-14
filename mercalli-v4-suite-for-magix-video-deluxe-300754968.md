@@ -1,0 +1,1 @@
+# Mercalli V4+ Suite for Magix Video Deluxe<br />This package contains: + Mercalli V4 Stabilizr for Magix Video Deluxe + Mercalli V4 CMOS FIXR for Magix Video Deluxe + Mercalli V4+ SAL<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300754968&affiliateid=200057808)

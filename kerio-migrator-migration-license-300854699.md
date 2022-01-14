@@ -1,0 +1,1 @@
+# Kerio Migrator - Migration License<br />Software to Convert Kerio Mailboxes<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854699&affiliateid=200057808)

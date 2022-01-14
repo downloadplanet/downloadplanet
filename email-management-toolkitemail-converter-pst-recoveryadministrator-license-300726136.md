@@ -1,0 +1,4 @@
+# Email Management Toolkit(Email Converter + PST Recovery)Administrator License<br />SysInfoTools Email Management Toolkit( Email Converter + PST Recovery)
+Key features:-
+Efficiently converts of DBX files into PST, EML, MSG, RTF and HTML formats.
+Performs conversion of PST files into DBX, EML, MSG, RTF and HTML formats. Effectively converts of EML files into DBX, PST, MSG, RTF and HTML formats. Performs conversion of MSG files into DBX, PST, EML, RTF and HTML formats. Support non-English and right to left characters also Support huge PST files up to 80GB PST tested Normal attachments as well embedded attachments are also supported Support all outlook mail items like email, task, calendar, contacts, distribution group etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300726136&affiliateid=200057808)

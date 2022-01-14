@@ -1,0 +1,1 @@
+# TBW-Fachpaket: Mat.-,Prod.- u. Absatzwirtschaft (A.4.), Videocoaching, 56 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300539743&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# Coolmuster Mobile Transfer for Mac - 1 Year License(16-20PCs)<br />![Coolmuster Mobile Transfer for Mac - 1 Year License(16-20PCs)](https://mycommerce.akamaized.net/api/pimages/P300924896/BIG/300924896.PNG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924896&affiliateid=200057808)

@@ -1,0 +1,5 @@
+# Arrow brushes for Photoshop, Affinity, Elements, PSP, etc V118<br />www.graphicxtras.com -- Arrow Brushes for Adobe Photoshop & Elements & PSP PC & MAC OS X V118
+
+100 Arrow Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI
+
+The brushes are all by graphicxtras.com (Andrew Buckle) for use to create items for sale as well as personal use - use to create logos, textiles, templates, ceramics, fashions, leaflets, scrap kits, books, CDs, DVDs, wrapping paper, cards, posters, shoes and much more. They are all hi-impact designs to add a special touch to your work. If you have any questions, please e-mail us on support@graphicxtras.com or call us or visit our website graphicxtras.com or check out our video tutorials on youtube.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469288&affiliateid=200057808)

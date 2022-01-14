@@ -1,0 +1,1 @@
+# BitRecover TIFF Page Counter - Business License<br />TIFF Page Counter<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301008311&affiliateid=200057808)

@@ -1,0 +1,3 @@
+# Stripes patterns for Photoshop & Elements & PaintShop Pro V95<br />www.graphicxtras.com -- Stripes patterns for Adobe Photoshop & Elements & PaintShop Pro V95
+
+100 Stripes Patterns for Photoshop and Elements and PaintShop Pro and others, PC and MAC OS X, License: commercial use. All the patterns are by http://www.graphicxtras.com (Andrew Buckle). released: March 24th 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300509905&affiliateid=200057808)

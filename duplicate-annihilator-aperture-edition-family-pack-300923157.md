@@ -1,0 +1,3 @@
+# Duplicate Annihilator - Aperture Edition (Family Pack)<br />![Duplicate Annihilator - Aperture Edition (Family Pack)](https://mycommerce.akamaized.net/api/pimages/P300923157/BIG/300923157.PNG)<br />No physical shipment
+Please note that we do not ship physical products. Our software products can be downloaded easily from our website at any time. If you are already using the software in demo mode, there is no need to download it again.
+You are always welcome to download the latest version of Duplicate Annihilator - Aperture Edition from here.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300923157&affiliateid=200057808)

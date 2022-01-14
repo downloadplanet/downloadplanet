@@ -1,0 +1,1 @@
+# SysInfo Yahoo Backup For MAC[Technician License]<br />SysInfo Yahoo Backup For MAC<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301000089&affiliateid=200057808)

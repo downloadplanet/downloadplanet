@@ -1,0 +1,1 @@
+# INS (Upgrade path "Four lines" to "Unlimited lines")<br />Integrated Notification System Upgrade path "Four channels" to "Unlimited"<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=218894&affiliateid=200057808)

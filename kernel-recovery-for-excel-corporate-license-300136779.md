@@ -1,0 +1,1 @@
+# Kernel Recovery for Excel - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136779&affiliateid=200057808)

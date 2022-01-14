@@ -1,0 +1,1 @@
+# Lepide Software Asset Management - 500 Node License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300377046&affiliateid=200057808)

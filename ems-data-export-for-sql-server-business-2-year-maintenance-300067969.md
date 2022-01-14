@@ -1,0 +1,1 @@
+# EMS Data Export for SQL Server (Business) + 2 Year Maintenance<br />An application to export your data from SQL Server databases to 19 most popular formats.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067969&affiliateid=200057808)

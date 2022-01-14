@@ -1,0 +1,3 @@
+# Star Custom shapes for Photoshop & Elements V177<br />www.graphicxtras.com -- Star Custom Shapes for Adobe Photoshop & Elements V177
+
+100 Star custom shapes for Photoshop and Elements - License: commercial use (and personal), all by graphicxtras.com --- released March 15th 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300506130&affiliateid=200057808)

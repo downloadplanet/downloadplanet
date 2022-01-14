@@ -1,0 +1,1 @@
+# Kernel for GroupWise to Office365<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300738671&affiliateid=200057808)

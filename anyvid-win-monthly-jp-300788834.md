@@ -1,0 +1,1 @@
+# AnyVid Win Monthly (JP)<br />![AnyVid Win Monthly (JP)](https://mycommerce.akamaized.net/api/pimages/P300788834/BIG/300788834.PNG)<br />Best HD Video Downloader & Converter for All Preferences<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300788834&affiliateid=200057808)

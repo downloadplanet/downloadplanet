@@ -1,0 +1,5 @@
+# LoopBe1 Commercial Use License<br />LoopBe1 is an internal MIDI device for transferring MIDI data between computer programs. Basically LoopBe1 is an "invisible cable" to connect a MIDI outport of an application to any other application´s MIDI inport.
+All MIDI data sent to the program´s output is channeled to the receiving applications in realtime.
+You may connect up to 8 applications to LoopBe's inport and up to 8 applications to the outport, all sending and receiving at the same time.
+LoopBe1 is a native Windows™ 2k/XP WDM kernel mode driver, so expect the lowest possible latency. Due to its architecture, it doesn´t work on Windows 95/98/ME. Programs do not need to link with special libraries, so LoopBe1 works with every MIDI or DirectMusic™-capable application.
+LoopBe1 is free for non-commercial, personal use only. Any commercial use beyond a 30-day evaluation period requires purchase of a commercial use license.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=210891&affiliateid=200057808)

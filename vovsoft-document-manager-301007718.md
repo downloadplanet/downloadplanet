@@ -1,0 +1,1 @@
+# Vovsoft Document Manager<br />Manage your documents in one screen.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301007718&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# Windows Password Reset for Mac Professional<br />Windows Password Reset for Mac can help to reset or recover local and domain admin password for windows 7, vista, xp, 2000, 2003, 2008.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300900329&affiliateid=200057808)

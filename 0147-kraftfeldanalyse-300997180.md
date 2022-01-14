@@ -1,0 +1,1 @@
+# 0147 - Kraftfeldanalyse<br />0147 - Kraftfeldanalyse<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300997180&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# Webinar Controlling 2. Teil inklusive Webinar 1. Teil Aufzeichung zzgl. Controllingprogramm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300696409&affiliateid=200057808)

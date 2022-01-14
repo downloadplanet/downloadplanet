@@ -1,0 +1,1 @@
+# BitRecover VHD Recovery Wizard - Personal License<br />Data Recovery Software for Virtual Hard Drives<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300798748&affiliateid=200057808)

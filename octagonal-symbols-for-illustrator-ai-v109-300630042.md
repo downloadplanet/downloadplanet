@@ -1,0 +1,4 @@
+# Octagonal Symbols for Illustrator (AI) V109<br />www.graphicxtras.com -- Octagonal Symbols Shapes Illustrator CC 2017 2015 2014 & CS 6 5 4 3 2 1 V109
+
+100 Octagonal symbols / shapes for Illustrator CC CS4 CS3 CS2 CS5 CS6 CS4 17 16 15 14 13 etc PC and MAC. Commercial use symbols, all are by Andrew Buckle / graphicxtras.com. Royalty-free. Any questions, please e-mail us on support@graphicxtras.com. Easy to install and use
+Check out http://www.graphicxtras.com/products/aisymbols.htm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300630042&affiliateid=200057808)

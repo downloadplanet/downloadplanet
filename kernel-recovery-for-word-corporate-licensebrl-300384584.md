@@ -1,0 +1,1 @@
+# Kernel Recovery for Word - Corporate License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384584&affiliateid=200057808)

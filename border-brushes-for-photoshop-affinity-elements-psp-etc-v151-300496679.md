@@ -1,0 +1,4 @@
+# Border brushes for Photoshop, Affinity, Elements, PSP, etc V151<br />www.graphicxtras.com -- Border Brushes for Adobe Photoshop & Elements & PSP Frames V151
+
+100 Border Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free - ABR and EPS. Use in most applications. Use the border / frame brushes to create items for sale. Mixed sizes. The brushes can be combined, distorted, warped, transformed, blended, effects applied and much more. All amazing unique border designs
+ <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300496679&affiliateid=200057808)

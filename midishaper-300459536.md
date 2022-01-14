@@ -1,0 +1,1 @@
+# MidiShaper<br />Enhance your synths and effects. Add spice with powerful LFOs and envelopes. Powered by Curve's unique modulations engine, MidiShaper brings Curve's flexible yet powerful LFOs and envelopes to all your favorite synthesizers and effects.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300459536&affiliateid=200057808)

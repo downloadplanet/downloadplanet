@@ -1,0 +1,1 @@
+# Omni Downloader for Mac - family license (lifetime)<br />Omni Downloader is the TikTok, Facebook, Instagram and 200+ Video Downloader app for Mac.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301016391&affiliateid=200057808)

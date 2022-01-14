@@ -1,0 +1,1 @@
+# SysInfo Encase Data Recovery[Administrator License]<br />SysInfo EnCase data recovery<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300743158&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# Free Folder Password Lock<br />![Free Folder Password Lock](https://mycommerce.akamaized.net/api/pimages/P300864161/BIG/300864161.PNG)<br />Free Folder Lock can hide and password-protect your files, folders, pictures, and documents in seconds.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300864161&affiliateid=200057808)

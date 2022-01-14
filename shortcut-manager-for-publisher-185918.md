@@ -1,0 +1,4 @@
+# Shortcut Manager for Publisher<br />Shortcut Manager for Publisher enables you to:
+Define your own keyboard shortcuts to menu items and recorded macros.
+Define shortcuts to commands that aren't available directly through the Publisher User Interface.
+Shortcut Manager for Publisher works with Microsoft Office Publisher 2007, Microsoft Office Publisher 2003 as well as Microsoft Publisher 2002. Download the addin and install it in your machine. After the addin is loaded successfully, you can start assigning shortcuts using the customize shortcuts dialog. The customize shortcuts dialog can be invoked by selecting (Tools | Customize Shortcuts...).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=185918&affiliateid=200057808)

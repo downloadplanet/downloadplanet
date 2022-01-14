@@ -1,0 +1,1 @@
+# Spower SQL Password Master<br />Spower SQL Password Master can help you reset the password for SA user and other user account when you forgot your MS SQL Server login password.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300900333&affiliateid=200057808)

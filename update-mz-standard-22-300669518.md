@@ -1,0 +1,26 @@
+# Update mZ Standard 22<br />Kennen Sie das?
+Ihr Schreibtisch quillt ueber? Zu wenig Zeit am Stueck? Zuviele Kleinigkeiten erledigt und die grossen Ziele bleiben liegen? Alles akribisch geplant und doch nicht wirklich vorangekommen? Ausgerechnet die produktivste Zeit des Tages geht für Nichtigkeiten und Emails drauf?
+Mit einem simplen Organizer- oder Kalenderprogramm wird das nichts. Ohne Methoden-Knowhow dreht sich das Hamsterrad endlos weiter. Darum haben wir für Sie ein Erfolgswerkzeug geschaffen, das mehr kann als alle anderen Organizer: Software und Knowhow in einer Loesung aus einem Guss. Und so ist daraus das Produkt geworden, das tatsächlich erfolgswirksam ist: mZ Agenda aus der meineZIELE-Produktfamilie.
+mZ Standard wirkt direkt auf Ihren Erfolg.
+1. Sie gewinnen Zeit ...
+... fuer Ihre wichtigsten Projekte, aber auch für Ihre Familie und Ihre Hobbies.
+Zeit ist nicht vermehrbar. Zeit gewinnt man immer nur, wenn man Wichtiges statt Unwichtigem erledigt.
+Genau das ist die Kernfunktion von mZ Agenda. Es nutzt das cleverste Prioritaetensystem, das heute bekannt ist. Ihre Arbeit geht leichter von der Hand. Sie arbeiten wirksamer. Sogar die Balance Ihrer vielen Lebensrollen und Projekte verbessert sich.
+2. Sie gewinnen Freiraeume
+Freiraeume gewinnen Sie genau wie freie Zeit,  wenn Sie entschlossen Energie von Unwichtigem auf Wichtiges umschichten.
+Mit nur 20 % unseres Einsatzes erwirtschaften wir 80 % unseres Erfolgs.
+3. Sie gewinnen einen freien Schreibtisch
+mZ schafft durch die geniale 1-Griff-Ablage eine direkte Verbindung zwischen Ihren Aufgaben und allem, was Sie dafuer benoetigen. Ihre Unterlagen sind griffbereit. Der Schreibtisch ist leer.
+4. Sie gewinnen klare Ziele
+
+Die Flut von Informationen und Aufgaben und die Vielfalt von Chancen und Risiken wirkt wie eine Nebelwand. Aber nur klare Ziele sind erreichbar.
+meineZIELE hilft Ihnen, glasklar herauszuarbeiten, wo Sie stehen und wo Sie hinwollen.
+So gelingt Ihnen die klare Trennung von Wesentlichem und Unwichtigem.
+Sie leisten mehr, weil Sie immer an Ihrer gerade wichtigsten Aufgabe arbeiten.
+Das reduziert Stress und "offene Baustellen" und steigert den Erfolg bei weniger Aufwand.
+Durch systematisches Ansammeln großer und kleiner Erfolge setzen Sie eine Spirale
+aus wachsendem Selbstvertrauen, wachsenden Zielen und wachsenden Erfolgen in Gang.
+5. Sie gewinnen Beweglichkeit
+Das Leben ist wandelbar wie eine Theaterkulisse und ungeheuer vielfaeltig. Von den Langfristzielen bis zur Tagesarbeit brauchen Sie daher kein starres Korsett. Sie brauchen ein einfaches, lebensnahes, dynamisches Planungssystem mit beweglichen Prioritaeten, Zielen und Terminen. Ein System, das Ihre Ziele mit den Wechselfaellen des Lebens wirkungsvoll verzahnt.
+6. Sie erreichen Ihre Ziele
+Sie kommen weg vom "Sekunden sparen" hin zum "Ziele anstreben". Alle Klarheit, Neuausrichtung und alle Freiraeume, die mZ mit sich bringt, dienen nur einem Zweck: Sie erreichen mehr, groessere und wichtigere Ziele.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300669518&affiliateid=200057808)

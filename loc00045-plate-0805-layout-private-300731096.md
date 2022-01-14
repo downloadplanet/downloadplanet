@@ -1,0 +1,1 @@
+# loc00045 Plate 0805 (Layout / Private)<br />Backplate image for CGI productions.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300731096&affiliateid=200057808)

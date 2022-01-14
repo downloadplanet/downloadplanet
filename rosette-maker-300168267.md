@@ -1,0 +1,2 @@
+# Rosette Maker<br />![Rosette Maker](https://mycommerce.akamaized.net/api/pimages/P300168267/BIG/300168267.JPG)<br />Rosette Maker 1.0 is a program designed to create gullioche rosettes. It allows you to create graphic elements which are unique in its beauty and without analogues, in just a few minutes.
+More information about our products you can find Vectools site Vectools.com.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300168267&affiliateid=200057808)

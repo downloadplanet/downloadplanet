@@ -1,0 +1,1 @@
+# Visual Importer Standard - single license (1 year maintenance and support contract, automatic renewal)<br />Visual Importer Standard - single license (1 year maintenance and support contract, automatic renewal)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300629257&affiliateid=200057808)

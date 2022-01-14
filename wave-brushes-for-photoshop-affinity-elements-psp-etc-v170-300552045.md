@@ -1,0 +1,5 @@
+# Wave brushes for Photoshop, Affinity, Elements, PSP, etc V170<br />www.graphicxtras.com -- Wave Brushes for Adobe Photoshop & Elements & PSP Wavy & Commercial use V170
+
+Wavy brushes for Photoshop and elements and PSP
+50 Wave / wavy brushes for use in Photoshop, Photoshop Elements, PaintShop Pro and many other applications. 300 DPI up to approx 1000 x 1000 size. The brushes are in ABR + PNG format - all for license commercial use (all by graphicxtras - check us out for more info - all the brush strokes can be used to create items for sale etc) Use the brushes in 1000s of applications in PNG format, use them in Photoshop versions from the old 6 upwards to the latest creative suite release as well as all versions of Photoshop elements - Released November 29th, 2012
+Check out http://www.graphicxtras.com/products/psbrush.htm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300552045&affiliateid=200057808)

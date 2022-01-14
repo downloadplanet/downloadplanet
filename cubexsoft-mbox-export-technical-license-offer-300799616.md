@@ -1,0 +1,1 @@
+# CubexSoft MBOX Export - Technical License Offer<br />CubexSoft MBOX Export tool to Export MBOX Mailboxes into Multiple Email Formats.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799616&affiliateid=200057808)

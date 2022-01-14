@@ -1,0 +1,1 @@
+# e!Sankey 5 pro - floating-license<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300778382&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# 0182 - Start-Stop-Continue-Retrospektive<br />0182 - Start-Stop-Continue-Retrospektive<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301008488&affiliateid=200057808)

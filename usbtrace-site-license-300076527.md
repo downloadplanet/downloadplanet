@@ -1,0 +1,1 @@
+# USBTrace Site License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300076527&affiliateid=200057808)

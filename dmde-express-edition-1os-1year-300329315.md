@@ -1,0 +1,6 @@
+# DMDE Express Edition 1-OS (1-Year)<br />DMDE Express has all features of Free Edition but additionally recovers directories and unlimited files number. Personal license is for non-commercial use by private person only.
+
+The software is for searching, editing, and data recovery on disks. File systems: NTFS, FAT12/16, FAT32, exFAT, HFS+/HFSX. OS: Windows (98/..XP/..7/..10), DOS, Linux, macOS. Quick search for lost partitions using boot sectors and superblocks, repair found partitions. Thorough search for partitions lost or inaccessible due to a serious disk damage (format, delete, partition manager failure and other). Raw file search when FS is unusable. RAID constructor for broken or damaged RAIDs (RAID-0, RAID-1, RAID-4, RAID-5, delayed parity, JBOD, automatic parameter detection). Disk images support (create, write image, clone disk, open image as disk). Support for national names, large disks, large file, sector translation, NTFS comperssion, other features.
+
+You may choose one (1) OS platform to run on (among Windows, DOS, Linux, macOS).
+Compare editions on the software site<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300329315&affiliateid=200057808)

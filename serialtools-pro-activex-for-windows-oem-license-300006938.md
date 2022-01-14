@@ -1,0 +1,1 @@
+# SerialTools Pro ActiveX for Windows (OEM license)<br />SerialTools Pro ActiveX for Windows (OEM license)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300006938&affiliateid=200057808)

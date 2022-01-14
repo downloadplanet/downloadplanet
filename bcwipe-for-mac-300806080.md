@@ -1,0 +1,2 @@
+# BCWipe for Mac<br />![BCWipe for Mac](https://mycommerce.akamaized.net/api/pimages/P300806080/BIG/300806080.PNG)<br />Permanently delete selected files:
+- Use military-standard procedures to remove all traces of your deleted files; including data remanence, ‘wipe free space’ and ‘file slack’<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300806080&affiliateid=200057808)

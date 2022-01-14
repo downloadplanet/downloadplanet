@@ -1,0 +1,1 @@
+# nMigrator and vCard Wizard - Standard License<br />Software to Convert Lotus Notes Files to Various File Formats<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300908629&affiliateid=200057808)

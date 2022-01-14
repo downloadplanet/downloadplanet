@@ -1,0 +1,1 @@
+# EMS SQL Manager for PostgreSQL (Business) + 2 Year Maintenance<br />EMS SQL Manager for PostgreSQL is a powerful Administration and Development Tool for PostgreSQL databases.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067909&affiliateid=200057808)

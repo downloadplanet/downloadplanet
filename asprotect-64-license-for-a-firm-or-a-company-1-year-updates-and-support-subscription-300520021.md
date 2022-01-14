@@ -1,0 +1,1 @@
+# ASProtect 64 (License for a firm or a company) 1 year updates and support subscription<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300520021&affiliateid=200057808)

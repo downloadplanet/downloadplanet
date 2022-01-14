@@ -1,0 +1,1 @@
+# 0151 - Staerken-Schwaechen-Heatmap<br />0151 - Staerken-Schwaechen-Heatmap<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300999980&affiliateid=200057808)

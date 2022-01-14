@@ -1,0 +1,3 @@
+# Arrow Patterns for Photoshop & Elements V12<br />www.graphicxtras.com -- Arrow patterns for Adobe Photoshop & Elements & Commercial use V12
+
+100 Arrows patterns all stored in PNG format. patterns for Adobe (R) Photoshop (R) Creative Cloud CC 2017 2015 2014 CS6-6 (and the standalone versions) +Elements 15-1 + for Paint Shop Pro + Photo-Paint. Many different arrow designs. All royalty-free, commercial and non commercial work. Patterns are 1600 x 1600, 300 DPI. Use edit command to define pattern in Photoshop. All the patterns created by graphicxtras.com (Andrew Buckle)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300259506&affiliateid=200057808)

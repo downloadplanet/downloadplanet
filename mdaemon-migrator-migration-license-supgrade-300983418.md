@@ -1,0 +1,1 @@
+# MDaemon Migrator - Migration License (S-UPGRADE)<br />Software to Convert MDaemon Mailboxes<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300983418&affiliateid=200057808)

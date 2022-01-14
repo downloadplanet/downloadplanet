@@ -1,0 +1,8 @@
+# Bus Stop Desktop<br />![Bus Stop Desktop](https://mycommerce.akamaized.net/api/pimages/P214654/BIG/214654.JPG)<br />Viel Spaß auf Ihrem Desktop!
+Jetzt laufen die Leute aus 'Bus Stop 2' und 'Bus Stop 3' auch direkt auf Ihrem Desktop rum.
+Elfriede Zwuckel, Gaby Blond, Peter Klack, Luis Dringer, Thomas K. und viele andere lassen sich sehen. Izmir Ü. Bell fegt regelmäßig die Taskleiste. Woody S. Tock kommt, wenn Sie Winamp laufen lassen, zeigt den aktuellen Titel an und Sie können Winamp sogar fernsteuern. Robert P. Kucki plakatiert Ihre Lieblingsbilder oder Monatskalender. Eine weitere kleine Plakatwand zeigt die aktuelle Wetterlage des Ortes Ihrer Wahl.
+Natürlich fehlt auch eine Uhr nicht - nein es sind sogar gleich vier Varianten, von denen Sie zwei völlig frei auf dem Desktop platzieren können.
+Auf keinen Fall dürfen wir Feliy Tryck vergessen, der Sie zuverlässig an alle Geburtstage und Jahrestage erinnert.
+Wenn Sie wollen, können Sie einen Zaun aufstellen, und selbst dahinter kann das Desktop-Hintergrundbild direkt aus dem Programm eingestellt werden.
+Wer öfter den Bidschirmschoner wechselt, manchmal keinen Bildschirmschoner sehen möchte oder aber auch den Bildschirmschoner sofort starten möchte, findet hierzu entsprechende Menübefehle und Hotkeys.
+Getreu dem Motto "Spaß kann sein, muss aber nicht!", können Sie 'Bus Stop Desktop' jederzeit per Mausklick deaktivieren. Wobei Sie natürlich die Wahl haben, was alles noch sichtbar bleiben soll.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=214654&affiliateid=200057808)

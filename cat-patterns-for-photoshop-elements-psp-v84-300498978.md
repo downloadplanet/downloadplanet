@@ -1,0 +1,4 @@
+# Cat Patterns for Photoshop & Elements & PSP V84<br />www.graphicxtras.com -- Cat patterns for Adobe Photoshop & Elements & PSP Seamless tiles V84
+
+100 Cat Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by http://www.graphicxtras.com (Andrew Buckle). Set includes the patterns in Photoshop patterns PAT / PNG / EPS format released: January 11th 2012.
+Check out http://www.graphicxtras.com/patterns.htm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300498978&affiliateid=200057808)

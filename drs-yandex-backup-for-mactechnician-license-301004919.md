@@ -1,0 +1,1 @@
+# DRS Yandex Backup for MAC[Technician License]<br />DRS Yandex Backup for Windows<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004919&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# Vovsoft External Link Detector<br />Find external links on any website.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300946864&affiliateid=200057808)

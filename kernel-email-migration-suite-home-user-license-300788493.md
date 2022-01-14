@@ -1,0 +1,1 @@
+# Kernel Email Migration Suite - Home User License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300788493&affiliateid=200057808)

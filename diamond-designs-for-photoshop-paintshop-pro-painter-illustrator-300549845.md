@@ -1,0 +1,7 @@
+# Diamond Designs for Photoshop & PaintShop Pro & Painter & Illustrator<br />www.graphicxtras.com -- Diamond Designs Photoshop & PaintShop Pro & Painter & Illustrator PC MAC OS X
+
+Diamonds PNG designs for Photoshop, PSP, Painter and others
+Hi-impact diamonds colorful designs (raster) - 2000 x 2000, 300 DPI - all for commercial use, royalty-free. All by graphicxtras.com (Andrew Buckle). Many different diamond designs for use in many applications on the PC and MAC. All in PNG format (easy to convert). Re-color, combine, modify, distort, export and more.
+  The PNG files can be used as a source for Photoshop brushes and patterns (there are actions included with the set to add all the PNG files as brushes with a variety of formats and sizes); they can also be loaded into PaintShop pro as brushes or displacements or patterns; or PNGs used in Xara and Photo-Paint and Painter and Illustrator as a source for many amazing new designs.
+  Any questions about the dynamic set of PNG designs (for use to create items for sale), please contact us on support@graphicxtras.com - Andrew Buckle. Check out the graphicxtras.com site (diamonds section) for examples / samplers etc.
+Please e-mail us on support@graphicxtras.com or check out our site http://www.graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300549845&affiliateid=200057808)

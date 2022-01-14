@@ -1,0 +1,1 @@
+# Excel Password Recovery<br />Recover lost passwords for protected Excel spreadsheet files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879290&affiliateid=200057808)

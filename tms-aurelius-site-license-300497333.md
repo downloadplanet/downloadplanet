@@ -1,0 +1,1 @@
+# TMS Aurelius - Site License<br />TMS Aurelius is an Object-Relational Mapping framework for Delphi. More info at http://www.tmssoftware.com/go?aurelius<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300497333&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# PFK, 2. Fachpaket, Arbeits- u. Sozialrecht, Videocoaching 46 Videos mit Begleitskript u. Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300596860&affiliateid=200057808)

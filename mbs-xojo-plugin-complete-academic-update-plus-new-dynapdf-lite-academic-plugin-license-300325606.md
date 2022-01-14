@@ -1,0 +1,1 @@
+# MBS Xojo Plugin Complete Academic Update plus new DynaPDF Lite Academic Plugin license<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300325606&affiliateid=200057808)

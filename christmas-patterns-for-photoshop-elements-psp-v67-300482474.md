@@ -1,0 +1,3 @@
+# Christmas Patterns for Photoshop & Elements & PSP V67<br />www.graphicxtras.com -- Christmas patterns for Adobe Photoshop & Elements & PSP Xmas & Festive V67
+
+50 Christmas festive Xmas Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by http://www.graphicxtras.com (Andrew Buckle)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300482474&affiliateid=200057808)

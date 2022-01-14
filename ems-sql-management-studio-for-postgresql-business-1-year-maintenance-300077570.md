@@ -1,0 +1,1 @@
+# EMS SQL Management Studio for PostgreSQL (Business) + 1 Year Maintenance<br />EMS SQL Management Studio for PostgreSQL is a complete solution for database administration and development.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300077570&affiliateid=200057808)

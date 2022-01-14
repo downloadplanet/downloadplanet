@@ -1,0 +1,1 @@
+# Das große Gründer.de E-Learning-Paket - Jede Woche ein hochwertiges Online-Seminar auf Abruf (+ umfangreiches Bonusmaterial)<br />Das große Gründer.de E-Learning-Paket - Jede Woche ein hochwertiges Online-Seminar auf Abruf (+ umfangreiches Bonusmaterial)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300578324&affiliateid=200057808)

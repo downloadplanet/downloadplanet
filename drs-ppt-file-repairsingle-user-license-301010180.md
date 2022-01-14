@@ -1,0 +1,1 @@
+# DRS PPT File Repair[Single User License]<br />DRS PPT Repair is an advanced software program designed to fix corrupt Microsoft PowerPoint files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010180&affiliateid=200057808)

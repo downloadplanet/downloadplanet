@@ -1,0 +1,3 @@
+# Log Monitor & Export Professional<br />![Log Monitor & Export Professional](https://mycommerce.akamaized.net/api/pimages/P300293772/BIG/300293772.GIF)<br />Log Monitor & Export enables users to monitor multiple remote or local log files and send notifications about user-defined events within these files. Our log monitor collects log files data, monitors files, writes data from log files to a database, MS Excel files or many other targets.
+
+This version supports Windows 2000 and higher service mode, all types of plugins (except filter plug-ins) and allows you to monitor total 30 log files (30 local or remote log files).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300293772&affiliateid=200057808)

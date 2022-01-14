@@ -1,0 +1,1 @@
+# Kernel for Outlook Duplicates - Technician Lifetime License with Kernel PST Split + Kernel Merge PST<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300696387&affiliateid=200057808)

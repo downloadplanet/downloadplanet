@@ -1,0 +1,1 @@
+# BLADE-2 Diderique SoundSet<br />Soundbank for Rob Papen BLADE-2 by Diderique.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301017907&affiliateid=200057808)

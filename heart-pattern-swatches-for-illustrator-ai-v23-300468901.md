@@ -1,0 +1,3 @@
+# Heart pattern swatches for Illustrator (AI) V23<br />www.graphicxtras.com -- Heart Swatches for Adobe Illustrator Creative cloud Romance & Valentine & Love V23 ----
+
+190 Heart Patterns swatches for Adobe Illustrator, PC + MAC OS X. License - commercial use OK, royalty-free, all by graphicxtras.com. Find out more via graphicxtras.com as well as youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468901&affiliateid=200057808)

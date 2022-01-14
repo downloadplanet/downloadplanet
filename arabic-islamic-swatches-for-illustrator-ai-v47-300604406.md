@@ -1,0 +1,3 @@
+# Arabic / Islamic Swatches for Illustrator (AI) V47<br />www.graphicxtras.com -- Arabic Swatches for Adobe Illustrator CC & 2014 & CS 6 Seamless tiles Islamic V47
+
+60 Arabic swatches for Illustrator CC+ (they will not work in earlier versions of Illustrator as they feature the hex grid patterns + other features). The arabic swatches are seamless tiles for all kinds of work. Vector format AI. Commercial use CU4CU, all by Andrew Buckle / graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300604406&affiliateid=200057808)

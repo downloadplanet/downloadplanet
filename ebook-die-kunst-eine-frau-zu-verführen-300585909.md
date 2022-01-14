@@ -1,0 +1,3 @@
+# eBook DIE KUNST EINE FRAU ZU VERFÜHREN<br />Dieses eBook versetzt Sie in die Lage eine Traumfrau ganz locker anzusprechen, als hätten Sie überhaupt kein Problem damit. Dieses erste Ansprechen hat ja noch gar nichts mit Flirten oder gar Anmachen zu tun, wohl aber damit eine Frau von sich einzunehmen und letztendlich zu erobern.
+Das Geheimnis erfolgreicher „Frauenversteher“ ist so einfach, dass Sie es sofort verinnerlicht haben und anwenden können, sobald Sie auch nur einmal davon erfahren haben!
+Dabei ist das Ansprechen einer Frau für einen Mann eigentlich doch ganz einfach, wenn dieser Mann nur einige wenige klare Verhaltensregeln beherzigt.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585909&affiliateid=200057808)

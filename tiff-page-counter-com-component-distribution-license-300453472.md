@@ -1,0 +1,3 @@
+# TIFF Page Counter COM Component (Distribution License)<br />TIFF Page Counter COM Component is for ASP, Cold Fusion, VB, VC and other languages. The com component will quickly tell you how many pages are in a tiff file, ideal for web sites that serve tiff content.
+This license allows you to send unlimited copies of the software out with your own software, by no means must this software be sold separately. You are by no means allowed to directly compete with Traction Software Ltd by using this software component. e.g. a tiff page count program
+All Updates to 1.xx are free of charge.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300453472&affiliateid=200057808)

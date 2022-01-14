@@ -1,0 +1,1 @@
+# Vovsoft Rename Multiple Files<br />Rename multiple files with just a few clicks<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300871858&affiliateid=200057808)

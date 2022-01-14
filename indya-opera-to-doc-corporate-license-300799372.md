@@ -1,0 +1,1 @@
+# Indya Opera to DOC - Corporate License<br />Software to Convert Opera MBS Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799372&affiliateid=200057808)

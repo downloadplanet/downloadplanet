@@ -1,0 +1,1 @@
+# BW-Fachpaket: (I.) 2. Bilanz- u. Steuerpolitik incl. IFRS, Videocoaching, 35 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300579339&affiliateid=200057808)

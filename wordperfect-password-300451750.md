@@ -1,0 +1,1 @@
+# WordPerfect Password<br />Password recovery tool for Word and Excel.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300451750&affiliateid=200057808)

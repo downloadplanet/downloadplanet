@@ -1,0 +1,1 @@
+# Auto Shutdown Manager V5 Enterprise<br />Auto Shutdown Manager V5 Enterprise License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300592414&affiliateid=200057808)

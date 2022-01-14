@@ -1,0 +1,1 @@
+# SysInfo FAT Recovery[Technician License]<br />SysInfoTools FAT Recovery<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300739647&affiliateid=200057808)

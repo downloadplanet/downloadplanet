@@ -1,0 +1,1 @@
+# TLex Suite License Upgrade (Acad to Personal License)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300420248&affiliateid=200057808)

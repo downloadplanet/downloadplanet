@@ -1,0 +1,1 @@
+# Kernel Exchange Suite - Upgrade (Corporate)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300808836&affiliateid=200057808)

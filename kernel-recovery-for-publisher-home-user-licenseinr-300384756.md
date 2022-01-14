@@ -1,0 +1,1 @@
+# Kernel Recovery for Publisher - Home User License[INR]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384756&affiliateid=200057808)

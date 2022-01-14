@@ -1,0 +1,1 @@
+# Biometrics for Remote Desktop (Site License)<br />![Biometrics for Remote Desktop (Site License)](https://mycommerce.akamaized.net/api/pimages/P300765889/BIG/300765889.GIF)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300765889&affiliateid=200057808)

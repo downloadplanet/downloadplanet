@@ -1,0 +1,1 @@
+# CSAudioCDBurner<br />![CSAudioCDBurner](https://mycommerce.akamaized.net/api/pimages/P300914532/BIG/300914532.PNG)<br />The CSAudioCDBurner is a .NET component for software developers that can burn an Audio CD from the standard PCM WAV files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300914532&affiliateid=200057808)

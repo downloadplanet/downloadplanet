@@ -1,0 +1,1 @@
+# Geprüfter Personalfachkaufmann IHK<br />![Geprüfter Personalfachkaufmann IHK](https://mycommerce.akamaized.net/api/pimages/P300452392/BIG/300452392.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300452392&affiliateid=200057808)

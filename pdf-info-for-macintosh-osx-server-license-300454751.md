@@ -1,0 +1,1 @@
+# PDF Info for Macintosh OSX (Server License)<br />PDF Info contains many special features like removing all XMP metadata and Info data, exporting Info data to XML and importing both XML or/and XMP metadata in to a single or a batch list of PDF files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300454751&affiliateid=200057808)

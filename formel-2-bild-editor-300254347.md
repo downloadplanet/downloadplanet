@@ -1,0 +1,1 @@
+# Formel 2 Bild Editor<br />Create pictures of math formulas<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300254347&affiliateid=200057808)

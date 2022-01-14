@@ -1,0 +1,1 @@
+# 0162 - Chancen-Risiko-Portfolio<br />0162 - Chancen-Risiko-Portfolio<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301000489&affiliateid=200057808)

@@ -1,0 +1,18 @@
+# Coolmuster Android Eraser - Lifetime License(6-10PCs)<br />![Coolmuster Android Eraser - Lifetime License(6-10PCs)](https://mycommerce.akamaized.net/api/pimages/P300924887/BIG/300924887.PNG)<br />The Android Eraser is the most ideal privacy protector, which is designed to erase all personal information from your Android devices without any recovery possibility. And totally it returns your Android device to a "Clean Slate" state so that you can resell or donate it trustingly.
+Why Do We Need An Android Data Eraser?
+When you do not want to share your private information or secret with others, you will choose to erase history on Android phone. And before you resell, donate or trade in your old Android phone, you need to wipe out all your personal data beforehand so as to prevent a data leaking problem.
+Compared with general deletion, Coolmuster Android Eraser offers you with a deep scan and the most efficient data protection solution to wipe everything from Android permanently. Make sure your deleted Android files won't be recovered by any means.
+One click to permanently wipe all data on Android phone, including existing files and deleted files, and also restore Android's system to factory settings.
+Erase All File Types on Android with 1 Click
+Any Android device can be got bogged down when it is used for a long time. What you can do is to clean its cache data, junks, as well as useless files in order to speed up your device and protect your privacy. However, this Android Data Eraser can do more for you:
+As a history eraser for Android, it can delete everything on your Android phone or tablet, including contacts, text messages, call logs, photos, videos, music, voicemail, user names, gmail account, passwords, apps, books, search history (Google history, Snapchat history, web history, etc.), keyboard history and other more personal info.
+Being easy-to-use but professional, you can erase history on Android within 1 click. After the permanent deletion, no one can recover any personal data from the Android device, even using the professional Android data recovery tools.
+3 Progressive Erasure Levels for Selection to Erase Data Safely
+Coolmuster Android Eraser provides three progressive erasure levels to wipe your Android content securely according to your own needs:
+Low Level (Quick Erasure): Erase data on your Android phone/tablet in seconds quickly and efficiently, making your Android data destroyed and unrecoverable.
+Medium Level (1 Time, Recommended): Provide 1 pass of random data to overwrite your existing and deleted Android data, leaving no trace of erasing after the deletion to make sure the deleted data 100% unrecoverable.
+High Level (3 Times): The longest and most secure data destruction option to write over the data three times, the security standard of which is based on the U.S. DoD 5220.22-M. It's highly recommended if you have stored any important private data on your Android phone, such as bank records, passwords, etc.
+Straightforward & 100% Safe Android Cleanup Utility
+Never forget that the files and information wiped by Coolmuster Android Eraser is unrecoverable. Therefore, keep in mind to back up the data before starting the erasing process if you don't want to lose them forever.
+Being a small and easy-to-use application, it only costs you less than one minute to wipe out everything your Android device. The habit of cleaning up files that take up space should be a part of any smartphone owner's routine.
+It supports all Android devices ever created, such as Samsung, Huawei, Xiaomi, HTC, LG, Sony, Motorola, Google Nexus, ZTE, and so forth.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924887&affiliateid=200057808)

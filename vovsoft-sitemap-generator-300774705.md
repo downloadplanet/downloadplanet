@@ -1,0 +1,1 @@
+# Vovsoft Sitemap Generator<br />Generate sitemap easily.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300774705&affiliateid=200057808)

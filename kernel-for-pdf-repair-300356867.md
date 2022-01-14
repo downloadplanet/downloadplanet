@@ -1,0 +1,1 @@
+# Kernel for PDF Repair<br />Repair Corrupt PDF Files.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300356867&affiliateid=200057808)

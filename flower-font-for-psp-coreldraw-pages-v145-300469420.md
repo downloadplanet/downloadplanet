@@ -1,0 +1,3 @@
+# Flower Font for PSP & & CorelDRAW & Pages V145<br />www.graphicxtras.com -- Flower Font PSP & Indesign & CorelDRAW & Pages & Xpress Truetype & EPS V145
+
+Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469420&affiliateid=200057808)

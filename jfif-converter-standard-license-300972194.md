@@ -1,0 +1,1 @@
+# JFIF Converter - Standard License<br />Software to Convert JFIF Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300972194&affiliateid=200057808)

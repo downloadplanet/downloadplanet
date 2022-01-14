@@ -1,0 +1,1 @@
+# MacUncle CSV Splitter - Standard License<br />Split CSV Files to Various Format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301007201&affiliateid=200057808)

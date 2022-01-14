@@ -1,0 +1,1 @@
+# BitRecover EPS Converter Wizard - Standard License<br />EPS Converter<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301014699&affiliateid=200057808)

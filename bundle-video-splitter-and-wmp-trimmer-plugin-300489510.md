@@ -1,0 +1,1 @@
+# Bundle - Video Splitter and WMP Trimmer Plugin<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300489510&affiliateid=200057808)

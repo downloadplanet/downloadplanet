@@ -1,0 +1,1 @@
+# SubBoomBass RE collection<br />Sounbank collection for the SubBoomBass-RE<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300742593&affiliateid=200057808)

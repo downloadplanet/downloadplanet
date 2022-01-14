@@ -1,0 +1,1 @@
+# Meister/in f. Rohr-, Kanal- u. Industrieservice (IHK), B.III.9., Personalführung, 7 Videos, Gesamtspielzeit 02 : 12 Std. mit 89 S. Begleitskript und Rep. von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634295&affiliateid=200057808)

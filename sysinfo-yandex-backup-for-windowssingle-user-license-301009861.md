@@ -1,0 +1,1 @@
+# SysInfo Yandex Backup for Windows[Single User License]<br />SysInfo Yandex Backup for Windows<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301009861&affiliateid=200057808)

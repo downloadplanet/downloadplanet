@@ -1,0 +1,1 @@
+# Industriemeister/in - Printmedien (IHK), III.8., Personalführung, Videocoaching mit Begleitskript und Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634672&affiliateid=200057808)

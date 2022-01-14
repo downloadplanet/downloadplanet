@@ -1,0 +1,1 @@
+# BitRecover Metadata Remover - Business License<br />Batch remove metadata from files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300978277&affiliateid=200057808)

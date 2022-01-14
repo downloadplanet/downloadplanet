@@ -1,0 +1,1 @@
+# BitRecover HEIC Converter Wizard - Pro License<br />Convert Images files to various file types<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301017239&affiliateid=200057808)

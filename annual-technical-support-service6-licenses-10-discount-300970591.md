@@ -1,0 +1,1 @@
+# Annual Technical Support Service(6 licenses, 10% discount)<br />Technical support of the product. We will offer email support within 24 business hours.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300970591&affiliateid=200057808)

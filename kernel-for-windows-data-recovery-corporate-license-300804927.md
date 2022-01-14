@@ -1,0 +1,1 @@
+# Kernel for Windows Data Recovery ( Corporate License )<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300804927&affiliateid=200057808)

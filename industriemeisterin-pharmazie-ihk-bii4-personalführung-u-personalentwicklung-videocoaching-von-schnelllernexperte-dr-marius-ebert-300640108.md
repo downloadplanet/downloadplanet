@@ -1,0 +1,1 @@
+# Industriemeister/in Pharmazie (IHK), B.II.4. Personalführung u. Personalentwicklung, Videocoaching von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300640108&affiliateid=200057808)

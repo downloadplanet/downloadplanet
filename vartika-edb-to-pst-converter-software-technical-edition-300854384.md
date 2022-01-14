@@ -1,0 +1,1 @@
+# Vartika EDB to PST Converter Software - Technical Edition<br />Vartika Exchange EDB to PST Converter Software recovers the exact mailbox from a corrupt exchange edb file without disturbing their original formatting or modifying other important attributes.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854384&affiliateid=200057808)

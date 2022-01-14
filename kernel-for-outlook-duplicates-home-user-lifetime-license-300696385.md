@@ -1,0 +1,1 @@
+# Kernel for Outlook Duplicates - Home User Lifetime License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300696385&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# MailSouls MBOX Converter - Enterprise License<br />MailSouls MBOX Converter is an email converter to convert MBOX mailboxes to EML, PST, MSG, NSF, PDF files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300810522&affiliateid=200057808)

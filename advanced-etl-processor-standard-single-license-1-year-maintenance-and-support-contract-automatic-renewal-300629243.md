@@ -1,0 +1,1 @@
+# Advanced ETL Processor Standard - single license (1 year maintenance and support contract, automatic renewal)<br />Advanced ETL Processor Standard - single license (1 year maintenance and support contract, automatic renewal)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300629243&affiliateid=200057808)

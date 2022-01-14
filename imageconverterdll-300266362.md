@@ -1,0 +1,1 @@
+# ImageConverter.dll<br />Automation OLE DLL - Image Format Converter<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300266362&affiliateid=200057808)

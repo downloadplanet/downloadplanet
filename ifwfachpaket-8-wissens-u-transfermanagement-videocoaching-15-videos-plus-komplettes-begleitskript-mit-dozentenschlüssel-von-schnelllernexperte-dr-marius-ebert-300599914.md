@@ -1,0 +1,1 @@
+# IFW-Fachpaket: 8. Wissens- u. Transfermanagement, Videocoaching, 15 Videos plus komplettes Begleitskript mit Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300599914&affiliateid=200057808)

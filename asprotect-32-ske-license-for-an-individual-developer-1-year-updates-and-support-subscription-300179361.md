@@ -1,0 +1,1 @@
+# ASProtect 32 (SKE) (License for an individual developer) 1 year updates and support subscription<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300179361&affiliateid=200057808)

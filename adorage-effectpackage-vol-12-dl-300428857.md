@@ -1,0 +1,2 @@
+# Adorage Effectpackage Vol. 12 (DL)<br />More than 2000 great effects for your travel documentation. Effects with Tourist attractions, Skylines and Shapes related to traveling.
+ Get more informations about this product, samples and descriptions...<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428857&affiliateid=200057808)

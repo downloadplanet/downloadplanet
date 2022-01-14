@@ -1,0 +1,2 @@
+# LingoClick - Annual License<br />![LingoClick - Annual License](https://mycommerce.akamaized.net/api/pimages/P300391919/BIG/300391919.PNG)<br />Translate words on your screen with just a single mouse click!
+LingoClick offers you easy and quick access to over 40 online dictionaries.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300391919&affiliateid=200057808)

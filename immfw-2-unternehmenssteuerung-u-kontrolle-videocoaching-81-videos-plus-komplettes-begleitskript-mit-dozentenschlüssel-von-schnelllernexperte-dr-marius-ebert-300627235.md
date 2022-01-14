@@ -1,0 +1,1 @@
+# ImmFW: 2. Unternehmenssteuerung u. Kontrolle, Videocoaching, 81 Videos plus komplettes Begleitskript mit Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300627235&affiliateid=200057808)

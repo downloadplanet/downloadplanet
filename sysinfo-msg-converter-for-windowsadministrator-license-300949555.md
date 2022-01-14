@@ -1,0 +1,1 @@
+# SysInfo MSG Converter for Windows[Administrator License]<br />SysInfo MSG Converter/a><br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300949555&affiliateid=200057808)

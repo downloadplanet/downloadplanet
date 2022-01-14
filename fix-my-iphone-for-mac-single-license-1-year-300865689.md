@@ -1,0 +1,1 @@
+# Fix My iPhone for Mac - single license (1 year)<br />Fix My iPhone is the #1 iOS System Recovery tool. Fix your iPhone Stuck on Apple logo, Black Screen, Frozen Screen, iTunes Update/Restore Errors and more than 20 iOS 12 upgrade failures.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865689&affiliateid=200057808)

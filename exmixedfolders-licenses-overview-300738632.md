@@ -1,0 +1,1 @@
+# ExMixedFolders licenses overview<br />![ExMixedFolders licenses overview](https://mycommerce.akamaized.net/api/pimages/P300738632/BIG/300738632.PNG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300738632&affiliateid=200057808)

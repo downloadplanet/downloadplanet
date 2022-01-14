@@ -1,0 +1,3 @@
+# Square font Truetype TTF & EPS for CorelDRAW & PSP & & Pages V186<br />www.graphicxtras.com -- Square Font Truetype & EPS CorelDRAW & PSP & Indesign & Pages V186
+
+100 Square shapes in true type font - set includes true type TTF and EPS format files containing a wide variety of commercial use shapes for Indesign, word, pages etc - added March 8th 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300505408&affiliateid=200057808)

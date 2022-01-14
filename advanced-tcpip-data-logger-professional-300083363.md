@@ -1,0 +1,3 @@
+# Advanced TCP/IP Data Logger Professional<br />![Advanced TCP/IP Data Logger Professional](https://mycommerce.akamaized.net/api/pimages/P300083363/BIG/300083363.GIF)<br />Advanced TCP/IP Data Logger is the unique TCP/IP ports and sockets data logging solution that supports server and client modes and features convenient user interface as well as flexibly configured modes of operation.
+
+This version supports Windows 2000 and higher service mode, and all types of plugins, except filter plugins.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300083363&affiliateid=200057808)

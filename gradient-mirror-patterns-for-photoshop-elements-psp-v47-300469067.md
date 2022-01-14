@@ -1,0 +1,3 @@
+# Gradient Mirror Patterns for Photoshop & Elements & PSP V47<br />www.graphicxtras.com -- Gradient Mirror patterns for Adobe Photoshop & Elements & PSP V47
+
+Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by graphicxtras (Andrew Buckle)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469067&affiliateid=200057808)

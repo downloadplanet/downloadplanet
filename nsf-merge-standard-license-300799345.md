@@ -1,0 +1,1 @@
+# NSF Merge - Standard License<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799345&affiliateid=200057808)

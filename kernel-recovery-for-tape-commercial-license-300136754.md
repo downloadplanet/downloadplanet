@@ -1,0 +1,1 @@
+# Kernel Recovery for Tape - Commercial License<br />Kernel Recovery for Tape recovers data from all types of damaged, corrupt tape cartridges like, DLT, LTO, AIT, DAT tape formats.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136754&affiliateid=200057808)

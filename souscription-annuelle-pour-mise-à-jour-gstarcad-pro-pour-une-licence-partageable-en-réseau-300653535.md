@@ -1,0 +1,4 @@
+# Souscription annuelle pour mise à jour GstarCAD PRO pour une licence partageable en réseau<br />![Souscription annuelle pour mise à jour GstarCAD PRO pour une licence partageable en réseau](https://mycommerce.akamaized.net/api/pimages/P300653535/BIG/300653535.PNG)<br />Souscription annuelle pour Mise à Jour GstarCAD PRO Réseau.
+GstarCAD est un logiciel de dessin au format DWG compatible AutoCAD.
+Cet abonnement permet d'avoir, pendant un an, la mise à jour gratuite de GstarCAD ayant une licence réseau. .
+ATTENTION cet abonnement n'est possible que si vous avez déjà une licence GstarCAD réseau active en dernière version.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300653535&affiliateid=200057808)

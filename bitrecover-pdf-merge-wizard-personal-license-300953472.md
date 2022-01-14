@@ -1,0 +1,1 @@
+# BitRecover PDF Merge Wizard - Personal License<br />Bat Converter Wizard<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300953472&affiliateid=200057808)

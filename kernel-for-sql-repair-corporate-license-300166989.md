@@ -1,0 +1,1 @@
+# Kernel for SQL Repair - Corporate License<br />![Kernel for SQL Repair - Corporate License](https://mycommerce.akamaized.net/api/pimages/P300166989/BIG/300166989.PNG)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300166989&affiliateid=200057808)

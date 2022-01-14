@@ -1,0 +1,3 @@
+# Arrow Patterns for Photoshop & Elements & PSP V51<br />www.graphicxtras.com -- Arrow patterns for Adobe Photoshop & Elements & PSP V51
+
+Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by graphicxtras (Andrew Buckle)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469071&affiliateid=200057808)

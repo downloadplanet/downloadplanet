@@ -1,0 +1,1 @@
+# MacUncle MSG Email Address Extractor - Standard License<br />Extract Email Address from MSG Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004897&affiliateid=200057808)

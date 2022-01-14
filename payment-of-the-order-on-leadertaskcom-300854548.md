@@ -1,0 +1,2 @@
+# Payment of the order on leadertask.com<br />You are purchasing LeaderTask or its extensions.
+LeaderTask is task planner for remote working.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854548&affiliateid=200057808)

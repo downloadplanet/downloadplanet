@@ -1,0 +1,3 @@
+# GstarCAD Fr PRO avec une licence permanente partageable en réseau<br />![GstarCAD Fr PRO avec une licence permanente partageable en réseau](https://mycommerce.akamaized.net/api/pimages/P300602407/BIG/300602407.JPG)<br />GstarCAD Fra Professionnel est un logiciel de dessin au format DWG 100% compatible AutoCAD.
+Vous avez sélectionné la version PROFESSIONNELLE qui inclus la gestion des blocs dynamiques et des fonctions (commandes) parfaitement adaptées pour le dessin en 3D
+Ce package inclus : le logiciel complet en dernière version avec une licence réseau.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300602407&affiliateid=200057808)

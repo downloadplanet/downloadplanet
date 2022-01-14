@@ -1,0 +1,1 @@
+# Access and Excel VBA - 3 month subscription<br />VBA programmer add-in for knowledge and productivity. This version includes the add-on for Access VBA and Excel VBA.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300804941&affiliateid=200057808)

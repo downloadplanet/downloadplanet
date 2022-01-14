@@ -1,0 +1,1 @@
+# SysInfo NSF Split[Single User License]<br />SysInfoTools NSF Split Performs safe splitting of NSF database file into multiple smaller parts.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300726633&affiliateid=200057808)

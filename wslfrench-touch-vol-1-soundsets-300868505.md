@@ -1,0 +1,1 @@
+# WSL-French Touch Vol 1 Soundsets<br />![WSL-French Touch Vol 1 Soundsets](https://mycommerce.akamaized.net/api/pimages/P300868505/BIG/300868505.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300868505&affiliateid=200057808)

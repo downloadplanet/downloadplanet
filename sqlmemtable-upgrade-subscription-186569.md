@@ -1,0 +1,1 @@
+# SQLMemTable Upgrade Subscription<br />All upgrades for free for a year since the date of subscription.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=186569&affiliateid=200057808)

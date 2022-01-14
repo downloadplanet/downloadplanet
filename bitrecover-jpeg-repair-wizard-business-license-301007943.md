@@ -1,0 +1,1 @@
+# BitRecover JPEG Repair Wizard - Business License<br />Repair JPEG Files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301007943&affiliateid=200057808)

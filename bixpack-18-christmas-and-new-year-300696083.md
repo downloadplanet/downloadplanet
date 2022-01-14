@@ -1,0 +1,1 @@
+# BixPack 18 - Christmas and New Year<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300696083&affiliateid=200057808)

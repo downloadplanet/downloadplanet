@@ -1,0 +1,1 @@
+# ClassifyIt (with subscription)<br />ClassifyIT is an add-on module for Microsoft (R) Office (TM) 2010 and higher, providing functionality to add classification tags to the top of emails, word documents, powerpoint slides and excel sheets.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300811096&affiliateid=200057808)

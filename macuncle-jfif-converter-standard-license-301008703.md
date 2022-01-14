@@ -1,0 +1,1 @@
+# MacUncle JFIF Converter - Standard License<br />Convert JFIF Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301008703&affiliateid=200057808)

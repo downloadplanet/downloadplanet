@@ -1,0 +1,3 @@
+# Advanced OPC Data Logger Enterprise<br />![Advanced OPC Data Logger Enterprise](https://mycommerce.akamaized.net/api/pimages/P300237323/BIG/300237323.PNG)<br />Our OPC Data Logger interacts with OPC servers, aggregates and writes real-time data to a text log file, Excel, MSSQL, MySQL, ODBC database or to other targets. The program can be integrated to your system and work together with your SCADA.
+
+This version supports OPC DA 1, OPC DA 2, OPC HDA 1, OPC AE 1, OPC UA..<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300237323&affiliateid=200057808)

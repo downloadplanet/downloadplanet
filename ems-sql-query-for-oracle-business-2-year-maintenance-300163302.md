@@ -1,0 +1,1 @@
+# EMS SQL Query for Oracle (Business) + 2 Year Maintenance<br />Analyze and retrieve your data, build your Oracle queries visually, work with Oracle query plans, build charts based on retrieved data quickly and more.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300163302&affiliateid=200057808)

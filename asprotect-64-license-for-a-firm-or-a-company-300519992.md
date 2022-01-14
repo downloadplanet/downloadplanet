@@ -1,0 +1,1 @@
+# ASProtect 64 (License for a firm or a company)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300519992&affiliateid=200057808)

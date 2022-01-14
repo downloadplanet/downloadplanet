@@ -1,0 +1,2 @@
+# GTD Assistant<br />GTD Assistant will help you quickly disassemble incoming matters using the principles of GTD.
+GTD assistant is plug-in for Windows-version of LeaderTask software (ID 300627106).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300783217&affiliateid=200057808)

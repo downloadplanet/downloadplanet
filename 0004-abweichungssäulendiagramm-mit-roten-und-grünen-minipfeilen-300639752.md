@@ -1,0 +1,1 @@
+# 0004 - Abweichungssäulendiagramm mit roten und grünen Minipfeilen<br />0004 - Abweichungssäulendiagramm mit roten und grünen Minipfeilen<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300639752&affiliateid=200057808)

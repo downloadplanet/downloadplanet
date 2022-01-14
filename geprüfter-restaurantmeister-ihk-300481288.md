@@ -1,0 +1,1 @@
+# Geprüfter Restaurantmeister IHK<br />![Geprüfter Restaurantmeister IHK](https://mycommerce.akamaized.net/api/pimages/P300481288/BIG/300481288.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300481288&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# Foto Sprechblase<br />Create speech bubbles on your photos<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300253397&affiliateid=200057808)

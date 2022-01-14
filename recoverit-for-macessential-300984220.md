@@ -1,0 +1,1 @@
+# Recoverit for Mac-Essential<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300984220&affiliateid=200057808)

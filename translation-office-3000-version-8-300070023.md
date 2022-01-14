@@ -1,0 +1,5 @@
+# Translation Office 3000, Version 8<br />![Translation Office 3000, Version 8](https://mycommerce.akamaized.net/api/pimages/P300070023/BIG/300070023.GIF)<br />Translation Office 3000 is advanced accounting, marketing and project management tool for language translators and small translation agencies. TO3000 easily and seamlessly integrates in the business life of professional language translator.
+AnyCount produces detailed statistics of word counts, character counts, line counts, and page counts for all common file formats. Supports .DOC, .RTF, .XLS, .PPT, .PPS, .HTM, .CSV, .PDF, .TXT, .ZIP.
+TO3000 will help you create your client database, track projects, and issue invoices.
+Translation Office 3000 fully supports calculations of translation jobs in multiple currencies.
+Translation Office 3000 can save price-lists electronically in .DOC (Microsoft Word), .RTF (Rich Text Format), or .PDF (Portable Document Format), after which they can be sent to translation agencies by e-mail.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300070023&affiliateid=200057808)

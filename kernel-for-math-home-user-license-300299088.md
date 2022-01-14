@@ -1,0 +1,1 @@
+# kernel for math - home user license<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300299088&affiliateid=200057808)

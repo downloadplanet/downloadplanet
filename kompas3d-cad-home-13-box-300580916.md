@@ -1,0 +1,1 @@
+# KOMPAS-3D CAD Home 13 (BOX)<br />KOMPAS-3D CAD Home 13 (BOX)<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300580916&affiliateid=200057808)

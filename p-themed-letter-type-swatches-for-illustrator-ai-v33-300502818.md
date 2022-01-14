@@ -1,0 +1,3 @@
+# P Themed Letter / Type Swatches for Illustrator (AI) V33<br />www.graphicxtras.com -- 270 P Letter Swatches for Adobe Illustrator Text & Type & Characters & Alphabet V33
+
+270 P Letter pattern swatches for Adobe (R) Illustrator (R) PC + MAC OS X. License - commercial use, all by graphicxtras.com, all by Andrew Buckle. More info about them via graphicxtras.com and also our video tutorials on youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300502818&affiliateid=200057808)

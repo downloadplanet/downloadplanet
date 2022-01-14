@@ -1,0 +1,1 @@
+# SerialTools Standard ActiveX for Pocket PC<br />Serial port ActiveX<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=202721&affiliateid=200057808)

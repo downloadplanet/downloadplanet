@@ -1,0 +1,1 @@
+# BlueTools Standard .NET Compact Framework<br />BlueTooth<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300037717&affiliateid=200057808)

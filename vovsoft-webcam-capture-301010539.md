@@ -1,0 +1,1 @@
+# Vovsoft Webcam Capture<br />Webcam snapshot software<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010539&affiliateid=200057808)

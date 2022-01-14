@@ -1,0 +1,1 @@
+# EMS Data Export for DB2 (Business) + 3 Year Maintenance<br />An application to export your data from DB2 databases to 19 most popular formats.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300068072&affiliateid=200057808)

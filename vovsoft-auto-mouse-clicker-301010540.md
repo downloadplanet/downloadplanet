@@ -1,0 +1,1 @@
+# Vovsoft Auto Mouse Clicker<br />Automatic mouse move and click software<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301010540&affiliateid=200057808)

@@ -1,0 +1,3 @@
+# Mixed / B&W Pattern swatches for Illustrator V15<br />www.graphicxtras.com -- 230 Mixed / Black and white Pattern Swatches for Adobe Illustrator Vectors Patterns Seamless tiles V15
+
+230 B & W Patterns swatches for Adobe Illustrator, PC + MAC OS X. License - commercial use OK, royalty-free, all by graphicxtras.com. Find out more about the patterns via the graphicxtras.com along with youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468893&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# INS (Upgrade path "Single Line" to "Eight lines")<br />Integrated Notification System Upgrade path "Single channel" to "Eight channels"<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300030328&affiliateid=200057808)

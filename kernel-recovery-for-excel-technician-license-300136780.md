@@ -1,0 +1,1 @@
+# Kernel Recovery for Excel - Technician License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136780&affiliateid=200057808)

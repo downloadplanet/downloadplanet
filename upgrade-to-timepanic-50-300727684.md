@@ -1,0 +1,1 @@
+# Upgrade to TimePanic 5.0<br />This license key allows you to upgrade to TimePanic 5.0. It is meant for users who already have a license key for TimePanic 4.6 or earlier.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300727684&affiliateid=200057808)

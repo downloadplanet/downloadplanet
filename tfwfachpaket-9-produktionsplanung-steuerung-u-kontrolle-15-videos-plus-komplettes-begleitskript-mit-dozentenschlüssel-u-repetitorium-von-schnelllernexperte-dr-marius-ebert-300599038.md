@@ -1,0 +1,1 @@
+# TFW-Fachpaket: 9. Produktionsplanung, -steuerung u. -kontrolle, 15 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300599038&affiliateid=200057808)

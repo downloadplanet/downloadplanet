@@ -1,0 +1,1 @@
+# GoDaddy Email Backup Wizard - Pro License<br />Software to Backup GoDaddy Email Accounts<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300983856&affiliateid=200057808)

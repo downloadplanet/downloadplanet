@@ -1,0 +1,1 @@
+# kernel for draw - corporate license<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300299083&affiliateid=200057808)

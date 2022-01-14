@@ -1,0 +1,1 @@
+# EMS DB Extract for Oracle (Business) + 1 Year Maintenance<br />Create Oracle database backups in the form of SQL scripts, script and save your Oracle database structure and table data as a whole or partially.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300271357&affiliateid=200057808)

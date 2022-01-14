@@ -1,0 +1,1 @@
+# iSkysoft Toolbox - Android Root<br />- 100% Secure Rooting Software - Support 7000+ Android Phone/Tablet - One-Click Root All Android Device - Guaranteed Privacy & Result<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300948047&affiliateid=200057808)

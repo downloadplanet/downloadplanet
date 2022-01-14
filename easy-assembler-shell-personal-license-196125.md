@@ -1,0 +1,1 @@
+# Easy Assembler Shell Personal License<br />Easy Assembler Shell cool IDE for assembler development. TASM/MASM/NASM support.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=196125&affiliateid=200057808)

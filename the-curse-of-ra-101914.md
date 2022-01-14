@@ -1,0 +1,3 @@
+# The Curse Of Ra<br />The Curse Of Ra is a next generation version of the classic mahjongg game, featuring arcade standard graphics. It introduces new elements such as bombs, magnets and walls, and uses the one-layer two-angles arcade rules.
+Work your way through 50 cleverly designed levels with increasing difficulty. Levels 8 to 50 are guarenteed to challenge both your mind and logic. Play in single or multiplayer modes. Also included is an editor allowing you to create your own levels and challenge your friends.
+Warning: The Curse Of Ra is highly addictive!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=101914&affiliateid=200057808)

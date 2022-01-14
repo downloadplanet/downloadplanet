@@ -1,0 +1,1 @@
+# BitwarOCR Triennium Membership License (300 Calls/Day)<br />![BitwarOCR Triennium Membership License (300 Calls/Day)](https://mycommerce.akamaized.net/api/pimages/P300986668/BIG/300986668.PNG)<br />Text recognition, convert the image to words.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300986668&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# BitRecover PDF Manager - Business License<br />Manage PDF Documents - Secure, Split, Merge, Unlock, Convert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300978279&affiliateid=200057808)

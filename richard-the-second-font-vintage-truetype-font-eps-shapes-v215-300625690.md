@@ -1,0 +1,3 @@
+# Richard the second font / Vintage Truetype font / EPS Shapes V215<br />www.graphicxtras.com -- Richard the second font Small Letters & Text & Type & Alphabet Historical & Antique & Vintage CorelDRAW & PSP & Pages V215
+
+100 Richard the second period (1400 AD or so) shapes / font set for Commercial use - use in 99% of applications pc and mac (Photoshop, PSP, GIMP, Pages, Quark Xpress, CorelDRAW, MS Word etc). Commercial use, royalty-free, all the designs are in TTF and EPS vector format by graphicxtras.com (Andrew Buckle) support@graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300625690&affiliateid=200057808)

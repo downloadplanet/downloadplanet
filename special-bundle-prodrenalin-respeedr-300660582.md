@@ -1,0 +1,1 @@
+# Special Bundle: ProDrenalin + Respeedr<br />All you need for your Actioncam records: ProDrenalin to remove fisheye and quick stabilize and correct colors Respeedr to create stunning mixes of slowmotion and timelapse All in one package!<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300660582&affiliateid=200057808)

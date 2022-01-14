@@ -1,0 +1,1 @@
+# Biometrics for Remote Desktop (50 users) - Update Subscription<br />![Biometrics for Remote Desktop (50 users) - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300765887/BIG/300765887.GIF)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300765887&affiliateid=200057808)

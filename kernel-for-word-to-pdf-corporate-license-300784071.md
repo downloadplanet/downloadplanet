@@ -1,0 +1,1 @@
+# Kernel for Word to PDF - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300784071&affiliateid=200057808)

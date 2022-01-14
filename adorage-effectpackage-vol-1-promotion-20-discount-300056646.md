@@ -1,0 +1,2 @@
+# Adorage Effectpackage Vol. 1 ! Promotion 20% discount !<br />![Adorage Effectpackage Vol. 1 ! Promotion 20% discount !](https://mycommerce.akamaized.net/api/pimages/P300056646/BIG/300056646.JPG)<br />Classic - the universal effect collection
+ Get more informations about this product, samples and descriptions...<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300056646&affiliateid=200057808)

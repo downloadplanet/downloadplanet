@@ -1,0 +1,3 @@
+# Sphere Patterns for Photoshop & Elements & PSP & Xara V98<br />www.graphicxtras.com -- Sphere patterns for Adobe Photoshop & Elements & PSP & Xara V98
+
+100 Sphere Patterns for Photoshop and Elements and PaintShop Pro and others, PC and MAC OS X, License: commercial use. All the patterns are by http://www.graphicxtras.com (Andrew Buckle). PAT and PNG format released: March 31st 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300515496&affiliateid=200057808)

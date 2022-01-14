@@ -1,0 +1,3 @@
+# Crescent Truetype font / EPS Shapes for all apps V193<br />www.graphicxtras.com -- Crescent Font Shapes Truetype & EPS CorelDRAW & PSP & Xara & Publisher V193
+
+100 Crescent shapes in true type font - set includes true type TTF and EPS format files containing a wide variety of commercial use shapes for Indesign, word, pages, CorelDRAW, PaintShop Pro etc - added April 6th 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300517261&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# Geprüfter Industriefachwirt - Rechnungswesen<br />![Geprüfter Industriefachwirt - Rechnungswesen](https://mycommerce.akamaized.net/api/pimages/P300601273/BIG/300601273.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300601273&affiliateid=200057808)

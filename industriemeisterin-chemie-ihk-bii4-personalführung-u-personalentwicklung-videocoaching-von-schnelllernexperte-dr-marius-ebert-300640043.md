@@ -1,0 +1,1 @@
+# Industriemeister/in Chemie (IHK), B.II.4. Personalführung u. Personalentwicklung, Videocoaching von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300640043&affiliateid=200057808)

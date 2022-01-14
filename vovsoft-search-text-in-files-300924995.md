@@ -1,0 +1,1 @@
+# Vovsoft Search Text In Files<br />Quickly find files containing specific text<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924995&affiliateid=200057808)

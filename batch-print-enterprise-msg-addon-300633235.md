@@ -1,0 +1,1 @@
+# Batch & Print Enterprise MSG Addon<br />Batch & Print Enterprise Outlook MSG Addon is a plugin for Batch & Print Enterprise that gives the user more control over the Outlook msg file print process. Also can process attachments in the MSG files.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300633235&affiliateid=200057808)

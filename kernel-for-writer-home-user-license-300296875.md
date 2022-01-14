@@ -1,0 +1,1 @@
+# Kernel for Writer - Home User License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300296875&affiliateid=200057808)

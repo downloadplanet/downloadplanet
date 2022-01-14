@@ -1,0 +1,1 @@
+# FWWK-Fachtpaket: 4. Unternehmensführung, Videocoaching, 24 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300602558&affiliateid=200057808)

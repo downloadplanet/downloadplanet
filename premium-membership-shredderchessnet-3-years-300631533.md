@@ -1,0 +1,1 @@
+# Premium Membership shredderchess.net, 3 years<br />shredderchess.net - nice people, challenging games<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300631533&affiliateid=200057808)

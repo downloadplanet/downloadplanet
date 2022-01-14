@@ -1,0 +1,1 @@
+# AnyVid Mac Monthly (JP)<br />![AnyVid Mac Monthly (JP)](https://mycommerce.akamaized.net/api/pimages/P300788838/BIG/300788838.PNG)<br />A Simple, Yet Powerful YouTube Video Downloader for Mac<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300788838&affiliateid=200057808)

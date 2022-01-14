@@ -1,0 +1,1 @@
+# BitRecover CDR Converter Wizard - Business License<br />Software to Convert Corel Draw CDR Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300975581&affiliateid=200057808)

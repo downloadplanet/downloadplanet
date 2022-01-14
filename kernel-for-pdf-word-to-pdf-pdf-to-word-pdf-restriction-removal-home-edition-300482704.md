@@ -1,0 +1,1 @@
+# Kernel for PDF + word to pdf + pdf to word + pdf restriction removal ( Home Edition )<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300482704&affiliateid=200057808)

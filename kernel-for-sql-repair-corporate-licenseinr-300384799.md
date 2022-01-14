@@ -1,0 +1,1 @@
+# Kernel for SQL Repair - Corporate License[INR]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384799&affiliateid=200057808)

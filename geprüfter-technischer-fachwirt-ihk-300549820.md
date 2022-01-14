@@ -1,0 +1,1 @@
+# Geprüfter Technischer Fachwirt IHK<br />![Geprüfter Technischer Fachwirt IHK](https://mycommerce.akamaized.net/api/pimages/P300549820/BIG/300549820.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300549820&affiliateid=200057808)

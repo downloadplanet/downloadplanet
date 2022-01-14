@@ -1,0 +1,1 @@
+# Kernel Recovery for Solaris Intel - Corporate License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384565&affiliateid=200057808)

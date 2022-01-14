@@ -1,0 +1,1 @@
+# 0159 - Staerken-Schwaechen-Liste<br />0159 - Staerken-Schwaechen-Liste<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301000486&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# dr.fone - Erase(Win)<br />Permanently erase what you want from your iPhone, iPad or Android devices, whole devices or part of data.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947731&affiliateid=200057808)

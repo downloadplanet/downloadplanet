@@ -1,0 +1,1 @@
+# BarcodeOCR Standard - License renewal and 12 months of maintenance<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300624207&affiliateid=200057808)

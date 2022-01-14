@@ -1,0 +1,1 @@
+# 0176 - Stakeholder-Priorisierungsmatrix<br />0176 - Stakeholder-Priorisierungsmatrix<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301007763&affiliateid=200057808)

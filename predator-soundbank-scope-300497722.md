@@ -1,0 +1,1 @@
+# Predator soundbank Scope<br />Sounbank for Rob Papen Predator by Yannick Thiry aka Scope<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300497722&affiliateid=200057808)

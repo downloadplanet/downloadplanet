@@ -1,0 +1,3 @@
+# Elements+ for PSE 6, Mac<br />![Elements+ for PSE 6, Mac](https://mycommerce.akamaized.net/api/pimages/P300282331/BIG/300282331.GIF)<br />As you probably know, Photoshop Elements has not inherited all of the essential features of the full Photoshop. Some functions have been removed, while the others just stay hidden. "Elements+" is a handy patch revealing the hidden functions in your Photoshop Elements.
+Automatic installer and uninstaller included.
+This patch is intended for Photoshop Elements 6. Delivered as DMG disk image.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300282331&affiliateid=200057808)

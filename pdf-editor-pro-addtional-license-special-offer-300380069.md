@@ -1,0 +1,1 @@
+# PDF Editor Pro addtional license special offer<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300380069&affiliateid=200057808)

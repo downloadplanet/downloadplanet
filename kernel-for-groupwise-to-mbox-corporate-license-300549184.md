@@ -1,0 +1,1 @@
+# Kernel for GroupWise to MBOX - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300549184&affiliateid=200057808)

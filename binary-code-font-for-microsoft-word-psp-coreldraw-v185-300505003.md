@@ -1,0 +1,4 @@
+# Binary Code Font for Microsoft Word & PSP & CorelDRAW V185<br />www.graphicxtras.com -- Binary Code Font Microsoft Word & PSP & CorelDRAW Truetype & EPS V185
+
+100 Binary (010101111101 etc) shapes in true type font - set includes true type TTF and EPS format files containing a wide variety of commercial use shapes for Indesign, word, pages etc - added March 5th 2012 Use the binary code designs to create items for sale. Unique designs. All by graphicxtras.com. Re-color the designs, blend, apply effects, combine and more
+ <br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300505003&affiliateid=200057808)

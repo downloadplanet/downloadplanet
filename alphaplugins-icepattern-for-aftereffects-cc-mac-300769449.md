@@ -1,0 +1,7 @@
+# AlphaPlugins IcePattern for AfterEffects CC (Mac)<br />![AlphaPlugins IcePattern for AfterEffects CC (Mac)](https://mycommerce.akamaized.net/api/pimages/P300769449/BIG/300769449.JPG)<br />IcePattern is a set of plug-ins for Adobe AfterEffects CreativeCloud. You can create many interesting effects with IcePattern like ice flowers and frozen plants that grow on frosted windows. Frost patterns made with IcePattern look incredibly realistic and can create fantastic fairytale winter pictures. It's the only plug-in of its kind!
+You can animate the patterns you create with complete control over their size, shape, movements, material and lighting properties. You can also animate frozen patterns. For example, you can grow frost along surfaces or create complex multi-layer illustrations of frost flowers and animate their parts so your ice pictures come alive!
+
+IcePatternis set of plug-ins for Adobe After Effect and contains three modules:
+IcePattern Geometry - lets you create an effect of a window covered with frostings.
+IcePattern Floral - lets you create a more complicated effect of a window covered with frost fairytale flowers and plants.
+IcePattern Up - helps you art up your composition and give it a final touch. With this tool you can create single frost twig and place them anywhere in your composition.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300769449&affiliateid=200057808)

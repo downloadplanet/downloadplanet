@@ -1,0 +1,1 @@
+# kernel for base- corporate license[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384656&affiliateid=200057808)

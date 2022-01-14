@@ -1,0 +1,1 @@
+# BitRecover MSG Attachment Remover - Standard License<br />Software to Remove Attachments from Emails<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004737&affiliateid=200057808)

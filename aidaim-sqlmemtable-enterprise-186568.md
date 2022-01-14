@@ -1,0 +1,11 @@
+# AidAim SQLMemTable Enterprise<br />SQLMemTable is light and fast in-memory database system with SQL support.
+Key Features:
+- No BDE; no DLLs
+- SQL'92 (DML & DDL) support
+- Full source code included
+- Unmatched ease-of-use
+- Small footprint
+- Fully compatible with standard DB-aware controls
+- BLOB data compression
+- Unicode support
+- Import / export from any dataset<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=186568&affiliateid=200057808)

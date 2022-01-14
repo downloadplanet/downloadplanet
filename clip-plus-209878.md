@@ -1,0 +1,3 @@
+# Clip Plus<br />![Clip Plus](https://mycommerce.akamaized.net/api/pimages/P209878/BIG/209878.JPG)<br />Clip Plus can automatically grab and save text and images as they are copied to the Windows Clipboard - making them available for saving, reuse, and printing. A tray icon gives quick access to the program and an indicator of whether you are in capture or pause modes you can open the main display where your clipped items are stored. You can create and save groups of items, and save individual clips, text and graphics can be printed. Options include automatic saves, icon animation, and sound effects.
+
+More info..<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=209878&affiliateid=200057808)

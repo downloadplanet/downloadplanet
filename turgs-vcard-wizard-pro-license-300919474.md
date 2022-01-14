@@ -1,0 +1,1 @@
+# Turgs vCard Wizard - Pro License<br />Convert vCard Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300919474&affiliateid=200057808)

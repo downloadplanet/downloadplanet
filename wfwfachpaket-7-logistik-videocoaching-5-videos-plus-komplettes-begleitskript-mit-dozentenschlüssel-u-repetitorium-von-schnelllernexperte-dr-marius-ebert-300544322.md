@@ -1,0 +1,1 @@
+# WFW-Fachpaket: 7. Logistik, Videocoaching, 5 Videos plus komplettes Begleitskript mit Dozentenschlüssel u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300544322&affiliateid=200057808)

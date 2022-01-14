@@ -1,0 +1,1 @@
+# Situationsaufgabe (Fachpaket u. Videocoaching), 5 Videos, 2 : 42 Std mit Begleitskript von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300579221&affiliateid=200057808)

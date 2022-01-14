@@ -1,0 +1,3 @@
+# Triradial swatches for Illustrator (AI) V19<br />www.graphicxtras.com -- Triradial Swatches for Adobe Illustrator Creative Cloud Peace Vector Shapes V19
+
+Patterns swatches for Adobe (R) Illustrator (R) CS5 CS4 CS3 CS2 CS1 10, PC + MAC OS X. License - commercial use OK, royalty-free, all by graphicxtras.com<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468897&affiliateid=200057808)

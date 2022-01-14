@@ -1,0 +1,1 @@
+# Kernel MS Office File Repair Suite - Technician<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300726662&affiliateid=200057808)

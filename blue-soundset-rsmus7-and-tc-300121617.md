@@ -1,0 +1,1 @@
+# BLUE soundset Rsmus7 and TC<br />Soundbank for Rob Papen BLUE.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300121617&affiliateid=200057808)

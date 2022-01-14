@@ -1,0 +1,3 @@
+# Dot font Truetype TTF & EPS for CorelDRAW & Others V184<br />www.graphicxtras.com -- Dot Font for CorelDRAW & Microsoft Word & PSP & Pages PC & MAC OS X V184
+
+100 Dot shapes in true type font - set includes true type TTF and EPS format files containing a wide variety of commercial use shapes for Indesign, word, pages etc - added February 23rd 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300503624&affiliateid=200057808)

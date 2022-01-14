@@ -1,0 +1,1 @@
+# BitRecover CommuniGate Migrator Wizard - Migration License<br />CommuniGate Migrator Wizard<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300900425&affiliateid=200057808)

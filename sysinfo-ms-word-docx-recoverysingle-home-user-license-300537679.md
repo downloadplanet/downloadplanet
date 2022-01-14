@@ -1,0 +1,1 @@
+# SysInfo MS Word DOCX Recovery[Single Home User License]<br />SysInfoTools MS Word Docx Recovery is an outstanding piece of software that has some unique features and qualities to recover data from highly corrupt .docx files of MS Word.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300537679&affiliateid=200057808)

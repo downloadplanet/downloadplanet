@@ -1,0 +1,1 @@
+# DRS Godaddy Email Backup for MAC[Administrator License]<br />DRS Godaddy Email Backup for MAC<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301004934&affiliateid=200057808)

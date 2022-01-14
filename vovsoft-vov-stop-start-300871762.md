@@ -1,0 +1,1 @@
+# Vovsoft Vov Stop Start<br />Stop and start applications periodically.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300871762&affiliateid=200057808)

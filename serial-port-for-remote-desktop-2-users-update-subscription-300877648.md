@@ -1,0 +1,1 @@
+# Serial Port for Remote Desktop (2 users) - Update Subscription<br />![Serial Port for Remote Desktop (2 users) - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300877648/BIG/300877648.GIF)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300877648&affiliateid=200057808)

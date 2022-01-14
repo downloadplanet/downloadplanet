@@ -1,0 +1,2 @@
+# CAD Image DLL Plugin<br />![CAD Image DLL Plugin](https://mycommerce.akamaized.net/api/pimages/P194787/BIG/194787.JPG)<br />CAD Image DLL
+IrfanView, XNView, Konvertor plugin which supports DWG, DXF, HPGL, SVG, CGM formats.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=194787&affiliateid=200057808)

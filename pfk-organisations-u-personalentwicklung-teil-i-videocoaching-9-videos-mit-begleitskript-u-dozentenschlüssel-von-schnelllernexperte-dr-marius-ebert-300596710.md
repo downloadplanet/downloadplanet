@@ -1,0 +1,1 @@
+# PFK, Organisations- u. Personalentwicklung, Teil I, Videocoaching 9 Videos mit Begleitskript u. Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300596710&affiliateid=200057808)

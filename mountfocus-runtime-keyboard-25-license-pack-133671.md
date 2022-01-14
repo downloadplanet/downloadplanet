@@ -1,0 +1,1 @@
+# MountFocus Runtime Keyboard (25 license pack)<br />The MountFocus Runtime Keyboard is needed to use keyboards made with the MountFocus Keyboard Designer. The Runtime Keyboard can be controlled from your own applications using OLE Automation.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=133671&affiliateid=200057808)

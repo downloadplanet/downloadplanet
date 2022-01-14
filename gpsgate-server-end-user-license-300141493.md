@@ -1,0 +1,1 @@
+# GpsGate Server (end user license)<br />GpsGate Server (end user license)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300141493&affiliateid=200057808)

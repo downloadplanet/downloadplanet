@@ -1,0 +1,1 @@
+# EMS DB Extract for MySQL (Business) + 2 Year Maintenance<br />EMS DB Extract for MySQL is an impressive and easy-to-use tool for creating MySQL database backups in a form of SQL scripts.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067897&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# MailsMagic PST to MBOX - Personal License<br />PST to MBOX Converter to convert PST files to MBOX files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854312&affiliateid=200057808)

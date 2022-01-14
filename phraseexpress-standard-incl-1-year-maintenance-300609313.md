@@ -1,0 +1,1 @@
+# PhraseExpress Standard - Incl. 1 year maintenance<br />![PhraseExpress Standard - Incl. 1 year maintenance](https://mycommerce.akamaized.net/api/pimages/P300609313/BIG/300609313.GIF)<br />Please find the product description on the PhraseExpress homepage.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300609313&affiliateid=200057808)

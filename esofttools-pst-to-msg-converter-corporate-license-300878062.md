@@ -1,0 +1,1 @@
+# eSoftTools PST to MSG Converter - Corporate License<br />![eSoftTools PST to MSG Converter - Corporate License](https://mycommerce.akamaized.net/api/pimages/P300878062/BIG/300878062.GIF)<br />Convert Outlook PST email messages to MSG format with attachment.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300878062&affiliateid=200057808)

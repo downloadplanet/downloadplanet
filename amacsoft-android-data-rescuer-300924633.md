@@ -1,0 +1,5 @@
+# Amacsoft Android Data Rescuer<br />![Amacsoft Android Data Rescuer](https://mycommerce.akamaized.net/api/pimages/P300924633/BIG/300924633.PNG)<br />Top-ranking Data Recovery Program for Android Smart Phones & Tablets
+Lost lots of vital data from your Android devices? Take it easy. This Amacsoft Android Data Rescuer program is designed to help users totally restore all deleted files from Android smart phone or tablet. With it, you won't suffer from losing data from your Android devices any more. Now it has enjoyed great popularity on the market. You can't miss it.
+Recover lost Android photos, videos, contacts, messages, etc.
+Deeply scan the SD card, SIM card and the internal memory of your Android mobile phone or tablet.
+Preview the whole deleted files before restoration.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300924633&affiliateid=200057808)

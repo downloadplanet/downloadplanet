@@ -1,0 +1,1 @@
+# Industriemeister/in Videocoaching, Rechtliche Rahmenbedingungen 1 Video, 57 : 58 min. mit Begleitskript von Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300575190&affiliateid=200057808)

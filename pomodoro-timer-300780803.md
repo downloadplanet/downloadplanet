@@ -1,0 +1,2 @@
+# Pomodoro timer<br />A handy timer to work by the Pomodoro method.
+Pomodoro timer is plug-in for Windows-version of LeaderTask software (ID 300627106).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300780803&affiliateid=200057808)

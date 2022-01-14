@@ -1,0 +1,1 @@
+# CubexSoft NSF Split - Technical License<br />CubexSoft NSF Split tool to Split large NSF files into small parts.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300798463&affiliateid=200057808)

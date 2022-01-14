@@ -1,0 +1,4 @@
+# PDF Content Split Batch 3<br />PDF Content Split Batch can split on text information within many PDF's, This is an ideal product if you had for example a PDF statement that needed splitting up on account number, PDF Content Split Batch would do this with ease by searching for words within the pdf's, marking start and end ranges and then automatically splitting the document up for you.
+Many options are available: Content Splitting, Batch file processing, Split on Bookmarks, Take words within the pdf as output filenames, Search for text, Extract until text, Unique words,
+Co-ordinate matching, appending option if previously matched which is used for repeated segments, optional emailing of split pdf files based on email address within pdf + many more options.
+NOTE: all updates are free of charge for v3.xx versions<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300066244&affiliateid=200057808)

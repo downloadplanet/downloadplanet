@@ -1,0 +1,1 @@
+# Advanced Data Export for RAD Studio VCL (with sources) + 1 Year Maintenance<br />Advanced Data Export for RAD Studio VCL will allow you to save your data in the most popular office programs formats.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300068112&affiliateid=200057808)

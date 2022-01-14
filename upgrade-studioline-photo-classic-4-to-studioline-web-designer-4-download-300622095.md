@@ -1,0 +1,1 @@
+# Upgrade StudioLine Photo Classic 4 to StudioLine Web Designer 4 - Download<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300622095&affiliateid=200057808)

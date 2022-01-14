@@ -1,0 +1,1 @@
+# VolumeShaper 6<br />VolumeShaper lets you shape the levels of any audio signal in pinpoint detail - from multiband sidechain compression effects to extreme gating, from tempo-synced stutter to precise sample-shaping.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300966023&affiliateid=200057808)

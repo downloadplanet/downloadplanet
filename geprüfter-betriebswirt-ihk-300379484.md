@@ -1,0 +1,1 @@
+# Geprüfter Betriebswirt IHK<br />![Geprüfter Betriebswirt IHK](https://mycommerce.akamaized.net/api/pimages/P300379484/BIG/300379484.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300379484&affiliateid=200057808)

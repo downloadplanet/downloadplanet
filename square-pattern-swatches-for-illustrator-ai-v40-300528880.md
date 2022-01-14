@@ -1,0 +1,3 @@
+# Square Pattern Swatches for Illustrator (AI) V40<br />www.graphicxtras.com -- 330 Square Pattern Swatches for Adobe Illustrator Vector pattern tiles V40
+
+330 Square Pattern Rectangle Swatches for Illustrator CC 2017 2015 2014 CS6 CS5 etc, all for commercial use, all royalty free, all are by Andrew Buckle. For more informations, www.graphicxtras.com along with youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300528880&affiliateid=200057808)

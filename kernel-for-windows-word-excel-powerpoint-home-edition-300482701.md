@@ -1,0 +1,1 @@
+# Kernel for Windows + word + excel + powerpoint ( Home Edition )<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300482701&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# BitRecover Email Attachments Remover - Standard License<br />Software to Remove Attachments from Multiple Services.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301002296&affiliateid=200057808)

@@ -1,0 +1,3 @@
+# Snow Patterns for Photoshop & Elements & PSP & Others V79<br />www.graphicxtras.com -- Snow patterns for Adobe Photoshop & Elements & PSP Festive & Xmas V79
+
+100 Christmas Snow Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by http://www.graphicxtras.com (Andrew Buckle). Set includes the patterns in PAT and EPS vector format<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300489968&affiliateid=200057808)

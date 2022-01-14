@@ -1,0 +1,1 @@
+# Bankfachwirt/in, Betriebswirtschaft (I.2.), Videocoaching, 99 Videos, komplette Begleitskripte u. Repetitorium von Schnell-Lernexperte Dr. Marius Eber<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300655154&affiliateid=200057808)

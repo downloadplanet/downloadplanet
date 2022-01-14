@@ -1,0 +1,1 @@
+# SerialTools Pro .NET Compact Framework (OEM license)<br />SerialTools Pro .NET Compact Framework (OEM license)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300006937&affiliateid=200057808)

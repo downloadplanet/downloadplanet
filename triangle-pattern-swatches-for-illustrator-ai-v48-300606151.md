@@ -1,0 +1,3 @@
+# Triangle Pattern Swatches for Illustrator (AI) V48<br />www.graphicxtras.com -- 200 Triangle Pattern Swatches for Adobe Illustrator Vector pattern tiles Polygons (Volume 48)
+
+200 Triangle Pattern swatches for Illustrator CC 2017 2015 2014 CS6 - 10 (Illustrator 21-10). The pattern swatches are seamless tiles for all kinds of work. Vector format AI. Commercial use CU4CU, all by Andrew Buckle / graphicxtras.com. For more info, please check out www.graphicxtras.com along with youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300606151&affiliateid=200057808)

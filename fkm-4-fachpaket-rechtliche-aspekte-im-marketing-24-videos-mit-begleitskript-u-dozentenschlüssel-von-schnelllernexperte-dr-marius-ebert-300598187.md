@@ -1,0 +1,1 @@
+# FKM 4. Fachpaket: Rechtliche Aspekte im Marketing 24 Videos mit Begleitskript u. Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300598187&affiliateid=200057808)

@@ -1,0 +1,8 @@
+# MITCalc Rolling Bearings I (SKF)<br />This document can be used for the selection, calculation and check of rolling bearings of the company SKF. The programme provides solutions to the following tasks:
+- Selection and check of a suitable bearing. The document includes a database of approx. 10,000 different rolling bearings SKF in all basic types and design.
+- Calculation of basic bearing parameters (life, static safety, etc.).
+- Calculation of adjusted bearing life acc. to the new methodology of ISO 281.
+- Calculation of load with a pair of tapered roller bearings or a pair angular contact ball bearings resp.
+- Support of 2D CAD (AutoCAD, AutoCAD LT, IntelliCAD, Ashlar Graphite, TurboCAD) and 3D CAD in full calculation package (Autodesk Inventor, SolidWorks).
+In addition to the above given basic calculations, the document also includes several other auxiliary calculations (e.g. a calculation of lubricant operational viscosity, calculation of mean loads for bearings loaded by variable loads, calculation of permitted bearing speed, etc.). The programme uses data, procedures, algorithms and other information from specialised literature, catalogues of rolling bearings SKF, ISO, ANSI, SAE standards and other sources.
+Related standards: ISO 15, ISO 76, ISO 104, ISO 281, ISO 355, ISO 1132, ISO 5593, ISO 5753, ISO 3448, ISO 15312, DIN 615, DIN 620, DIN 625, DIN 628, DIN 630, DIN 635, DIN 711, DIN 715, DIN 720, DIN 722, DIN 728, BS 290, BS 292, BS 3134.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300021160&affiliateid=200057808)

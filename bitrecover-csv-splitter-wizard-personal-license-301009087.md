@@ -1,0 +1,1 @@
+# BitRecover CSV Splitter Wizard - Personal License<br />Software to Split CSV Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301009087&affiliateid=200057808)

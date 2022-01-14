@@ -1,0 +1,1 @@
+# FKM 1. Fachpaket: Projekt- u. Produktmanagement im Marketing, 13 Videos mit Begleitskript u. Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300598191&affiliateid=200057808)

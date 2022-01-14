@@ -1,0 +1,1 @@
+# RecoveryTools Zip Repair Wizard - Personal License<br />Repair Corrupt ZIP file<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301006474&affiliateid=200057808)

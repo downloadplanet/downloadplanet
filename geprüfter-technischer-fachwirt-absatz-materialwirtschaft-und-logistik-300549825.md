@@ -1,0 +1,1 @@
+# Geprüfter Technischer Fachwirt - Absatz-, Materialwirtschaft und Logistik<br />![Geprüfter Technischer Fachwirt - Absatz-, Materialwirtschaft und Logistik](https://mycommerce.akamaized.net/api/pimages/P300549825/BIG/300549825.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300549825&affiliateid=200057808)

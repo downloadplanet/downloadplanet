@@ -1,0 +1,1 @@
+# Gamestudio/A8 Commercial Student Version<br />This upgrade can be used by students working with their school's Team Edition to get a full, personal Commercial Edition at a reduced price.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300267273&affiliateid=200057808)

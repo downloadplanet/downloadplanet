@@ -1,0 +1,1 @@
+# VerFW-Fachtpaket: 3. Recht/Steuern, Videocoaching, 24 Videos plus komplettes Begleitskript mit Dozentenschlüssel von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300603112&affiliateid=200057808)

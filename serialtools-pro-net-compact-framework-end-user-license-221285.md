@@ -1,0 +1,1 @@
+# SerialTools Pro .NET Compact Framework (end user license)<br />SerialTools Pro .NET Compact Framework (end user license)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=221285&affiliateid=200057808)

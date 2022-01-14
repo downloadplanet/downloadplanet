@@ -1,0 +1,1 @@
+# MailBee.NET AntiSpam (4 Developers Team)<br />Detect spam e-mails with self-learning Bayesian filter<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333792&affiliateid=200057808)

@@ -1,0 +1,3 @@
+# DialDirectly (for SkypeTM) - Business (10 PCs)<br />![DialDirectly (for SkypeTM) - Business (10 PCs)](https://mycommerce.akamaized.net/api/pimages/P300506206/BIG/300506206.JPG)<br />Business License - up to 10 PCs within the same company.
+
+DialDirectly can dial/redial names and phone numbers directly via Skype™. Copy names and phone numbers from any application by pressing customizable hotkeys and dial them via Skype™. The last 10 numbers are available for redialling. The program can be installed and uninstalled easily. No modification of the operating system will be taken.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300506206&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# MBS Xojo ChartDirector Plugin Academic Update plus new Complete Plugin Academic license<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300373516&affiliateid=200057808)

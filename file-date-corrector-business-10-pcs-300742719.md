@@ -1,0 +1,3 @@
+# File Date Corrector - Business (10 PCs)<br />![File Date Corrector - Business (10 PCs)](https://mycommerce.akamaized.net/api/pimages/P300742719/BIG/300742719.PNG)<br />Business License - up to 10 PCs/Users within the same company.
+
+File Date Corrector is a program for Windows™ and enables to correct the system-provided file dates "Created" and "Modified". The correction is made according to the meta information contained in the files or according to a specified date. Before execution of the correction a preview is provided.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300742719&affiliateid=200057808)

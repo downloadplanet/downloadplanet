@@ -1,0 +1,1 @@
+# CubexSoft Outlook Export - Technical License - Special Offer<br />CubexSoft Outlook Export tool to Export Outlook data into Multiple Email Formats.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300799619&affiliateid=200057808)

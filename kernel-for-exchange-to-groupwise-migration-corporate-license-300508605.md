@@ -1,0 +1,1 @@
+# Kernel for Exchange to Groupwise Migration - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300508605&affiliateid=200057808)

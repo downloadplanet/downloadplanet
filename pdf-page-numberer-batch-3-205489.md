@@ -1,0 +1,3 @@
+# PDF Page Numberer Batch 3<br />PDF Page Numberer Batch is a Acrobat plug-in tool for Acrobat which is used to automatically page number your documents, you can put customizable page numbers anywhere on the page, with any font size, font name & font type also, features include saving settings for later use for other pdf's, page start & end ranges, start and stop page counts for page groups + many other options. This version also contains batching options.
+NOTE: This Software requires Full Version std/pro of Acrobat 5 or greater by Adobe Software
+All updates to v3.xx are free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=205489&affiliateid=200057808)

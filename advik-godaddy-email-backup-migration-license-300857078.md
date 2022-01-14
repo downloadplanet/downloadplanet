@@ -1,0 +1,1 @@
+# Advik GoDaddy Email Backup - Migration License<br />Software to Backup GoDaddy Email Accounts<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300857078&affiliateid=200057808)

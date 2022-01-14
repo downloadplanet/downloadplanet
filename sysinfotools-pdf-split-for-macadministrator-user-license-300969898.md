@@ -1,0 +1,1 @@
+# SysInfoTools PDF Split for MAC[Administrator User License]<br />href="http://www.sysinfotools.com/recovery/pdf-split.php" ><br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300969898&affiliateid=200057808)

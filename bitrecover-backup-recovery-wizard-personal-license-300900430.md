@@ -1,0 +1,1 @@
+# BitRecover Backup Recovery Wizard - Personal License<br />Backup Recovery Wizard<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300900430&affiliateid=200057808)

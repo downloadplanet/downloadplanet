@@ -1,0 +1,1 @@
+# TPV Bares y Restaurantes - Actualización<br />ATRI - TPV Bars and restaurants it allows you to automate the administrative and operative management of your establishment.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300300523&affiliateid=200057808)

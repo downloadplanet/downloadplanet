@@ -1,0 +1,1 @@
+# File OPC Server<br />File OPC Server. This program implements a simple OPC DA2 server that polls a file on a local or network drive, reads updated values from that file, and then posts them via the OPC interface.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300770826&affiliateid=200057808)

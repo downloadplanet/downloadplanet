@@ -1,0 +1,1 @@
+# Excel Password Recovery (for business use)<br />Excel Password Recovery is a program that recovers lost or forgotten passwords for Microsoft Excel spreadsheets and workbooks. All versions of Microsoft Excel are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300106899&affiliateid=200057808)

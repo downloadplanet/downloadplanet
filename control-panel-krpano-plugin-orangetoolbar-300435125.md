@@ -1,0 +1,1 @@
+# control panel - krpano plugin "OrangeToolbar"<br />krpano plugin. View control panel.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300435125&affiliateid=200057808)

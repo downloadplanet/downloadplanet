@@ -1,0 +1,1 @@
+# IncrediMail Migrator Wizard - Migration License<br />IncrediMail Converter Wizard<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300969062&affiliateid=200057808)

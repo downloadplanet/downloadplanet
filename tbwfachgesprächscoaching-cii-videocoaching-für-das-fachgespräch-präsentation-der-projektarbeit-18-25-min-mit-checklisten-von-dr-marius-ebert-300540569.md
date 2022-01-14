@@ -1,0 +1,1 @@
+# TBW-Fachgesprächscoaching (C.II.), Videocoaching für das Fachgespräch (Präsentation der Projektarbeit) 18 : 25 min mit Checklisten von Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300540569&affiliateid=200057808)

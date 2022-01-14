@@ -1,0 +1,1 @@
+# BarcodeOCR Small Business - License with 12 months of maintenance<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300621531&affiliateid=200057808)

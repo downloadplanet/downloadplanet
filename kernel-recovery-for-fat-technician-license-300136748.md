@@ -1,0 +1,1 @@
+# Kernel Recovery for FAT - Technician License<br />Kernel Recovery for FAT recovers lost and inaccessible data from the corrupt, formatted partitions of FAT<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300136748&affiliateid=200057808)

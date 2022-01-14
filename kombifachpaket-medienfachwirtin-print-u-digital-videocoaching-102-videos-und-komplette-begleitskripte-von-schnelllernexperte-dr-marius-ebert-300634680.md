@@ -1,0 +1,1 @@
+# Kombi-Fachpaket Medienfachwirt/in Print u. Digital, Videocoaching, 102 Videos und komplette Begleitskripte von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634680&affiliateid=200057808)

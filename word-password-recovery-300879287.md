@@ -1,0 +1,1 @@
+# Word Password Recovery<br />Recover Password to Open / Modify Word Document<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879287&affiliateid=200057808)

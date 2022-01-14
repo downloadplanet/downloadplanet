@@ -1,0 +1,1 @@
+# SenderMatic - Professional<br />See detailed informations about properties of SenderMatic.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300618539&affiliateid=200057808)

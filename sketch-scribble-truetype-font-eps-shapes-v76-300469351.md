@@ -1,0 +1,3 @@
+# Sketch / Scribble Truetype font / EPS Shapes V76<br />www.graphicxtras.com -- Sketch Font PSP & Indesign & CorelDRAW & Pages & Xpress Truetype & EPS Vectors V76
+
+Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469351&affiliateid=200057808)

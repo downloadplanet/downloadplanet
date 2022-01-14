@@ -1,0 +1,3 @@
+# Twirl brushes for Photoshop, Affinity, Elements, PSP, etc & Others V88<br />www.graphicxtras.com -- Twirl Brushes for Adobe Photoshop & Elements & Commercial use V88
+
+Brushes for Photoshop, Photoshop Elements, PSP etc PC and MAC OS X, License: commercial and personal royalty-free, 300 DPI<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469251&affiliateid=200057808)

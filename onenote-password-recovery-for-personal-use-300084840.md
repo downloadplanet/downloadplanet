@@ -1,0 +1,1 @@
+# OneNote Password Recovery (for personal use)<br />OneNote Password Recovery is a program that recovers lost or forgotten passwords for Microsoft OneNote documents. All versions of Microsoft OneNote are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300084840&affiliateid=200057808)

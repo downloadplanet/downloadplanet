@@ -1,0 +1,3 @@
+# Step / Art Deco Truetype font / EPS Shapes V189<br />www.graphicxtras.com -- Step Font truetype & EPS Microsoft Word & CorelDRAW & PSP & Publisher Art deco & Thirties V189
+
+100 Step shapes in true type font - set includes true type TTF and EPS format files containing a wide variety of commercial use shapes for Indesign, word, pages etc - added March 22nd 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300508423&affiliateid=200057808)

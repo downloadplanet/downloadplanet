@@ -1,0 +1,2 @@
+# Heroglyph Creative Pack Vol. 1<br />![Heroglyph Creative Pack Vol. 1](https://mycommerce.akamaized.net/api/pimages/P532174/BIG/532174.JPG)<br />Fantastic trailer templates and a large assortment of fontdesigns for Heroglyph V2
+ Get more informations about this product, samples and descriptions...<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=532174&affiliateid=200057808)

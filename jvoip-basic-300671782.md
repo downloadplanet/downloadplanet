@@ -1,0 +1,1 @@
+# JVoIP -Basic<br />The Mizu Java VoIP SDK (JVoIP) is a compact bu full features SIP java library which can be used to ad VoIP capabilities into your project or to create VoIP client applications.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671782&affiliateid=200057808)

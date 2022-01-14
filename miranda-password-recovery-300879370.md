@@ -1,0 +1,1 @@
+# Miranda Password Recovery<br />Recover passwords to all types of accounts configured in Miranda.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879370&affiliateid=200057808)

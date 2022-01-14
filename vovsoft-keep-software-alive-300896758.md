@@ -1,0 +1,1 @@
+# Vovsoft Keep Software Alive<br />Keep your applications running if crashed or closed.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300896758&affiliateid=200057808)

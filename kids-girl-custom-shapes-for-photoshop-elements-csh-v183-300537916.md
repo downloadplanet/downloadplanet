@@ -1,0 +1,4 @@
+# Kids / girl Custom shapes for Photoshop & Elements (CSH) V183<br />www.graphicxtras.com -- Kids Custom Shapes for Adobe Photoshop & Elements Girls Vector designs V183
+100 Kids / girl / female custom shapes for Photoshop and Elements - License: commercial use (and personal), all by graphicxtras.com
+
+The Kid custom shapes set includes the selection of designs in a CSH file along with the same artworks in EPS format so the set can also be used in other applications such as PSP, GIMP, Affinity Photo as well as Photoshop CC 2017 2015 2014 CS6 CS5 CS4 etc and Photoshop Elements + a selection of PNG files + a gallery + notes + serial for any updates. You can find more about the set via the kids section on graphicxtras (.com) website as well as via our video tutorials on youtube (via the graphicxtras channel)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300537916&affiliateid=200057808)

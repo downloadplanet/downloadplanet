@@ -1,0 +1,1 @@
+# ZIP Password Recovery<br />Recover forgotten password of your ZIP archive (zip, zipx)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879293&affiliateid=200057808)

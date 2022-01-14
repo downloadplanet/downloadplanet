@@ -1,0 +1,1 @@
+# Vovsoft Auto Change Wallpapers<br />Change your wallpapers automatically.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300947922&affiliateid=200057808)

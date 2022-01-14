@@ -1,0 +1,1 @@
+# 0089 - Eigenkapitalquote<br />0089 - Eigenkapitalquote<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300912524&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# PATools Auto Numbering<br />Plug this workbook into your existing (or new) documents to add automatic sequential numbering.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=204161&affiliateid=200057808)

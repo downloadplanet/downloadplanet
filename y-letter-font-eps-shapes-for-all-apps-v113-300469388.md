@@ -1,0 +1,3 @@
+# Y Letter Font / EPS Shapes for all apps V113<br />www.graphicxtras.com -- Y Letter Font Microsoft Word & CorelDRAW & Pages & Indesign Truetype & EPS Type & Text & Alphabet V113
+
+Font set include true type font and EPS shapes, for PC and MAC Photoshop, Word, Indesign, Illustrator, Apple Pages etc - License: commercial use (and personal), royalty-free - many wonderful designs<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469388&affiliateid=200057808)

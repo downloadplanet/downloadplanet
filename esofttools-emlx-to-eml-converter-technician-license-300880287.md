@@ -1,0 +1,1 @@
+# eSoftTools EMLX to EML Converter - Technician License<br />Convert EMLX emails into EML format along with attachments with Batch mode.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300880287&affiliateid=200057808)

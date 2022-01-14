@@ -1,0 +1,1 @@
+# Access Password Recovery<br />Recover password for Microsoft Access 97, 2000, XP, and 2003 database (*.mdb, *.mdw, *.mda)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300879357&affiliateid=200057808)

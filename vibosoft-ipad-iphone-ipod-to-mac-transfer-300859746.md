@@ -1,0 +1,6 @@
+# Vibosoft iPad iPhone iPod to Mac Transfer<br />![Vibosoft iPad iPhone iPod to Mac Transfer](https://mycommerce.akamaized.net/api/pimages/P300859746/BIG/300859746.PNG)<br />Transfer All of iPad/iPod/iPhone Data to Mac OS x or iTunes
+It is highly recommend that regularly back up the contents of iPhone to Mac, including songs, photos, films, television programs and purchased applications .etc. This is done to ensure that the data can be easily recovered In case iPhone get lost. Fortunately, iPhone data to Mac transfer is a robust iPhone assistant which specially designed for Mac users (Mac OS X 10.8 Mountain Lion, Mac Intel and Mac PowerPC. etc.).
+Copy music, photos, movies, eBooks, ringtones, voice memos to Mac OS X
+Retrieve and Backup purchases, contacts, text message, call list to Mac OS
+Manage, transfer files between iPhone, iPod,iPad and directly copy to iTunes
+All iOS devices supported: iPhone 3G/3GS/4/4S/5, iPad 1,iPad and iPod<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300859746&affiliateid=200057808)

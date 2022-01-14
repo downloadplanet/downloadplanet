@@ -1,0 +1,2 @@
+# Slide Show Controller<br />OfficeOne Slide Show Controller allows you to control multiple PowerPoint slide shows simultaneously. You can now exit out of all running slide shows, pause and resume slide shows at a click of a button.
+Slide Show Controller works with Microsoft PowerPoint 365, 2019, 2016, 2013, 2010, 2007, 2003, 2002 (XP) and 2000 on Windows 10, 8.1, 8, 7, Vista and XP.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301001472&affiliateid=200057808)

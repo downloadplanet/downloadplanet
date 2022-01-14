@@ -1,0 +1,1 @@
+# Tick Data Suite monthly plan<br />The Tick Data Suite is a unique product that allows backtesting and optimizations using tick data, variable spread and even allowing slippage simulation in Metatrader 4.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300747576&affiliateid=200057808)

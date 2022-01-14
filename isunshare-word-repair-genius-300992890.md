@@ -1,0 +1,1 @@
+# iSunshare Word Repair Genius<br />Word Repair Genius is a smart Word repair tool which can repair the corrupted/damaged Microsoft Word(.docx) file without modifying its original content.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300992890&affiliateid=200057808)

@@ -1,0 +1,5 @@
+# iPubsoft Android Data Recovery<br />![iPubsoft Android Data Recovery](https://mycommerce.akamaized.net/api/pimages/P300922053/BIG/300922053.PNG)<br />Quick way to recover deleted/formatted/lost photos, video, and more from Android phones/tablets!
+Accidentally deleted, formatted your Android SD card or lost important Android data for whatever reason? Don't worry! iPubsoft Android Data Recovery is here to give you a hand to get back your deleted, formatted, or lost photos, video, music and other files for your Android devices with hassle-free. As a specific Windows Android recovery software, it ensures a quick data recovery for brands of Android phones and tablets by read-only operations without causing any damage to data on your device.
+Supports to recover deleted, formatted, lost data from Android phones/tablets.
+Enables to get back lost photos, videos, documents and more from Android devices.
+Recovers lost files caused by accidental deletion, formatting, software crash, etc.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300922053&affiliateid=200057808)

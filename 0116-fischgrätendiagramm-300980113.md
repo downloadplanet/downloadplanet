@@ -1,0 +1,1 @@
+# 0116 - Fischgrätendiagramm<br />0116 - Fischgrätendiagramm<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300980113&affiliateid=200057808)

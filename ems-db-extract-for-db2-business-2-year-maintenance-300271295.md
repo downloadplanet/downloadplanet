@@ -1,0 +1,1 @@
+# EMS DB Extract for DB2 (Business) + 2 Year Maintenance<br />Create DB2 database backups in the form of SQL scripts, script and save your DB2 database structure and table data as a whole or partially.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300271295&affiliateid=200057808)

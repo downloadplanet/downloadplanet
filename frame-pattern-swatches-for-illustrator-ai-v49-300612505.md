@@ -1,0 +1,3 @@
+# Frame Pattern Swatches for Illustrator (AI) V49<br />www.graphicxtras.com -- Frame Swatches for Adobe Illustrator PC & MAC OSX V49
+
+140 Frame themed swatches for Illustrator CC 2017 2015 2014 CS6 - 10 (Illustrator 21-10). The swatches are seamless tiles for all kinds of work. Vector format AI. Commercial use CU4CU, all by Andrew Buckle / graphicxtras.com. Use to create all kinds of work such as logos, wallpaper, cards, backgrounds, adverts, videos, scrapbooking etc. Find out more via graphicxtras.com as well as youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300612505&affiliateid=200057808)

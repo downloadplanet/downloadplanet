@@ -1,0 +1,1 @@
+# Kernel Recovery for Paradox - Commercial License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384608&affiliateid=200057808)

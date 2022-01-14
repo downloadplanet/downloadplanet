@@ -1,0 +1,1 @@
+# KXTD Programmator (32 bits)<br />Easy to use Windows-based programming software to set parameters of Panasonic KX-TD1232/KX-TD816/KX-TD308 and KX-TA1232 office PBX. Obvious interface, built-in help. All modifications of PBX are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300427980&affiliateid=200057808)

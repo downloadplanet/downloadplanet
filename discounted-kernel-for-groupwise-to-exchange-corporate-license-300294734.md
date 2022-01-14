@@ -1,0 +1,1 @@
+# Discounted Kernel for GroupWise to Exchange - Corporate License<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300294734&affiliateid=200057808)

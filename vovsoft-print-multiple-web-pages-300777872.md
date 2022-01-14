@@ -1,0 +1,1 @@
+# Vovsoft Print Multiple Web Pages<br />Batch print tool for HTML files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300777872&affiliateid=200057808)

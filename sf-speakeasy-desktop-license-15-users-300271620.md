@@ -1,0 +1,1 @@
+# SF Speakeasy - Desktop License (1-5 Users)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300271620&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# AnyCount 7.0 Standard - 2 additional licenses<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300340524&affiliateid=200057808)

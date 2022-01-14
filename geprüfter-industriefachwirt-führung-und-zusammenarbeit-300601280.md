@@ -1,0 +1,1 @@
+# Geprüfter Industriefachwirt - Führung und Zusammenarbeit<br />![Geprüfter Industriefachwirt - Führung und Zusammenarbeit](https://mycommerce.akamaized.net/api/pimages/P300601280/BIG/300601280.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300601280&affiliateid=200057808)

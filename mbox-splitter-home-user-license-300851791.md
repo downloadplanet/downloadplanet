@@ -1,0 +1,1 @@
+# MBOX Splitter - Home User License<br />Software to Split MBOX Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300851791&affiliateid=200057808)

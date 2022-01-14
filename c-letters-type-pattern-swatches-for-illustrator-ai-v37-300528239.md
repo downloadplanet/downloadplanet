@@ -1,0 +1,3 @@
+# C Letters / type Pattern Swatches for Illustrator (AI) V37<br />www.graphicxtras.com -- C Letters Pattern Swatches for Adobe Illustrator CC 2017 2015 2014 CS6 CS5 CS4 etc Text & Type & Characters V37
+
+190 C Letters pattern swatches for Adobe (R) Illustrator (R) PC + MAC OS X. License - commercial use, all by graphicxtras.com. Any questions, please check out graphicxtras.com as well as youtube.com/graphicxtras<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300528239&affiliateid=200057808)

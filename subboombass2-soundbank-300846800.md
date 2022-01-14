@@ -1,0 +1,1 @@
+# SubBoomBass2 Soundbank<br />Soundbank for the Rob Papen SubBoomBass 2<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300846800&affiliateid=200057808)

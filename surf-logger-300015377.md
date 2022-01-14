@@ -1,0 +1,1 @@
+# Surf Logger<br />Surf Logger is a tiny add-on for Internet Explorer that allows you to record detailed web browsing history, including data you submit to websites.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300015377&affiliateid=200057808)

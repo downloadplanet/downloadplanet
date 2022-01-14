@@ -1,0 +1,1 @@
+# OpenOffice Writer Password Recovery (for business use)<br />OpenOffice Writer Password Recovery is a program that recovers lost or forgotten passwords for OpenOffice.org Writer documents. All versions of OpenOffice.org Writer are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300136300&affiliateid=200057808)

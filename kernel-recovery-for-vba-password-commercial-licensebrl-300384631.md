@@ -1,0 +1,1 @@
+# Kernel Recovery for VBA Password - Commercial License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384631&affiliateid=200057808)

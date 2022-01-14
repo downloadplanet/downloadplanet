@@ -1,0 +1,1 @@
+# OpenOffice Impress Password Recovery (for business use)<br />OpenOffice Impress Password Recovery is a program that recovers lost or forgotten passwords for OpenOffice.org Impress presentations. All versions of OpenOffice.org Impress are supported.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300136284&affiliateid=200057808)

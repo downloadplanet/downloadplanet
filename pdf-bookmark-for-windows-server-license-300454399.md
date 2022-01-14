@@ -1,0 +1,3 @@
+# PDF Bookmark for Windows (Server License)<br />PDF Bookmark is a high performance server tool from Traction Software for Windows PC, Unix Aix, Linux, Macintosh OSX, SUN Sparc Solaris, UP-UX
+PDF Bookmark software automates the process of extracting bookmarks from existing pdf's, applying bookmarks to pdf's and updating/adding bookmarks to pdf's, it can also do list of files processing. e.g. extract bookmarks from a pdf to XML then apply those to many other pdf's.
+PDF Bookmark extract format is XML, this gives you more flexibility in changing, creating, reporting bookmarks from various other XML tools.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300454399&affiliateid=200057808)

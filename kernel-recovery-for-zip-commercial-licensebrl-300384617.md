@@ -1,0 +1,1 @@
+# Kernel Recovery for ZIP - Commercial License[BRL]<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300384617&affiliateid=200057808)

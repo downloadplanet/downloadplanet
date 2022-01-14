@@ -1,0 +1,1 @@
+# Industriemeister/in Metall (IHK), B.II.6. Arbeits-, Umwelt- u. Gesundheitsschutz, 2 Videos, Gesamtspielzeit 38 min mit 34 S. Begleitskript u. Repetitorium von Schnell-Lernexperte Dr. Marius Ebert<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300634838&affiliateid=200057808)

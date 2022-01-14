@@ -1,0 +1,3 @@
+# Rabbit brushes for Photoshop, Affinity, Elements, PSP, etc V161<br />www.graphicxtras.com -- Rabbit Brushes for Adobe Photoshop & Elements & PaintShop Pro Animals Pets V161
+
+100 Rabbit brushes for use in Photoshop, Photoshop Elements, PSP and many other applications. 300 DPI. The brushes are in ABR PNG format as well as vector EPS format - all for license commercial use - Released February 9th 2012<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300501958&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# e!Sankey 5 pro - academic license<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300975098&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# MacUncle TIFF Splitter - Business License<br />Split TIFF Files<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301009494&affiliateid=200057808)

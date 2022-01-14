@@ -1,0 +1,1 @@
+# Amazing iPad Transfer<br />![Amazing iPad Transfer](https://mycommerce.akamaized.net/api/pimages/P300865774/BIG/300865774.PNG)<br />Easy and Free Transformation between iPhone, iPad & iPod and iTunes & Computer Unique Features of iOS Transfer.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300865774&affiliateid=200057808)

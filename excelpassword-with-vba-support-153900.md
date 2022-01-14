@@ -1,0 +1,1 @@
+# ExcelPassword with VBA support<br />Recover lost password for MS Excel (all versions)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=153900&affiliateid=200057808)

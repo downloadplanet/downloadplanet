@@ -1,0 +1,2 @@
+# Adorage Effectpackage Vol. 6 (- 25%)<br />![Adorage Effectpackage Vol. 6 (- 25%)](https://mycommerce.akamaized.net/api/pimages/P300379981/BIG/300379981.JPG)<br />Power Effect Pearls
+ Get more informations about this product, samples and descriptions...<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300379981&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# Specops Gpupdate Professional Medium Business license<br />This license is valid for organizations up to a maximum of 1500 user or computer accounts in Active Directory. Only one license per organization in which the product will be used is needed.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300582440&affiliateid=200057808)

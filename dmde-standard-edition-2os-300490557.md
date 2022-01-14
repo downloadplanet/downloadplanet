@@ -1,0 +1,1 @@
+# DMDE Standard Edition 2-OS<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300490557&affiliateid=200057808)

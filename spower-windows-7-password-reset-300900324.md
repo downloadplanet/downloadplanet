@@ -1,0 +1,1 @@
+# Spower Windows 7 Password Reset<br />Windows 7 Password Reset is a reliable program that can reset (recover) windows 7 password for desktop PC and laptop safely and fast.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300900324&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# PhotoFX Bundle<br />![PhotoFX Bundle](https://mycommerce.akamaized.net/api/pimages/P300785685/BIG/300785685.JPG)<br />If you buy the bundle of all our plug-ins then you can save significant money in coparing if you bought each separatelly<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300785685&affiliateid=200057808)

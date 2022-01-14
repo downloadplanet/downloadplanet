@@ -1,0 +1,3 @@
+# SNMP Data Logger Standard<br />![SNMP Data Logger Standard](https://mycommerce.akamaized.net/api/pimages/P300388708/BIG/300388708.PNG)<br />SNMP Data Logger retrieves and logs values from SNMP agents. Aggregates and writes real-time data to disk, Excel, database or to other targets. Capability to log data from multiple SNMP agents at the same time.
+
+This version supports Windows 2000 and higher service mode, and it does not support plugins at all.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300388708&affiliateid=200057808)

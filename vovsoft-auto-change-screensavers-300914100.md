@@ -1,0 +1,1 @@
+# Vovsoft Auto Change Screensavers<br />Automatically change your screensavers.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300914100&affiliateid=200057808)

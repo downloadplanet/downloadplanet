@@ -1,0 +1,4 @@
+# GstarCAD Fr PRO Mono, location 30j<br />![GstarCAD Fr PRO Mono, location 30j](https://mycommerce.akamaized.net/api/pimages/P300755598/BIG/300755598.JPG)<br />GstarCAD Professionnel est un logiciel de dessin au format DWG compatible AutoCAD.
+Vous avez sélectionné la version PROFESSIONNELLE qui inclus la création des blocs dynamiques et toutes les fonctions et commandes pour faire du dessin 3D.
+Ce package inclus : le logiciel complet en dernière version avec une licence monoposte pour un mois avec renouvellement automatique.
+Vous pouvez cependant arrêter la location à tout moment car il n'y a pas d'engagement minimum.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300755598&affiliateid=200057808)

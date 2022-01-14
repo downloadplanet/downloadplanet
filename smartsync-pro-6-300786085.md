@@ -1,0 +1,2 @@
+# SmartSync Pro 6<br />SmartSync Pro is a universal solution to back up and synchronize data to a local or external drive (Flash/USB/ZIP, CD/DVD, NAS etc) or remote server WebDAV/FTP/Amazon S3 or Microsoft Azure.
+Task scheduler, data compression, strong encryption, activity logging and password protection are available.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300786085&affiliateid=200057808)

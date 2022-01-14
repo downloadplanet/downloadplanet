@@ -1,0 +1,1 @@
+# SysInfo Yahoo Backup For Windows[Technician License]<br />SysInfo Yahoo Backup For Windows<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301000093&affiliateid=200057808)

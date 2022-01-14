@@ -1,0 +1,2 @@
+# ClipCount Corporate License: 9 PCs<br />![ClipCount Corporate License: 9 PCs](https://mycommerce.akamaized.net/api/pimages/P300058109/BIG/300058109.GIF)<br />ClipCount is ideal for fast text count in any file or program. Just select text you want to count and press CTRL+C keys (or any other combination you select) and window with count results appears in the bottom right corner of the screen.
+You will no longer need to do copy paste word count manually.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300058109&affiliateid=200057808)

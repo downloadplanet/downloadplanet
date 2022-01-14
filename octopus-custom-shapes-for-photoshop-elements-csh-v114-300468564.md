@@ -1,0 +1,3 @@
+# Octopus Custom shapes for Photoshop & Elements (CSH) V114<br />www.graphicxtras.com -- Octopus Custom Shapes for Adobe Photoshop & Elements Animals Undersea Vectors CSH PC & MAC OS X V114
+
+custom shapes for Photoshop and Elements - License: commercial use (and personal), royalty-free.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300468564&affiliateid=200057808)

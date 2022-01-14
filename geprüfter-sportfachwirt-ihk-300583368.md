@@ -1,0 +1,1 @@
+# Geprüfter Sportfachwirt IHK<br />![Geprüfter Sportfachwirt IHK](https://mycommerce.akamaized.net/api/pimages/P300583368/BIG/300583368.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300583368&affiliateid=200057808)

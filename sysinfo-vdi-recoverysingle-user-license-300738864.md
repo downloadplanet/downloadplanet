@@ -1,0 +1,1 @@
+# SysInfo VDI Recovery[Single User License]<br />SysInfoTools VDI Recovery the smartest VDI Recovery software is available to recover your data.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300738864&affiliateid=200057808)

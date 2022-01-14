@@ -1,0 +1,3 @@
+# Embellish Swirl Patterns for Photoshop & Elements Flourishes V39<br />www.graphicxtras.com -- Embellish Swirl patterns for Adobe Photoshop & Elements Flourishes V39
+
+Patterns for Photoshop and Elements and PSP and others, PC and MAC OS X, License: commercial use, royalty-free. All the patterns are by graphicxtras (Andrew Buckle)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300469059&affiliateid=200057808)

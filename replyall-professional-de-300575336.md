@@ -1,0 +1,2 @@
+# ReplyAll Professional (de)<br />![ReplyAll Professional (de)](https://mycommerce.akamaized.net/api/pimages/P300575336/BIG/300575336.PNG)<br />ReplyAll alerts before you unintentionally reply all, or if you are a confidential BCC recipient of the e-mail. Manage addresses you never want to send a reply to.
+All details | All product versions/licenses | Switch to English version<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300575336&affiliateid=200057808)

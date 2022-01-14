@@ -1,0 +1,1 @@
+# Thumbnails programming<br />Krpano xml plugin, scroll thumbs<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300499183&affiliateid=200057808)

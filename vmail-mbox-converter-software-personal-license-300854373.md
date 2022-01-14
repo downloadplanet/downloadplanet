@@ -1,0 +1,1 @@
+# vMail MBOX Converter Software - Personal License<br />MBOX Converter Software – Its Perform email conversion software to convert MBOX file to Outlook PST, EML, EMLX, and MSG format.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300854373&affiliateid=200057808)

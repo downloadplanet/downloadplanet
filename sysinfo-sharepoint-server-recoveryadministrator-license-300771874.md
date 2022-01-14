@@ -1,0 +1,1 @@
+# SysInfo SharePoint Server Recovery[Administrator License]<br />SysInfoTools SharePoint Server Recoverysoftware supports both SharePoint database as well as SQL Server files created by all popular versions of SharePoint Server and SQL Server<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300771874&affiliateid=200057808)

@@ -1,0 +1,3 @@
+# Adorage Effectpackage Vol. 5 Backup-CD<br />![Adorage Effectpackage Vol. 5 Backup-CD](https://mycommerce.akamaized.net/api/pimages/P532157/BIG/532157.GIF)<br />One of the biggest effect collections at all regarding attractive Picture-in-Picture effects, multiple video compositings, frame decorations which are just ready to use! If you need modern frames or romantic compositings or dynamic PiPs - this should be yours! This collection will place highlights in all of your productions! All over 1200 effects can being directly integrated in your video editing solution by using the optional "Adorage All Plugins Collection".
+ Product Website
+ Demos<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=532157&affiliateid=200057808)

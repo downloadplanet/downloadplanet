@@ -1,0 +1,1 @@
+# SenderMatic emailer - Enterprise<br />See detailed informations about properties of SenderMatic.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301014718&affiliateid=200057808)

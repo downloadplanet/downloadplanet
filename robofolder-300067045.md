@@ -1,0 +1,3 @@
+# RoboFolder<br />![RoboFolder](https://mycommerce.akamaized.net/api/pimages/P300067045/BIG/300067045.JPG)<br />RoboFolder takes a fresh approach into managing your photos by re-arranging the folder structure to logical folder structure with descriptive names.
+Additionally RoboFolder allows you to rename files based on flexible renaming system and do many common photographer tasks, such as auto-rotating photos (lossless), auto-correcting image resolution, assigning your copyright info to your each photo on your collection automatically.
+If you have thousands of photos, you need RoboFolder!<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300067045&affiliateid=200057808)

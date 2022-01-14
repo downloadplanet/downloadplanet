@@ -1,0 +1,1 @@
+# SerialTools Pro .NET Desktop Framework (end user license)<br />SerialTools Pro .NET Desktop Framework (end user license)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=221286&affiliateid=200057808)

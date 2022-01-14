@@ -1,0 +1,4 @@
+# Send To Publisher<br />Send To Publisher is a PowerPoint addin enables you to export Microsoft PowerPoint presentations to Microsoft Publisher for creating publications. This enables you to:
+Create handouts
+Create booklet publications that enable you to perform Imposing.
+Send To Publisher works with Microsoft Office PowerPoint 2003, Microsoft PowerPoint 2002 (XP), Microsoft PowerPoint 2000 and Microsoft PowerPoint 97 and can export to Microsoft Office Publisher 2003 and Microsoft Publisher 2002 (XP). Download the addin and install it in your PowerPoint environment. After the addin is loaded successfully, you can send the presentation to Microsoft Publisher by selecting File | Send To | Microsoft Publisher... menu item.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=200746&affiliateid=200057808)

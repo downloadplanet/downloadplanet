@@ -1,0 +1,1 @@
+# Biometrics for Remote Desktop<br />![Biometrics for Remote Desktop](https://mycommerce.akamaized.net/api/pimages/P300765871/BIG/300765871.GIF)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300765871&affiliateid=200057808)

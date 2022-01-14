@@ -1,0 +1,1 @@
+# EMS DB Comparer for Oracle (Business) + 2 Year Maintenance<br />Compare and synchronize the structure of Oracle databases. Move changes on your development database to production with ease.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300168168&affiliateid=200057808)

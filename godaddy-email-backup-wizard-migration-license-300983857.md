@@ -1,0 +1,1 @@
+# GoDaddy Email Backup Wizard - Migration License<br />Software to Backup GoDaddy Email Accounts<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300983857&affiliateid=200057808)

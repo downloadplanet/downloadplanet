@@ -1,0 +1,1 @@
+# MailBee Objects (4 Developers Team)<br />Enables your application to send, receive, parse and manage e-mail over POP3, IMAP4 and SMTP protocols<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300333750&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# Geprüfter Wirtschaftsfachwirt - Logistik<br />![Geprüfter Wirtschaftsfachwirt - Logistik](https://mycommerce.akamaized.net/api/pimages/P300381774/BIG/300381774.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300381774&affiliateid=200057808)

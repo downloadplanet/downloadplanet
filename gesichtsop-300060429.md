@@ -1,0 +1,1 @@
+# Gesichts-OP<br />Disfigure and distort photos (e.g. faces) merrily. The result can be printed or saved. Disfigure photos in a strange and skurrile manner. The program opens many picture file formats. Strength and radius of the effect scan be varied variously<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300060429&affiliateid=200057808)

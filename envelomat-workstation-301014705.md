@@ -1,0 +1,1 @@
+# Envelomat Workstation<br />License for next workstation of Envelomat Enterprise in computer network.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=301014705&affiliateid=200057808)

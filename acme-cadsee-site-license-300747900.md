@@ -1,0 +1,1 @@
+# Acme CADSee site license<br />AutoCAD drawing file viewer and browser. support dwg/psd/dxf/dwf/bmp/jpeg/gif/tiff/tga/pcx/png/mng/wmf/ico... Can convert between the various version of DWG/DXF/DWF file.support (AutoCAD 2.5-2018).<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300747900&affiliateid=200057808)

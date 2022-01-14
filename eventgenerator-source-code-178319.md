@@ -1,0 +1,3 @@
+# EventGenerator Source Code<br />This is for source code of EventGenerator addin. For information about EventGenerator, visit http://officeone.mvps.org/eventgen/eventgen.html.
+
+EventGenerator consists of a PowerPoint addin. This registration gives you license to view the VBA source code for the PowerPoint addin.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=178319&affiliateid=200057808)

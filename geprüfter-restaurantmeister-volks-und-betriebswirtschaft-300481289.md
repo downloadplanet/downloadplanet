@@ -1,0 +1,1 @@
+# Geprüfter Restaurantmeister - Volks- und Betriebswirtschaft<br />![Geprüfter Restaurantmeister - Volks- und Betriebswirtschaft](https://mycommerce.akamaized.net/api/pimages/P300481289/BIG/300481289.JPG)<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300481289&affiliateid=200057808)

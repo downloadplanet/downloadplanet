@@ -1,0 +1,3 @@
+# USB Monitor Pro - Update Subscription<br />![USB Monitor Pro - Update Subscription](https://mycommerce.akamaized.net/api/pimages/P300275987/BIG/300275987.GIF)<br />USB Monitor Pro is an effective and simple in use analyzer of USB traffic for Windows. It allows monitor incoming and outgoing data of a USB device plugged into the computer.
+USB Monitor Pro is a complete software solution, so you don't need any additional expensive hardware.
+It's an indispensable tool for a developer of firmware and drivers for USB devices, expanding developer's arsenal.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300275987&affiliateid=200057808)

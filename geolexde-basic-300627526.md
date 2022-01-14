@@ -1,0 +1,1 @@
+# geolex.de Basic<br />Das Paket geolex.de Basic Geodaten Deutschland enthält die Spalten: Ortsteil ID, Postleitzahlen - alle Zustellpostleitzahlen, Orte - alle Orte und Städte, Ortszusatz, Ortsteile - über 82.000 Ortsteile und Stadtteile.<br />[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300627526&affiliateid=200057808)

@@ -1,0 +1,1 @@
+# Kernel for PST Split - Home User<br />Split big pst files in to smaller files based on various options.<br />[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300377040&affiliateid=200057808)
