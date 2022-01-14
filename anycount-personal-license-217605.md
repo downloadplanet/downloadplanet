@@ -1,30 +1,29 @@
 # AnyCount - Personal License
 ![AnyCount - Personal License](https://mycommerce.akamaized.net/api/pimages/P217605/BIG/217605.GIF)
-AnyCount is automatic text count software. AnyCount is automatic line count, character count and word count software for all common file formats.
-Supported text count formats:.RTF, .DOC, .WPD, .XLS, .PPT, .PPS, .PDF, .CSV, .HTM, .HTML, .XML, .MIF, .TXT, .ZIP, .ODT, .SDW, .SXW, .ODS, .SDC, .SXC, .ODP, .SDD, .SXI, .HLP, .CHM. Supported volume units: words, characters, lines, pages, custom count units. Text Count Software, Word Count Software, and Line Count Software.
-After text count is completed, you can:
-В· view count results on the screen;
-В· sort results in columns;
-В· copy results to clipboard;
-В· print count results;
-В· export count results into .TXT format;
-В· export count results into Comma-Separated Text / Tab-Separated Text (.CSV format) (which can be opened by Microsoft Excel and most other spreadsheet software);
-В· export count results to .HTML format;
-В· export count results to MS Word format;
-В· export count results to MS Excel format;
-В· export count results to .RTF format.
-AnyCount is Text Count Program, Word Count Program, and Line Count Program. New in Version 6.0:
-1. New file formats counting added:
-В· OpenOffice text formats: . ODT, .SDW, . SXW;
-В· OpenOffice spreadsheets formats: .ODS, .SDC, .SXC;
-В· OpenOffice presentation formats: .ODP, .SDD, .SXI;
-В· Microsoft online help formats: .CHM, .HLP.
-2. New options for Microsoft Office file formats: optionally counting Hidden Text.
-3. Improved word count for .TXT and .PDF files.
-4. Re-counting of the previously counted files.
-5. Total calculated for each column of the table of results.
-6. Sorting in each column of the table of results.
-7. Enhanced procedure of selecting files to be counted: you can now select several files at a time using Shift key.
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=217605&affiliateid=200057808)<br/><br/># Related:
-
-<br />[pdf-printer-for-windows-10-site-license-300643609.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-printer-for-windows-10-site-license-300643609.md)<br />[pdfnup-com-component-distribution-license-300452782.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdfnup-com-component-distribution-license-300452782.md)<br />[sf-zimmerman-desktop-license-15-users-300271631.md](https://github.com/downloadplanet/downloadplanet/blob/main/sf-zimmerman-desktop-license-15-users-300271631.md)<br />[letter-type-truetype-font-eps-shapes-for-all-apps-v169-300487131.md](https://github.com/downloadplanet/downloadplanet/blob/main/letter-type-truetype-font-eps-shapes-for-all-apps-v169-300487131.md)<br />[loc00204-plate-101001-layout-private-300727228.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00204-plate-101001-layout-private-300727228.md)<br />[kernel-recovery-for-paradox-corporate-license-300136805.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-recovery-for-paradox-corporate-license-300136805.md)<br />[clipcount-corporate-license-9-pcs-300058109.md](https://github.com/downloadplanet/downloadplanet/blob/main/clipcount-corporate-license-9-pcs-300058109.md)<br />[anymini-c-character-count-software-corporate-license-3-pcs-300036061.md](https://github.com/downloadplanet/downloadplanet/blob/main/anymini-c-character-count-software-corporate-license-3-pcs-300036061.md)<br />[zmigrator-license-upgrade-enterprise-license-300869685.md](https://github.com/downloadplanet/downloadplanet/blob/main/zmigrator-license-upgrade-enterprise-license-300869685.md)<br />[openoffice-draw-password-recovery-for-business-use-300136293.md](https://github.com/downloadplanet/downloadplanet/blob/main/openoffice-draw-password-recovery-for-business-use-300136293.md)<br />[1st-autorun-express-enterprise-5-users-pack-300326665.md](https://github.com/downloadplanet/downloadplanet/blob/main/1st-autorun-express-enterprise-5-users-pack-300326665.md)<br />[flower-patterns-for-photoshop-affinity-elements-psp-etc-v124-300629938.md](https://github.com/downloadplanet/downloadplanet/blob/main/flower-patterns-for-photoshop-affinity-elements-psp-etc-v124-300629938.md)<br />[pfk-komplett-104-videos-197698-mb-komplette-teilnehmerunterlagen-alle-dozentenschlüssel-alle-repetitorien-und-das-hörbuch-von-schnelllernexperte-dr-marius-ebert-300598254.md](https://github.com/downloadplanet/downloadplanet/blob/main/pfk-komplett-104-videos-197698-mb-komplette-teilnehmerunterlagen-alle-dozentenschlüssel-alle-repetitorien-und-das-hörbuch-von-schnelllernexperte-dr-marius-ebert-300598254.md)<br />[kernel-for-sharepoint-corporate-licensebrl-300384670.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-sharepoint-corporate-licensebrl-300384670.md)<br />[batch-print-premium-law-edition-2019-300942584.md](https://github.com/downloadplanet/downloadplanet/blob/main/batch-print-premium-law-edition-2019-300942584.md)<br />[bluetools-pro-net-300037709.md](https://github.com/downloadplanet/downloadplanet/blob/main/bluetools-pro-net-300037709.md)<br />[dot-font-truetype-ttf-eps-for-coreldraw-others-v184-300503624.md](https://github.com/downloadplanet/downloadplanet/blob/main/dot-font-truetype-ttf-eps-for-coreldraw-others-v184-300503624.md)<br />[archivarius-3000-special-licence-for-students-300034867.md](https://github.com/downloadplanet/downloadplanet/blob/main/archivarius-3000-special-licence-for-students-300034867.md)<br />[fwwkfachpaket-1-volks-u-betriebswirtschaft-videocoaching-32-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-u-repetitorium-von-schnelllernexperte-dr-marius-ebert-300602555.md](https://github.com/downloadplanet/downloadplanet/blob/main/fwwkfachpaket-1-volks-u-betriebswirtschaft-videocoaching-32-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-u-repetitorium-von-schnelllernexperte-dr-marius-ebert-300602555.md)<br />[pdf-bookmark-for-windows-server-license-300454399.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-bookmark-for-windows-server-license-300454399.md)
+AnyCount is automatic text count software AnyCount is automatic line count character count and word count software for all common file formats
+Supported text count formatsRTF DOC WPD XLS PPT PPS PDF CSV HTM HTML XML MIF TXT ZIP ODT SDW SXW ODS SDC SXC ODP SDD SXI HLP CHM Supported volume units words characters lines pages custom count units Text Count Software Word Count Software and Line Count Software
+After text count is completed you can
+В· view count results on the screen
+В· sort results in columns
+В· copy results to clipboard
+В· print count results
+В· export count results into TXT format
+В· export count results into CommaSeparated Text TabSeparated Text CSV format which can be opened by Microsoft Excel and most other spreadsheet software
+В· export count results to HTML format
+В· export count results to MS Word format
+В· export count results to MS Excel format
+В· export count results to RTF format
+AnyCount is Text Count Program Word Count Program and Line Count Program New in Version 
+ New file formats counting added
+В· OpenOffice text formats ODT SDW SXW
+В· OpenOffice spreadsheets formats ODS SDC SXC
+В· OpenOffice presentation formats ODP SDD SXI
+В· Microsoft online help formats CHM HLP
+ New options for Microsoft Office file formats optionally counting Hidden Text
+ Improved word count for TXT and PDF files
+ Recounting of the previously counted files
+ Total calculated for each column of the table of results
+ Sorting in each column of the table of results
+ Enhanced procedure of selecting files to be counted you can now select several files at a time using Shift key
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=217605&affiliateid=200057808)<br/><br/>Related:
+<br />[ms-access-and-oracle-loader-300314684.md](https://github.com/downloadplanet/downloadplanet/blob/main/ms-access-and-oracle-loader-300314684.md)<br />[esofttools-pst-recovery-software-technician-license-300877994.md](https://github.com/downloadplanet/downloadplanet/blob/main/esofttools-pst-recovery-software-technician-license-300877994.md)<br />[panoramastudio-3-300694720.md](https://github.com/downloadplanet/downloadplanet/blob/main/panoramastudio-3-300694720.md)<br />[mailbeenet-antispam-4-developers-team-300333792.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailbeenet-antispam-4-developers-team-300333792.md)<br />[lotus-notes-to-office-365-standard-license-300789911.md](https://github.com/downloadplanet/downloadplanet/blob/main/lotus-notes-to-office-365-standard-license-300789911.md)<br />[anybizsoft-epub-builder-25-commercial-license-300952846.md](https://github.com/downloadplanet/downloadplanet/blob/main/anybizsoft-epub-builder-25-commercial-license-300952846.md)<br />[andrews-vector-plugins-wand-paint-tool-for-illustrator-cs-5-4-3-2-1-10-v7-181619.md](https://github.com/downloadplanet/downloadplanet/blob/main/andrews-vector-plugins-wand-paint-tool-for-illustrator-cs-5-4-3-2-1-10-v7-181619.md)<br />[drs-pst-compress-and-compact-for-macsingle-user-license-301005004.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-pst-compress-and-compact-for-macsingle-user-license-301005004.md)<br />[rasterstitch-panorama-300579205.md](https://github.com/downloadplanet/downloadplanet/blob/main/rasterstitch-panorama-300579205.md)<br />[arrow-truetype-font-eps-shapes-for-all-apps-v173-300489156.md](https://github.com/downloadplanet/downloadplanet/blob/main/arrow-truetype-font-eps-shapes-for-all-apps-v173-300489156.md)<br />[loc00179-plate-4004-jpg-2048px-300733549.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00179-plate-4004-jpg-2048px-300733549.md)<br />[urlaubsplaner-bis-300-mitarbeiter-id-nr-30032761920-300898288.md](https://github.com/downloadplanet/downloadplanet/blob/main/urlaubsplaner-bis-300-mitarbeiter-id-nr-30032761920-300898288.md)<br />[drfone-repairwin-300947761.md](https://github.com/downloadplanet/downloadplanet/blob/main/drfone-repairwin-300947761.md)<br />[monkey-215584.md](https://github.com/downloadplanet/downloadplanet/blob/main/monkey-215584.md)<br />[ifwfachpaket-8-wissens-u-transfermanagement-videocoaching-15-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-von-schnelllernexperte-dr-marius-ebert-300599914.md](https://github.com/downloadplanet/downloadplanet/blob/main/ifwfachpaket-8-wissens-u-transfermanagement-videocoaching-15-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-von-schnelllernexperte-dr-marius-ebert-300599914.md)<br />[auto-shutdown-manager-v5-smb50-300599109.md](https://github.com/downloadplanet/downloadplanet/blob/main/auto-shutdown-manager-v5-smb50-300599109.md)<br />[fix-my-iphone-for-windows-family-license-lifetime-301008036.md](https://github.com/downloadplanet/downloadplanet/blob/main/fix-my-iphone-for-windows-family-license-lifetime-301008036.md)<br />[loc00014-plate-1321-jpg-4096px-300732801.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00014-plate-1321-jpg-4096px-300732801.md)<br />[bitrecover-pst-converter-migration-license-300898389.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-pst-converter-migration-license-300898389.md)<br />[winlexic-site-license-unlimited-pcs-at-single-business-location-300025437.md](https://github.com/downloadplanet/downloadplanet/blob/main/winlexic-site-license-unlimited-pcs-at-single-business-location-300025437.md)

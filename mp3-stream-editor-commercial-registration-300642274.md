@@ -1,47 +1,46 @@
 # MP3 Stream Editor Commercial Registration
 ![MP3 Stream Editor Commercial Registration](https://mycommerce.akamaized.net/api/pimages/P300642274/BIG/300642274.JPG)
-MP3 Stream Editor is an all in one tool for your MP3s. Main advantage over other MP3 tools is the ability to visually edit (cut join) MP3 audio without decoding and quality loss on a 3D sample display. Encode, re-encode, convert to WAV/WMA or any other command line encoder, record MP3/WMA/Flac streams, burn AudioCD or MP3 CD/DVD compilations, professional ID3v2 Tag editor, CD ripper with cddb/freedb support.
+MP Stream Editor is an all in one tool for your MPs Main advantage over other MP tools is the ability to visually edit cut join MP audio without decoding and quality loss on a D sample display Encode reencode convert to WAVWMA or any other command line encoder record MPWMAFlac streams burn AudioCD or MP CDDVD compilations professional IDv Tag editor CD ripper with cddbfreedb support
 
-Main features:
-Visually edit (cut join) without decoding and quality loss, MP3 audio files on a 3D sample display with mouse (MPEG1 LayerII, III; MPEG2 LayerII, III; WAV PCM; Ogg Vorbis)
-Very fast MPEG editing (~20MB/s@1.6GHz, or even faster on a two drive system)
-MPEG Error Correction (repair corrupted MPEG files)
-Full .CUE sheet support (CD grab/cut/join/visually edit)
+Main features
+Visually edit cut join without decoding and quality loss MP audio files on a D sample display with mouse MPEG LayerII III MPEG LayerII III WAV PCM Ogg Vorbis
+Very fast MPEG editing or even faster on a two drive system
+MPEG Error Correction repair corrupted MPEG files
+Full CUE sheet support CD grabcutjoinvisually edit
 Own Subsong system
-Encode or re-encode MP3s (powerful Preset system to store various encoding settings), WAV/WMA and universal command line encoder plugin
-Directly record MP3/WAV/WMA/Flac streams (from any input source, record "what you hear", volume level activation, timing)
-Grab Tracks from Audio CDs to MP3 or lossless Flac (single track/album mode) with full cddb/freedb and cover picture support
+Encode or reencode MPs powerful Preset system to store various encoding settings WAVWMA and universal command line encoder plugin
+Directly record MPWAVWMAFlac streams from any input source record what you hear volume level activation timing
+Grab Tracks from Audio CDs to MP or lossless Flac single trackalbum mode with full cddbfreedb and cover picture support
 Supports loading of CDA files from Audio CDs
 VBR bitrate analyzer
-Edit and manage ID3v1 and ID3v2 Tags (all frames) including pictures in MP3s within ID3v2 Tags
-Mass and single renamer and Tager (Filename to Tag; Tag to Filename; Tag multiple MP3s at once)
-Flexible plugin system, assign DSP, visualisation and stream processing plugins to stream channels
+Edit and manage IDv and IDv Tags all frames including pictures in MPs within IDv Tags
+Mass and single renamer and Tager Filename to Tag Tag to Filename Tag multiple MPs at once
+Flexible plugin system assign DSP visualisation and stream processing plugins to stream channels
 Normalize DSP plugin keeps volume level at a desired maximum
-CD/DVD Burner plugin for controling Nero (can burn DSP processed streams as AudioCD tracks)
+CDDVD Burner plugin for controling Nero can burn DSP processed streams as AudioCD tracks
 High precision Spectrum analyzer vis Plugin
 Network WMA Broadcaster Plugin
 Winamp Input Plugins Bridge allows loading any sound file type supported by Winamp input Plugins
 Sonique Vis Bridge for using Sonique visualisation plugins
 Experimental ASIO Player Plugin
-Advanced Subsong system and full .CUE sheet support including:
-Grab AudioCDs in Album mode (one MP3/WAV/Flac file with Subsong system (optional .CUE sheet))
-Cut - slice MP3s based on .CUE sheet or Subsong entries
-Join - create one MP3 stream and generate it's .CUE sheet and Subsong layout from smaller MP3 files
-Visually edit Subsong start points including artist/title for each subsong, or even generate .CUE sheet or Subsongs from scratch
-Playlist compatible, Subsong order in playlist is optionally saved/loaded
-Save Internet streams to local drive with automatic Subsong System (optional .CUE sheet) generation based on the periodically received metadata
-Based on BASS sound system (play virtualy unlimited MP3s at once, crossfade, adjust playback speed, volume separately)
-Supported formats: MPEG, WAV, WMA, OGG Vorbis, CDA, MOD, MO3, IT, XM, S3M, MTM, UMX, FLAC, OptimFrog, WavPack, Monkey's Audio, Musepack, AAC/MP4 (needs bass_aac.dll - MP4 FAQ) (and any format trough Winamp input plugins)
-Favorites Quick search (quickly locate and load MP3s)
-Multitasks, continue your work while tasks are running in the background
+Advanced Subsong system and full CUE sheet support including
+Grab AudioCDs in Album mode one MPWAVFlac file with Subsong system optional CUE sheet
+Cut slice MPs based on CUE sheet or Subsong entries
+Join create one MP stream and generate its CUE sheet and Subsong layout from smaller MP files
+Visually edit Subsong start points including artisttitle for each subsong or even generate CUE sheet or Subsongs from scratch
+Playlist compatible Subsong order in playlist is optionally savedloaded
+Save Internet streams to local drive with automatic Subsong System optional CUE sheet generation based on the periodically received metadata
+Based on BASS sound system play virtualy unlimited MPs at once crossfade adjust playback speed volume separately
+Supported formats MPEG WAV WMA OGG Vorbis CDA MOD MO IT XM SM MTM UMX FLAC OptimFrog WavPack Monkeys Audio Musepack AACMP needs bassaacdll MP FAQ and any format trough Winamp input plugins
+Favorites Quick search quickly locate and load MPs
+Multitasks continue your work while tasks are running in the background
 
-Requirements:
-3D GraphicsCard with HardwareVertexProcessing and DirectX 9 installed
-BASS requires DirectX 3 or above. BASS does not require that a soundcard with DirectSound/DirectSound3D hardware accelerated drivers is installed, but it does improve performance if there is one. BASS also takes advantage of MMX, which improves the performance of the MOD music playback.
-The Windows Media Format modules are also required to be installed on the user's system. They are installed with Windows Media player, so will already be on most users' systems, but they can also be installed separately (WMFDIST.EXE).
-Minimal screen resolution of 1024x768
+Requirements
+D GraphicsCard with HardwareVertexProcessing and DirectX installed
+BASS requires DirectX or above BASS does not require that a soundcard with DirectSoundDirectSoundD hardware accelerated drivers is installed but it does improve performance if there is one BASS also takes advantage of MMX which improves the performance of the MOD music playback
+The Windows Media Format modules are also required to be installed on the users system They are installed with Windows Media player so will already be on most users systems but they can also be installed separately WMFDISTEXE
+Minimal screen resolution of x
 
-For more info visit: www.3delite.hu
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300642274&affiliateid=200057808)<br/><br/># Related:
-
-<br />[hdr-114-forest-300527794.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-114-forest-300527794.md)<br />[stripes-patterns-for-photoshop-elements-paintshop-pro-v95-300509905.md](https://github.com/downloadplanet/downloadplanet/blob/main/stripes-patterns-for-photoshop-elements-paintshop-pro-v95-300509905.md)<br />[ajax-uploader-developer-team-license-300236941.md](https://github.com/downloadplanet/downloadplanet/blob/main/ajax-uploader-developer-team-license-300236941.md)<br />[anybizsoft-pdf-to-powerpoint-for-mac-multiuser-commercial-license-1620-pcs-300952815.md](https://github.com/downloadplanet/downloadplanet/blob/main/anybizsoft-pdf-to-powerpoint-for-mac-multiuser-commercial-license-1620-pcs-300952815.md)<br />[coolmuster-android-eraser-lifetime-license1-pc-300924900.md](https://github.com/downloadplanet/downloadplanet/blob/main/coolmuster-android-eraser-lifetime-license1-pc-300924900.md)<br />[bopup-observer-174740.md](https://github.com/downloadplanet/downloadplanet/blob/main/bopup-observer-174740.md)<br />[online-desktop-presenter-corporate-11-pcs-300323400.md](https://github.com/downloadplanet/downloadplanet/blob/main/online-desktop-presenter-corporate-11-pcs-300323400.md)<br />[bundle-offer-bitrecover-pst-unlock-unlock-pdf-personal-license-300954708.md](https://github.com/downloadplanet/downloadplanet/blob/main/bundle-offer-bitrecover-pst-unlock-unlock-pdf-personal-license-300954708.md)<br />[comm-tunnel-pro-300946808.md](https://github.com/downloadplanet/downloadplanet/blob/main/comm-tunnel-pro-300946808.md)<br />[able-graphic-manager-business-license-151123.md](https://github.com/downloadplanet/downloadplanet/blob/main/able-graphic-manager-business-license-151123.md)<br />[kernel-import-pst-to-office-365-technician-license-300805894.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-import-pst-to-office-365-technician-license-300805894.md)<br />[coolmuster-labfone-for-android-1-year1-pc-unlimited-devices-300966500.md](https://github.com/downloadplanet/downloadplanet/blob/main/coolmuster-labfone-for-android-1-year1-pc-unlimited-devices-300966500.md)<br />[loc00204-plate-80999-layout-private-300727312.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00204-plate-80999-layout-private-300727312.md)<br />[ftg-00073-road-300618455.md](https://github.com/downloadplanet/downloadplanet/blob/main/ftg-00073-road-300618455.md)<br />[wave-custom-shapes-for-photoshop-elements-csh-v82-300468526.md](https://github.com/downloadplanet/downloadplanet/blob/main/wave-custom-shapes-for-photoshop-elements-csh-v82-300468526.md)<br />[kernel-recovery-for-outlook-express-home-user-licensebrl-300384597.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-recovery-for-outlook-express-home-user-licensebrl-300384597.md)<br />[kernel-for-outlook-pst-repair-home-user-license-special-offer-price-300744948.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-outlook-pst-repair-home-user-license-special-offer-price-300744948.md)<br />[syncingnet-manager-edition-300597693.md](https://github.com/downloadplanet/downloadplanet/blob/main/syncingnet-manager-edition-300597693.md)<br />[bundle-offer-email-backup-wizard-lite-pst-converter-wizard-migration-301012098.md](https://github.com/downloadplanet/downloadplanet/blob/main/bundle-offer-email-backup-wizard-lite-pst-converter-wizard-migration-301012098.md)<br />[kernel-office365-migrator-for-groupwise-corporate-300724767.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-office365-migrator-for-groupwise-corporate-300724767.md)
+For more info visit wwwdelitehu
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300642274&affiliateid=200057808)<br/><br/>Related:
+<br />[studioline-photo-pro-4-cd-300621931.md](https://github.com/downloadplanet/downloadplanet/blob/main/studioline-photo-pro-4-cd-300621931.md)<br />[bundle-kernel-exchange-email-corporate-licensebrl-300384679.md](https://github.com/downloadplanet/downloadplanet/blob/main/bundle-kernel-exchange-email-corporate-licensebrl-300384679.md)<br />[swirl-pattern-swatches-for-illustrator-ai-v24-300468902.md](https://github.com/downloadplanet/downloadplanet/blob/main/swirl-pattern-swatches-for-illustrator-ai-v24-300468902.md)<br />[anybizsoft-pdf-to-excel-for-mac-multiuser-commercial-license-610-pcs-300952803.md](https://github.com/downloadplanet/downloadplanet/blob/main/anybizsoft-pdf-to-excel-for-mac-multiuser-commercial-license-610-pcs-300952803.md)<br />[mixed-symbols-for-fireworks-png-vs6-300397567.md](https://github.com/downloadplanet/downloadplanet/blob/main/mixed-symbols-for-fireworks-png-vs6-300397567.md)<br />[tcp-serverclient-library-commercial-license-300591475.md](https://github.com/downloadplanet/downloadplanet/blob/main/tcp-serverclient-library-commercial-license-300591475.md)<br />[pdf-management-toolkitpdf-split-pdf-recoverysingle-user-license-300726079.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-management-toolkitpdf-split-pdf-recoverysingle-user-license-300726079.md)<br />[vector-button-house-300512415.md](https://github.com/downloadplanet/downloadplanet/blob/main/vector-button-house-300512415.md)<br />[amazing-mac-any-data-recovery-300864173.md](https://github.com/downloadplanet/downloadplanet/blob/main/amazing-mac-any-data-recovery-300864173.md)<br />[acme-cad-converter-site-license-300131174.md](https://github.com/downloadplanet/downloadplanet/blob/main/acme-cad-converter-site-license-300131174.md)<br />[pdf-resize-for-windows-workstationdeveloper-license-300499631.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-resize-for-windows-workstationdeveloper-license-300499631.md)<br />[copy-of-driver-talent-pro-1-pc-lifetime-301017030.md](https://github.com/downloadplanet/downloadplanet/blob/main/copy-of-driver-talent-pro-1-pc-lifetime-301017030.md)<br />[radial-symbols-for-illustrator-ai-v40-300265025.md](https://github.com/downloadplanet/downloadplanet/blob/main/radial-symbols-for-illustrator-ai-v40-300265025.md)<br />[kernel-recovery-for-solaris-sparc-commercial-licensebrl-300384564.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-recovery-for-solaris-sparc-commercial-licensebrl-300384564.md)<br />[hbtapi-components-standard-edition-1developer-license-182317.md](https://github.com/downloadplanet/downloadplanet/blob/main/hbtapi-components-standard-edition-1developer-license-182317.md)<br />[hdr-085-road-300546150.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-085-road-300546150.md)<br />[abviewer-standard-upgrade-300295725.md](https://github.com/downloadplanet/downloadplanet/blob/main/abviewer-standard-upgrade-300295725.md)<br />[ems-data-generator-for-postgresql-business-1-year-maintenance-300067932.md](https://github.com/downloadplanet/downloadplanet/blob/main/ems-data-generator-for-postgresql-business-1-year-maintenance-300067932.md)<br />[blob-studio-v3-300993733.md](https://github.com/downloadplanet/downloadplanet/blob/main/blob-studio-v3-300993733.md)<br />[letter-symbols-for-illustrator-ai-v58-300469172.md](https://github.com/downloadplanet/downloadplanet/blob/main/letter-symbols-for-illustrator-ai-v58-300469172.md)

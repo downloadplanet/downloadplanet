@@ -1,35 +1,34 @@
 # Webinar Gewinneinflussfaktoren im F&B Bereich 01.08.2016 von 10:15 Uhr bis 11:15 Uhr
 Seminarbeschreibung
-In diesem Webinar lernen die Teilnehmer die sieben Gewinneinflussfaktoren im F&B-Bereich kennen. Sie werden in einer MS Excel-Vorlage an Beispielzahlen errechnen, welche Einflussfaktoren den höchsten Erfolg haben. Anschließend können sie mit diesem Excelschema und den Zahlen ihres Betriebes ihre eigene Reihenfolge ermitteln. Somit erhalten die Teilnehmer die Grundlage, um die richtigen Maßnahmen für mehr Gewinn im F&B durchzuführen.
+In diesem Webinar lernen die Teilnehmer die sieben Gewinneinflussfaktoren im FBBereich kennen Sie werden in einer MS ExcelVorlage an Beispielzahlen errechnen welche Einflussfaktoren den höchsten Erfolg haben Anschließend können sie mit diesem Excelschema und den Zahlen ihres Betriebes ihre eigene Reihenfolge ermitteln Somit erhalten die Teilnehmer die Grundlage um die richtigen Maßnahmen für mehr Gewinn im FB durchzuführen
 
 Inhalte
 Basisinformation für die Anwendung der Gewinneinflussfaktoren
 Berechnung der Einflussfaktoren
-Umsatz pro Gast, Preispolitik, Verkaufsförderung, Anzahl der Gäste
-Personalkosten fix, Wareneinsatz F&B, übriger veränderbarer Betriebsaufwand (Energie, Müll etc.),Personalkosten variabel
-Festlegung der Reihenfolge der Gewinneinflussfaktoren, beginnend mit dem höchsten wirtschaftlichen Nutzen
-Anwendung der Gewinneinflussfaktoren in einer MS Excel-Vorlage
+Umsatz pro Gast Preispolitik Verkaufsförderung Anzahl der Gäste
+Personalkosten fix Wareneinsatz FB übriger veränderbarer Betriebsaufwand Energie Müll etcPersonalkosten variabel
+Festlegung der Reihenfolge der Gewinneinflussfaktoren beginnend mit dem höchsten wirtschaftlichen Nutzen
+Anwendung der Gewinneinflussfaktoren in einer MS ExcelVorlage
 
-Zielgruppe:
-Führungs- und Fachkräfte aus der Gastronomie, Hotellerie & GV, die für den Verkauf und die Planung von Veranstaltungen und Banketten verantwortlich sind.
+Zielgruppe
+Führungs und Fachkräfte aus der Gastronomie Hotellerie GV die für den Verkauf und die Planung von Veranstaltungen und Banketten verantwortlich sind
 
-Zeitplan:
-9:45 Uhr Versenden der Teilnehmerlinks
-10:00-10.15 Uhr Technikcheck
-10:15-11:00 Uhr Webinar
-11:00-11:15 Uhr Beantwortung von offenen Fragen
+Zeitplan
+ Uhr Versenden der Teilnehmerlinks
+ Uhr Technikcheck
+ Uhr Webinar
+ Uhr Beantwortung von offenen Fragen
 
-Folgende Unterlagen erhalten Sie:
-Konzept zum Thema Gewinneinflussfaktoren aus der Schriftenreihe 1 des Küchenbetriebswirts als PDF
-Anmelde-Link für GotoMeeting
+Folgende Unterlagen erhalten Sie
+Konzept zum Thema Gewinneinflussfaktoren aus der Schriftenreihe des Küchenbetriebswirts als PDF
+AnmeldeLink für GotoMeeting
 Excelprogramm mit dem Kalkulationsschema
 Link von der Video Aufzeichnung des Webinar
 
-Voraussetzung zur Teilnahme:
+Voraussetzung zur Teilnahme
 
 Internetverbindung über Kabel
 Lautsprecher
 Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692929&affiliateid=200057808)<br/><br/># Related:
-
-<br />[sage-50-payroll-password-recovery-for-personal-use-300805204.md](https://github.com/downloadplanet/downloadplanet/blob/main/sage-50-payroll-password-recovery-for-personal-use-300805204.md)<br />[advik-olm-to-gmail-personal-license-300807104.md](https://github.com/downloadplanet/downloadplanet/blob/main/advik-olm-to-gmail-personal-license-300807104.md)<br />[amacsoft-ios-data-recovery-300924604.md](https://github.com/downloadplanet/downloadplanet/blob/main/amacsoft-ios-data-recovery-300924604.md)<br />[tunekeep-audio-converter-for-mac-lifetime-license-300963791.md](https://github.com/downloadplanet/downloadplanet/blob/main/tunekeep-audio-converter-for-mac-lifetime-license-300963791.md)<br />[pace-suite-freelancer-with-1year-maintenance-included-300732839.md](https://github.com/downloadplanet/downloadplanet/blob/main/pace-suite-freelancer-with-1year-maintenance-included-300732839.md)<br />[turgs-mbox-merge-wizard-pro-license-300953505.md](https://github.com/downloadplanet/downloadplanet/blob/main/turgs-mbox-merge-wizard-pro-license-300953505.md)<br />[kernel-exchange-suite-upgrade-corporate-300808836.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-exchange-suite-upgrade-corporate-300808836.md)<br />[comm-tunnel-pro-300946808.md](https://github.com/downloadplanet/downloadplanet/blob/main/comm-tunnel-pro-300946808.md)<br />[tpv-bares-y-restaurantes-pocket-300276394.md](https://github.com/downloadplanet/downloadplanet/blob/main/tpv-bares-y-restaurantes-pocket-300276394.md)<br />[mbox-migrator-pro-license-300787660.md](https://github.com/downloadplanet/downloadplanet/blob/main/mbox-migrator-pro-license-300787660.md)<br />[iso-90012015-certification-kit-300567729.md](https://github.com/downloadplanet/downloadplanet/blob/main/iso-90012015-certification-kit-300567729.md)<br />[ftg-00039-road-in-forest-300617880.md](https://github.com/downloadplanet/downloadplanet/blob/main/ftg-00039-road-in-forest-300617880.md)<br />[network-recycle-bin-tool-20-copies-300881713.md](https://github.com/downloadplanet/downloadplanet/blob/main/network-recycle-bin-tool-20-copies-300881713.md)<br />[bitwarocr-annual-membership-license-1000-callsday-300986655.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitwarocr-annual-membership-license-1000-callsday-300986655.md)<br />[0139-pestle-dashboard-01-300995023.md](https://github.com/downloadplanet/downloadplanet/blob/main/0139-pestle-dashboard-01-300995023.md)<br />[heroglyph-upgrade-v1-25-creative-pack-2-aktionspaket-300049536.md](https://github.com/downloadplanet/downloadplanet/blob/main/heroglyph-upgrade-v1-25-creative-pack-2-aktionspaket-300049536.md)<br />[gmx-backup-wizard-migration-edition-300982523.md](https://github.com/downloadplanet/downloadplanet/blob/main/gmx-backup-wizard-migration-edition-300982523.md)<br />[additional-license-v10-for-2nd-computer-of-same-user-edungonpogov-edition-only-300850164.md](https://github.com/downloadplanet/downloadplanet/blob/main/additional-license-v10-for-2nd-computer-of-same-user-edungonpogov-edition-only-300850164.md)<br />[database-comparer-tools-80-company-license-subscription-300973460.md](https://github.com/downloadplanet/downloadplanet/blob/main/database-comparer-tools-80-company-license-subscription-300973460.md)<br />[email-backup-wizard-pro-edition-300810590.md](https://github.com/downloadplanet/downloadplanet/blob/main/email-backup-wizard-pro-edition-300810590.md)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692929&affiliateid=200057808)<br/><br/>Related:
+<br />[flower-patterns-for-photoshop-elements-psp-v36-300469056.md](https://github.com/downloadplanet/downloadplanet/blob/main/flower-patterns-for-photoshop-elements-psp-v36-300469056.md)<br />[webcam-for-remote-desktop-50-users-300439889.md](https://github.com/downloadplanet/downloadplanet/blob/main/webcam-for-remote-desktop-50-users-300439889.md)<br />[smart-assistant-300848926.md](https://github.com/downloadplanet/downloadplanet/blob/main/smart-assistant-300848926.md)<br />[andrews-plugins-creation-for-illustrator-cs5-cs2-cs1-10-v1-155645.md](https://github.com/downloadplanet/downloadplanet/blob/main/andrews-plugins-creation-for-illustrator-cs5-cs2-cs1-10-v1-155645.md)<br />[rosette-brushes-for-photoshop-affinity-elements-psp-etc-png-v191-300584737.md](https://github.com/downloadplanet/downloadplanet/blob/main/rosette-brushes-for-photoshop-affinity-elements-psp-etc-png-v191-300584737.md)<br />[sf-pixelate-desktop-license-15-users-300271526.md](https://github.com/downloadplanet/downloadplanet/blob/main/sf-pixelate-desktop-license-15-users-300271526.md)<br />[istonsoft-ipod-data-recovery-for-mac-300917121.md](https://github.com/downloadplanet/downloadplanet/blob/main/istonsoft-ipod-data-recovery-for-mac-300917121.md)<br />[spotmau-bootsuite-2011-best-pc-utility-suite-300948001.md](https://github.com/downloadplanet/downloadplanet/blob/main/spotmau-bootsuite-2011-best-pc-utility-suite-300948001.md)<br />[aimersoft-dvd-ripper-for-mac-300952402.md](https://github.com/downloadplanet/downloadplanet/blob/main/aimersoft-dvd-ripper-for-mac-300952402.md)<br />[corner-font-frames-borders-for-coreldraw-pages-word-v199-300524644.md](https://github.com/downloadplanet/downloadplanet/blob/main/corner-font-frames-borders-for-coreldraw-pages-word-v199-300524644.md)<br />[super-win-menu-corporate-11-pcs-300504451.md](https://github.com/downloadplanet/downloadplanet/blob/main/super-win-menu-corporate-11-pcs-300504451.md)<br />[x-letter-fontsalphabet-text-type-for-coreldraw-psp-word-v56-300326655.md](https://github.com/downloadplanet/downloadplanet/blob/main/x-letter-fontsalphabet-text-type-for-coreldraw-psp-word-v56-300326655.md)<br />[vovsoft-directory-monitor-301015331.md](https://github.com/downloadplanet/downloadplanet/blob/main/vovsoft-directory-monitor-301015331.md)<br />[ats-eml-to-html-converter-software-site-license-300778868.md](https://github.com/downloadplanet/downloadplanet/blob/main/ats-eml-to-html-converter-software-site-license-300778868.md)<br />[ipubsoft-ipad-to-mac-transfer-300922003.md](https://github.com/downloadplanet/downloadplanet/blob/main/ipubsoft-ipad-to-mac-transfer-300922003.md)<br />[mobikin-eraser-for-ios-1-year-25-pcs-license-300871031.md](https://github.com/downloadplanet/downloadplanet/blob/main/mobikin-eraser-for-ios-1-year-25-pcs-license-300871031.md)<br />[msd-caja-fuerte-portable-300382027.md](https://github.com/downloadplanet/downloadplanet/blob/main/msd-caja-fuerte-portable-300382027.md)<br />[istonsoft-text-to-epub-converter-300917062.md](https://github.com/downloadplanet/downloadplanet/blob/main/istonsoft-text-to-epub-converter-300917062.md)<br />[bixpack-4-lights-camera-action-300522436.md](https://github.com/downloadplanet/downloadplanet/blob/main/bixpack-4-lights-camera-action-300522436.md)<br />[posterdesigner-300060399.md](https://github.com/downloadplanet/downloadplanet/blob/main/posterdesigner-300060399.md)

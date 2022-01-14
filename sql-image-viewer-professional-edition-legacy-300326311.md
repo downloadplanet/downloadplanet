@@ -1,30 +1,29 @@
 # SQL Image Viewer - Professional Edition (legacy)
-SQL Image Viewer enables you to retrieve and view images directly from Firebird, MySQL, Oracle, SQLite and SQL Server databases. It also enables you to export your images to disk, in their original format or converted to one of the supported formats (BMP, GIF, JPEG, PNG, PSD, TIFF). In addition, it also enables you to export binary data stored in your databases.
-You can export thousands of images using SQL Image Viewer, as it uses memory frugally. A built-in memory monitor also ensures that you do not overload your system with too many images.
-Supports most popular database engines:
-Use a single interface to connect to multiple database engines, saving cost and time.
-Supports Firebird 1.5 and 2.0.
-Supports MySQL 4 ad 5.
-Supports Oracle 10g.
-Supports SQLite 3.
-Supports SQL Server 2000, 2005, and 2008.
-Supports DB2 9.5 and PostgreSQL 8 via ODBC drivers.
-Retrieve images using SQL syntax:
-Retrive images using the respective database engine's SQL syntax.
-Apply functions, join, and search arguments to selectively retrieve the images you want.
-Built-in memory monitor automatically cancels queries when the system performance is affected due to retrieving too many images.
-View image thumbnails in one of three layouts:
-View image thumbnails in one of three layouts: filmstrip, thumbnail and tiled.
-Supports the display of images stored in the following formats: BMP, GIF, JPEG, PNG, PSD and TIFF.
+SQL Image Viewer enables you to retrieve and view images directly from Firebird MySQL Oracle SQLite and SQL Server databases It also enables you to export your images to disk in their original format or converted to one of the supported formats BMP GIF JPEG PNG PSD TIFF In addition it also enables you to export binary data stored in your databases
+You can export thousands of images using SQL Image Viewer as it uses memory frugally A builtin memory monitor also ensures that you do not overload your system with too many images
+Supports most popular database engines
+Use a single interface to connect to multiple database engines saving cost and time
+Supports Firebird and 
+Supports MySQL ad 
+Supports Oracle g
+Supports SQLite 
+Supports SQL Server and 
+Supports DB and PostgreSQL via ODBC drivers
+Retrieve images using SQL syntax
+Retrive images using the respective database engines SQL syntax
+Apply functions join and search arguments to selectively retrieve the images you want
+Builtin memory monitor automatically cancels queries when the system performance is affected due to retrieving too many images
+View image thumbnails in one of three layouts
+View image thumbnails in one of three layouts filmstrip thumbnail and tiled
+Supports the display of images stored in the following formats BMP GIF JPEG PNG PSD and TIFF
 Export images to disk
-Images can be exported to disk, in their original format or converted to one of the other supported formats i.e. BMP, GIF, JPEG, PNG, PSD and TIFF.
-Enables the export of large amounts of images as images are fetched on demand from the database.
-Progress monitor allows you to keep track of how many images have been exported, the duration taken and the size of each image.
+Images can be exported to disk in their original format or converted to one of the other supported formats ie BMP GIF JPEG PNG PSD and TIFF
+Enables the export of large amounts of images as images are fetched on demand from the database
+Progress monitor allows you to keep track of how many images have been exported the duration taken and the size of each image
 View image properties
-View EXIF properties where available.
-Integrated image viewer allows you to zoom and pan images easily.
-Save individual images to disk, in its original format or in one of the other supported formats.
-View individual frames of an animated GIF, or invididual pages of a multi-page TIFF document.
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300326311&affiliateid=200057808)<br/><br/># Related:
-
-<br />[wondershare-pdfelement-for-windows-300947703.md](https://github.com/downloadplanet/downloadplanet/blob/main/wondershare-pdfelement-for-windows-300947703.md)<br />[wslloungebundle-vol-12-300488649.md](https://github.com/downloadplanet/downloadplanet/blob/main/wslloungebundle-vol-12-300488649.md)<br />[kernel-for-notes-contacts-to-outlook-corporate-license-300262909.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-notes-contacts-to-outlook-corporate-license-300262909.md)<br />[driver-talent-pro-1-pc-lifetime-301017031.md](https://github.com/downloadplanet/downloadplanet/blob/main/driver-talent-pro-1-pc-lifetime-301017031.md)<br />[donemax-data-recovery-for-windows-1-month-301012650.md](https://github.com/downloadplanet/downloadplanet/blob/main/donemax-data-recovery-for-windows-1-month-301012650.md)<br />[netstat-agent-217421.md](https://github.com/downloadplanet/downloadplanet/blob/main/netstat-agent-217421.md)<br />[kernel-for-digital-media-corporate-license-300734361.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-digital-media-corporate-license-300734361.md)<br />[skinfiner-pt-watermark-commercial-300863832.md](https://github.com/downloadplanet/downloadplanet/blob/main/skinfiner-pt-watermark-commercial-300863832.md)<br />[elements-for-pse-4-windows-300283152.md](https://github.com/downloadplanet/downloadplanet/blob/main/elements-for-pse-4-windows-300283152.md)<br />[upgrade-videocad-8-professional-purchased-after-30-september-2018-to-videocad-9-professional-with-dongle-protection-300641930.md](https://github.com/downloadplanet/downloadplanet/blob/main/upgrade-videocad-8-professional-purchased-after-30-september-2018-to-videocad-9-professional-with-dongle-protection-300641930.md)<br />[mitcalc-tolerance-analysis-223457.md](https://github.com/downloadplanet/downloadplanet/blob/main/mitcalc-tolerance-analysis-223457.md)<br />[anyutube-win-monthly-jp-300788867.md](https://github.com/downloadplanet/downloadplanet/blob/main/anyutube-win-monthly-jp-300788867.md)<br />[emco-network-inventory-enterprise-site-license-unlimited-nodes-300263064.md](https://github.com/downloadplanet/downloadplanet/blob/main/emco-network-inventory-enterprise-site-license-unlimited-nodes-300263064.md)<br />[pdf-info-com-component-300452704.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-info-com-component-300452704.md)<br />[coolmuster-pdf-converter-pro-for-mac-300882034.md](https://github.com/downloadplanet/downloadplanet/blob/main/coolmuster-pdf-converter-pro-for-mac-300882034.md)<br />[omni-recover-for-mac-business-license-1-year-300799076.md](https://github.com/downloadplanet/downloadplanet/blob/main/omni-recover-for-mac-business-license-1-year-300799076.md)<br />[anycount-70-professional-corporate-license-8-pcs-upgrade-to-enterprise-300325417.md](https://github.com/downloadplanet/downloadplanet/blob/main/anycount-70-professional-corporate-license-8-pcs-upgrade-to-enterprise-300325417.md)<br />[mbox-splitter-business-license-300851784.md](https://github.com/downloadplanet/downloadplanet/blob/main/mbox-splitter-business-license-300851784.md)<br />[kernel-amazon-workmail-to-office-365-technician-license-300847124.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-amazon-workmail-to-office-365-technician-license-300847124.md)<br />[pst-splitter-standard-license-300790175.md](https://github.com/downloadplanet/downloadplanet/blob/main/pst-splitter-standard-license-300790175.md)
+View EXIF properties where available
+Integrated image viewer allows you to zoom and pan images easily
+Save individual images to disk in its original format or in one of the other supported formats
+View individual frames of an animated GIF or invididual pages of a multipage TIFF document
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300326311&affiliateid=200057808)<br/><br/>Related:
+<br />[sf-groove-machine-desktop-license-15-users-300271447.md](https://github.com/downloadplanet/downloadplanet/blob/main/sf-groove-machine-desktop-license-15-users-300271447.md)<br />[solveigmm-video-splitter-6-portable-home-edition-upgrade-300501131.md](https://github.com/downloadplanet/downloadplanet/blob/main/solveigmm-video-splitter-6-portable-home-edition-upgrade-300501131.md)<br />[workflow-studio-site-license-300185909.md](https://github.com/downloadplanet/downloadplanet/blob/main/workflow-studio-site-license-300185909.md)<br />[amazing-ipod-to-computer-transfer-300859116.md](https://github.com/downloadplanet/downloadplanet/blob/main/amazing-ipod-to-computer-transfer-300859116.md)<br />[stroke-network-library-300650436.md](https://github.com/downloadplanet/downloadplanet/blob/main/stroke-network-library-300650436.md)<br />[employee-desktop-live-viewer-100-license-packbrl-300384696.md](https://github.com/downloadplanet/downloadplanet/blob/main/employee-desktop-live-viewer-100-license-packbrl-300384696.md)<br />[sf-florencesans-desktop-license-15-users-300265626.md](https://github.com/downloadplanet/downloadplanet/blob/main/sf-florencesans-desktop-license-15-users-300265626.md)<br />[pdf-secure-com-component-300452084.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-secure-com-component-300452084.md)<br />[blufftitler-15-pro-300615866.md](https://github.com/downloadplanet/downloadplanet/blob/main/blufftitler-15-pro-300615866.md)<br />[audiolab-net-edition-single-license-source-code-300108848.md](https://github.com/downloadplanet/downloadplanet/blob/main/audiolab-net-edition-single-license-source-code-300108848.md)<br />[loc00176-plate-6861-jpg-4096px-300731464.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00176-plate-6861-jpg-4096px-300731464.md)<br />[anylexic-20-corporate-license-global-300177567.md](https://github.com/downloadplanet/downloadplanet/blob/main/anylexic-20-corporate-license-global-300177567.md)<br />[lame-encoder-library-commercial-license-300846665.md](https://github.com/downloadplanet/downloadplanet/blob/main/lame-encoder-library-commercial-license-300846665.md)<br />[tex-014-3x-leaves-on-sand-1-300523820.md](https://github.com/downloadplanet/downloadplanet/blob/main/tex-014-3x-leaves-on-sand-1-300523820.md)<br />[webpassword-std-137933.md](https://github.com/downloadplanet/downloadplanet/blob/main/webpassword-std-137933.md)<br />[dog-symbols-for-illustrator-ai-v71-300469188.md](https://github.com/downloadplanet/downloadplanet/blob/main/dog-symbols-for-illustrator-ai-v71-300469188.md)<br />[tlp-006-300592599.md](https://github.com/downloadplanet/downloadplanet/blob/main/tlp-006-300592599.md)<br />[loc00014-plate-1321-layout-private-300732802.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00014-plate-1321-layout-private-300732802.md)<br />[clover-symbols-for-illustrator-ai-v53-300469167.md](https://github.com/downloadplanet/downloadplanet/blob/main/clover-symbols-for-illustrator-ai-v53-300469167.md)<br />[integrated-notification-system-single-line-218875.md](https://github.com/downloadplanet/downloadplanet/blob/main/integrated-notification-system-single-line-218875.md)

@@ -1,33 +1,32 @@
 # Webinar Grundlagen der Kalkulation von Speisen am 18.01.2016 von 10:15 Uhr bis 11:15 Uhr
-Folgende Unterlagen erhalten Sie:
-=>Excelprogramm Kalkulation Speisen VOLLVERSION
+Folgende Unterlagen erhalten Sie
+Excelprogramm Kalkulation Speisen VOLLVERSION
 mit Verknüpfung zur Artikelliste und Drop Down Liste
-=>Konzept Grundlagen der Kalkulation Speisen
-=>Beschreibung Excelschema Kalkulation
-=>Link für Videoanleitung Excelschema
+Konzept Grundlagen der Kalkulation Speisen
+Beschreibung Excelschema Kalkulation
+Link für Videoanleitung Excelschema
 
-Webinarinhalte:
+Webinarinhalte
 
-Berechnung des Gemeinkostenzuschlags;
-Ermittlung des Kalkulationsfaktor;
-Erarbeitung des Deckungsbeitrages;
-Rezeptur und Kalkulation von Speisen in einer Excelvorlage;
+Berechnung des Gemeinkostenzuschlags
+Ermittlung des Kalkulationsfaktor
+Erarbeitung des Deckungsbeitrages
+Rezeptur und Kalkulation von Speisen in einer Excelvorlage
 Verknüpfung zur Artikelanlage
 
-Termin des Webinars:
-12.01.2015 von 10:15 bis 11:15 Uhr (inkl. ca. 15 Minuten für offene Fragen)
+Termin des Webinars
+ von bis Uhr inkl ca Minuten für offene Fragen
 
-Zeitplan:
-9:45 Uhr Versenden der Teilnehmerlinks
-10:00-10.15 Uhr Technikcheck
-10:15-11:00 Uhr Webinar
-11:00-11:15 Uhr Beantwortung von offenen Fragen
+Zeitplan
+ Uhr Versenden der Teilnehmerlinks
+ Uhr Technikcheck
+ Uhr Webinar
+ Uhr Beantwortung von offenen Fragen
 
-Voraussetzung zur Teilnahme:
+Voraussetzung zur Teilnahme
 Internetverbindung über Kabel
 Lautsprecher
 
 Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692920&affiliateid=200057808)<br/><br/># Related:
-
-<br />[printer-for-remote-desktop-monthly-300877671.md](https://github.com/downloadplanet/downloadplanet/blob/main/printer-for-remote-desktop-monthly-300877671.md)<br />[ajax-uploader-developer-team-license-300236941.md](https://github.com/downloadplanet/downloadplanet/blob/main/ajax-uploader-developer-team-license-300236941.md)<br />[mailsware-mail-converter-migration-edition-300984116.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailsware-mail-converter-migration-edition-300984116.md)<br />[wondershare-pdf-editor-for-mac-300948802.md](https://github.com/downloadplanet/downloadplanet/blob/main/wondershare-pdf-editor-for-mac-300948802.md)<br />[sysinfo-msg-converter-for-maccorporate-license-300949562.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfo-msg-converter-for-maccorporate-license-300949562.md)<br />[sysinfo-olm-converter-for-mactechnician-license-300969943.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfo-olm-converter-for-mactechnician-license-300969943.md)<br />[opc-logger-activex-300272427.md](https://github.com/downloadplanet/downloadplanet/blob/main/opc-logger-activex-300272427.md)<br />[jagware-nsf-to-pst-wizard-home-user-license-300958211.md](https://github.com/downloadplanet/downloadplanet/blob/main/jagware-nsf-to-pst-wizard-home-user-license-300958211.md)<br />[fotoalbum-300060456.md](https://github.com/downloadplanet/downloadplanet/blob/main/fotoalbum-300060456.md)<br />[loc00176-plate-6861-jpg-4096px-300731464.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00176-plate-6861-jpg-4096px-300731464.md)<br />[cubexsoft-nsf-split-personal-license-300798462.md](https://github.com/downloadplanet/downloadplanet/blob/main/cubexsoft-nsf-split-personal-license-300798462.md)<br />[loc00204-plate-101001-tif-full-300726765.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00204-plate-101001-tif-full-300726765.md)<br />[advanced-opc-data-logger-lite-300237326.md](https://github.com/downloadplanet/downloadplanet/blob/main/advanced-opc-data-logger-lite-300237326.md)<br />[replacemagiclnk-300423980.md](https://github.com/downloadplanet/downloadplanet/blob/main/replacemagiclnk-300423980.md)<br />[hdr-092-road-winter-plates-300653339.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-092-road-winter-plates-300653339.md)<br />[bundle-001-verkaufstrichter-300920464.md](https://github.com/downloadplanet/downloadplanet/blob/main/bundle-001-verkaufstrichter-300920464.md)<br />[0077-ratsimatrix03-300951617.md](https://github.com/downloadplanet/downloadplanet/blob/main/0077-ratsimatrix03-300951617.md)<br />[eight-points-custom-shapes-for-photoshop-elements-csh-v2-213726.md](https://github.com/downloadplanet/downloadplanet/blob/main/eight-points-custom-shapes-for-photoshop-elements-csh-v2-213726.md)<br />[ultrasnap-pro-5-site-license-300918723.md](https://github.com/downloadplanet/downloadplanet/blob/main/ultrasnap-pro-5-site-license-300918723.md)<br />[dot-brushes-for-photoshop-affinity-elements-psp-etc-v9-300143542.md](https://github.com/downloadplanet/downloadplanet/blob/main/dot-brushes-for-photoshop-affinity-elements-psp-etc-v9-300143542.md)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692920&affiliateid=200057808)<br/><br/>Related:
+<br />[0202-burnupchart-301011984.md](https://github.com/downloadplanet/downloadplanet/blob/main/0202-burnupchart-301011984.md)<br />[vibosoft-android-mobile-manager-for-mac-300859772.md](https://github.com/downloadplanet/downloadplanet/blob/main/vibosoft-android-mobile-manager-for-mac-300859772.md)<br />[rohos-logon-key-300294807.md](https://github.com/downloadplanet/downloadplanet/blob/main/rohos-logon-key-300294807.md)<br />[pc-onoff-time-net-187003.md](https://github.com/downloadplanet/downloadplanet/blob/main/pc-onoff-time-net-187003.md)<br />[videomach-standard-unlimited-license-212929.md](https://github.com/downloadplanet/downloadplanet/blob/main/videomach-standard-unlimited-license-212929.md)<br />[kindertraining-komplettcoaching-f-bis-d-jugend-300538430.md](https://github.com/downloadplanet/downloadplanet/blob/main/kindertraining-komplettcoaching-f-bis-d-jugend-300538430.md)<br />[andrews-plugins-distortion-tricks-for-photoshop-psp-painter-etc-v2-147342.md](https://github.com/downloadplanet/downloadplanet/blob/main/andrews-plugins-distortion-tricks-for-photoshop-psp-painter-etc-v2-147342.md)<br />[myoffice-mail-migrator-wizard-pro-license-300908517.md](https://github.com/downloadplanet/downloadplanet/blob/main/myoffice-mail-migrator-wizard-pro-license-300908517.md)<br />[aimersoft-dvd-ripper-for-windows-300952393.md](https://github.com/downloadplanet/downloadplanet/blob/main/aimersoft-dvd-ripper-for-windows-300952393.md)<br />[adorage-effectpackage-vol-1-promotion-20-discount-300056646.md](https://github.com/downloadplanet/downloadplanet/blob/main/adorage-effectpackage-vol-1-promotion-20-discount-300056646.md)<br />[outlook-attachment-extractor-3-20user-license-300783827.md](https://github.com/downloadplanet/downloadplanet/blob/main/outlook-attachment-extractor-3-20user-license-300783827.md)<br />[heart-preset-shapes-for-paint-shop-pro-pspshape-v5-300186563.md](https://github.com/downloadplanet/downloadplanet/blob/main/heart-preset-shapes-for-paint-shop-pro-pspshape-v5-300186563.md)<br />[dll-care-3-pc-300745769.md](https://github.com/downloadplanet/downloadplanet/blob/main/dll-care-3-pc-300745769.md)<br />[typing-chimp-suite-1-300915613.md](https://github.com/downloadplanet/downloadplanet/blob/main/typing-chimp-suite-1-300915613.md)<br />[afterlogic-webmail-pro-php-single-server-1000-users-300193238.md](https://github.com/downloadplanet/downloadplanet/blob/main/afterlogic-webmail-pro-php-single-server-1000-users-300193238.md)<br />[strokes-maker-personal-license-300168103.md](https://github.com/downloadplanet/downloadplanet/blob/main/strokes-maker-personal-license-300168103.md)<br />[tex-pack-006-roads-2048-300533160.md](https://github.com/downloadplanet/downloadplanet/blob/main/tex-pack-006-roads-2048-300533160.md)<br />[shield-font-heraldic-truetype-ttf-eps-shapes-v120-300469395.md](https://github.com/downloadplanet/downloadplanet/blob/main/shield-font-heraldic-truetype-ttf-eps-shapes-v120-300469395.md)<br />[stellar-data-recovery-for-windows-v60techniciannl-300586922.md](https://github.com/downloadplanet/downloadplanet/blob/main/stellar-data-recovery-for-windows-v60techniciannl-300586922.md)<br />[nextsuite6-quartal-subscription-300848011.md](https://github.com/downloadplanet/downloadplanet/blob/main/nextsuite6-quartal-subscription-300848011.md)

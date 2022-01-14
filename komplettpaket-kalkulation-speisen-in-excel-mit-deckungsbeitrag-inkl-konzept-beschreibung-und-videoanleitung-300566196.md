@@ -1,35 +1,34 @@
 # Komplettpaket Kalkulation Speisen in Excel mit Deckungsbeitrag, inkl. Konzept, Beschreibung und Videoanleitung
-Folgende Inhalte, Tabellenblätter und Vorlagen sind in der Exceldatei enthalten:
+Folgende Inhalte Tabellenblätter und Vorlagen sind in der Exceldatei enthalten
 
-=> Stammdaten für MwSt. und Einstellungen
-=>Artikelliste Beispiel
-=>Artikelliste (hier bitte Ihre Artikel mit Preisen eingeben oder aus der
-=>Inventurliste kopieren)
-=>Berücksichtigung des Putzverlustes bei der Einkaufspreisberechnung
-=>Vorlage zur Berechnung des Gemeinkostenzuschlagsatzes
-=>Grundkalkulation Vorwärts
-=>Grundkalkulation Rückwärts
-=>Berechnung Soll Durchschnittsdeckungsbeitrag für Speisen
-=>Beispiel Deckungsbeitrags Kalkulation mit Variante für Preisfindung
-=>Beispiel Vorkalkulation mit Deckunsbeitrag und WE % Vorgabe (hier wird der kalkulierte VKP ermittelt)
-=>Beispiel Nachkalkulation (Hier werden verkaufte Speisen nachkalkuliert)
-=>Vor- Nachkalkulation für eine Büffetkalkulation
-=>Vorkalkulationen leer DB und WE% Vorgabe (kann beliebig vervielfältigt werden)
-=>Nachkalkulation leer (kann beliebig vervielfältigt werden)
+ Stammdaten für MwSt und Einstellungen
+Artikelliste Beispiel
+Artikelliste hier bitte Ihre Artikel mit Preisen eingeben oder aus der
+Inventurliste kopieren
+Berücksichtigung des Putzverlustes bei der Einkaufspreisberechnung
+Vorlage zur Berechnung des Gemeinkostenzuschlagsatzes
+Grundkalkulation Vorwärts
+Grundkalkulation Rückwärts
+Berechnung Soll Durchschnittsdeckungsbeitrag für Speisen
+Beispiel Deckungsbeitrags Kalkulation mit Variante für Preisfindung
+Beispiel Vorkalkulation mit Deckunsbeitrag und WE Vorgabe hier wird der kalkulierte VKP ermittelt
+Beispiel Nachkalkulation Hier werden verkaufte Speisen nachkalkuliert
+Vor Nachkalkulation für eine Büffetkalkulation
+Vorkalkulationen leer DB und WE Vorgabe kann beliebig vervielfältigt werden
+Nachkalkulation leer kann beliebig vervielfältigt werden
 
-Folgende Unterlagen erhalten Sie:
+Folgende Unterlagen erhalten Sie
 
-=>Excelprogramm Kalkulation Speisen VOLLVERSION inkl. Deckungsbeitragsschema und Wareneinsatz % Vorgabe
-=>Excelprogramm für die Preispolitik und Ermittlung der Renner, Gewinner, Schläfer und Verlierer
-=>Konzept Grundlagen der Kalkulation Speisen
-=>Konzept Kalkulation Speisen mit Deckungsbeitrag
-=>Konzept Gewinner, Renner, Verlierer und Schläfer
-=>Beschreibung Excelschema Kalkulation
-=>Link für Videoanleitung Excelschema
-=>Link für Videoanleitung Excelschema mit Deckungsbeitrag
-=>Link für Videoanleitung Excelschema mit WE% Vorgabe
+Excelprogramm Kalkulation Speisen VOLLVERSION inkl Deckungsbeitragsschema und Wareneinsatz Vorgabe
+Excelprogramm für die Preispolitik und Ermittlung der Renner Gewinner Schläfer und Verlierer
+Konzept Grundlagen der Kalkulation Speisen
+Konzept Kalkulation Speisen mit Deckungsbeitrag
+Konzept Gewinner Renner Verlierer und Schläfer
+Beschreibung Excelschema Kalkulation
+Link für Videoanleitung Excelschema
+Link für Videoanleitung Excelschema mit Deckungsbeitrag
+Link für Videoanleitung Excelschema mit WE Vorgabe
 
-Unter folgendem Link erhalten Sie die Kurzanleitung für das Kalkulationsprogramm und die Videoanleitung für das Programm. http://www.f-bsupport.de/index.php?seite=bedienungsanleitung-excelprogramm
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300566196&affiliateid=200057808)<br/><br/># Related:
-
-<br />[serial-port-redirector-8-ports-300037381.md](https://github.com/downloadplanet/downloadplanet/blob/main/serial-port-redirector-8-ports-300037381.md)<br />[practicount-and-invoice-business-edition-site-license-300426325.md](https://github.com/downloadplanet/downloadplanet/blob/main/practicount-and-invoice-business-edition-site-license-300426325.md)<br />[quickmigrations-for-thunderbird-to-outlook-business-license-300909406.md](https://github.com/downloadplanet/downloadplanet/blob/main/quickmigrations-for-thunderbird-to-outlook-business-license-300909406.md)<br />[mailbeenet-objects-unlimited-developer-site-300333778.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailbeenet-objects-unlimited-developer-site-300333778.md)<br />[isapirewrite-for-isa-300019980.md](https://github.com/downloadplanet/downloadplanet/blob/main/isapirewrite-for-isa-300019980.md)<br />[quickdata-eml-to-pdf-converter-standard-license-300947343.md](https://github.com/downloadplanet/downloadplanet/blob/main/quickdata-eml-to-pdf-converter-standard-license-300947343.md)<br />[gtd-assistant-300783217.md](https://github.com/downloadplanet/downloadplanet/blob/main/gtd-assistant-300783217.md)<br />[adorage-effectpackage-vol-5-backupcd-532157.md](https://github.com/downloadplanet/downloadplanet/blob/main/adorage-effectpackage-vol-5-backupcd-532157.md)<br />[serial-port-redirector-2-ports-300037378.md](https://github.com/downloadplanet/downloadplanet/blob/main/serial-port-redirector-2-ports-300037378.md)<br />[hdr-171-city-road-night-8k-300668432.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-171-city-road-night-8k-300668432.md)<br />[rcysoft-gopro-video-recovery-pro-single-personal-license-jp-300915116.md](https://github.com/downloadplanet/downloadplanet/blob/main/rcysoft-gopro-video-recovery-pro-single-personal-license-jp-300915116.md)<br />[license4j-license-manager-maintenance-300790539.md](https://github.com/downloadplanet/downloadplanet/blob/main/license4j-license-manager-maintenance-300790539.md)<br />[trainingspaket-das-einmaleins-der-kennzahlen-im-fbbereich-vom-2009-21092016-in-frankfurt-300671877.md](https://github.com/downloadplanet/downloadplanet/blob/main/trainingspaket-das-einmaleins-der-kennzahlen-im-fbbereich-vom-2009-21092016-in-frankfurt-300671877.md)<br />[daminion-basic-300596370.md](https://github.com/downloadplanet/downloadplanet/blob/main/daminion-basic-300596370.md)<br />[pdffotoalbum-300060419.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdffotoalbum-300060419.md)<br />[vibosoft-card-data-recovery-300859741.md](https://github.com/downloadplanet/downloadplanet/blob/main/vibosoft-card-data-recovery-300859741.md)<br />[geprüfter-meister-für-kreislauf-abfall-betriebswirtschaftliches-handeln-300579757.md](https://github.com/downloadplanet/downloadplanet/blob/main/geprüfter-meister-für-kreislauf-abfall-betriebswirtschaftliches-handeln-300579757.md)<br />[email-recovery-toolkitost-recovery-pst-recoverytechnician-license-300725590.md](https://github.com/downloadplanet/downloadplanet/blob/main/email-recovery-toolkitost-recovery-pst-recoverytechnician-license-300725590.md)<br />[anycount-corporate-license-7-pcs-upgrade-to-version-6-300133254.md](https://github.com/downloadplanet/downloadplanet/blob/main/anycount-corporate-license-7-pcs-upgrade-to-version-6-300133254.md)<br />[tribal-tattoo-brushes-for-photoshop-affinity-elements-psp-etc-v203-300598825.md](https://github.com/downloadplanet/downloadplanet/blob/main/tribal-tattoo-brushes-for-photoshop-affinity-elements-psp-etc-v203-300598825.md)
+Unter folgendem Link erhalten Sie die Kurzanleitung für das Kalkulationsprogramm und die Videoanleitung für das Programm httpwwwfbsupportdeindexphpseitebedienungsanleitungexcelprogramm
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300566196&affiliateid=200057808)<br/><br/>Related:
+<br />[nbutton-pro-300915619.md](https://github.com/downloadplanet/downloadplanet/blob/main/nbutton-pro-300915619.md)<br />[loc00179-plate-4007-layout-private-300731868.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00179-plate-4007-layout-private-300731868.md)<br />[bankfachwirtin-betriebswirtschaft-i2-videocoaching-99-videos-komplette-begleitskripte-u-repetitorium-von-schnelllernexperte-dr-marius-eber-300655154.md](https://github.com/downloadplanet/downloadplanet/blob/main/bankfachwirtin-betriebswirtschaft-i2-videocoaching-99-videos-komplette-begleitskripte-u-repetitorium-von-schnelllernexperte-dr-marius-eber-300655154.md)<br />[ipubsoft-iphone-data-recovery-for-mac-300922028.md](https://github.com/downloadplanet/downloadplanet/blob/main/ipubsoft-iphone-data-recovery-for-mac-300922028.md)<br />[loc00169-plate-1220-jpg-4096px-300731281.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00169-plate-1220-jpg-4096px-300731281.md)<br />[fwvmfachtpaket-3-rechtsteuern-videocoaching-24-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-von-schnelllernexperte-dr-marius-ebert-300601163.md](https://github.com/downloadplanet/downloadplanet/blob/main/fwvmfachtpaket-3-rechtsteuern-videocoaching-24-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-von-schnelllernexperte-dr-marius-ebert-300601163.md)<br />[email-backup-wizard-lite-edition-300810589.md](https://github.com/downloadplanet/downloadplanet/blob/main/email-backup-wizard-lite-edition-300810589.md)<br />[wondershare-pdf-editor-for-mac-300948802.md](https://github.com/downloadplanet/downloadplanet/blob/main/wondershare-pdf-editor-for-mac-300948802.md)<br />[loc00210-plate-6270-tif-full-300727253.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00210-plate-6270-tif-full-300727253.md)<br />[lazesoft-recovery-suite-server-300942679.md](https://github.com/downloadplanet/downloadplanet/blob/main/lazesoft-recovery-suite-server-300942679.md)<br />[loc00209-plate-6912-layout-private-300727339.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00209-plate-6912-layout-private-300727339.md)<br />[timepanic-162550.md](https://github.com/downloadplanet/downloadplanet/blob/main/timepanic-162550.md)<br />[outlook-password-recovery-technical-license-300754378.md](https://github.com/downloadplanet/downloadplanet/blob/main/outlook-password-recovery-technical-license-300754378.md)<br />[vmail-special-bundle-offer-3-personal-license-300874568.md](https://github.com/downloadplanet/downloadplanet/blob/main/vmail-special-bundle-offer-3-personal-license-300874568.md)<br />[bitrecover-mac-mail-converter-wizard-home-user-license-300953490.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-mac-mail-converter-wizard-home-user-license-300953490.md)<br />[esofttools-ost-to-office365-enterprise-license-300977413.md](https://github.com/downloadplanet/downloadplanet/blob/main/esofttools-ost-to-office365-enterprise-license-300977413.md)<br />[fbbfachtpaket-3-rechtsteuern-videocoaching-24-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-von-schnelllernexperte-dr-marius-ebert-300734211.md](https://github.com/downloadplanet/downloadplanet/blob/main/fbbfachtpaket-3-rechtsteuern-videocoaching-24-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-von-schnelllernexperte-dr-marius-ebert-300734211.md)<br />[remote-queue-manager-10-printers-license-300547005.md](https://github.com/downloadplanet/downloadplanet/blob/main/remote-queue-manager-10-printers-license-300547005.md)<br />[kernel-for-outlook-express-to-notes-home-user-licenseinr-300384814.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-outlook-express-to-notes-home-user-licenseinr-300384814.md)<br />[anyutube-android-lifetime-300868804.md](https://github.com/downloadplanet/downloadplanet/blob/main/anyutube-android-lifetime-300868804.md)

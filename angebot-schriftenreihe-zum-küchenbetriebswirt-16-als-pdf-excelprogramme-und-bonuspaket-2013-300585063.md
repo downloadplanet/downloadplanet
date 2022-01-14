@@ -1,57 +1,56 @@
 # Angebot Schriftenreihe zum Küchenbetriebswirt 1-6 als PDF, Excelprogramme und Bonuspaket 2013
 Schriftenreihe zum Küchenbetriebswirt
-- die 6teilige Schriftenreihe mit ca. 550 Seiten, zahlreichen Excelvorlagen und Bonuspaket
+ die teilige Schriftenreihe mit ca Seiten zahlreichen Excelvorlagen und Bonuspaket
 
-Hier können Sie sich das Inhaltsverzeichnis der Schriftenreihe zum Küchenbetriebswirt anschauen!
+Hier können Sie sich das Inhaltsverzeichnis der Schriftenreihe zum Küchenbetriebswirt anschauen
 
-Schriftenreihe 1 - Das "Küchen ABC":
+Schriftenreihe Das Küchen ABC
 
 Die wichtigsten Kennzahlen
-ABC - Analyse der Küche
+ABC Analyse der Küche
 Gewinneinflussfaktoren
-Betriebswirtschaftliche Auswertung BWA SKR 70
-mit 9 Excelvorlagen
-Schriftenreihe 2 - Mitarbeitereinsatzplanung:
+Betriebswirtschaftliche Auswertung BWA SKR 
+mit Excelvorlagen
+Schriftenreihe Mitarbeitereinsatzplanung
 
 Dienstplan effektiv in Excel gestalten
 Berechnung der Produktivität Umsatz pro Mitarbeiterstunde
 Die wichtigsten Kennzahlen für die Dienstplangestaltung
 Berechnung der erforderlichen Mitarbeiteranzahl
-mit 9 Excelvorlagen
-Schriftenreihe 3 - Kalkulation und Speisendiagnose:
+mit Excelvorlagen
+Schriftenreihe Kalkulation und Speisendiagnose
 
 Erstellen von Rezepturen und Kalkulationen
 Die Varianten der Verkaufspreisermittlung
-Ermitteln der Gewinner, Renner, Verlierer und Schläfer im Speisenangebot
-mit 13 Excelvorlagen
-Schriftenreihe 4 - Kalkulation unter Verwendung des Deckungsbeitrages:
+Ermitteln der Gewinner Renner Verlierer und Schläfer im Speisenangebot
+mit Excelvorlagen
+Schriftenreihe Kalkulation unter Verwendung des Deckungsbeitrages
 
 Erstellen von Kalkulationen für Bankette und Veranstaltungen
 Berechnung von all inklusive Veranstaltungen
 Wareneinsatzberechnungen
-mit 17 Excelvorlagen
-Schriftenreihe 5 - Das Erfolgskennzahlensystem:
+mit Excelvorlagen
+Schriftenreihe Das Erfolgskennzahlensystem
 
 Aufbau eines Erfolgskennzahlensystem
 Kennzahlenkreislauf und die Maßnahmen zur Verbesserung
 Notwendige Daten und Kennzahlen um den Gewinn zu erhöhen
-mit 7 Excelvorlagen
-Schriftenreihe 6 - Die praktische Umsetzung der Erfolgszahlen:
+mit Excelvorlagen
+Schriftenreihe Die praktische Umsetzung der Erfolgszahlen
 
 Schritt für Schritt zum eigenen Erfolgskennzahlensystem
 
-mit 12 Excelvorlagen
-Nach erfolgreicher Bearbeitung der sechsteiligen Schriftenreihe haben Sie die Möglichkeit,
-das Zertifikat "Küchenbetriebswirt (F&BS)" zu erlangen, wenn Sie die Prüfungsfragen zur Schriftenreihe erfolgreich beantwortet haben.
+mit Excelvorlagen
+Nach erfolgreicher Bearbeitung der sechsteiligen Schriftenreihe haben Sie die Möglichkeit
+das Zertifikat Küchenbetriebswirt FBS zu erlangen wenn Sie die Prüfungsfragen zur Schriftenreihe erfolgreich beantwortet haben
 
-Das Bonuspaket beinhaltet folgende Produkte:
+Das Bonuspaket beinhaltet folgende Produkte
 
 Komplettpaket Kalkulation Speisen in Excel
 Komplettpaket Kalkulation Speisen mit Deckungsbeitrag
 Komplettpaket Mitarbeitereinsatzplanung in Excel
 Komplettpaket Ermittlung der Arbeitsgruppenkosten
-Komplettpaket Preispolitik - Speisen mit der Speisendiagnose
+Komplettpaket Preispolitik Speisen mit der Speisendiagnose
 Komplettpaket Wareneinsatz Speisen kontrollieren und verbessern
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585063&affiliateid=200057808)<br/><br/># Related:
-
-<br />[wslfunky-styl-vol-1-t5-300873324.md](https://github.com/downloadplanet/downloadplanet/blob/main/wslfunky-styl-vol-1-t5-300873324.md)<br />[practicount-and-invoice-business-edition-site-license-15-reseller-discount-300444232.md](https://github.com/downloadplanet/downloadplanet/blob/main/practicount-and-invoice-business-edition-site-license-15-reseller-discount-300444232.md)<br />[wslelectro-swing-vol-4-t5-300580747.md](https://github.com/downloadplanet/downloadplanet/blob/main/wslelectro-swing-vol-4-t5-300580747.md)<br />[turgs-msg-contacts-wizard-pro-license-300953460.md](https://github.com/downloadplanet/downloadplanet/blob/main/turgs-msg-contacts-wizard-pro-license-300953460.md)<br />[olm-migrator-enterprise-license-300848945.md](https://github.com/downloadplanet/downloadplanet/blob/main/olm-migrator-enterprise-license-300848945.md)<br />[autoprint-professional-license-300418948.md](https://github.com/downloadplanet/downloadplanet/blob/main/autoprint-professional-license-300418948.md)<br />[driver-talent-technician-for-200-pcs-300768784.md](https://github.com/downloadplanet/downloadplanet/blob/main/driver-talent-technician-for-200-pcs-300768784.md)<br />[istonsoft-text-to-pdf-converter-300917083.md](https://github.com/downloadplanet/downloadplanet/blob/main/istonsoft-text-to-pdf-converter-300917083.md)<br />[letter-patterns-for-photoshop-elements-text-type-alphabet-v17-300469037.md](https://github.com/downloadplanet/downloadplanet/blob/main/letter-patterns-for-photoshop-elements-text-type-alphabet-v17-300469037.md)<br />[any-pdf-password-remover-commercial-license-300995990.md](https://github.com/downloadplanet/downloadplanet/blob/main/any-pdf-password-remover-commercial-license-300995990.md)<br />[spectrum-analyzer-pro-le-v32-137192.md](https://github.com/downloadplanet/downloadplanet/blob/main/spectrum-analyzer-pro-le-v32-137192.md)<br />[automatic-email-processor-2-standard-edition-5user-license-300973969.md](https://github.com/downloadplanet/downloadplanet/blob/main/automatic-email-processor-2-standard-edition-5user-license-300973969.md)<br />[led-lighting-technologies-proceedings-300896182.md](https://github.com/downloadplanet/downloadplanet/blob/main/led-lighting-technologies-proceedings-300896182.md)<br />[anycount-70-standard-corporate-license-6-pcs-300325355.md](https://github.com/downloadplanet/downloadplanet/blob/main/anycount-70-standard-corporate-license-6-pcs-300325355.md)<br />[pst-splitter-technical-license-300754226.md](https://github.com/downloadplanet/downloadplanet/blob/main/pst-splitter-technical-license-300754226.md)<br />[print-censor-professional-25-printers-license-300136020.md](https://github.com/downloadplanet/downloadplanet/blob/main/print-censor-professional-25-printers-license-300136020.md)<br />[kernel-recovery-for-excel-home-user-licensebrl-300384580.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-recovery-for-excel-home-user-licensebrl-300384580.md)<br />[mobikin-doctor-for-android-1-year-unlimited-devices-1-pc-300788993.md](https://github.com/downloadplanet/downloadplanet/blob/main/mobikin-doctor-for-android-1-year-unlimited-devices-1-pc-300788993.md)<br />[advik-google-takeout-to-txt-business-license-300804996.md](https://github.com/downloadplanet/downloadplanet/blob/main/advik-google-takeout-to-txt-business-license-300804996.md)<br />[pdf-writer-redistribution-license-limited-professional-300236102.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-writer-redistribution-license-limited-professional-300236102.md)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300585063&affiliateid=200057808)<br/><br/>Related:
+<br />[anycount-70-standard-corporate-license-global-upgrade-to-enterprise-300325409.md](https://github.com/downloadplanet/downloadplanet/blob/main/anycount-70-standard-corporate-license-global-upgrade-to-enterprise-300325409.md)<br />[loc00178-plate-3787-jpg-2048px-300731548.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00178-plate-3787-jpg-2048px-300731548.md)<br />[mailsouls-mbox-converter-technical-license-special-offer-300850830.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailsouls-mbox-converter-technical-license-special-offer-300850830.md)<br />[email-management-toolkitpst-to-nsf-converter-pst-recovery-outlook-duplicate-removertechnician-license-300726205.md](https://github.com/downloadplanet/downloadplanet/blob/main/email-management-toolkitpst-to-nsf-converter-pst-recovery-outlook-duplicate-removertechnician-license-300726205.md)<br />[moneypassword-133567.md](https://github.com/downloadplanet/downloadplanet/blob/main/moneypassword-133567.md)<br />[drs-maildir-converter-for-mactechnician-license-301004857.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-maildir-converter-for-mactechnician-license-301004857.md)<br />[stroke-weather-library-300650442.md](https://github.com/downloadplanet/downloadplanet/blob/main/stroke-weather-library-300650442.md)<br />[batch-document-converter-pro-site-license-worldwide-premium-protection-300739954.md](https://github.com/downloadplanet/downloadplanet/blob/main/batch-document-converter-pro-site-license-worldwide-premium-protection-300739954.md)<br />[edraw-organizational-chart-300120604.md](https://github.com/downloadplanet/downloadplanet/blob/main/edraw-organizational-chart-300120604.md)<br />[esofttools-nsftombox-bundlensftombox-eml-to-mboxmsg-pst-to-emlmsg-300877021.md](https://github.com/downloadplanet/downloadplanet/blob/main/esofttools-nsftombox-bundlensftombox-eml-to-mboxmsg-pst-to-emlmsg-300877021.md)<br />[loc00210-hdri-dome-8k-300726991.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00210-hdri-dome-8k-300726991.md)<br />[quattropro-password-300451751.md](https://github.com/downloadplanet/downloadplanet/blob/main/quattropro-password-300451751.md)<br />[ipubsoft-pdf-converter-300921986.md](https://github.com/downloadplanet/downloadplanet/blob/main/ipubsoft-pdf-converter-300921986.md)<br />[macuncle-vcard-converter-wizard-standard-license-301007571.md](https://github.com/downloadplanet/downloadplanet/blob/main/macuncle-vcard-converter-wizard-standard-license-301007571.md)<br />[colorwasher-for-windows-512206.md](https://github.com/downloadplanet/downloadplanet/blob/main/colorwasher-for-windows-512206.md)<br />[arclab-web-form-builder-developer-edition-300649598.md](https://github.com/downloadplanet/downloadplanet/blob/main/arclab-web-form-builder-developer-edition-300649598.md)<br />[drs-pst-to-office365-backup-for-windowsadministrator-license-301004977.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-pst-to-office365-backup-for-windowsadministrator-license-301004977.md)<br />[advik-olm-to-pst-personal-license-300805092.md](https://github.com/downloadplanet/downloadplanet/blob/main/advik-olm-to-pst-personal-license-300805092.md)<br />[loc00208-plate-6574-tif-full-300733673.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00208-plate-6574-tif-full-300733673.md)<br />[zylgpsreceiver-delphicbuilder-single-developer-license-199374.md](https://github.com/downloadplanet/downloadplanet/blob/main/zylgpsreceiver-delphicbuilder-single-developer-license-199374.md)

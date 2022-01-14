@@ -1,36 +1,35 @@
 # Webinar Mitarbeitereinsatzplanung in Excel am 08.05.2017 von 10:15 Uhr bis 11:15 Uhr
 Seminarbeschreibung
-Seit über 30 Jahren sind die Personalkosten höher wie der Wareneinsatz. Trotzdem gibt es mehr Warenwirtschaftssysteme als Dienstplanprogramme. Mit diesem Webinar erlernen die Teilnehmer, eine wirtschaftlichere Mitarbeitereinsatzplanung mit MS Excel durchzuführen. Nach der Veranstaltung sind sie in der Lage, selbstständig ihren Dienstplan in MS Excel zu erstellen.
+Seit über Jahren sind die Personalkosten höher wie der Wareneinsatz Trotzdem gibt es mehr Warenwirtschaftssysteme als Dienstplanprogramme Mit diesem Webinar erlernen die Teilnehmer eine wirtschaftlichere Mitarbeitereinsatzplanung mit MS Excel durchzuführen Nach der Veranstaltung sind sie in der Lage selbstständig ihren Dienstplan in MS Excel zu erstellen
 
 Inhalte
 Ablauf einer Dienstplangestaltung in MS Excel
 Stammdateneingabe
 Anlegen der Mitarbeiterdaten
 Ergebnisse und die wichtigsten Kennzahlen der Dienstplangestaltung
-Excelvorlage für die Mitarbeitereinsatzplanung im F&B-Bereich
+Excelvorlage für die Mitarbeitereinsatzplanung im FBBereich
 
-Zeitplan:
-9:45 Uhr Versenden der Teilnehmerlinks
-10:00-10.15 Uhr Technikcheck
-10:15-11:00 Uhr Webinar
-11:00-11:15 Uhr Beantwortung von offenen Fragen
+Zeitplan
+ Uhr Versenden der Teilnehmerlinks
+ Uhr Technikcheck
+ Uhr Webinar
+ Uhr Beantwortung von offenen Fragen
 
-Folgende Unterlagen, Inhalte, Beschreibungen und Vorlagen erhalten Sie bzw. sind im Excelprogramm Dienstplanung enthalten:
+Folgende Unterlagen Inhalte Beschreibungen und Vorlagen erhalten Sie bzw sind im Excelprogramm Dienstplanung enthalten
 
-=> Konzept wirtschaftliche Dienstplanung
-=> Beschreibung PDF für das Excelprogramm
-=> Videoanleitung für das Dienstplanprogramm
-=> Link von der Aufzeichung Webinar
-=> Präsentation des Webinars als PDF Datei
-=> Exceldatei für Abteilung Küche und für ein komplettes Restaurant
-=> Berücksichtigung der Personalkosten pro Stunde pro Mitarbeiter
-=> Auswertung des Dienstplanes mit den SOLL - IST Kennzahlen, PK in %,
-=> Umsatz pro Mitarbeiterstunde Küche, Service und Gesamt
-=> Berechnung der Kennzahlen für die Umsatz Prognose und der IST - Kennzahlen
-=> Auswertungen Täglich und für die komplette Kalenderwoche
-=> Auswertung in farblicher Kennzeichnung
-=> Automatisierte Programmabläufe (z.b löschen von Werten) durch Makrobefehle und Schaltflächen
-=> Tabelle kann durch Felder und Zusätzliche Informationen erweitert werden
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692927&affiliateid=200057808)<br/><br/># Related:
-
-<br />[kombifachpaket-meisterin-für-bahnverkehr-videocoaching-102-videos-und-komplette-begleitskripte-von-schnelllernexperte-dr-marius-eber-300633352.md](https://github.com/downloadplanet/downloadplanet/blob/main/kombifachpaket-meisterin-für-bahnverkehr-videocoaching-102-videos-und-komplette-begleitskripte-von-schnelllernexperte-dr-marius-eber-300633352.md)<br />[sql-select-300544960.md](https://github.com/downloadplanet/downloadplanet/blob/main/sql-select-300544960.md)<br />[disk-recovery-toolkitfat-recovery-removable-media-recoverytechnician-license-300741297.md](https://github.com/downloadplanet/downloadplanet/blob/main/disk-recovery-toolkitfat-recovery-removable-media-recoverytechnician-license-300741297.md)<br />[emco-msi-package-builder-architect-1-admin-300790439.md](https://github.com/downloadplanet/downloadplanet/blob/main/emco-msi-package-builder-architect-1-admin-300790439.md)<br />[netzmonitor-fürs-klassenzimmer-firmenschullizenz-196429.md](https://github.com/downloadplanet/downloadplanet/blob/main/netzmonitor-fürs-klassenzimmer-firmenschullizenz-196429.md)<br />[batch-print-pro-tiff-addon-site-license-300449371.md](https://github.com/downloadplanet/downloadplanet/blob/main/batch-print-pro-tiff-addon-site-license-300449371.md)<br />[sysinfo-linux-data-recoverytechnician-license-300742539.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfo-linux-data-recoverytechnician-license-300742539.md)<br />[photo-blend-3d-300870541.md](https://github.com/downloadplanet/downloadplanet/blob/main/photo-blend-3d-300870541.md)<br />[mitcalc-toothed-belts-calculation-197499.md](https://github.com/downloadplanet/downloadplanet/blob/main/mitcalc-toothed-belts-calculation-197499.md)<br />[usb-over-network-8-usb-devices-update-subscription-300275954.md](https://github.com/downloadplanet/downloadplanet/blob/main/usb-over-network-8-usb-devices-update-subscription-300275954.md)<br />[pdf-writer-educational-license-expert-300613922.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-writer-educational-license-expert-300613922.md)<br />[auto-shutdown-manager-v5-smb5-300599107.md](https://github.com/downloadplanet/downloadplanet/blob/main/auto-shutdown-manager-v5-smb5-300599107.md)<br />[append-pdf-com-component-distribution-license-300452080.md](https://github.com/downloadplanet/downloadplanet/blob/main/append-pdf-com-component-distribution-license-300452080.md)<br />[esofttools-excel-to-outlook-calendar-personal-license-300969048.md](https://github.com/downloadplanet/downloadplanet/blob/main/esofttools-excel-to-outlook-calendar-personal-license-300969048.md)<br />[style-product-no-currency-selection-300655699.md](https://github.com/downloadplanet/downloadplanet/blob/main/style-product-no-currency-selection-300655699.md)<br />[panoramastudio-viewer-singledomainlicense-300025758.md](https://github.com/downloadplanet/downloadplanet/blob/main/panoramastudio-viewer-singledomainlicense-300025758.md)<br />[kernel-for-base-corporate-licensebrl-300384656.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-base-corporate-licensebrl-300384656.md)<br />[industriemeisterin-printmedien-ihk-iii8-personalführung-videocoaching-mit-begleitskript-und-repetitorium-von-schnelllernexperte-dr-marius-ebert-300634672.md](https://github.com/downloadplanet/downloadplanet/blob/main/industriemeisterin-printmedien-ihk-iii8-personalführung-videocoaching-mit-begleitskript-und-repetitorium-von-schnelllernexperte-dr-marius-ebert-300634672.md)<br />[upgrade-videocad-910-professional-max-70-cameras-purchased-before-1-june-2020-to-videocad-11-professional-max-70-cameras-300641940.md](https://github.com/downloadplanet/downloadplanet/blob/main/upgrade-videocad-910-professional-max-70-cameras-purchased-before-1-june-2020-to-videocad-11-professional-max-70-cameras-300641940.md)<br />[geprüfter-sportfachwirt-ihk-300583368.md](https://github.com/downloadplanet/downloadplanet/blob/main/geprüfter-sportfachwirt-ihk-300583368.md)
+ Konzept wirtschaftliche Dienstplanung
+ Beschreibung PDF für das Excelprogramm
+ Videoanleitung für das Dienstplanprogramm
+ Link von der Aufzeichung Webinar
+ Präsentation des Webinars als PDF Datei
+ Exceldatei für Abteilung Küche und für ein komplettes Restaurant
+ Berücksichtigung der Personalkosten pro Stunde pro Mitarbeiter
+ Auswertung des Dienstplanes mit den SOLL IST Kennzahlen PK in 
+ Umsatz pro Mitarbeiterstunde Küche Service und Gesamt
+ Berechnung der Kennzahlen für die Umsatz Prognose und der IST Kennzahlen
+ Auswertungen Täglich und für die komplette Kalenderwoche
+ Auswertung in farblicher Kennzeichnung
+ Automatisierte Programmabläufe zb löschen von Werten durch Makrobefehle und Schaltflächen
+ Tabelle kann durch Felder und Zusätzliche Informationen erweitert werden
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300692927&affiliateid=200057808)<br/><br/>Related:
+<br />[mobikin-assistant-for-android-lifetime-610pcs-license-300788999.md](https://github.com/downloadplanet/downloadplanet/blob/main/mobikin-assistant-for-android-lifetime-610pcs-license-300788999.md)<br />[mobikin-eraser-for-ios-1-year-2125pcs-license-300871034.md](https://github.com/downloadplanet/downloadplanet/blob/main/mobikin-eraser-for-ios-1-year-2125pcs-license-300871034.md)<br />[anybizsoft-pdf-to-excel-for-mac-multiuser-personal-license-1620-pcs-300952797.md](https://github.com/downloadplanet/downloadplanet/blob/main/anybizsoft-pdf-to-excel-for-mac-multiuser-personal-license-1620-pcs-300952797.md)<br />[loc00146-plate-3276-tif-full-300732689.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00146-plate-3276-tif-full-300732689.md)<br />[crunch-time-company-license-300368362.md](https://github.com/downloadplanet/downloadplanet/blob/main/crunch-time-company-license-300368362.md)<br />[be-a-brilliant-public-speaker-silent-subliminal-package-300898401.md](https://github.com/downloadplanet/downloadplanet/blob/main/be-a-brilliant-public-speaker-silent-subliminal-package-300898401.md)<br />[advik-olm-to-doc-personal-license-300805016.md](https://github.com/downloadplanet/downloadplanet/blob/main/advik-olm-to-doc-personal-license-300805016.md)<br />[drs-msg-converter-for-windowsenterprise-license-301004310.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-msg-converter-for-windowsenterprise-license-301004310.md)<br />[vector-shapes-house-300527217.md](https://github.com/downloadplanet/downloadplanet/blob/main/vector-shapes-house-300527217.md)<br />[anymusic-win-lifetime-5-pcs-300811066.md](https://github.com/downloadplanet/downloadplanet/blob/main/anymusic-win-lifetime-5-pcs-300811066.md)<br />[kernel-recovery-for-fat-ntfs-corporate-license-300136743.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-recovery-for-fat-ntfs-corporate-license-300136743.md)<br />[batch-and-print-enterprise-2021-300994735.md](https://github.com/downloadplanet/downloadplanet/blob/main/batch-and-print-enterprise-2021-300994735.md)<br />[mitcalc-torsion-springs-197506.md](https://github.com/downloadplanet/downloadplanet/blob/main/mitcalc-torsion-springs-197506.md)<br />[bitrecover-outlook-attachment-remover-standard-license-301004211.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-outlook-attachment-remover-standard-license-301004211.md)<br />[anyutube-win-monthly-300786819.md](https://github.com/downloadplanet/downloadplanet/blob/main/anyutube-win-monthly-300786819.md)<br />[shield-shapes-for-photoshop-elements-psp-pdf-v59-300468831.md](https://github.com/downloadplanet/downloadplanet/blob/main/shield-shapes-for-photoshop-elements-psp-pdf-v59-300468831.md)<br />[dvdcloner-for-mac-300958704.md](https://github.com/downloadplanet/downloadplanet/blob/main/dvdcloner-for-mac-300958704.md)<br />[ilike-any-data-recovery-pro-commercial-license-300960220.md](https://github.com/downloadplanet/downloadplanet/blob/main/ilike-any-data-recovery-pro-commercial-license-300960220.md)<br />[anglo-saxon-font-eps-for-all-apps-v142-300469417.md](https://github.com/downloadplanet/downloadplanet/blob/main/anglo-saxon-font-eps-for-all-apps-v142-300469417.md)<br />[copy-of-driver-talent-pro-1-pc-lifetime-301017029.md](https://github.com/downloadplanet/downloadplanet/blob/main/copy-of-driver-talent-pro-1-pc-lifetime-301017029.md)

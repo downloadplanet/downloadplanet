@@ -1,71 +1,70 @@
 # Adorage ALL-IN-ONE package (DL + CDoD)
 ![Adorage ALL-IN-ONE package (DL + CDoD)](https://mycommerce.akamaized.net/api/pimages/P300428560/BIG/300428560.JPG)
- Get more informations about this product series, samples and descriptions...
+ Get more informations about this product series samples and descriptions
 
 Order Information
-ALL PLUGINS and all available EFFECTPACKAGES in one single package!!!
+ALL PLUGINS and all available EFFECTPACKAGES in one single package
 
 All Plugins included
-Included effectpackages:
-Effectpackage 1 + Backup-CD
-Effectpackage 2 + Backup-CD
-Effectpackage 3 + Backup-CD
-Effectpackage 4 + Backup-CD
-Effectpackage 5 + Backup-CD
-Effectpackage 6 + Backup-CD
-Effectpackage 7 + Backup-CD
-Effectpackage 8 + Backup-CD
-Effectpackage 9 + Backup-CD
-Effectpackage 10 + Backup-DVD
-Effectpackage 11 + Backup-DVD
-The unique effect collection with more than 11000 effect presettings!. And all are customiseable for individual use!
-Quantity:
-Unit Price: 15,565.20 UAH / 503.36 EUR
-Delivery:
+Included effectpackages
+Effectpackage BackupCD
+Effectpackage BackupCD
+Effectpackage BackupCD
+Effectpackage BackupCD
+Effectpackage BackupCD
+Effectpackage BackupCD
+Effectpackage BackupCD
+Effectpackage BackupCD
+Effectpackage BackupCD
+Effectpackage BackupDVD
+Effectpackage BackupDVD
+The unique effect collection with more than effect presettings And all are customiseable for individual use
+Quantity
+Unit Price UAH EUR
+Delivery
 electronic
 Included in the bundle
-1 x Adorage Effectpackage Vol. 1 (DL)
-Classic - the universal effect collection
- Get more informations about this product, samples and descriptions...
-1 x Adorage Effectpackage Vol. 2 (DL)
-Particle & Lighteffects
- Get more informations about this product, samples and descriptions...
-1 x Adorage Effectpackage Vol. 3 (DL)
-Picture-in-Picture & Spliscreen Effects
- Get more informations about this product, samples and descriptions...
-1 x Adorage Effectpackage Vol. 4 (DL)
+ x Adorage Effectpackage Vol DL
+Classic the universal effect collection
+ Get more informations about this product samples and descriptions
+ x Adorage Effectpackage Vol DL
+Particle Lighteffects
+ Get more informations about this product samples and descriptions
+ x Adorage Effectpackage Vol DL
+PictureinPicture Spliscreen Effects
+ Get more informations about this product samples and descriptions
+ x Adorage Effectpackage Vol DL
 Universal Tricks
- Get more informations about this product, samples and descriptions...
-1 x Adorage Effectpackage Vol. 5 (DL)
+ Get more informations about this product samples and descriptions
+ x Adorage Effectpackage Vol DL
 Diamond Composits
- Get more informations about this product, samples and descriptions...
-1 x Adorage Effectpackage Vol. 6 (DL)
+ Get more informations about this product samples and descriptions
+ x Adorage Effectpackage Vol DL
 Power Effect Pearls
- Get more informations about this product, samples and descriptions...
-1 x Adorage Effectpackage Vol. 7 (DL)
+ Get more informations about this product samples and descriptions
+ x Adorage Effectpackage Vol DL
 CGM Power Effects
- Get more informations about this product, samples and descriptions...
-1 x Adorage Effectpackage Vol. 8 (DL)
-More than 1500 new effect presettings for Adorage !
-Special offer! All-Plugins-Collection already included for free!
- Get more informations about this product, samples and descriptions...
-1 x Adorage Effectpackage Vol. 9 (DL)
-Effects for a various use - easy-to-use - professional results
-Special offer! All-Plugins-Collection already included for free!
- Get more informations about this product, samples and descriptions...
-1 x Adorage Effectpackage Vol. 10 (DL)
-Effects for a various use - easy-to-use - professional results
- Get more informations about this product, samples and descriptions...
-1 x Adorage Effectpackage Vol. 11 (DL)
+ Get more informations about this product samples and descriptions
+ x Adorage Effectpackage Vol DL
+More than new effect presettings for Adorage 
+Special offer AllPluginsCollection already included for free
+ Get more informations about this product samples and descriptions
+ x Adorage Effectpackage Vol DL
+Effects for a various use easytouse professional results
+Special offer AllPluginsCollection already included for free
+ Get more informations about this product samples and descriptions
+ x Adorage Effectpackage Vol DL
+Effects for a various use easytouse professional results
+ Get more informations about this product samples and descriptions
+ x Adorage Effectpackage Vol DL
 Perfect effects for your travel documentation and holiday film
- Get more informations about this product, samples and descriptions...
-1 x Adorage Effectpackage Vol. 12 (DL)
-More than 2000 great effects for your travel documentation. Effects with Tourist attractions, Skylines and Shapes related to traveling.
-1 x Adorage Effectpackage Vol. 13
-More than 2000 great effects for your travel documentation. Effects with Tourist attractions, Skylines and Shapes related to traveling.
+ Get more informations about this product samples and descriptions
+ x Adorage Effectpackage Vol DL
+More than great effects for your travel documentation Effects with Tourist attractions Skylines and Shapes related to traveling
+ x Adorage Effectpackage Vol 
+More than great effects for your travel documentation Effects with Tourist attractions Skylines and Shapes related to traveling
 
 Order Now
 Request Quote
-[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428560&affiliateid=200057808)<br/><br/># Related:
-
-<br />[loc00205-plate-62998-jpg-4096px-300726779.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00205-plate-62998-jpg-4096px-300726779.md)<br />[meditationsmusik-sunset-at-the-sea-300550850.md](https://github.com/downloadplanet/downloadplanet/blob/main/meditationsmusik-sunset-at-the-sea-300550850.md)<br />[4tops-query-tree-editor-for-ms-access-300035571.md](https://github.com/downloadplanet/downloadplanet/blob/main/4tops-query-tree-editor-for-ms-access-300035571.md)<br />[bitrecover-communigate-migrator-wizard-standard-license-300900423.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-communigate-migrator-wizard-standard-license-300900423.md)<br />[remote-queue-manager-upgrade-from-100-to-unlimited-printers-license-300976309.md](https://github.com/downloadplanet/downloadplanet/blob/main/remote-queue-manager-upgrade-from-100-to-unlimited-printers-license-300976309.md)<br />[drs-outlook-duplicate-remover-for-windowsenterprise-license-301004418.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-outlook-duplicate-remover-for-windowsenterprise-license-301004418.md)<br />[ems-data-pump-for-db2-business-1-year-maintenance-300068082.md](https://github.com/downloadplanet/downloadplanet/blob/main/ems-data-pump-for-db2-business-1-year-maintenance-300068082.md)<br />[light-energy-3a-subliminal-package-plus-guided-meditation-300635725.md](https://github.com/downloadplanet/downloadplanet/blob/main/light-energy-3a-subliminal-package-plus-guided-meditation-300635725.md)<br />[jagware-pst-to-nsf-wizard-business-license-300958195.md](https://github.com/downloadplanet/downloadplanet/blob/main/jagware-pst-to-nsf-wizard-business-license-300958195.md)<br />[quick-merge-for-excelword-corporate-11-pcs-300848764.md](https://github.com/downloadplanet/downloadplanet/blob/main/quick-merge-for-excelword-corporate-11-pcs-300848764.md)<br />[amazing-any-mp4-converter-300864424.md](https://github.com/downloadplanet/downloadplanet/blob/main/amazing-any-mp4-converter-300864424.md)<br />[fleurdelis-shapes-for-photoshop-elements-psp-pdf-v23-300468794.md](https://github.com/downloadplanet/downloadplanet/blob/main/fleurdelis-shapes-for-photoshop-elements-psp-pdf-v23-300468794.md)<br />[kernel-for-lotus-notes-to-outlook-corporate-license-300808077.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-lotus-notes-to-outlook-corporate-license-300808077.md)<br />[network-asset-tracker-500-nodes-221812.md](https://github.com/downloadplanet/downloadplanet/blob/main/network-asset-tracker-500-nodes-221812.md)<br />[shining-mxf-converter-300865230.md](https://github.com/downloadplanet/downloadplanet/blob/main/shining-mxf-converter-300865230.md)<br />[shapes-medical-library-300650417.md](https://github.com/downloadplanet/downloadplanet/blob/main/shapes-medical-library-300650417.md)<br />[hdr-048-old-freight-yard-plates-300538121.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-048-old-freight-yard-plates-300538121.md)<br />[anybizsoft-pdf-to-powerpoint-for-mac-multiuser-commercial-license-25-pcs-300952812.md](https://github.com/downloadplanet/downloadplanet/blob/main/anybizsoft-pdf-to-powerpoint-for-mac-multiuser-commercial-license-25-pcs-300952812.md)<br />[batch-print-pro-7-site-license-worldwide-300610841.md](https://github.com/downloadplanet/downloadplanet/blob/main/batch-print-pro-7-site-license-worldwide-300610841.md)<br />[shining-mp4-converter-300865229.md](https://github.com/downloadplanet/downloadplanet/blob/main/shining-mp4-converter-300865229.md)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300428560&affiliateid=200057808)<br/><br/>Related:
+<br />[amacsoft-pdf-to-epub-for-mac-300924559.md](https://github.com/downloadplanet/downloadplanet/blob/main/amacsoft-pdf-to-epub-for-mac-300924559.md)<br />[bundle-kernel-exchange-emailá-technician-licenseinr-300384852.md](https://github.com/downloadplanet/downloadplanet/blob/main/bundle-kernel-exchange-emailá-technician-licenseinr-300384852.md)<br />[treasure-masters-en-300367805.md](https://github.com/downloadplanet/downloadplanet/blob/main/treasure-masters-en-300367805.md)<br />[bitrecover-unlock-pdf-wizard-technician-license-300953409.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-unlock-pdf-wizard-technician-license-300953409.md)<br />[auto-shutdown-manager-v5-enterprise-300592414.md](https://github.com/downloadplanet/downloadplanet/blob/main/auto-shutdown-manager-v5-enterprise-300592414.md)<br />[heart-symbols-for-flash-fla-v5-300142808.md](https://github.com/downloadplanet/downloadplanet/blob/main/heart-symbols-for-flash-fla-v5-300142808.md)<br />[mitcalc-compression-springs-197504.md](https://github.com/downloadplanet/downloadplanet/blob/main/mitcalc-compression-springs-197504.md)<br />[mixed-brushes-for-illustrator-ai-v19-300468944.md](https://github.com/downloadplanet/downloadplanet/blob/main/mixed-brushes-for-illustrator-ai-v19-300468944.md)<br />[log4view-professional-individual-subscription-300770664.md](https://github.com/downloadplanet/downloadplanet/blob/main/log4view-professional-individual-subscription-300770664.md)<br />[coolmuster-ios-assistant-1-year-license1620pcs-300882098.md](https://github.com/downloadplanet/downloadplanet/blob/main/coolmuster-ios-assistant-1-year-license1620pcs-300882098.md)<br />[voice-reader-home-15-français-thomas-french-male-thomas-300617345.md](https://github.com/downloadplanet/downloadplanet/blob/main/voice-reader-home-15-français-thomas-french-male-thomas-300617345.md)<br />[smart1dcutting-1000-parts-300303715.md](https://github.com/downloadplanet/downloadplanet/blob/main/smart1dcutting-1000-parts-300303715.md)<br />[mailbee-sslsmime-single-developer-300188294.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailbee-sslsmime-single-developer-300188294.md)<br />[modern-pdf-solutions-1server-license-1000client-license-pack-300484040.md](https://github.com/downloadplanet/downloadplanet/blob/main/modern-pdf-solutions-1server-license-1000client-license-pack-300484040.md)<br />[ftg-00042-speedometer-300618424.md](https://github.com/downloadplanet/downloadplanet/blob/main/ftg-00042-speedometer-300618424.md)<br />[magic-denoiser-300183008.md](https://github.com/downloadplanet/downloadplanet/blob/main/magic-denoiser-300183008.md)<br />[asset-tracking-db-single-user-300001854.md](https://github.com/downloadplanet/downloadplanet/blob/main/asset-tracking-db-single-user-300001854.md)<br />[esofttools-eml-to-gmail-converter-technician-license-300972219.md](https://github.com/downloadplanet/downloadplanet/blob/main/esofttools-eml-to-gmail-converter-technician-license-300972219.md)<br />[openoffice-math-password-recovery-for-personal-use-300136279.md](https://github.com/downloadplanet/downloadplanet/blob/main/openoffice-math-password-recovery-for-personal-use-300136279.md)<br />[sysinfotools-pdf-split-for-mactechnician-user-license-300969899.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfotools-pdf-split-for-mactechnician-user-license-300969899.md)

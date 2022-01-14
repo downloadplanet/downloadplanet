@@ -1,30 +1,29 @@
 # AnyCount - Corporate License (2 PCs)
 ![AnyCount - Corporate License (2 PCs)](https://mycommerce.akamaized.net/api/pimages/P217606/BIG/217606.GIF)
-AnyCount is automatic text count software. AnyCount is automatic line count, character count and word count software for all common file formats.
-Supported text count formats:.RTF, .DOC, .WPD, .XLS, .PPT, .PPS, .PDF, .CSV, .HTM, .HTML, .XML, .MIF, .TXT, .ZIP, .ODT, .SDW, .SXW, .ODS, .SDC, .SXC, .ODP, .SDD, .SXI, .HLP, .CHM. Supported volume units: words, characters, lines, pages, custom count units. Text Count Software, Word Count Software, and Line Count Software.
-After text count is completed, you can:
-В· view count results on the screen;
-В· sort results in columns;
-В· copy results to clipboard;
-В· print count results;
-В· export count results into .TXT format;
-В· export count results into Comma-Separated Text / Tab-Separated Text (.CSV format) (which can be opened by Microsoft Excel and most other spreadsheet software);
-В· export count results to .HTML format;
-В· export count results to MS Word format;
-В· export count results to MS Excel format;
-В· export count results to .RTF format.
-AnyCount is Text Count Program, Word Count Program, and Line Count Program. New in Version 6.0:
-1. New file formats counting added:
-В· OpenOffice text formats: . ODT, .SDW, . SXW;
-В· OpenOffice spreadsheets formats: .ODS, .SDC, .SXC;
-В· OpenOffice presentation formats: .ODP, .SDD, .SXI;
-В· Microsoft online help formats: .CHM, .HLP.
-2. New options for Microsoft Office file formats: optionally counting Hidden Text.
-3. Improved word count for .TXT and .PDF files.
-4. Re-counting of the previously counted files.
-5. Total calculated for each column of the table of results.
-6. Sorting in each column of the table of results.
-7. Enhanced procedure of selecting files to be counted: you can now select several files at a time using Shift key.
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=217606&affiliateid=200057808)<br/><br/># Related:
-
-<br />[andrews-vector-plugins-random-touch-illustrator-cs5-10-v20-300023442.md](https://github.com/downloadplanet/downloadplanet/blob/main/andrews-vector-plugins-random-touch-illustrator-cs5-10-v20-300023442.md)<br />[wslelectro-indie-pop-vol-2-300506367.md](https://github.com/downloadplanet/downloadplanet/blob/main/wslelectro-indie-pop-vol-2-300506367.md)<br />[projetex-version-7-8-extra-workstations-300253677.md](https://github.com/downloadplanet/downloadplanet/blob/main/projetex-version-7-8-extra-workstations-300253677.md)<br />[bundle-offer-bitrecover-gmail-backup-yahoo-backup-office-365-backup-thunderbird-backup-outlook-webmail-backup-wizard-personal-license-300998732.md](https://github.com/downloadplanet/downloadplanet/blob/main/bundle-offer-bitrecover-gmail-backup-yahoo-backup-office-365-backup-thunderbird-backup-outlook-webmail-backup-wizard-personal-license-300998732.md)<br />[vovsoft-subtitle-translator-301001447.md](https://github.com/downloadplanet/downloadplanet/blob/main/vovsoft-subtitle-translator-301001447.md)<br />[mailbeenet-pdf-converter-unlimited-developer-site-300484549.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailbeenet-pdf-converter-unlimited-developer-site-300484549.md)<br />[office-password-recovery-for-business-use-300111279.md](https://github.com/downloadplanet/downloadplanet/blob/main/office-password-recovery-for-business-use-300111279.md)<br />[take-action-get-active-3a-subliminal-package-300585682.md](https://github.com/downloadplanet/downloadplanet/blob/main/take-action-get-active-3a-subliminal-package-300585682.md)<br />[royce-pdf-printer-300262132.md](https://github.com/downloadplanet/downloadplanet/blob/main/royce-pdf-printer-300262132.md)<br />[andrews-plugins-photograiny-for-photoshop-psp-pc-only-v5-148644.md](https://github.com/downloadplanet/downloadplanet/blob/main/andrews-plugins-photograiny-for-photoshop-psp-pc-only-v5-148644.md)<br />[mitcalc-gear-rack-design-300738149.md](https://github.com/downloadplanet/downloadplanet/blob/main/mitcalc-gear-rack-design-300738149.md)<br />[arc-custom-shapes-for-photoshop-elements-csh-v159-300489928.md](https://github.com/downloadplanet/downloadplanet/blob/main/arc-custom-shapes-for-photoshop-elements-csh-v159-300489928.md)<br />[emailconverter-300177779.md](https://github.com/downloadplanet/downloadplanet/blob/main/emailconverter-300177779.md)<br />[daminion-basic-300596370.md](https://github.com/downloadplanet/downloadplanet/blob/main/daminion-basic-300596370.md)<br />[indya-google-takeout-to-html-corporate-license-300798723.md](https://github.com/downloadplanet/downloadplanet/blob/main/indya-google-takeout-to-html-corporate-license-300798723.md)<br />[digital-photo-cataloger-printfolder-pro-bundle-300065438.md](https://github.com/downloadplanet/downloadplanet/blob/main/digital-photo-cataloger-printfolder-pro-bundle-300065438.md)<br />[faxboom-16-sip-fax-line-300304800.md](https://github.com/downloadplanet/downloadplanet/blob/main/faxboom-16-sip-fax-line-300304800.md)<br />[upgrade-windows-password-key-professional-to-enterprise-300864859.md](https://github.com/downloadplanet/downloadplanet/blob/main/upgrade-windows-password-key-professional-to-enterprise-300864859.md)<br />[meisterin-für-rohrkanal-u-industrieservice-ihkbii7-arbeits-umwelt-u-gesundheitsschutz-2-videos-spielzeit-38-min-mit-34-s-begleitskript-urep-von-schnelllernexperte-dr-marius-ebert-300634828.md](https://github.com/downloadplanet/downloadplanet/blob/main/meisterin-für-rohrkanal-u-industrieservice-ihkbii7-arbeits-umwelt-u-gesundheitsschutz-2-videos-spielzeit-38-min-mit-34-s-begleitskript-urep-von-schnelllernexperte-dr-marius-ebert-300634828.md)<br />[bundle-kernel-microsoft-email-repair-corporate-licensebrl-300384678.md](https://github.com/downloadplanet/downloadplanet/blob/main/bundle-kernel-microsoft-email-repair-corporate-licensebrl-300384678.md)
+AnyCount is automatic text count software AnyCount is automatic line count character count and word count software for all common file formats
+Supported text count formatsRTF DOC WPD XLS PPT PPS PDF CSV HTM HTML XML MIF TXT ZIP ODT SDW SXW ODS SDC SXC ODP SDD SXI HLP CHM Supported volume units words characters lines pages custom count units Text Count Software Word Count Software and Line Count Software
+After text count is completed you can
+В· view count results on the screen
+В· sort results in columns
+В· copy results to clipboard
+В· print count results
+В· export count results into TXT format
+В· export count results into CommaSeparated Text TabSeparated Text CSV format which can be opened by Microsoft Excel and most other spreadsheet software
+В· export count results to HTML format
+В· export count results to MS Word format
+В· export count results to MS Excel format
+В· export count results to RTF format
+AnyCount is Text Count Program Word Count Program and Line Count Program New in Version 
+ New file formats counting added
+В· OpenOffice text formats ODT SDW SXW
+В· OpenOffice spreadsheets formats ODS SDC SXC
+В· OpenOffice presentation formats ODP SDD SXI
+В· Microsoft online help formats CHM HLP
+ New options for Microsoft Office file formats optionally counting Hidden Text
+ Improved word count for TXT and PDF files
+ Recounting of the previously counted files
+ Total calculated for each column of the table of results
+ Sorting in each column of the table of results
+ Enhanced procedure of selecting files to be counted you can now select several files at a time using Shift key
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=217606&affiliateid=200057808)<br/><br/>Related:
+<br />[anymusic-mac-lifetime-5-pcs-de-300849308.md](https://github.com/downloadplanet/downloadplanet/blob/main/anymusic-mac-lifetime-5-pcs-de-300849308.md)<br />[bitrecover-eml-to-pdf-wizard-pro-license-upgrade-300973282.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-eml-to-pdf-wizard-pro-license-upgrade-300973282.md)<br />[embellish-swirl-symbols-for-illustrator-ai-v70-300469187.md](https://github.com/downloadplanet/downloadplanet/blob/main/embellish-swirl-symbols-for-illustrator-ai-v70-300469187.md)<br />[bitwarocr-monthly-membership-license-500-callsday-300986663.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitwarocr-monthly-membership-license-500-callsday-300986663.md)<br />[email-management-toolkitadd-outlook-pstemail-converteroutlook-duplicate-removeradministrator-license-300726390.md](https://github.com/downloadplanet/downloadplanet/blob/main/email-management-toolkitadd-outlook-pstemail-converteroutlook-duplicate-removeradministrator-license-300726390.md)<br />[the-laminator-300804878.md](https://github.com/downloadplanet/downloadplanet/blob/main/the-laminator-300804878.md)<br />[vovsoft-broken-link-detector-300781626.md](https://github.com/downloadplanet/downloadplanet/blob/main/vovsoft-broken-link-detector-300781626.md)<br />[amacsoft-epub-to-pdf-converter-300924616.md](https://github.com/downloadplanet/downloadplanet/blob/main/amacsoft-epub-to-pdf-converter-300924616.md)<br />[istonsoft-iphone-backup-extractor-300917112.md](https://github.com/downloadplanet/downloadplanet/blob/main/istonsoft-iphone-backup-extractor-300917112.md)<br />[pace-packager-hub-task-manager-service-provider-subscription-1-year-301001988.md](https://github.com/downloadplanet/downloadplanet/blob/main/pace-packager-hub-task-manager-service-provider-subscription-1-year-301001988.md)<br />[pdf-bookmark-for-macintosh-osx-workstationdeveloper-license-300454407.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-bookmark-for-macintosh-osx-workstationdeveloper-license-300454407.md)<br />[cat-patterns-for-photoshop-elements-psp-others-v74-300482968.md](https://github.com/downloadplanet/downloadplanet/blob/main/cat-patterns-for-photoshop-elements-psp-others-v74-300482968.md)<br />[documentos-msd-300382001.md](https://github.com/downloadplanet/downloadplanet/blob/main/documentos-msd-300382001.md)<br />[ems-sql-backup-pro-for-sql-server-business-1-year-maintenance-300529028.md](https://github.com/downloadplanet/downloadplanet/blob/main/ems-sql-backup-pro-for-sql-server-business-1-year-maintenance-300529028.md)<br />[syncingnet-business-5-edition-300597690.md](https://github.com/downloadplanet/downloadplanet/blob/main/syncingnet-business-5-edition-300597690.md)<br />[loc00206-hdri-dome-8k-300726744.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00206-hdri-dome-8k-300726744.md)<br />[jmt-orchestrator-21-300451072.md](https://github.com/downloadplanet/downloadplanet/blob/main/jmt-orchestrator-21-300451072.md)<br />[email-management-toolkitdbx-to-pst-converterpst-recoverydbx-recoveryadministrator-license-300726152.md](https://github.com/downloadplanet/downloadplanet/blob/main/email-management-toolkitdbx-to-pst-converterpst-recoverydbx-recoveryadministrator-license-300726152.md)<br />[urlaubsplaner-bis-50-mitarbeiter-id-nr-5032761920-300898290.md](https://github.com/downloadplanet/downloadplanet/blob/main/urlaubsplaner-bis-50-mitarbeiter-id-nr-5032761920-300898290.md)<br />[batch-print-enterprise-8-with-premium-upgrade-protection-300626023.md](https://github.com/downloadplanet/downloadplanet/blob/main/batch-print-enterprise-8-with-premium-upgrade-protection-300626023.md)

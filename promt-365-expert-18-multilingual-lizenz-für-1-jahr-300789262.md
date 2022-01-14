@@ -1,45 +1,44 @@
 # PROMT 365 Expert 18 Multilingual (Lizenz für 1 Jahr)
 ![PROMT 365 Expert 18 Multilingual (Lizenz für 1 Jahr)](https://mycommerce.akamaized.net/api/pimages/P300789262/BIG/300789262.PNG)
-PROMT Expert ist die brandneue Lösung der PROMT-Produktfamilie für freiberufliche Übersetzer und Dolmetscher, die Ihre Übersetzungsprozesse automatisieren möchten. Einzigartige Funktionen zum Optimieren der Übersetzungsprozesse und zur Terminologie- bzw. Translation-Memory-Verwaltung machen PROMT Expert zum idealen Werkzeug in jedem Übersetzungsbüro. Mit PROMT-Plugin für SDL Trados Studio; Werkzeugen zur automatischen Ergänzung der Translation Memory-Datenbanken (TM) mit den Ergebnissen der maschinellen Übersetzung; Unterstützung neuester Translation-Memory-Formate wie OLIF, TBX, TMW, XLIFF; verschiedenste Sprachwerkzeuge zum Auswerten der Übersetzungsqualität.
+PROMT Expert ist die brandneue Lösung der PROMTProduktfamilie für freiberufliche Übersetzer und Dolmetscher die Ihre Übersetzungsprozesse automatisieren möchten Einzigartige Funktionen zum Optimieren der Übersetzungsprozesse und zur Terminologie bzw TranslationMemoryVerwaltung machen PROMT Expert zum idealen Werkzeug in jedem Übersetzungsbüro Mit PROMTPlugin für SDL Trados Studio Werkzeugen zur automatischen Ergänzung der Translation MemoryDatenbanken TM mit den Ergebnissen der maschinellen Übersetzung Unterstützung neuester TranslationMemoryFormate wie OLIF TBX TMW XLIFF verschiedenste Sprachwerkzeuge zum Auswerten der Übersetzungsqualität
 
-Unterstützte Übersetzungsrichtungen:
-Englisch -> Deutsch, Deutsch -> Englisch
-Französisch -> Deutsch, Deutsch -> Französisch
-Spanisch -> Deutsch, Deutsch -> Spanisch
-Russisch -> Deutsch, Deutsch -> Russisch
-Italienisch -> Deutsch, Deutsch -> Italienisch*
-Portugiesisch -> Deutsch, Deutsch -> Portugiesisch*
-Englisch -> Russisch, Russisch -> Englisch
-Französisch -> Englisch, Englisch -> Französisch
-Spanisch -> Englisch, Englisch -> Spanisch
-Portugiesisch -> Englisch, Englisch -> Portugiesisch
-Italienisch -> Englisch, Englisch -> Italienisch
-Arabisch -> Deutsch, Deutsch -> Arabisch**
-Türkisch -> Deutsch, Deutsch -> Türkisch**
-Chinesisch -> Deutsch, Deutsch -> Chinesisch**
-Japanisch -> Deutsch, Deutsch -> Japanisch**
-Koreanisch -> Deutsch, Deutsch -> Koreanisch**
-Kasachisch -> Deutsch, Deutsch -> Kasachisch**
-Finnisch -> Deutsch, Deutsch -> Finnisch**
+Unterstützte Übersetzungsrichtungen
+Englisch Deutsch Deutsch Englisch
+Französisch Deutsch Deutsch Französisch
+Spanisch Deutsch Deutsch Spanisch
+Russisch Deutsch Deutsch Russisch
+Italienisch Deutsch Deutsch Italienisch
+Portugiesisch Deutsch Deutsch Portugiesisch
+Englisch Russisch Russisch Englisch
+Französisch Englisch Englisch Französisch
+Spanisch Englisch Englisch Spanisch
+Portugiesisch Englisch Englisch Portugiesisch
+Italienisch Englisch Englisch Italienisch
+Arabisch Deutsch Deutsch Arabisch
+Türkisch Deutsch Deutsch Türkisch
+Chinesisch Deutsch Deutsch Chinesisch
+Japanisch Deutsch Deutsch Japanisch
+Koreanisch Deutsch Deutsch Koreanisch
+Kasachisch Deutsch Deutsch Kasachisch
+Finnisch Deutsch Deutsch Finnisch
 
-* - Übersetzung erfolgt über Englisch als Zwischensprache. Keine Anpassungsfunktionalität für diese Übersetzungsrichtungen.
-** - Für die Verwendung dieser Übersetzungsrichtungen ist eine bestehende Internetverbindung erforderlich. Keine Anpassungsfunktionalität für diese Übersetzungsrichtungen.
+ Übersetzung erfolgt über Englisch als Zwischensprache Keine Anpassungsfunktionalität für diese Übersetzungsrichtungen
+ Für die Verwendung dieser Übersetzungsrichtungen ist eine bestehende Internetverbindung erforderlich Keine Anpassungsfunktionalität für diese Übersetzungsrichtungen
 HIGHLIGHTS FÜR PROFIS
-PROMT für TM - ein Werkzeug zur automatischen Ergänzung der Translation Memory-Datenbanken (TM) mit den Ergebnissen der maschinellen PROMT-Übersetzung in den Formaten TMX und TMW (SDL Trados).
-PROMT-Plugin für SDL Trados Studio (2009/2011/2014/2015/2017) macht die Verwendung von PROMT direkt in SDL Trados Studio möglich. Dadurch wird die Bearbeitung größere Projekte gravierend beschleunigt.
-Technologie zum Importieren benutzereigener Glossare in die PROMT-Wörterbücher aus TXT oder Excel Tabellen.
-Unterstützung neuester Translation-Memory-Formate wie TMX Level 1, TMX Level 2, OLIF, TBX, TMW, XLIFF.
-PROMT QA Lab – eine Sammlung verschiedenster Sprachwerkzeuge zum Auswerten der Übersetzungsqualität und Leistungsfähigkeit des Übersetzungsprozesses.
-Automatische Terminologieextraktion und Textanalyse.
-Ein breites Spektrum an Werkzeugen zum Bearbeiten der vorhandenen Wörterbücher und zum Anpassen des Systems an die Übersetzung von fachspezifischen Texten.
-Nahtlose Integration in Microsoft Office 2010/2013/2016 (32-Bit) Anwendungen zum Übersetzen der Dokumente mit Erhalt der Formatierung.
-Werkzeug zur Stapelübersetzung mehrerer Dateien nacheinandern.
-Erfahren Sie mehr >>>
+PROMT für TM ein Werkzeug zur automatischen Ergänzung der Translation MemoryDatenbanken TM mit den Ergebnissen der maschinellen PROMTÜbersetzung in den Formaten TMX und TMW SDL Trados
+PROMTPlugin für SDL Trados Studio macht die Verwendung von PROMT direkt in SDL Trados Studio möglich Dadurch wird die Bearbeitung größere Projekte gravierend beschleunigt
+Technologie zum Importieren benutzereigener Glossare in die PROMTWörterbücher aus TXT oder Excel Tabellen
+Unterstützung neuester TranslationMemoryFormate wie TMX Level TMX Level OLIF TBX TMW XLIFF
+PROMT QA Lab – eine Sammlung verschiedenster Sprachwerkzeuge zum Auswerten der Übersetzungsqualität und Leistungsfähigkeit des Übersetzungsprozesses
+Automatische Terminologieextraktion und Textanalyse
+Ein breites Spektrum an Werkzeugen zum Bearbeiten der vorhandenen Wörterbücher und zum Anpassen des Systems an die Übersetzung von fachspezifischen Texten
+Nahtlose Integration in Microsoft Office Bit Anwendungen zum Übersetzen der Dokumente mit Erhalt der Formatierung
+Werkzeug zur Stapelübersetzung mehrerer Dateien nacheinandern
+Erfahren Sie mehr 
 ISBN
-978-3-89894-725-1
+
 
 Systemvoraussetzungen
-Microsoft Windows® 10, 8, und 7 (32-/64-bit)
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300789262&affiliateid=200057808)<br/><br/># Related:
-
-<br />[email-management-toolkitmsg-to-pst-converterpst-recoveryoutlook-duplicate-removeradministrator-license-300726371.md](https://github.com/downloadplanet/downloadplanet/blob/main/email-management-toolkitmsg-to-pst-converterpst-recoveryoutlook-duplicate-removeradministrator-license-300726371.md)<br />[loc00207-plate-76869-jpg-4096px-300726822.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00207-plate-76869-jpg-4096px-300726822.md)<br />[sound-over-rdp-20-users-update-subscription-300439723.md](https://github.com/downloadplanet/downloadplanet/blob/main/sound-over-rdp-20-users-update-subscription-300439723.md)<br />[sound-over-rdp-1-user-update-subscription-300296663.md](https://github.com/downloadplanet/downloadplanet/blob/main/sound-over-rdp-1-user-update-subscription-300296663.md)<br />[mp4-silence-cut-commercial-registration-300800045.md](https://github.com/downloadplanet/downloadplanet/blob/main/mp4-silence-cut-commercial-registration-300800045.md)<br />[replacemagicpowerpoint-professional-edition-300147370.md](https://github.com/downloadplanet/downloadplanet/blob/main/replacemagicpowerpoint-professional-edition-300147370.md)<br />[photoshop-here-for-mac-ru-300612110.md](https://github.com/downloadplanet/downloadplanet/blob/main/photoshop-here-for-mac-ru-300612110.md)<br />[dll-care-5-pc-300745770.md](https://github.com/downloadplanet/downloadplanet/blob/main/dll-care-5-pc-300745770.md)<br />[asp-uploader-enterprise-license-300321783.md](https://github.com/downloadplanet/downloadplanet/blob/main/asp-uploader-enterprise-license-300321783.md)<br />[kernel-for-mbox-to-pst-technician-license-300664914.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-mbox-to-pst-technician-license-300664914.md)<br />[drs-aol-backup-for-macsingle-user-license-301004903.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-aol-backup-for-macsingle-user-license-301004903.md)<br />[actual-window-guard-164964.md](https://github.com/downloadplanet/downloadplanet/blob/main/actual-window-guard-164964.md)<br />[coolmuster-android-assistant-1-year-license1620pcs-300882068.md](https://github.com/downloadplanet/downloadplanet/blob/main/coolmuster-android-assistant-1-year-license1620pcs-300882068.md)<br />[sysinfo-backup-recovery-toolkit-backup-exec-bkf-repair-ms-sql-database-recoverytechnician-license-300999367.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfo-backup-recovery-toolkit-backup-exec-bkf-repair-ms-sql-database-recoverytechnician-license-300999367.md)<br />[drs-outlook-duplicate-remover-for-macenterprise-license-301004986.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-outlook-duplicate-remover-for-macenterprise-license-301004986.md)<br />[hdr-156-blue-evening-sky-300661590.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-156-blue-evening-sky-300661590.md)<br />[videolab-visual-c-edition-single-license-199023.md](https://github.com/downloadplanet/downloadplanet/blob/main/videolab-visual-c-edition-single-license-199023.md)<br />[serial-port-redirector-16-ports-300037382.md](https://github.com/downloadplanet/downloadplanet/blob/main/serial-port-redirector-16-ports-300037382.md)<br />[dot-custom-shapes-for-photoshop-elements-v75-300468519.md](https://github.com/downloadplanet/downloadplanet/blob/main/dot-custom-shapes-for-photoshop-elements-v75-300468519.md)<br />[protomissume-box-shot-maker-professional-enterprise-license-300329222.md](https://github.com/downloadplanet/downloadplanet/blob/main/protomissume-box-shot-maker-professional-enterprise-license-300329222.md)
+Microsoft Windows® und bit
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300789262&affiliateid=200057808)<br/><br/>Related:
+<br />[turgs-mbox-wizard-home-user-license-300953502.md](https://github.com/downloadplanet/downloadplanet/blob/main/turgs-mbox-wizard-home-user-license-300953502.md)<br />[bitrecover-msg-to-pdf-home-user-license-300810659.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-msg-to-pdf-home-user-license-300810659.md)<br />[aweeraser-for-windows-1-month-license-301011222.md](https://github.com/downloadplanet/downloadplanet/blob/main/aweeraser-for-windows-1-month-license-301011222.md)<br />[bitrecover-sylpheed-converter-wizard-standard-license-300982022.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-sylpheed-converter-wizard-standard-license-300982022.md)<br />[rename-us-pro-300921761.md](https://github.com/downloadplanet/downloadplanet/blob/main/rename-us-pro-300921761.md)<br />[drs-icloud-email-backup-for-windowsadministrator-license-301004408.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-icloud-email-backup-for-windowsadministrator-license-301004408.md)<br />[kernel-for-writer-home-user-licenseinr-300384819.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-writer-home-user-licenseinr-300384819.md)<br />[promt-master-nmt-22-multilingual-jahreslizenz-301014812.md](https://github.com/downloadplanet/downloadplanet/blob/main/promt-master-nmt-22-multilingual-jahreslizenz-301014812.md)<br />[mailbeenet-pdf-converter-unlimited-developer-site-300484549.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailbeenet-pdf-converter-unlimited-developer-site-300484549.md)<br />[aomei-centralized-backupper-ultimate-package-300870578.md](https://github.com/downloadplanet/downloadplanet/blob/main/aomei-centralized-backupper-ultimate-package-300870578.md)<br />[stroke-weather-library-300650442.md](https://github.com/downloadplanet/downloadplanet/blob/main/stroke-weather-library-300650442.md)<br />[bitrecover-windows-image-backup-recovery-personal-license-300847274.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-windows-image-backup-recovery-personal-license-300847274.md)<br />[mercalli-v5-sal-300647105.md](https://github.com/downloadplanet/downloadplanet/blob/main/mercalli-v5-sal-300647105.md)<br />[loc00205-plate-52997-tif-full-300726776.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00205-plate-52997-tif-full-300726776.md)<br />[mitcalc-torsion-springs-197506.md](https://github.com/downloadplanet/downloadplanet/blob/main/mitcalc-torsion-springs-197506.md)<br />[shining-mac-mp4-converter-300865199.md](https://github.com/downloadplanet/downloadplanet/blob/main/shining-mac-mp4-converter-300865199.md)<br />[coolmuster-android-eraser-1-year-license1620pcs-300924891.md](https://github.com/downloadplanet/downloadplanet/blob/main/coolmuster-android-eraser-1-year-license1620pcs-300924891.md)<br />[macuncle-vcard-converter-wizard-standard-license-301007571.md](https://github.com/downloadplanet/downloadplanet/blob/main/macuncle-vcard-converter-wizard-standard-license-301007571.md)<br />[drs-pdf-restriction-remover-for-windowssingle-user-license-301004387.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-pdf-restriction-remover-for-windowssingle-user-license-301004387.md)<br />[geprüfter-handelsfachwirt-ihk-300381604.md](https://github.com/downloadplanet/downloadplanet/blob/main/geprüfter-handelsfachwirt-ihk-300381604.md)

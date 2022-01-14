@@ -1,32 +1,31 @@
 # Komplettpaket Kalkulation Speisen mit ALLEN Kalkulationsvarianten
-Folgende Inhalte, Tabellenblätter und Vorlagen sind in der Exceldatei enthalten:
+Folgende Inhalte Tabellenblätter und Vorlagen sind in der Exceldatei enthalten
 
-=> Neu! 4 Kalkulationsverfahren in einem Excelsheet
-• Vor- und Nachkalkulation, KF, KA, WE% Vorgabe und Deckungsbeitrag
-=> Neu! Die Bestellmengen werden mit errechnet
-=> Stammdaten für MwSt. und Einstellungen
-=>Artikelliste (hier bitte Ihre Artikel mit Preisen eingeben oder aus der Inventurliste kopieren)
-=>Berücksichtigung des Putzverlustes bei der Einkaufspreisberechnung
-=>Vorlage zur Berechnung des Gemeinkostenzuschlagsatzes GKZ
-=>Grundkalkulation Vorwärts
-=>Grundkalkulation Rückwärts
-=>Berechnung Soll Durchschnittsdeckungsbeitrag für Speisen
-=>Mit Verknüpfung zur Artikelliste und Drop Down Artikel Auswahl
-=>Kalkulationsvorlage leer (kann beliebig vervielfältigt werden) mit allen gängigen Kalkulationsverfahren
+ Neu Kalkulationsverfahren in einem Excelsheet
+• Vor und Nachkalkulation KF KA WE Vorgabe und Deckungsbeitrag
+ Neu Die Bestellmengen werden mit errechnet
+ Stammdaten für MwSt und Einstellungen
+Artikelliste hier bitte Ihre Artikel mit Preisen eingeben oder aus der Inventurliste kopieren
+Berücksichtigung des Putzverlustes bei der Einkaufspreisberechnung
+Vorlage zur Berechnung des Gemeinkostenzuschlagsatzes GKZ
+Grundkalkulation Vorwärts
+Grundkalkulation Rückwärts
+Berechnung Soll Durchschnittsdeckungsbeitrag für Speisen
+Mit Verknüpfung zur Artikelliste und Drop Down Artikel Auswahl
+Kalkulationsvorlage leer kann beliebig vervielfältigt werden mit allen gängigen Kalkulationsverfahren
 
-Folgende Unterlagen erhalten Sie:
+Folgende Unterlagen erhalten Sie
 
-=>Excelprogramm Kalkulation Speisen mit allen Kalkulationsvarianten
-=>Kalkulationsvarianten KF, KA, WE% und DB
-=>Excelprogramm für die Preispolitik und Ermittlung der Renner, Gewinner, Schläfer und Verlierer
-=>Konzept "Grundlagen der Kalkulation Speisen"
-=>Konzept "Kalkulation Speisen mit Deckungsbeitrag"
-=>Konzept "Gewinner, Renner, Verlierer und Schläfer"
-=>Beschreibung Excelschema Kalkulation
-=>Videoanleitung Excelprogramm Kalkulation (Youtube)
-=>Videoanleitung Excelprogramm Speisendiagnose (Youtube)
+Excelprogramm Kalkulation Speisen mit allen Kalkulationsvarianten
+Kalkulationsvarianten KF KA WE und DB
+Excelprogramm für die Preispolitik und Ermittlung der Renner Gewinner Schläfer und Verlierer
+Konzept Grundlagen der Kalkulation Speisen
+Konzept Kalkulation Speisen mit Deckungsbeitrag
+Konzept Gewinner Renner Verlierer und Schläfer
+Beschreibung Excelschema Kalkulation
+Videoanleitung Excelprogramm Kalkulation Youtube
+Videoanleitung Excelprogramm Speisendiagnose Youtube
 
-=>Hier erhalten Sie eine Videobeschreibung vom Komplettpaket Kalkulation Speisen ALLE
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300664906&affiliateid=200057808)<br/><br/># Related:
-
-<br />[hdr-044-silos-300532975.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-044-silos-300532975.md)<br />[anycount-70-professional-corporate-license-4-pcs-upgrade-to-enterprise-300325413.md](https://github.com/downloadplanet/downloadplanet/blob/main/anycount-70-professional-corporate-license-4-pcs-upgrade-to-enterprise-300325413.md)<br />[banner-font-for-coreldraw-psp-word-shapes-v82-300469357.md](https://github.com/downloadplanet/downloadplanet/blob/main/banner-font-for-coreldraw-psp-word-shapes-v82-300469357.md)<br />[photo-letters-brushes-for-photoshop-elements-psp-gimp-v184-300581419.md](https://github.com/downloadplanet/downloadplanet/blob/main/photo-letters-brushes-for-photoshop-elements-psp-gimp-v184-300581419.md)<br />[fwwkfachtpaket-3-rechtsteuern-videocoaching-24-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-von-schnelllernexperte-dr-marius-ebert-300602557.md](https://github.com/downloadplanet/downloadplanet/blob/main/fwwkfachtpaket-3-rechtsteuern-videocoaching-24-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-von-schnelllernexperte-dr-marius-ebert-300602557.md)<br />[cubexsoft-dxl-to-pst-technical-license-offer-300799655.md](https://github.com/downloadplanet/downloadplanet/blob/main/cubexsoft-dxl-to-pst-technical-license-offer-300799655.md)<br />[pdf-management-toolkitpdf-restriction-remover-pdf-recoverytechnician-license-300726071.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-management-toolkitpdf-restriction-remover-pdf-recoverytechnician-license-300726071.md)<br />[afterlogic-webmail-pro-aspnet-multiple-server-250-users-300414014.md](https://github.com/downloadplanet/downloadplanet/blob/main/afterlogic-webmail-pro-aspnet-multiple-server-250-users-300414014.md)<br />[azdgdatingplatinum-2017-1-200162.md](https://github.com/downloadplanet/downloadplanet/blob/main/azdgdatingplatinum-2017-1-200162.md)<br />[printer-for-remote-desktop-20-users-300439728.md](https://github.com/downloadplanet/downloadplanet/blob/main/printer-for-remote-desktop-20-users-300439728.md)<br />[renewal-10tec-igridnet-with-autofiltermanager-and-printmanager-addons-site-license-300695725.md](https://github.com/downloadplanet/downloadplanet/blob/main/renewal-10tec-igridnet-with-autofiltermanager-and-printmanager-addons-site-license-300695725.md)<br />[instrumentlab-visual-c-edition-single-license-300338251.md](https://github.com/downloadplanet/downloadplanet/blob/main/instrumentlab-visual-c-edition-single-license-300338251.md)<br />[arrow-brushes-for-photoshop-affinity-elements-psp-etc-v119-300469290.md](https://github.com/downloadplanet/downloadplanet/blob/main/arrow-brushes-for-photoshop-affinity-elements-psp-etc-v119-300469290.md)<br />[pdf-content-split-3-300548150.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-content-split-3-300548150.md)<br />[drumazon-300120521.md](https://github.com/downloadplanet/downloadplanet/blob/main/drumazon-300120521.md)<br />[geprüfter-wirtschaftsfachwirt-volks-und-betriebswirtschaft-300381767.md](https://github.com/downloadplanet/downloadplanet/blob/main/geprüfter-wirtschaftsfachwirt-volks-und-betriebswirtschaft-300381767.md)<br />[zylidletimer-delphicbuilder-single-developer-license-223885.md](https://github.com/downloadplanet/downloadplanet/blob/main/zylidletimer-delphicbuilder-single-developer-license-223885.md)<br />[cquill-writer-301015240.md](https://github.com/downloadplanet/downloadplanet/blob/main/cquill-writer-301015240.md)<br />[projetex-version-7-1-server-20-workstations-300253660.md](https://github.com/downloadplanet/downloadplanet/blob/main/projetex-version-7-1-server-20-workstations-300253660.md)<br />[surround-meter-51-168080.md](https://github.com/downloadplanet/downloadplanet/blob/main/surround-meter-51-168080.md)
+Hier erhalten Sie eine Videobeschreibung vom Komplettpaket Kalkulation Speisen ALLE
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300664906&affiliateid=200057808)<br/><br/>Related:
+<br />[pdf-imposition-de-300449895.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-imposition-de-300449895.md)<br />[loc00179-plate-4007-layout-private-300731868.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00179-plate-4007-layout-private-300731868.md)<br />[loc00207-plate-66862-jpg-4096px-300726820.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00207-plate-66862-jpg-4096px-300726820.md)<br />[arc-truetype-font-eps-shapes-for-all-apps-v209-300538673.md](https://github.com/downloadplanet/downloadplanet/blob/main/arc-truetype-font-eps-shapes-for-all-apps-v209-300538673.md)<br />[vmail-eml-converter-software-technical-license-300854381.md](https://github.com/downloadplanet/downloadplanet/blob/main/vmail-eml-converter-software-technical-license-300854381.md)<br />[tzminigolf-300775515.md](https://github.com/downloadplanet/downloadplanet/blob/main/tzminigolf-300775515.md)<br />[safe365-partition-recovery-wizard-300865154.md](https://github.com/downloadplanet/downloadplanet/blob/main/safe365-partition-recovery-wizard-300865154.md)<br />[amacsoft-pdf-to-word-converter-300924630.md](https://github.com/downloadplanet/downloadplanet/blob/main/amacsoft-pdf-to-word-converter-300924630.md)<br />[geprüfter-fachkaufmann-für-einkauf-und-logistik-rechtliche-gestaltung-in-einkauf-und-logistik-300579731.md](https://github.com/downloadplanet/downloadplanet/blob/main/geprüfter-fachkaufmann-für-einkauf-und-logistik-rechtliche-gestaltung-in-einkauf-und-logistik-300579731.md)<br />[sledge-process-library-commercial-license-300900585.md](https://github.com/downloadplanet/downloadplanet/blob/main/sledge-process-library-commercial-license-300900585.md)<br />[esofttools-nsf-to-eml-converter-personal-license-300877054.md](https://github.com/downloadplanet/downloadplanet/blob/main/esofttools-nsf-to-eml-converter-personal-license-300877054.md)<br />[isunshare-office-password-genius-advanced-300924160.md](https://github.com/downloadplanet/downloadplanet/blob/main/isunshare-office-password-genius-advanced-300924160.md)<br />[0049-rasimatrix02-300915706.md](https://github.com/downloadplanet/downloadplanet/blob/main/0049-rasimatrix02-300915706.md)<br />[drs-aol-backup-for-macenterprise-license-301004905.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-aol-backup-for-macenterprise-license-301004905.md)<br />[lan-employee-monitor-nolimited-computers-license-300773340.md](https://github.com/downloadplanet/downloadplanet/blob/main/lan-employee-monitor-nolimited-computers-license-300773340.md)<br />[employee-desktop-live-viewer-10-license-packbrl-300384693.md](https://github.com/downloadplanet/downloadplanet/blob/main/employee-desktop-live-viewer-10-license-packbrl-300384693.md)<br />[tformabout-shareware-license-300193388.md](https://github.com/downloadplanet/downloadplanet/blob/main/tformabout-shareware-license-300193388.md)<br />[loc00179-hdri-dome-15k-300731864.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00179-hdri-dome-15k-300731864.md)<br />[pdf-bookmark-for-hpux-workstationdeveloper-license-300454409.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-bookmark-for-hpux-workstationdeveloper-license-300454409.md)<br />[counter-pro-301016688.md](https://github.com/downloadplanet/downloadplanet/blob/main/counter-pro-301016688.md)

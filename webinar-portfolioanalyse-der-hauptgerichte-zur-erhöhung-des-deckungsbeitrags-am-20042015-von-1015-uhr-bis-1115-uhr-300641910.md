@@ -1,32 +1,31 @@
 # Webinar Portfolioanalyse der Hauptgerichte zur Erhöhung des Deckungsbeitrags am 20.04.2015 von 10:15 Uhr bis 11:15 Uhr
-Seminarbeschreibung:
-Mit diesem Webinar erhalten Sie ein Handwerkszeug in MS Excel, um zukünftig die Nachfrage Ihrer Gäste in der Preispolitik zu berücksichtigen. Sie werden für Ihr Speisenangebot die „Gewinner“, „Renner“, „Verlierer“ und „Schläfer“ ermitteln und sind in der Lage, Maßnahmen zu ergreifen, um den Deckungsbeitrag erheblich zu steigern. Zusätzlich erhalten Sie eine Excelvorlage, die Sie sofort im Betrieb einsetzen können. Sie werden so mit wenig Zeitaufwand sehr schnell Ergebnisse für Ihre Preis- und Angebotsgestaltung erhalten.
+Seminarbeschreibung
+Mit diesem Webinar erhalten Sie ein Handwerkszeug in MS Excel um zukünftig die Nachfrage Ihrer Gäste in der Preispolitik zu berücksichtigen Sie werden für Ihr Speisenangebot die „Gewinner“ „Renner“ „Verlierer“ und „Schläfer“ ermitteln und sind in der Lage Maßnahmen zu ergreifen um den Deckungsbeitrag erheblich zu steigern Zusätzlich erhalten Sie eine Excelvorlage die Sie sofort im Betrieb einsetzen können Sie werden so mit wenig Zeitaufwand sehr schnell Ergebnisse für Ihre Preis und Angebotsgestaltung erhalten
 
-Inhalte:
-Ermittlung der „Gewinner“, „Renner“, “Schläfer“ und „Verlierer“ im Segment Hauptgerichte;
-Berechnung des Beliebtheitsgrades Ihres Speisenangebotes;
-Ermittlung Ihres aktuell durchschnittlichen Deckungbeitrages;
-Kennzahlen für die Kontrolle der Küchenergebnisse;
+Inhalte
+Ermittlung der „Gewinner“ „Renner“ “Schläfer“ und „Verlierer“ im Segment Hauptgerichte
+Berechnung des Beliebtheitsgrades Ihres Speisenangebotes
+Ermittlung Ihres aktuell durchschnittlichen Deckungbeitrages
+Kennzahlen für die Kontrolle der Küchenergebnisse
 Maßnahmenkatalog zur Erhöhung des Deckungsbeitrages
 
-Zielgruppe:
-F&B Manager, Küchenchefs, Souchefs, engagierte Köche aus der Gastronomie, Hotellerie oder GV, die sich zum Ziel gesetzt haben, in ihrer Abteilung wirtschaftlicher anhand von fundierten Zahlen zu arbeiten
+Zielgruppe
+FB Manager Küchenchefs Souchefs engagierte Köche aus der Gastronomie Hotellerie oder GV die sich zum Ziel gesetzt haben in ihrer Abteilung wirtschaftlicher anhand von fundierten Zahlen zu arbeiten
 
-Termin:
-20.04.2015 von 10:00 bis 11:15 Uhr (inkl. ca. 15 Minuten für offene Fragen)
+Termin
+ von bis Uhr inkl ca Minuten für offene Fragen
 
-Zeitplan:
-9:45 Uhr Versenden der Teilnehmerlinks
-10:00-10.15 Uhr Technikcheck
-10:15-11:00 Uhr Webinar
-11:00-11:15 Uhr Beantwortung von offenen Fragen
+Zeitplan
+ Uhr Versenden der Teilnehmerlinks
+ Uhr Technikcheck
+ Uhr Webinar
+ Uhr Beantwortung von offenen Fragen
 
-Voraussetzung zur Teilnahme:
+Voraussetzung zur Teilnahme
 
 Internetverbindung über Kabel
 Lautsprecher
 
 Das Onlineseminar wird mit dem Programm Gotomeeting durchgeführt
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300641910&affiliateid=200057808)<br/><br/># Related:
-
-<br />[bluray-player-pro-commercial-license-300990842.md](https://github.com/downloadplanet/downloadplanet/blob/main/bluray-player-pro-commercial-license-300990842.md)<br />[expertpdf-htmltopdf-enterprise-license-300986319.md](https://github.com/downloadplanet/downloadplanet/blob/main/expertpdf-htmltopdf-enterprise-license-300986319.md)<br />[olm-migrator-migration-license-300871094.md](https://github.com/downloadplanet/downloadplanet/blob/main/olm-migrator-migration-license-300871094.md)<br />[mobikin-backup-manager-for-android-mac-lifetime-2125pcs-license-300995871.md](https://github.com/downloadplanet/downloadplanet/blob/main/mobikin-backup-manager-for-android-mac-lifetime-2125pcs-license-300995871.md)<br />[loc00177-plate-3746-jpg-2048px-300733558.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00177-plate-3746-jpg-2048px-300733558.md)<br />[christmas-nutcracker-patterns-v115-300608314.md](https://github.com/downloadplanet/downloadplanet/blob/main/christmas-nutcracker-patterns-v115-300608314.md)<br />[pdf-secure-com-component-300452084.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-secure-com-component-300452084.md)<br />[loc00045-plate-0776-tif-full-300731085.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00045-plate-0776-tif-full-300731085.md)<br />[gnostice-document-studio-delphi-professional-subscription-1developer-license-300870465.md](https://github.com/downloadplanet/downloadplanet/blob/main/gnostice-document-studio-delphi-professional-subscription-1developer-license-300870465.md)<br />[ptz-controller-300945504.md](https://github.com/downloadplanet/downloadplanet/blob/main/ptz-controller-300945504.md)<br />[hdr-121-night-sky-300597681.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-121-night-sky-300597681.md)<br />[dose-for-excel-300693007.md](https://github.com/downloadplanet/downloadplanet/blob/main/dose-for-excel-300693007.md)<br />[verfwfachtpaket-3-rechtsteuern-videocoaching-24-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-von-schnelllernexperte-dr-marius-ebert-300603112.md](https://github.com/downloadplanet/downloadplanet/blob/main/verfwfachtpaket-3-rechtsteuern-videocoaching-24-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-von-schnelllernexperte-dr-marius-ebert-300603112.md)<br />[ats-ost-to-mbox-converter-software-personal-license-300778070.md](https://github.com/downloadplanet/downloadplanet/blob/main/ats-ost-to-mbox-converter-software-personal-license-300778070.md)<br />[diagram-studio-discount-300165689.md](https://github.com/downloadplanet/downloadplanet/blob/main/diagram-studio-discount-300165689.md)<br />[loc00206-plate-52242-jpg-4096px-300726795.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00206-plate-52242-jpg-4096px-300726795.md)<br />[batch-print-pro-8-300649559.md](https://github.com/downloadplanet/downloadplanet/blob/main/batch-print-pro-8-300649559.md)<br />[sportoffice-basketball-300497680.md](https://github.com/downloadplanet/downloadplanet/blob/main/sportoffice-basketball-300497680.md)<br />[regsnap-pro-101462.md](https://github.com/downloadplanet/downloadplanet/blob/main/regsnap-pro-101462.md)<br />[dmde-professional-upgrade-from-dmde-standard-2os-300490612.md](https://github.com/downloadplanet/downloadplanet/blob/main/dmde-professional-upgrade-from-dmde-standard-2os-300490612.md)
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300641910&affiliateid=200057808)<br/><br/>Related:
+<br />[database-comparer-vcl-tools-80-subscription-300973761.md](https://github.com/downloadplanet/downloadplanet/blob/main/database-comparer-vcl-tools-80-subscription-300973761.md)<br />[geprüfter-restaurantmeister-rechnungswesen-300481290.md](https://github.com/downloadplanet/downloadplanet/blob/main/geprüfter-restaurantmeister-rechnungswesen-300481290.md)<br />[bitrecover-bitwipe-wizard-standard-edition-301009457.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-bitwipe-wizard-standard-edition-301009457.md)<br />[kernel-recovery-for-outlook-express-corporate-licenseinr-300384765.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-recovery-for-outlook-express-corporate-licenseinr-300384765.md)<br />[mailbeenet-antispam-4-developers-team-300333792.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailbeenet-antispam-4-developers-team-300333792.md)<br />[0127-okr-300987731.md](https://github.com/downloadplanet/downloadplanet/blob/main/0127-okr-300987731.md)<br />[0195-vucaindex-301010954.md](https://github.com/downloadplanet/downloadplanet/blob/main/0195-vucaindex-301010954.md)<br />[christmas-candle-brushes-for-photoshop-affinity-elements-psp-etc-v42-300425550.md](https://github.com/downloadplanet/downloadplanet/blob/main/christmas-candle-brushes-for-photoshop-affinity-elements-psp-etc-v42-300425550.md)<br />[sea-creatures-truetype-font-eps-shapes-sharks-etc-v129-300469404.md](https://github.com/downloadplanet/downloadplanet/blob/main/sea-creatures-truetype-font-eps-shapes-sharks-etc-v129-300469404.md)<br />[mac-usb-flash-drive-data-recovery-pro-lifetime-license-jp-300949524.md](https://github.com/downloadplanet/downloadplanet/blob/main/mac-usb-flash-drive-data-recovery-pro-lifetime-license-jp-300949524.md)<br />[kernel-pdf-management-suite-corporate-license-300788513.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-pdf-management-suite-corporate-license-300788513.md)<br />[bixpack-8-dust-dirt-and-destruction-300538266.md](https://github.com/downloadplanet/downloadplanet/blob/main/bixpack-8-dust-dirt-and-destruction-300538266.md)<br />[voice-reader-home-15-français-audrey-french-female-audrey-300617410.md](https://github.com/downloadplanet/downloadplanet/blob/main/voice-reader-home-15-français-audrey-french-female-audrey-300617410.md)<br />[mailbee-message-queue-4-developers-team-300333774.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailbee-message-queue-4-developers-team-300333774.md)<br />[drs-windows-data-recoveryenterprise-license-301010111.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-windows-data-recoveryenterprise-license-301010111.md)<br />[ems-data-generator-for-sql-server-business-2-year-maintenance-300067987.md](https://github.com/downloadplanet/downloadplanet/blob/main/ems-data-generator-for-sql-server-business-2-year-maintenance-300067987.md)<br />[coolmuster-ios-eraser-1-year-license2630pcs-300882147.md](https://github.com/downloadplanet/downloadplanet/blob/main/coolmuster-ios-eraser-1-year-license2630pcs-300882147.md)<br />[propertyeditor-home-license-169682.md](https://github.com/downloadplanet/downloadplanet/blob/main/propertyeditor-home-license-169682.md)<br />[ems-db-comparer-for-mysql-business-2-year-maintenance-300067891.md](https://github.com/downloadplanet/downloadplanet/blob/main/ems-db-comparer-for-mysql-business-2-year-maintenance-300067891.md)<br />[log-parser-lizard-standard-edition-company-license-300959116.md](https://github.com/downloadplanet/downloadplanet/blob/main/log-parser-lizard-standard-edition-company-license-300959116.md)

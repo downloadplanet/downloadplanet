@@ -1,30 +1,29 @@
 # Trainingspaket "Betriebswirtschaftliches Handeln in der Kueche" Kalkulationsprogramm, Dienstplanprogramm und Training vom 11.10.-12.10.2016 in Bamberg
-Folgende Produkte erhalten Sie von uns:
+Folgende Produkte erhalten Sie von uns
 
 Komplettpaket Kalkulation Speisen mit Deckungsbeitrag
 Komplettpaket Portfolio Analyse Hauptgerichte Speisen
 Komplettpaket Soll Umsatz pro Mitarbeiterstunde
-Anmeldebestätigung und Platzreservierung zum Seminar "Betriebswirtschaftliches Handeln in der Küche"
+Anmeldebestätigung und Platzreservierung zum Seminar Betriebswirtschaftliches Handeln in der Küche
 
-Seminarthemen:
+Seminarthemen
 
-=>Definition der verschiedenen Kosten in der Küche (Personal-, Waren-, direkte und anteilige Gemeinkosten)
-=>Verteilung der Kosten nach dem A-B- C Schema
-=>Grundinformationen zur Ermittlung der Küchenproduktivität
-=>Ermitteln von Basisinformationen und aussagefähigen Kennzahlen
-=>Die wichtigsten 5 Küchen Kennzahlen errechnen
-=>Kalkulation der Wareneinsatz- und Personalkosten
-=>Praktische Anwendung der Speisendiagnose für die Preispolitik
-=> (Gewinner, Renner, Verlierer und Schläfer) unter Einsatz von Excel
-=>Maßnahmen um den Gewinn zu erhöhen
-=>Fallaufgaben aus der Praxis, Gruppendiskussionen, Teamaufgaben
+Definition der verschiedenen Kosten in der Küche Personal Waren direkte und anteilige Gemeinkosten
+Verteilung der Kosten nach dem AB C Schema
+Grundinformationen zur Ermittlung der Küchenproduktivität
+Ermitteln von Basisinformationen und aussagefähigen Kennzahlen
+Die wichtigsten Küchen Kennzahlen errechnen
+Kalkulation der Wareneinsatz und Personalkosten
+Praktische Anwendung der Speisendiagnose für die Preispolitik
+ Gewinner Renner Verlierer und Schläfer unter Einsatz von Excel
+Maßnahmen um den Gewinn zu erhöhen
+Fallaufgaben aus der Praxis Gruppendiskussionen Teamaufgaben
 
 
-Beginn: Dienstag, 11.10.2016, 10.00 - 18.00 Uhr
-Ende: Mittwoch, 12.10.2016, 09.00 -17.00 Uhr
+Beginn Dienstag Uhr
+Ende Mittwoch Uhr
 
-Seminarort: Bamberg
-Übernachtungsmöglichkeiten:
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671871&affiliateid=200057808)<br/><br/># Related:
-
-<br />[quikquak-plugin-bundle-300276418.md](https://github.com/downloadplanet/downloadplanet/blob/main/quikquak-plugin-bundle-300276418.md)<br />[kompas3d-cad-home-13-esd-300580914.md](https://github.com/downloadplanet/downloadplanet/blob/main/kompas3d-cad-home-13-esd-300580914.md)<br />[sl-6-month-300695575.md](https://github.com/downloadplanet/downloadplanet/blob/main/sl-6-month-300695575.md)<br />[heart-custom-shapes-for-photoshop-elements-csh-v69-300295117.md](https://github.com/downloadplanet/downloadplanet/blob/main/heart-custom-shapes-for-photoshop-elements-csh-v69-300295117.md)<br />[mailssoftware-ost-to-pst-converter-enterprise-license-300882734.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailssoftware-ost-to-pst-converter-enterprise-license-300882734.md)<br />[ems-sql-backup-for-sql-server-business-1-year-maintenance-300368884.md](https://github.com/downloadplanet/downloadplanet/blob/main/ems-sql-backup-for-sql-server-business-1-year-maintenance-300368884.md)<br />[ozeki-sms-server-157451.md](https://github.com/downloadplanet/downloadplanet/blob/main/ozeki-sms-server-157451.md)<br />[bitrecover-maildir-converter-wizard-technician-license-300909951.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-maildir-converter-wizard-technician-license-300909951.md)<br />[drs-pst-password-recovery-for-windowsenterprise-license-301004260.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-pst-password-recovery-for-windowsenterprise-license-301004260.md)<br />[all-3delites-components-lifetime-commercial-bundle-license-300846737.md](https://github.com/downloadplanet/downloadplanet/blob/main/all-3delites-components-lifetime-commercial-bundle-license-300846737.md)<br />[arrow-brushes-for-illustrator-v13-300468938.md](https://github.com/downloadplanet/downloadplanet/blob/main/arrow-brushes-for-illustrator-v13-300468938.md)<br />[extreme-picture-finder-license-plus-1-year-of-free-updates-172817.md](https://github.com/downloadplanet/downloadplanet/blob/main/extreme-picture-finder-license-plus-1-year-of-free-updates-172817.md)<br />[gnostice-document-studio-net-professional-subscription-1developer-license-300962339.md](https://github.com/downloadplanet/downloadplanet/blob/main/gnostice-document-studio-net-professional-subscription-1developer-license-300962339.md)<br />[heroglyph-v4-pro-300514306.md](https://github.com/downloadplanet/downloadplanet/blob/main/heroglyph-v4-pro-300514306.md)<br />[aidaim-msgcommunicator-team8-224626.md](https://github.com/downloadplanet/downloadplanet/blob/main/aidaim-msgcommunicator-team8-224626.md)<br />[bitrecover-eml-attachment-remover-pro-license-301004736.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-eml-attachment-remover-pro-license-301004736.md)<br />[abakus-vcl-lifetime-300745882.md](https://github.com/downloadplanet/downloadplanet/blob/main/abakus-vcl-lifetime-300745882.md)<br />[wintoolsnet-premium-300258434.md](https://github.com/downloadplanet/downloadplanet/blob/main/wintoolsnet-premium-300258434.md)<br />[ftg-00086-center-road-300652137.md](https://github.com/downloadplanet/downloadplanet/blob/main/ftg-00086-center-road-300652137.md)<br />[mailsware-winmaildat-converter-toolkit-pro-license-300963835.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailsware-winmaildat-converter-toolkit-pro-license-300963835.md)
+Seminarort Bamberg
+Übernachtungsmöglichkeiten
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300671871&affiliateid=200057808)<br/><br/>Related:
+<br />[fachwirt-im-gastgewerbe-recht-und-steuern-300452420.md](https://github.com/downloadplanet/downloadplanet/blob/main/fachwirt-im-gastgewerbe-recht-und-steuern-300452420.md)<br />[hdr-047-old-freight-yard-plates-300538120.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-047-old-freight-yard-plates-300538120.md)<br />[photo-exif-watermark-maker-registration-300368398.md](https://github.com/downloadplanet/downloadplanet/blob/main/photo-exif-watermark-maker-registration-300368398.md)<br />[audio-cd-burner-console-300914524.md](https://github.com/downloadplanet/downloadplanet/blob/main/audio-cd-burner-console-300914524.md)<br />[3dmiracle-131780.md](https://github.com/downloadplanet/downloadplanet/blob/main/3dmiracle-131780.md)<br />[asn1-c-compiler-300578323.md](https://github.com/downloadplanet/downloadplanet/blob/main/asn1-c-compiler-300578323.md)<br />[service-hard-disk-data-service-300947988.md](https://github.com/downloadplanet/downloadplanet/blob/main/service-hard-disk-data-service-300947988.md)<br />[aomei-centralized-backupper-professional-package-300870568.md](https://github.com/downloadplanet/downloadplanet/blob/main/aomei-centralized-backupper-professional-package-300870568.md)<br />[fax-voip-builtin-voipisdn-faxaudio-lines-license-for-8-lines-t38-and-audio-fax-300362007.md](https://github.com/downloadplanet/downloadplanet/blob/main/fax-voip-builtin-voipisdn-faxaudio-lines-license-for-8-lines-t38-and-audio-fax-300362007.md)<br />[hdr-121-night-sky-300597681.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-121-night-sky-300597681.md)<br />[wondershare-pdf-to-epub-converter-for-windows-multiuser-personal-license-610-pcs-300952891.md](https://github.com/downloadplanet/downloadplanet/blob/main/wondershare-pdf-to-epub-converter-for-windows-multiuser-personal-license-610-pcs-300952891.md)<br />[spotmau-powersuite-2011-promotion-300949661.md](https://github.com/downloadplanet/downloadplanet/blob/main/spotmau-powersuite-2011-promotion-300949661.md)<br />[diagram-studio-small-team-license-discount-300309552.md](https://github.com/downloadplanet/downloadplanet/blob/main/diagram-studio-small-team-license-discount-300309552.md)<br />[anybizsoft-pdf-converter-multiuser-personal-license-610-pcs-300952748.md](https://github.com/downloadplanet/downloadplanet/blob/main/anybizsoft-pdf-converter-multiuser-personal-license-610-pcs-300952748.md)<br />[hdr-light-011-large-surface-300653034.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-light-011-large-surface-300653034.md)<br />[pdf-management-toolkitpdf-manager-pdf-recoverysingle-user-license-300725461.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-management-toolkitpdf-manager-pdf-recoverysingle-user-license-300725461.md)<br />[abviewer-professional-178250.md](https://github.com/downloadplanet/downloadplanet/blob/main/abviewer-professional-178250.md)<br />[amazing-any-dvd-converter-commercial-license-300909228.md](https://github.com/downloadplanet/downloadplanet/blob/main/amazing-any-dvd-converter-commercial-license-300909228.md)<br />[esofttools-ost-to-nsf-converter-enterprise-license-300877981.md](https://github.com/downloadplanet/downloadplanet/blob/main/esofttools-ost-to-nsf-converter-enterprise-license-300877981.md)<br />[loc00049-plate-1130-layout-private-300731146.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00049-plate-1130-layout-private-300731146.md)

@@ -1,84 +1,83 @@
 # Heroglyph V2 Backup-CD
 ![Heroglyph V2 Backup-CD](https://mycommerce.akamaized.net/api/pimages/P300003454/BIG/300003454.JPG)
-Heroglyph Version 2 : easier - more effects - far-reaching - kindlier !
-Version 1 already got good reviews : the tenor: "Heroglyph - a good program with good capabilities for perfect quality videotitels and trailerproductions".
+Heroglyph Version easier more effects farreaching kindlier 
+Version already got good reviews the tenor Heroglyph a good program with good capabilities for perfect quality videotitels and trailerproductions
 
-Only the handling was considered critical some times...
-also some users came to this conclusion and some of them still could not use the whole great potential of this software.
+Only the handling was considered critical some times
+also some users came to this conclusion and some of them still could not use the whole great potential of this software
 
-But that`s the past... and we could learn from many replies and wishes:
-sample SUCCESSFUL-IN-ONLY-2-MINUTES (creating a animated route)!
+But thats the past and we could learn from many replies and wishes
+sample SUCCESSFULINONLYMINUTES creating a animated route
 
-Therefore the new version is different, it is application-oriented : extreme easy to use, it assists during title and effect design and again it includes complete new effect and use possibilities.
+Therefore the new version is different it is applicationoriented extreme easy to use it assists during title and effect design and again it includes complete new effect and use possibilities
 
-Now - really all cutters can use the fantastic potential of this software with the new look & feel and everybody will produce excellent high quality titels and stunning trailers with Heroglyph V2!
-Easier...
-New key-feature: Route-designer! Create visualisations of your trips/tours on imported maps. Show matching pictures or sequences or titles during the time the route appears. Just perfect for animated visualisations of travel-routes, for charts or racetracks etc.
-DEMOANIMATIONS (WMV) demonstrating the ease of use; Videos now with English User interface!:
-Part 1 ROUTESAMPLE
-Part 2 TEXT-ON-PATH
-Part 3 SUCCESSFUL-IN-ONLY-2-MINUTES
-New application: Object-Mover, Text-/Graphic-/Videoobjects can be moved on a free painted path. Of course those moves can be affected by the well-known additional effect possibilities of heroglyph (Char-by-Char, Word-by-Word etc.)
-DEMOANIMATION (WMV) demonstrating the production; Videos now with English User interface! MOVE OBJECTS
-New application: Multivision-Generator: create 5 x 5 tiles (or even more...) videowalls/multivisions in a few seconds
-New application: camera on oversized graphics - simpy perfect for example for moving maps etc.
-Part 1 Demo moving a oversized map
-
-
+Now really all cutters can use the fantastic potential of this software with the new look feel and everybody will produce excellent high quality titels and stunning trailers with Heroglyph V
+Easier
+New keyfeature Routedesigner Create visualisations of your tripstours on imported maps Show matching pictures or sequences or titles during the time the route appears Just perfect for animated visualisations of travelroutes for charts or racetracks etc
+DEMOANIMATIONS WMV demonstrating the ease of use Videos now with English User interface
+Part ROUTESAMPLE
+Part TEXTONPATH
+Part SUCCESSFULINONLYMINUTES
+New application ObjectMover TextGraphicVideoobjects can be moved on a free painted path Of course those moves can be affected by the wellknown additional effect possibilities of heroglyph CharbyChar WordbyWord etc
+DEMOANIMATION WMV demonstrating the production Videos now with English User interface MOVE OBJECTS
+New application MultivisionGenerator create x tiles or even more videowallsmultivisions in a few seconds
+New application camera on oversized graphics simpy perfect for example for moving maps etc
+Part Demo moving a oversized map
 
 
-Heroglyph Version 2 now is much more innovative and ergonomic:
-fast way to results by ergonomic-assistants
-Logical worksteps are active provided to the user, further steps are recommended to the user
-Object-Generators are being shown logical and depending on situations
-the better overvew in the timeline and design gives a better "look & feel" which means more understanding
+
+
+Heroglyph Version now is much more innovative and ergonomic
+fast way to results by ergonomicassistants
+Logical worksteps are active provided to the user further steps are recommended to the user
+ObjectGenerators are being shown logical and depending on situations
+the better overvew in the timeline and design gives a better look feel which means more understanding
 alternative displaymodes
 schematic display of timeline objects
-far-reaching enhancement of all context menues
-New taskbar with context sensitive items incl. animated symbols
-Unlike Version 1 extrem easier effect handling and really comprehensible Timeline-Handling
-Modular conception with animated thumbs instead entering cryptical values (values of course are further possible for expert users)
-Absolute new "Active-User-Signals" showing the user where he can solve things smart and effective
-Unlimited Undo - essential for testing effects and designs...
-Registration process only necessary once - after system changes no more need for further registration (unike version 1 registering procedure)
-optimised template handling:
+farreaching enhancement of all context menues
+New taskbar with context sensitive items incl animated symbols
+Unlike Version extrem easier effect handling and really comprehensible TimelineHandling
+Modular conception with animated thumbs instead entering cryptical values values of course are further possible for expert users
+Absolute new ActiveUserSignals showing the user where he can solve things smart and effective
+Unlimited Undo essential for testing effects and designs
+Registration process only necessary once after system changes no more need for further registration unike version registering procedure
+optimised template handling
 learn more about the easy creation of a star wars title in only one minute
 
 
-More effective...
+More effective
 Now the full potential is available for all users by new assistants
-complete new effect templates, easier useable and better to understand due to animated icons
-Absolute new sub-templates to be combined free, catchword "construction kit"
+complete new effect templates easier useable and better to understand due to animated icons
+Absolute new subtemplates to be combined free catchword construction kit
 create and safe own effect templates
-easy-to-create animated moving paths for still or animated objects, titles etc.
-far-reaching...
-HDV compatible, also 16:9, Cineon, Film2K, Video-CD etc. , also own settings are free customisable!
-RAW-Data-export for the use of Heroglyph-results in other professional NLEs
-New plugins for Pinnacle Liquid Edition 6 and also Canopus EDIUS
-Plugins integrated in Heroglyph Version 2
-Adobe Premiere V6 +
-Adobe Premiere PRO 1and higher (Support als Importer/Videosource and Videofilter!)
+easytocreate animated moving paths for still or animated objects titles etc
+farreaching
+HDV compatible also Cineon FilmK VideoCD etc also own settings are free customisable
+RAWDataexport for the use of Heroglyphresults in other professional NLEs
+New plugins for Pinnacle Liquid Edition and also Canopus EDIUS
+Plugins integrated in Heroglyph Version 
+Adobe Premiere V 
+Adobe Premiere PRO and higher Support als ImporterVideosource and Videofilter
 Adobe Premiere Elements
-Canopus EDIUS 2.5 and higher
-Ulead Media Studio V5 and higher
-Sony Vegas (display highly improved comparing to V1)
-Liquid Edition Plugin 6 and compatible
-(the integration in Pinnacle Studio will be handled seperatly, information follows)
-Unicode Support - Input of international characters (like Russian, Greek, Arabic etc.)
-Pricing... Heroglyph V2
+Canopus EDIUS and higher
+Ulead Media Studio V and higher
+Sony Vegas display highly improved comparing to V
+Liquid Edition Plugin and compatible
+the integration in Pinnacle Studio will be handled seperatly information follows
+Unicode Support Input of international characters like Russian Greek Arabic etc
+Pricing Heroglyph V
 
 
 
 
-Standard-
+Standard
 Price Product
-249 Euro Heroglyph V2 Retailbox
-229 Euro Heroglyph CD
-219 Euro Heroglyph Download
-119 Euro Upgrade CD
-99 Euro Upgrade Download
+ Euro Heroglyph V Retailbox
+ Euro Heroglyph CD
+ Euro Heroglyph Download
+ Euro Upgrade CD
+ Euro Upgrade Download
 more Animations
 show website
-[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300003454&affiliateid=200057808)<br/><br/># Related:
-
-<br />[patools-xl-toolbox-2-year-license-for-excel-2000-or-later-300753263.md](https://github.com/downloadplanet/downloadplanet/blob/main/patools-xl-toolbox-2-year-license-for-excel-2000-or-later-300753263.md)<br />[afterlogic-webmail-pro-php-unlimited-computers-unlimited-users-300193239.md](https://github.com/downloadplanet/downloadplanet/blob/main/afterlogic-webmail-pro-php-unlimited-computers-unlimited-users-300193239.md)<br />[zoomburst-dingbats-font-shapes-for-photoshop-psp-affinity-photo-etc-300753156.md](https://github.com/downloadplanet/downloadplanet/blob/main/zoomburst-dingbats-font-shapes-for-photoshop-psp-affinity-photo-etc-300753156.md)<br />[solveigmm-wmp-trimmer-plugin-3-home-edition-300165648.md](https://github.com/downloadplanet/downloadplanet/blob/main/solveigmm-wmp-trimmer-plugin-3-home-edition-300165648.md)<br />[accountright-password-recovery-for-personal-use-300614909.md](https://github.com/downloadplanet/downloadplanet/blob/main/accountright-password-recovery-for-personal-use-300614909.md)<br />[recoverytools-outlook-migrator-enterprise-license-300860213.md](https://github.com/downloadplanet/downloadplanet/blob/main/recoverytools-outlook-migrator-enterprise-license-300860213.md)<br />[christmas-symbols-for-illustrator-ai-v24-300188555.md](https://github.com/downloadplanet/downloadplanet/blob/main/christmas-symbols-for-illustrator-ai-v24-300188555.md)<br />[ats-zip-password-recovery-software-site-license-300778935.md](https://github.com/downloadplanet/downloadplanet/blob/main/ats-zip-password-recovery-software-site-license-300778935.md)<br />[drs-pst-compress-and-compact-for-windowstechnician-license-301004401.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-pst-compress-and-compact-for-windowstechnician-license-301004401.md)<br />[drs-ost-recoverytechnician-license-301004377.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-ost-recoverytechnician-license-301004377.md)<br />[mailsmagic-pst-to-pdf-business-license-300854311.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailsmagic-pst-to-pdf-business-license-300854311.md)<br />[mailsware-msg-converter-migration-license-300787452.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailsware-msg-converter-migration-license-300787452.md)<br />[greek-ornament-truetype-fonts-eps-shapes-v42-300277721.md](https://github.com/downloadplanet/downloadplanet/blob/main/greek-ornament-truetype-fonts-eps-shapes-v42-300277721.md)<br />[step-patterns-for-photoshop-elements-paintshop-pro-v94-300509608.md](https://github.com/downloadplanet/downloadplanet/blob/main/step-patterns-for-photoshop-elements-paintshop-pro-v94-300509608.md)<br />[layer2-tag-cloud-web-part-for-sharepoint-300482363.md](https://github.com/downloadplanet/downloadplanet/blob/main/layer2-tag-cloud-web-part-for-sharepoint-300482363.md)<br />[decision-making-helper-business-10-pcs-300551757.md](https://github.com/downloadplanet/downloadplanet/blob/main/decision-making-helper-business-10-pcs-300551757.md)<br />[coolmuster-ios-eraser-1-year-license1115pcs-300882157.md](https://github.com/downloadplanet/downloadplanet/blob/main/coolmuster-ios-eraser-1-year-license1115pcs-300882157.md)<br />[think-big-silent-subliminal-package-300647318.md](https://github.com/downloadplanet/downloadplanet/blob/main/think-big-silent-subliminal-package-300647318.md)<br />[anyvid-win-monthly-300786816.md](https://github.com/downloadplanet/downloadplanet/blob/main/anyvid-win-monthly-300786816.md)<br />[easyemail-standard-client-300531888.md](https://github.com/downloadplanet/downloadplanet/blob/main/easyemail-standard-client-300531888.md)
+[>> Detailed information](https://secure.element5.com/esales/product.html?productid=300003454&affiliateid=200057808)<br/><br/>Related:
+<br />[pdf-image-stamp-server-for-linux-workstationdeveloper-license-300454341.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-image-stamp-server-for-linux-workstationdeveloper-license-300454341.md)<br />[dmde-standard-edition-1os-300490554.md](https://github.com/downloadplanet/downloadplanet/blob/main/dmde-standard-edition-1os-300490554.md)<br />[esofttools-ost-recovery-technician-license-300877199.md](https://github.com/downloadplanet/downloadplanet/blob/main/esofttools-ost-recovery-technician-license-300877199.md)<br />[loopbe1-commercial-use-license-210891.md](https://github.com/downloadplanet/downloadplanet/blob/main/loopbe1-commercial-use-license-210891.md)<br />[kalkulation-getränke-2017-einfach-inkl-konzept-videoanleitung-und-pdfkurzanleitung-300738309.md](https://github.com/downloadplanet/downloadplanet/blob/main/kalkulation-getränke-2017-einfach-inkl-konzept-videoanleitung-und-pdfkurzanleitung-300738309.md)<br />[ftg-00076-driving-reflection-300618458.md](https://github.com/downloadplanet/downloadplanet/blob/main/ftg-00076-driving-reflection-300618458.md)<br />[panther-cats-brushes-for-photoshop-other-v91-300469254.md](https://github.com/downloadplanet/downloadplanet/blob/main/panther-cats-brushes-for-photoshop-other-v91-300469254.md)<br />[totalcode-for-adobe-premiere-pro-digital-cinema-pack-300526814.md](https://github.com/downloadplanet/downloadplanet/blob/main/totalcode-for-adobe-premiere-pro-digital-cinema-pack-300526814.md)<br />[act-password-133571.md](https://github.com/downloadplanet/downloadplanet/blob/main/act-password-133571.md)<br />[cubexsoft-zimbra-export-pro-license-discounted-special-offer-300851587.md](https://github.com/downloadplanet/downloadplanet/blob/main/cubexsoft-zimbra-export-pro-license-discounted-special-offer-300851587.md)<br />[hdr-057-road-dawn-300532420.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-057-road-dawn-300532420.md)<br />[sysinfo-dbf-recoveryadministrator-license-300612759.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfo-dbf-recoveryadministrator-license-300612759.md)<br />[sysinfo-encase-data-recoveryhome-user-license-300743156.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfo-encase-data-recoveryhome-user-license-300743156.md)<br />[sportdraw-minifootball-mini-soccer-300067671.md](https://github.com/downloadplanet/downloadplanet/blob/main/sportdraw-minifootball-mini-soccer-300067671.md)<br />[rcysoft-card-data-recovery-pro-commercial-license-tr-300915018.md](https://github.com/downloadplanet/downloadplanet/blob/main/rcysoft-card-data-recovery-pro-commercial-license-tr-300915018.md)<br />[ems-sql-backup-for-sql-server-business-3-year-maintenance-300368887.md](https://github.com/downloadplanet/downloadplanet/blob/main/ems-sql-backup-for-sql-server-business-3-year-maintenance-300368887.md)<br />[shapes-database-library-300650409.md](https://github.com/downloadplanet/downloadplanet/blob/main/shapes-database-library-300650409.md)<br />[hdr-084-parking-lot-300546149.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-084-parking-lot-300546149.md)<br />[hdr-100-road-300598135.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-100-road-300598135.md)<br />[swirl-truetype-font-eps-shapes-v39-300267195.md](https://github.com/downloadplanet/downloadplanet/blob/main/swirl-truetype-font-eps-shapes-v39-300267195.md)

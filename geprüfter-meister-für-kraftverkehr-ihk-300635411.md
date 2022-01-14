@@ -1,27 +1,26 @@
 # Geprüfter Meister für Kraftverkehr IHK
 ![Geprüfter Meister für Kraftverkehr IHK](https://mycommerce.akamaized.net/api/pimages/P300635411/BIG/300635411.JPG)
-A. Fachrichtungsübergreifende Basisqualifikationen
-  Rechtsbewusstes Handeln
+A Fachrichtungsübergreifende Basisqualifikationen
+ Rechtsbewusstes Handeln
 Betriebswirtschaftliches Handeln
-Anwendung von Methoden der Information, Kommunikation und Planung
+Anwendung von Methoden der Information Kommunikation und Planung
 Zusammenarbeit im Betrieb
-  Nach dem zurzeit gültigen Rahmenstoffplan des DIHK
-  MP3 - Dateien (Audio-Dateien) 47
-Gesamtgrösse 401.7 MB
-Gesamtspielzeit 05 Std:00 Min
-Technische Daten 192 kbit / 44100 hz / stereo
-  Impressum
-  Verlag für Lernmedien - Mit Freude zum Diplom
-Sigrid Ebert e. Kfr.
-  Büro:
-  Haarener Straße 14
-52525 Waldfeucht-Haaren
-  Tel.: 02455 398 16 15
-EMail: verlag@lernlocker.de
-Internet: www.lernlocker.de
-  Handelsregister Nr. HRA 7885
+ Nach dem zurzeit gültigen Rahmenstoffplan des DIHK
+ MP Dateien AudioDateien 
+Gesamtgrösse MB
+Gesamtspielzeit Std Min
+Technische Daten kbit hz stereo
+ Impressum
+ Verlag für Lernmedien Mit Freude zum Diplom
+Sigrid Ebert e Kfr
+ Büro
+ Haarener Straße 
+ WaldfeuchtHaaren
+ Tel 
+EMail 
+Internet wwwlernlockerde
+ Handelsregister Nr HRA 
 Amtsgericht Aachen
-  Ust.-ID DE 249 894 277
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300635411&affiliateid=200057808)<br/><br/># Related:
-
-<br />[kernel-data-recovery-suite-technician-license-300788499.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-data-recovery-suite-technician-license-300788499.md)<br />[mailbeenet-security-unlimited-developer-site-300333790.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailbeenet-security-unlimited-developer-site-300333790.md)<br />[kernel-exchange-suite-corporate-300695940.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-exchange-suite-corporate-300695940.md)<br />[recoverytools-outlook-migrator-enterprise-license-300860213.md](https://github.com/downloadplanet/downloadplanet/blob/main/recoverytools-outlook-migrator-enterprise-license-300860213.md)<br />[serialtools-web-activex-for-pocket-pc-202722.md](https://github.com/downloadplanet/downloadplanet/blob/main/serialtools-web-activex-for-pocket-pc-202722.md)<br />[filemaker-server-password-recovery-for-personal-use-300634265.md](https://github.com/downloadplanet/downloadplanet/blob/main/filemaker-server-password-recovery-for-personal-use-300634265.md)<br />[amazing-mac-mts-m2ts-converter-300864441.md](https://github.com/downloadplanet/downloadplanet/blob/main/amazing-mac-mts-m2ts-converter-300864441.md)<br />[afterlogic-webmail-pro-php-unlimited-users-300798474.md](https://github.com/downloadplanet/downloadplanet/blob/main/afterlogic-webmail-pro-php-unlimited-users-300798474.md)<br />[basketball-playbook-011-300599839.md](https://github.com/downloadplanet/downloadplanet/blob/main/basketball-playbook-011-300599839.md)<br />[smexport-suite-for-delphicbuilder-without-sources-139007.md](https://github.com/downloadplanet/downloadplanet/blob/main/smexport-suite-for-delphicbuilder-without-sources-139007.md)<br />[anycount-corporate-license-2-pcs-217606.md](https://github.com/downloadplanet/downloadplanet/blob/main/anycount-corporate-license-2-pcs-217606.md)<br />[rcysoft-any-bluray-player-pro-enterprise-license-300987988.md](https://github.com/downloadplanet/downloadplanet/blob/main/rcysoft-any-bluray-player-pro-enterprise-license-300987988.md)<br />[loc00210-plate-6269-layout-private-300727345.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00210-plate-6269-layout-private-300727345.md)<br />[outlookcom-backup-wizard-migration-license-300983819.md](https://github.com/downloadplanet/downloadplanet/blob/main/outlookcom-backup-wizard-migration-license-300983819.md)<br />[batch-print-pro-8-site-license-per-country-premium-protection-300649566.md](https://github.com/downloadplanet/downloadplanet/blob/main/batch-print-pro-8-site-license-per-country-premium-protection-300649566.md)<br />[strong-belief-3a-subliminal-package-300777365.md](https://github.com/downloadplanet/downloadplanet/blob/main/strong-belief-3a-subliminal-package-300777365.md)<br />[style-enhancer-40-plus-pmstyle-sets-0208-300451115.md](https://github.com/downloadplanet/downloadplanet/blob/main/style-enhancer-40-plus-pmstyle-sets-0208-300451115.md)<br />[gestion-des-stocks-300501128.md](https://github.com/downloadplanet/downloadplanet/blob/main/gestion-des-stocks-300501128.md)<br />[extended-download-300623515.md](https://github.com/downloadplanet/downloadplanet/blob/main/extended-download-300623515.md)<br />[quickmigrations-for-apple-mail-to-outlook-300909498.md](https://github.com/downloadplanet/downloadplanet/blob/main/quickmigrations-for-apple-mail-to-outlook-300909498.md)
+ UstID DE 
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300635411&affiliateid=200057808)<br/><br/>Related:
+<br />[upgrade-videocad-7-lite-to-videocad-8-lite-300739309.md](https://github.com/downloadplanet/downloadplanet/blob/main/upgrade-videocad-7-lite-to-videocad-8-lite-300739309.md)<br />[loc00209-plate-7066-layout-private-300733641.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00209-plate-7066-layout-private-300733641.md)<br />[aspack-personal-license-for-noncommercial-applications-300173797.md](https://github.com/downloadplanet/downloadplanet/blob/main/aspack-personal-license-for-noncommercial-applications-300173797.md)<br />[isizulunet-zulu-english-dictionary-software-dictionary-300389805.md](https://github.com/downloadplanet/downloadplanet/blob/main/isizulunet-zulu-english-dictionary-software-dictionary-300389805.md)<br />[tcp-serverclient-library-commercial-license-300591475.md](https://github.com/downloadplanet/downloadplanet/blob/main/tcp-serverclient-library-commercial-license-300591475.md)<br />[drs-office365-restore-and-backup-for-windowsadministrator-license-301004336.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-office365-restore-and-backup-for-windowsadministrator-license-301004336.md)<br />[coolmuster-ios-assistant-for-mac-lifetime-license1620pcs-300882108.md](https://github.com/downloadplanet/downloadplanet/blob/main/coolmuster-ios-assistant-for-mac-lifetime-license1620pcs-300882108.md)<br />[kernel-recovery-for-outlook-technician-licenseinr-300384763.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-recovery-for-outlook-technician-licenseinr-300384763.md)<br />[anyvid-mac-lifetime-10-pcs-jp-300849339.md](https://github.com/downloadplanet/downloadplanet/blob/main/anyvid-mac-lifetime-10-pcs-jp-300849339.md)<br />[sysinfo-xlsx-repairsingle-home-user-license-300724956.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfo-xlsx-repairsingle-home-user-license-300724956.md)<br />[batch-print-pro-x-300766081.md](https://github.com/downloadplanet/downloadplanet/blob/main/batch-print-pro-x-300766081.md)<br />[wondershare-pdf-to-excel-for-mac-25-multiuser-commercial-license-300952870.md](https://github.com/downloadplanet/downloadplanet/blob/main/wondershare-pdf-to-excel-for-mac-25-multiuser-commercial-license-300952870.md)<br />[auto-map-300452367.md](https://github.com/downloadplanet/downloadplanet/blob/main/auto-map-300452367.md)<br />[bitrecover-aol-mail-backup-wizard-pro-edition-301000867.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-aol-mail-backup-wizard-pro-edition-301000867.md)<br />[quickdata-eml-to-pdf-converter-pro-license-300947344.md](https://github.com/downloadplanet/downloadplanet/blob/main/quickdata-eml-to-pdf-converter-pro-license-300947344.md)<br />[pocketconquest-300944049.md](https://github.com/downloadplanet/downloadplanet/blob/main/pocketconquest-300944049.md)<br />[wondershare-pdf-converter-deutsch-300952672.md](https://github.com/downloadplanet/downloadplanet/blob/main/wondershare-pdf-converter-deutsch-300952672.md)<br />[tmultithread-commercial-license-300432176.md](https://github.com/downloadplanet/downloadplanet/blob/main/tmultithread-commercial-license-300432176.md)<br />[mbox-splitter-business-license-300851784.md](https://github.com/downloadplanet/downloadplanet/blob/main/mbox-splitter-business-license-300851784.md)<br />[swirl-font-for-psp-coreldraw-pages-v131-300469406.md](https://github.com/downloadplanet/downloadplanet/blob/main/swirl-font-for-psp-coreldraw-pages-v131-300469406.md)

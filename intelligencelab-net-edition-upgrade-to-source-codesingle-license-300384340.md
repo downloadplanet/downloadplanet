@@ -1,25 +1,24 @@
 # IntelligenceLab ( .NET Edition ) UPGRADE to Source Code-Single License
 ![IntelligenceLab ( .NET Edition ) UPGRADE to Source Code-Single License](https://mycommerce.akamaized.net/api/pimages/P300384340/BIG/300384340.JPG)
-IntelligenceLab is a set of .NET 2.0(or higher) components, based on OpenWire technology for Artificial Intelligence. Allows implementing data classification, SPAM filters, computer vision, speech recognition, OCR and decision making applications with minimal effort.
-The library is fully multithreaded, utilizes well modern multi-core systems, and runs at full native performance.
-Also includes a Visual Graphical Editor for Codeless Development.
-Contains:
-Neural Network - Feed forward Neural Network classifier.
-Naive Bayes - Naive Bayes classifier.
-K Nearest Neighbor - K Nearest Neighbor classifier.
-Self Organizing Map - Self Organizing Map classifier.
-Radial Basis Function - Radial Basis Function Network classifier.
-Back propagation - Back propagation Neural Network trainer.
-RProp - Resilient back propagation Neural Network trainer.
-Neuron - General purpose neuron component.
-Data preparation components - Prepare the training, features and classes data.
-Typical applications:
-SPAM filters.
-OCR applications.
-Computer Vision.
-Speech recognition.
-Data classification.
-Decision making.
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300384340&affiliateid=200057808)<br/><br/># Related:
-
-<br />[dbf-2-html-300251148.md](https://github.com/downloadplanet/downloadplanet/blob/main/dbf-2-html-300251148.md)<br />[anybizsoft-pdf-to-epub-converter-multiuser-personal-license-1620-pcs-300952786.md](https://github.com/downloadplanet/downloadplanet/blob/main/anybizsoft-pdf-to-epub-converter-multiuser-personal-license-1620-pcs-300952786.md)<br />[drs-gmail-backup-for-windowsenterprise-license-301004186.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-gmail-backup-for-windowsenterprise-license-301004186.md)<br />[meditationsmusik-inner-harmony-300530862.md](https://github.com/downloadplanet/downloadplanet/blob/main/meditationsmusik-inner-harmony-300530862.md)<br />[ipubsoft-iphone-to-computer-transfer-300922011.md](https://github.com/downloadplanet/downloadplanet/blob/main/ipubsoft-iphone-to-computer-transfer-300922011.md)<br />[arclab-inbox2db-unlimited-us-300646306.md](https://github.com/downloadplanet/downloadplanet/blob/main/arclab-inbox2db-unlimited-us-300646306.md)<br />[kernel-for-project-server-300537742.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-project-server-300537742.md)<br />[loc00208-plate-6637-jpg-4096px-300733684.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00208-plate-6637-jpg-4096px-300733684.md)<br />[bvs-video-poker-300908848.md](https://github.com/downloadplanet/downloadplanet/blob/main/bvs-video-poker-300908848.md)<br />[test-tone-generator-professional-license-300166245.md](https://github.com/downloadplanet/downloadplanet/blob/main/test-tone-generator-professional-license-300166245.md)<br />[amazing-ipad-contact-backup-300859114.md](https://github.com/downloadplanet/downloadplanet/blob/main/amazing-ipad-contact-backup-300859114.md)<br />[heroglyph-creative-pack-vol-1-25-300379983.md](https://github.com/downloadplanet/downloadplanet/blob/main/heroglyph-creative-pack-vol-1-25-300379983.md)<br />[nmigrator-enterprise-license-300778046.md](https://github.com/downloadplanet/downloadplanet/blob/main/nmigrator-enterprise-license-300778046.md)<br />[gaebonline-2021-einzelplatz-300984801.md](https://github.com/downloadplanet/downloadplanet/blob/main/gaebonline-2021-einzelplatz-300984801.md)<br />[macuncle-rackspace-backup-pro-license-300998791.md](https://github.com/downloadplanet/downloadplanet/blob/main/macuncle-rackspace-backup-pro-license-300998791.md)<br />[pdf2exe-pro-300115559.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf2exe-pro-300115559.md)<br />[server-network-recycle-bin-tool-the-server-license-for-installing-on-2-servers-300881720.md](https://github.com/downloadplanet/downloadplanet/blob/main/server-network-recycle-bin-tool-the-server-license-for-installing-on-2-servers-300881720.md)<br />[pcunlocker-enterprise-300880519.md](https://github.com/downloadplanet/downloadplanet/blob/main/pcunlocker-enterprise-300880519.md)<br />[hdr-video-simple-tools-windows-64-bit-300912561.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-video-simple-tools-windows-64-bit-300912561.md)<br />[free-image-bitmap-library-commercial-license-300982904.md](https://github.com/downloadplanet/downloadplanet/blob/main/free-image-bitmap-library-commercial-license-300982904.md)
+IntelligenceLab is a set of NET or higher components based on OpenWire technology for Artificial Intelligence Allows implementing data classification SPAM filters computer vision speech recognition OCR and decision making applications with minimal effort
+The library is fully multithreaded utilizes well modern multicore systems and runs at full native performance
+Also includes a Visual Graphical Editor for Codeless Development
+Contains
+Neural Network Feed forward Neural Network classifier
+Naive Bayes Naive Bayes classifier
+K Nearest Neighbor K Nearest Neighbor classifier
+Self Organizing Map Self Organizing Map classifier
+Radial Basis Function Radial Basis Function Network classifier
+Back propagation Back propagation Neural Network trainer
+RProp Resilient back propagation Neural Network trainer
+Neuron General purpose neuron component
+Data preparation components Prepare the training features and classes data
+Typical applications
+SPAM filters
+OCR applications
+Computer Vision
+Speech recognition
+Data classification
+Decision making
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300384340&affiliateid=200057808)<br/><br/>Related:
+<br />[nithonat-300192389.md](https://github.com/downloadplanet/downloadplanet/blob/main/nithonat-300192389.md)<br />[heart-brushes-for-photoshop-affinity-elements-psp-etc-v172-300576328.md](https://github.com/downloadplanet/downloadplanet/blob/main/heart-brushes-for-photoshop-affinity-elements-psp-etc-v172-300576328.md)<br />[turgs-mbox-wizard-pro-license-300784580.md](https://github.com/downloadplanet/downloadplanet/blob/main/turgs-mbox-wizard-pro-license-300784580.md)<br />[chevon-patterns-for-photoshop-elements-paintshop-pro-painter-v120-300615270.md](https://github.com/downloadplanet/downloadplanet/blob/main/chevon-patterns-for-photoshop-elements-paintshop-pro-painter-v120-300615270.md)<br />[buttonset10-300529410.md](https://github.com/downloadplanet/downloadplanet/blob/main/buttonset10-300529410.md)<br />[email-recovery-toolkitdbx-recovery-pst-recoverysingle-user-license-300725582.md](https://github.com/downloadplanet/downloadplanet/blob/main/email-recovery-toolkitdbx-recovery-pst-recoverysingle-user-license-300725582.md)<br />[lotus-notes-to-outlook-standard-license-300789892.md](https://github.com/downloadplanet/downloadplanet/blob/main/lotus-notes-to-outlook-standard-license-300789892.md)<br />[0161-customer-lifetime-value-301000488.md](https://github.com/downloadplanet/downloadplanet/blob/main/0161-customer-lifetime-value-301000488.md)<br />[anycount-8-standard-corporate-license-7-pcs-upgrade-to-professional-300528843.md](https://github.com/downloadplanet/downloadplanet/blob/main/anycount-8-standard-corporate-license-7-pcs-upgrade-to-professional-300528843.md)<br />[coolmuster-iphone-data-recovery-1-year1-pc-5-devices-301009505.md](https://github.com/downloadplanet/downloadplanet/blob/main/coolmuster-iphone-data-recovery-1-year1-pc-5-devices-301009505.md)<br />[avdshare-audio-converter-1-month-300847181.md](https://github.com/downloadplanet/downloadplanet/blob/main/avdshare-audio-converter-1-month-300847181.md)<br />[abakus-vcl-upgrade-to-source-lifetime-300745883.md](https://github.com/downloadplanet/downloadplanet/blob/main/abakus-vcl-upgrade-to-source-lifetime-300745883.md)<br />[ftg-00065-park-deck-slider-300618447.md](https://github.com/downloadplanet/downloadplanet/blob/main/ftg-00065-park-deck-slider-300618447.md)<br />[elements-for-pse-10-mac-300482127.md](https://github.com/downloadplanet/downloadplanet/blob/main/elements-for-pse-10-mac-300482127.md)<br />[gpsgate-express-bundle-license-1000-pack-300020881.md](https://github.com/downloadplanet/downloadplanet/blob/main/gpsgate-express-bundle-license-1000-pack-300020881.md)<br />[iskysoft-dvd-creator-for-windows-300948025.md](https://github.com/downloadplanet/downloadplanet/blob/main/iskysoft-dvd-creator-for-windows-300948025.md)<br />[sysinfo-pst-split-for-windowssingle-home-user-license-300534223.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfo-pst-split-for-windowssingle-home-user-license-300534223.md)<br />[anycount-8-enterprise-corporate-license-6-pcs-300528905.md](https://github.com/downloadplanet/downloadplanet/blob/main/anycount-8-enterprise-corporate-license-6-pcs-300528905.md)<br />[virtual-serial-port-control-oem-license-update-subscription-300355599.md](https://github.com/downloadplanet/downloadplanet/blob/main/virtual-serial-port-control-oem-license-update-subscription-300355599.md)<br />[pdfnup-for-hpux-workstationdeveloper-license-300454683.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdfnup-for-hpux-workstationdeveloper-license-300454683.md)

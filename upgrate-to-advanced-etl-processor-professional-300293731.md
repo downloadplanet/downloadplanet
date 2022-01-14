@@ -1,49 +1,49 @@
 # Upgrate to Advanced ETL Processor Professional
-Advanced ETL Processor Professional is a Codeless Automation Tool.
-Users can design Data transformations and Sql script add them to the package together with report, file, ftp, email and many more actions and schedule them for execution on regular basis
-By combining simple Package actions together Advanced ETL Processor Professional helps businesses to automate complicated business processes and everyday tasks.
-Advanced ETL Processor Professional supports complex enterprise environments including database, file, smtp, pop3 and ftp servers.
+Advanced ETL Processor Professional is a Codeless Automation Tool
+Users can design Data transformations and Sql script add them to the package together with report file ftp email and many more actions and schedule them for execution on regular basis
+By combining simple Package actions together Advanced ETL Processor Professional helps businesses to automate complicated business processes and everyday tasks
+Advanced ETL Processor Professional supports complex enterprise environments including database file smtp pop and ftp servers
 Since Advanced ETL Processor Professional is a codeless most of the tasks performed without writing a single line of code
-Download a Free Trial or Read Product Documentation (PDF) today. 
-Works out of the box, Backed up by Free, Fast, Unparalleled Support
-What can Advanced ETL Processor Professional Do?
+Download a Free Trial or Read Product Documentation PDF today 
+Works out of the box Backed up by Free Fast Unparalleled Support
+What can Advanced ETL Processor Professional Do
 
-Advanced ETL Processor is designed to automate everyday routine tasks. Typical usage of it would be extract data from Excel File,Validate Date Formats, Sort data , deduplicate it and load it into the database, run stored procedure or Sql script. Once loading is completed send email to the administrator.
-Some examples of what our customers use this ETL tool for include:
-Extracting data from:
+Advanced ETL Processor is designed to automate everyday routine tasks Typical usage of it would be extract data from Excel FileValidate Date Formats Sort data deduplicate it and load it into the database run stored procedure or Sql script Once loading is completed send email to the administrator
+Some examples of what our customers use this ETL tool for include
+Extracting data from
 Multiple Delimited or Fixed width Text files
-Multiple Excel files + Multiple Excel Spreadsheets
+Multiple Excel files Multiple Excel Spreadsheets
 Multiple MS Access Databases
 Multiple DBF Files
 Any ODBC compliant database
 MS Sql Server
 Multiple Tables
-And Loading it into: 
+And Loading it into 
 Multiple Data Targets
 Sql scripts execution before and after loading
 Delimited or Fixed width Text file
 MS Access Database
 Microsoft Excel File
 DBF File
-Oracle 7-11g database
-SQL server 7- 2005
+Oracle g database
+SQL server 
 Any ODBC compliant database
-Validation: 
+Validation 
 Deal With Dirty Data
-Validate Post codes, Phone numbers,TAX Codes using regular expressions
+Validate Post codes Phone numbersTAX Codes using regular expressions
 Validate Date Formats
 Validate Date and Time
 Validate Numbers
 Validate Strings 
-Transformation: 
-Split, merge Fields
+Transformation 
+Split merge Fields
 Split data and load it into different tables
-Add, replace, delete strings
+Add replace delete strings
 Run custom transformations
 Translate coded values
 Derive a new calculated value
  
-Automation:
+Automation
 Load Data into ANY database
 Export Data from ANY database
 FTP Downloads and Uploads
@@ -54,8 +54,8 @@ Receive Emails with attachments
 Save attachmets
 Compress files
 Decomress zip files
-Copy, move, rename, merge, delete files
-Compare files using MD5, size or creation  date
+Copy move rename merge delete files
+Compare files using MD size or creation date
 Check if file exist
 Generate Reports
 Execute Different part of package depending of the day of the week
@@ -76,27 +76,27 @@ Create surrogate keys
 Run Sql script before and after loading data
 Filter Source Data
 Use Select Statement as a Data Source
-Every package  execution is logged,If something went wrong Advanced ETL Processor Pro writes detailed message into the log and writes a record into rejected records file.
+Every package execution is loggedIf something went wrong Advanced ETL Processor Pro writes detailed message into the log and writes a record into rejected records file
 Key Facts
-Extraction:
+Extraction
 Multiple Delimited or Fixed width Text files
-Multiple Excel files + Multiple Excel Spreadsheets
+Multiple Excel files Multiple Excel Spreadsheets
 Multiple MS Access Databases
 Multiple DBF Files
 Any ODBC compliant database
 MS Sql Server
 Multiple Tables
 Full support for ODBC connection strings
-Validation:
-190 Validation Functions
+Validation
+ Validation Functions
 String Validation
 Number Validation
 Date Validation
 Time Validation
 Validation Against list of values
-Regular Expressions: Post codes, Phone Numbers, VAT Numbers ETC  
-Transformation:
-37  Transformation Functions
+Regular Expressions Post codes Phone Numbers VAT Numbers ETC 
+Transformation
+ Transformation Functions
 String Transformation
 Number Transformation
 Date Transformation
@@ -104,44 +104,43 @@ Multiple Date Formats
 Sorting
 Grouping
 Deduplication
-Translating coded values (e.g., if the source system stores 1 for male and 2 for female, but the warehouse stores M for male and F for female)
-Deriving a new calculated value (e.g., sale amount = qty * unit price)
+Translating coded values eg if the source system stores for male and for female but the warehouse stores M for male and F for female
+Deriving a new calculated value eg sale amount qty unit price
 Joining together data from multiple fields
-Summarizing multiple rows of data (e.g., total sales for each store, and for each region)
+Summarizing multiple rows of data eg total sales for each store and for each region
 Generating surrogate key values
-Transposing or pivoting (turning multiple columns into multiple rows or vice versa)
-Splitting a column into multiple columns (e.g., putting a comma-separated list specified as a string in one column as individual values in different columns)
+Transposing or pivoting turning multiple columns into multiple rows or vice versa
+Splitting a column into multiple columns eg putting a commaseparated list specified as a string in one column as individual values in different columns
 Customised Transformation
-Loading: 
+Loading 
 Multiple Data Targets
 Sql scripts execution before and after loading
 Delimited or Fixed width Text file
 MS Access Database
 Microsoft Excel File
 DBF File
-Oracle 7-11g database (using OCI API)
+Oracle g database using OCI API
 Full support for Oracle Instant Client
-SQL server 7- 2005 (using BCP API)
-Any ODBC compliant database (Using ODBC API)
+SQL server using BCP API
+Any ODBC compliant database Using ODBC API
 Full support for ODBC connection strings
 Oracle
  
-There are two ways of loading available:
+There are two ways of loading available
 Oracle direct path loading
 Conventional path
-More Information...
+More Information
 SQL server
-This software uses the same API as Microsoft DTS service. 
-Also: 
-High performance - hundreds of records per second
+This software uses the same API as Microsoft DTS service 
+Also 
+High performance hundreds of records per second
 Comprehensive Error log
 Rejected records file
 Low OS Memory requirements
-Advanced ETL Processor runs on Microsoft Windows 98/ME/NT 4.0/2000/XP/2003/Vista
+Advanced ETL Processor runs on Microsoft Windows MENT XPVista
 LICENSING
 There are two types of licenses available
-1. A single computer usage license. The user purchases one license to use the SOFTWARE PRODUCT on one computer.
-2. A SITE usage license. The user purchases a single usage license, authorising the use of SOFTWARE PRODUCT, by the purchaser, the purchaser's employees or accredited agents, on an unlimited number of computers at the same physical site location. This site location would normally be defined as a single building, but could be considered to be a number of buildings within the same, general, geographical location, such as an industrial estate or small town.
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300293731&affiliateid=200057808)<br/><br/># Related:
-
-<br />[afterlogic-webmail-pro-php-hosting-provider-100-domains-1000-usersdomain-300414038.md](https://github.com/downloadplanet/downloadplanet/blob/main/afterlogic-webmail-pro-php-hosting-provider-100-domains-1000-usersdomain-300414038.md)<br />[subboombass2-soundbank-300846800.md](https://github.com/downloadplanet/downloadplanet/blob/main/subboombass2-soundbank-300846800.md)<br />[aspack-personal-license-for-noncommercial-applications-300173797.md](https://github.com/downloadplanet/downloadplanet/blob/main/aspack-personal-license-for-noncommercial-applications-300173797.md)<br />[bitrecover-eml-to-pdf-pro-license-unlimited-300995048.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-eml-to-pdf-pro-license-unlimited-300995048.md)<br />[bitrecover-tiff-splitter-standard-license-301008441.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-tiff-splitter-standard-license-301008441.md)<br />[anycount-8-standard-corporate-license-9-pcs-300528847.md](https://github.com/downloadplanet/downloadplanet/blob/main/anycount-8-standard-corporate-license-9-pcs-300528847.md)<br />[mailsouls-mbox-converter-technical-license-special-offer-300850830.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailsouls-mbox-converter-technical-license-special-offer-300850830.md)<br />[replyall-professional-de-300575336.md](https://github.com/downloadplanet/downloadplanet/blob/main/replyall-professional-de-300575336.md)<br />[pdf-text-stamp-for-unix-aix-workstationdeveloper-license-300454213.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-text-stamp-for-unix-aix-workstationdeveloper-license-300454213.md)<br />[sqlscripter-company-license-100-users-300975985.md](https://github.com/downloadplanet/downloadplanet/blob/main/sqlscripter-company-license-100-users-300975985.md)<br />[andrews-plugins-weird-colors-plugins-for-photoshop-psp-pc-only-v10-300398294.md](https://github.com/downloadplanet/downloadplanet/blob/main/andrews-plugins-weird-colors-plugins-for-photoshop-psp-pc-only-v10-300398294.md)<br />[iuweshare-mac-email-recovery-pro-300864136.md](https://github.com/downloadplanet/downloadplanet/blob/main/iuweshare-mac-email-recovery-pro-300864136.md)<br />[esofttools-pst-to-eml-converter-corporate-license-300878196.md](https://github.com/downloadplanet/downloadplanet/blob/main/esofttools-pst-to-eml-converter-corporate-license-300878196.md)<br />[gpstools-pro-net-end-user-license-192046.md](https://github.com/downloadplanet/downloadplanet/blob/main/gpstools-pro-net-end-user-license-192046.md)<br />[pdf2cad-italian-version-300961554.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf2cad-italian-version-300961554.md)<br />[mailbee-smtp-single-developer-300188289.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailbee-smtp-single-developer-300188289.md)<br />[wslfunky-styl-vol-1-soundsets-300873329.md](https://github.com/downloadplanet/downloadplanet/blob/main/wslfunky-styl-vol-1-soundsets-300873329.md)<br />[loc00177-plate-3744-jpg-4096px-300733556.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00177-plate-3744-jpg-4096px-300733556.md)<br />[email-recovery-toolkitdbx-recovery-zip-recoverytechnician-license-300725447.md](https://github.com/downloadplanet/downloadplanet/blob/main/email-recovery-toolkitdbx-recovery-zip-recoverytechnician-license-300725447.md)<br />[free-image-bitmap-library-freeware-license-300982902.md](https://github.com/downloadplanet/downloadplanet/blob/main/free-image-bitmap-library-freeware-license-300982902.md)
+ A single computer usage license The user purchases one license to use the SOFTWARE PRODUCT on one computer
+ A SITE usage license The user purchases a single usage license authorising the use of SOFTWARE PRODUCT by the purchaser the purchasers employees or accredited agents on an unlimited number of computers at the same physical site location This site location would normally be defined as a single building but could be considered to be a number of buildings within the same general geographical location such as an industrial estate or small town
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300293731&affiliateid=200057808)<br/><br/>Related:
+<br />[0031-sales-funnel-vertriebstrichter-300741443.md](https://github.com/downloadplanet/downloadplanet/blob/main/0031-sales-funnel-vertriebstrichter-300741443.md)<br />[geprüfter-küchenmeister-rechnungswesen-300481280.md](https://github.com/downloadplanet/downloadplanet/blob/main/geprüfter-küchenmeister-rechnungswesen-300481280.md)<br />[turgs-mbox-wizard-pro-license-300784580.md](https://github.com/downloadplanet/downloadplanet/blob/main/turgs-mbox-wizard-pro-license-300784580.md)<br />[iuweshare-usb-flash-drive-data-recovery-300864047.md](https://github.com/downloadplanet/downloadplanet/blob/main/iuweshare-usb-flash-drive-data-recovery-300864047.md)<br />[promt-professional-11-englischdeutsch-300727118.md](https://github.com/downloadplanet/downloadplanet/blob/main/promt-professional-11-englischdeutsch-300727118.md)<br />[upgrade-vbto-converter-300036579.md](https://github.com/downloadplanet/downloadplanet/blob/main/upgrade-vbto-converter-300036579.md)<br />[amacsoft-android-manager-for-mac-300948166.md](https://github.com/downloadplanet/downloadplanet/blob/main/amacsoft-android-manager-for-mac-300948166.md)<br />[loc00049-plate-1139-tif-full-300731150.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00049-plate-1139-tif-full-300731150.md)<br />[bundle-offer-bitrecover-msg-eml-converter-standard-license-301009713.md](https://github.com/downloadplanet/downloadplanet/blob/main/bundle-offer-bitrecover-msg-eml-converter-standard-license-301009713.md)<br />[istonsoft-pdf-splitter-300917104.md](https://github.com/downloadplanet/downloadplanet/blob/main/istonsoft-pdf-splitter-300917104.md)<br />[imusic-for-mac-300949732.md](https://github.com/downloadplanet/downloadplanet/blob/main/imusic-for-mac-300949732.md)<br />[deskcalc-business-kl-300037306.md](https://github.com/downloadplanet/downloadplanet/blob/main/deskcalc-business-kl-300037306.md)<br />[agilenet-code-protection-developer-ws-300433760.md](https://github.com/downloadplanet/downloadplanet/blob/main/agilenet-code-protection-developer-ws-300433760.md)<br />[lepide-event-log-manager-workstation-300459979.md](https://github.com/downloadplanet/downloadplanet/blob/main/lepide-event-log-manager-workstation-300459979.md)<br />[cubexsoft-ost-to-mbox-personal-license-special-offer-300799641.md](https://github.com/downloadplanet/downloadplanet/blob/main/cubexsoft-ost-to-mbox-personal-license-special-offer-300799641.md)<br />[drs-maildir-converter-for-macenterprise-license-301004855.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-maildir-converter-for-macenterprise-license-301004855.md)<br />[deliocr-triennium-membership-license-300-callsday-300970148.md](https://github.com/downloadplanet/downloadplanet/blob/main/deliocr-triennium-membership-license-300-callsday-300970148.md)<br />[rosette-symbols-for-illustrator-ai-v69-300469185.md](https://github.com/downloadplanet/downloadplanet/blob/main/rosette-symbols-for-illustrator-ai-v69-300469185.md)<br />[sportdraw-minifootball-mini-soccer-300067671.md](https://github.com/downloadplanet/downloadplanet/blob/main/sportdraw-minifootball-mini-soccer-300067671.md)<br />[rob-papen-raw-300646938.md](https://github.com/downloadplanet/downloadplanet/blob/main/rob-papen-raw-300646938.md)

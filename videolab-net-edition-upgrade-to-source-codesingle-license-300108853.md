@@ -1,38 +1,37 @@
 # VideoLab ( .NET Edition ) UPGRADE to Source Code-Single License
 ![VideoLab ( .NET Edition ) UPGRADE to Source Code-Single License](https://mycommerce.akamaized.net/api/pimages/P300108853/BIG/300108853.JPG)
-VideoLab is a set of components, based on OpenWire technology for fast video capture, playback, broadcasting and processing. They allow fast complex video manipulations with zero lines of program code.
-VideoLab supports both the old fashion Win32 API (VFW), Audio ACM and DirectShow (DirectX), and even allows if needed any mixture of them. The developer can choose to go with any of them, to use both, or can switch from the one to the other at any moment. The components hide the complexity of both approaches, and make them look almost identical from the users prospective.
-The library is fully multithreaded, utilizes well modern multi-core systems, and runs at full native performance.
-Also includes a Visual Graphical Editor for Codeless Development.
-VideoLab contains over 100 components for:
-Video Capture - captures analog or digital video sources like FireWire (IEEE1394) cameras, DV camcorders, USB web cams, IP cameras, TV cards, PCI composite cards, USB devices, with or without audio.
-Screen Capture - captures the screen activity to video.
-Video Playback - plays recorded video using VFW, Windows Media Encoder or DirectShow.
-DVD Playback - plays DVDs.
-Video Out - Send video to camcorders or external rendering cards like BlackMagic DeckLink or camcorders.
-Video Recording - Records in AVI or WMV, (VFW, DirectShow, and Windows Media Encoder).
-Video Broadcasting - Broadcasts video over IP using Windows Media Format.
-Video Receiving - Receives remote video over IP using Windows Media Format.
-Video Filters - large number of filters for gamma correction, basic edge detection, noise removal, image adjustments and more.
-Geometric Transformations - Rotate, Re-size Shear, Warp, Mirror, the image.
-Rate Converter - allows changing the video rate by frame blending.
-Video Mixer - mixes two or more video streams with different modes, sizes and rates.
-FreeFrame and FreeFrameGL filter - allows usage of the FreeFrame and FreeFrameGL plug-ins.
-VirtualDub filter - allows usage of the VirtualDub plug-ins.
-DMO filter - allows usage of the Direct Media Object(DMO) plug-ins.
-Video layer rendering /u> - renders video layers over the frames.
-User Defined Filters - allow easy implementation of user defined video and audio processing.
-Video effects - Transition, fade, frame diff, Fire, Ripple, Fisheye, Swirl, Tube effects.
-Switches - enable, disable and queue video streams.
-Compressors - Compress and decompress video streams(VFW and DirectShow).
-Masks, Overlays, and transparency - allow applying masks, and mixing videos with transparent colors.
-Generators - test generators, video from bitmaps, JPEG or other images generators and user defined generators.
-Noise applying generators - apply uniform or Gauss noise over the video stream.
-Color splitters - split the video into colors in different colors spaces - RGB, YUV, XYZ, HLS and many more.
-Video Histogram - generates video histograms from the video in different colors spaces - RGB, YUV, XYZ, HLS and many more.
-Vector Scope - generates vector scope from the video.
-Audio Output - sends audio to output device as speaker, or modem (DirectShow and WaveAPI)
-Scope and Waterfall - Wave, spectrum, histogram and more plotting
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108853&affiliateid=200057808)<br/><br/># Related:
-
-<br />[pdf-image-stamp-server-for-sun-sparc-solaris-server-license-300454337.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-image-stamp-server-for-sun-sparc-solaris-server-license-300454337.md)<br />[dmtrans-for-mac-1-year-301001456.md](https://github.com/downloadplanet/downloadplanet/blob/main/dmtrans-for-mac-1-year-301001456.md)<br />[ipubsoft-pdf-to-html-converter-for-mac-300921964.md](https://github.com/downloadplanet/downloadplanet/blob/main/ipubsoft-pdf-to-html-converter-for-mac-300921964.md)<br />[drs-gmail-backup-for-mactechnician-license-301004894.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-gmail-backup-for-mactechnician-license-301004894.md)<br />[economsys-invoicing-and-inventory-300995564.md](https://github.com/downloadplanet/downloadplanet/blob/main/economsys-invoicing-and-inventory-300995564.md)<br />[wooinvoice-invoices-management-pro-12-months-license-300693231.md](https://github.com/downloadplanet/downloadplanet/blob/main/wooinvoice-invoices-management-pro-12-months-license-300693231.md)<br />[contour-swatches-for-illustrator-ai-v51-300662314.md](https://github.com/downloadplanet/downloadplanet/blob/main/contour-swatches-for-illustrator-ai-v51-300662314.md)<br />[scanner-for-remote-desktop-5-users-300439872.md](https://github.com/downloadplanet/downloadplanet/blob/main/scanner-for-remote-desktop-5-users-300439872.md)<br />[layer2-tag-suggester-for-sharepoint-300482366.md](https://github.com/downloadplanet/downloadplanet/blob/main/layer2-tag-suggester-for-sharepoint-300482366.md)<br />[drs-yandex-backup-for-windowssingle-user-license-301004261.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-yandex-backup-for-windowssingle-user-license-301004261.md)<br />[flower-brushes-for-photoshop-affinity-elements-psp-etc-v147-300489466.md](https://github.com/downloadplanet/downloadplanet/blob/main/flower-brushes-for-photoshop-affinity-elements-psp-etc-v147-300489466.md)<br />[voice-reader-home-15-english-american-male-voice-tom-300617227.md](https://github.com/downloadplanet/downloadplanet/blob/main/voice-reader-home-15-english-american-male-voice-tom-300617227.md)<br />[outlook-pst-repair-technical-license-300855464.md](https://github.com/downloadplanet/downloadplanet/blob/main/outlook-pst-repair-technical-license-300855464.md)<br />[letter-type-custom-shapes-for-photoshop-elements-csh-v83-300468527.md](https://github.com/downloadplanet/downloadplanet/blob/main/letter-type-custom-shapes-for-photoshop-elements-csh-v83-300468527.md)<br />[serial-port-redirector-32-ports-update-subscription-300275983.md](https://github.com/downloadplanet/downloadplanet/blob/main/serial-port-redirector-32-ports-update-subscription-300275983.md)<br />[rcysoft-external-hard-drive-data-recovery-pro-commercial-license-jp-300915044.md](https://github.com/downloadplanet/downloadplanet/blob/main/rcysoft-external-hard-drive-data-recovery-pro-commercial-license-jp-300915044.md)<br />[google-talk-password-recovery-300879369.md](https://github.com/downloadplanet/downloadplanet/blob/main/google-talk-password-recovery-300879369.md)<br />[actionoutline-network-edition-5-users-license-pack-300279989.md](https://github.com/downloadplanet/downloadplanet/blob/main/actionoutline-network-edition-5-users-license-pack-300279989.md)<br />[aimersoft-music-converter-for-windows-300952405.md](https://github.com/downloadplanet/downloadplanet/blob/main/aimersoft-music-converter-for-windows-300952405.md)<br />[upgrade-webinar-grundlagen-der-kalkulation-von-speisen-am-18012016-von-1015-uhr-bis-1115-uhr-mit-zertifikat-300697304.md](https://github.com/downloadplanet/downloadplanet/blob/main/upgrade-webinar-grundlagen-der-kalkulation-von-speisen-am-18012016-von-1015-uhr-bis-1115-uhr-mit-zertifikat-300697304.md)
+VideoLab is a set of components based on OpenWire technology for fast video capture playback broadcasting and processing They allow fast complex video manipulations with zero lines of program code
+VideoLab supports both the old fashion Win API VFW Audio ACM and DirectShow DirectX and even allows if needed any mixture of them The developer can choose to go with any of them to use both or can switch from the one to the other at any moment The components hide the complexity of both approaches and make them look almost identical from the users prospective
+The library is fully multithreaded utilizes well modern multicore systems and runs at full native performance
+Also includes a Visual Graphical Editor for Codeless Development
+VideoLab contains over components for
+Video Capture captures analog or digital video sources like FireWire IEEE cameras DV camcorders USB web cams IP cameras TV cards PCI composite cards USB devices with or without audio
+Screen Capture captures the screen activity to video
+Video Playback plays recorded video using VFW Windows Media Encoder or DirectShow
+DVD Playback plays DVDs
+Video Out Send video to camcorders or external rendering cards like BlackMagic DeckLink or camcorders
+Video Recording Records in AVI or WMV VFW DirectShow and Windows Media Encoder
+Video Broadcasting Broadcasts video over IP using Windows Media Format
+Video Receiving Receives remote video over IP using Windows Media Format
+Video Filters large number of filters for gamma correction basic edge detection noise removal image adjustments and more
+Geometric Transformations Rotate Resize Shear Warp Mirror the image
+Rate Converter allows changing the video rate by frame blending
+Video Mixer mixes two or more video streams with different modes sizes and rates
+FreeFrame and FreeFrameGL filter allows usage of the FreeFrame and FreeFrameGL plugins
+VirtualDub filter allows usage of the VirtualDub plugins
+DMO filter allows usage of the Direct Media ObjectDMO plugins
+Video layer rendering u renders video layers over the frames
+User Defined Filters allow easy implementation of user defined video and audio processing
+Video effects Transition fade frame diff Fire Ripple Fisheye Swirl Tube effects
+Switches enable disable and queue video streams
+Compressors Compress and decompress video streamsVFW and DirectShow
+Masks Overlays and transparency allow applying masks and mixing videos with transparent colors
+Generators test generators video from bitmaps JPEG or other images generators and user defined generators
+Noise applying generators apply uniform or Gauss noise over the video stream
+Color splitters split the video into colors in different colors spaces RGB YUV XYZ HLS and many more
+Video Histogram generates video histograms from the video in different colors spaces RGB YUV XYZ HLS and many more
+Vector Scope generates vector scope from the video
+Audio Output sends audio to output device as speaker or modem DirectShow and WaveAPI
+Scope and Waterfall Wave spectrum histogram and more plotting
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108853&affiliateid=200057808)<br/><br/>Related:
+<br />[kernel-for-pst-compress-and-compact-corporate-300696388.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-pst-compress-and-compact-corporate-300696388.md)<br />[3-license-pack-smart2dcutting-unlimited-parts-300163383.md](https://github.com/downloadplanet/downloadplanet/blob/main/3-license-pack-smart2dcutting-unlimited-parts-300163383.md)<br />[hdr-153-forest-300661048.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-153-forest-300661048.md)<br />[2tiff-site-license-for-one-company-300652628.md](https://github.com/downloadplanet/downloadplanet/blob/main/2tiff-site-license-for-one-company-300652628.md)<br />[drs-outlook-duplicate-remover-for-windowssingle-user-license-301004415.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-outlook-duplicate-remover-for-windowssingle-user-license-301004415.md)<br />[winwatermark-home-edition-300158681.md](https://github.com/downloadplanet/downloadplanet/blob/main/winwatermark-home-edition-300158681.md)<br />[sf-gothican-desktop-license-15-users-300271446.md](https://github.com/downloadplanet/downloadplanet/blob/main/sf-gothican-desktop-license-15-users-300271446.md)<br />[basketball-playbook-012-300772514.md](https://github.com/downloadplanet/downloadplanet/blob/main/basketball-playbook-012-300772514.md)<br />[ajax-uploader-40-domain-license-upgrade-300748492.md](https://github.com/downloadplanet/downloadplanet/blob/main/ajax-uploader-40-domain-license-upgrade-300748492.md)<br />[rcysoft-data-recovery-wizard-pro-single-personal-license-tr-300895576.md](https://github.com/downloadplanet/downloadplanet/blob/main/rcysoft-data-recovery-wizard-pro-single-personal-license-tr-300895576.md)<br />[annual-technical-support-service6-licenses-10-discountcotermed-300992798.md](https://github.com/downloadplanet/downloadplanet/blob/main/annual-technical-support-service6-licenses-10-discountcotermed-300992798.md)<br />[ftg-00093-slider-closeup-road-forest-300652145.md](https://github.com/downloadplanet/downloadplanet/blob/main/ftg-00093-slider-closeup-road-forest-300652145.md)<br />[drs-hostgator-email-backup-for-windowstechnician-license-301004939.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-hostgator-email-backup-for-windowstechnician-license-301004939.md)<br />[projetex-version-7-1-server-3-workstations-300253585.md](https://github.com/downloadplanet/downloadplanet/blob/main/projetex-version-7-1-server-3-workstations-300253585.md)<br />[macuncle-email-attachment-extractor-standard-license-301004092.md](https://github.com/downloadplanet/downloadplanet/blob/main/macuncle-email-attachment-extractor-standard-license-301004092.md)<br />[advik-mdaemon-migrator-business-license-300850679.md](https://github.com/downloadplanet/downloadplanet/blob/main/advik-mdaemon-migrator-business-license-300850679.md)<br />[pascal-analyzer-and-pascal-browser-300161759.md](https://github.com/downloadplanet/downloadplanet/blob/main/pascal-analyzer-and-pascal-browser-300161759.md)<br />[projetex-version-7-3-extra-workstations-300253672.md](https://github.com/downloadplanet/downloadplanet/blob/main/projetex-version-7-3-extra-workstations-300253672.md)<br />[anycount-8-enterprise-corporate-license-9-pcs-300528913.md](https://github.com/downloadplanet/downloadplanet/blob/main/anycount-8-enterprise-corporate-license-9-pcs-300528913.md)<br />[caster-smart-and-handy-forecasts-on-the-fly-142555.md](https://github.com/downloadplanet/downloadplanet/blob/main/caster-smart-and-handy-forecasts-on-the-fly-142555.md)

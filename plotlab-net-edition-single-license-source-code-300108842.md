@@ -1,28 +1,27 @@
 # PlotLab ( .NET Edition ) Single License + Source Code
 ![PlotLab ( .NET Edition ) Single License + Source Code](https://mycommerce.akamaized.net/api/pimages/P300108842/BIG/300108842.JPG)
-PlotLab is a set of .NET 2.0(or higher) components for very easy and fast Data Visualization.
-Also includes a Visual Graphical Editor for Codeless Development.
-Contains:
-Scope Component - a scientific chart component for plotting multi-channel data.
-Waterfall Component - a single channel waterfall data plotting component. Especially suitable for FFT, and spectrum results.
-Multichannel Waterfall Component - a multichannel waterfall data plotting component. Especially suitable for video histogram representation.
-Features:
-Panning and Zooming - Zoom in out, Pan and navigate.
-Zoom/Pan history - Undo and Redo zooms/panning.
-Data gaps - allows gaps in the data channels.
-Markers - Add data markers.
-Cursors, measurement and selections - Add data cursors, measurement lines and selections.
-Save to file - Save to bitmap or JPEG file.
-Multi axes support - Supports Multiple X, and Y axes.
-Downsampling - Automatically reduces displayed samples to improve performance.
-Zones - Allows arbitrary and elliptic zones.
-Save to file - Save to bitmap or JPEG file.
-Print - integrated printing support.
-Highlighting - Highlight channels, cursors, markers, and measurement lines.
-Build-in Dialog - Configure the components from the build in dialog.
-Composite components - Allows embedding component into each other.
-All of the components are optimized for very fast data plotting, and support multithreading.
-Integrates well with the .NET versions of VideoLab, AudioLab, SignalLab, InstrumentLab, IntelligenceLab, VisionLab, BasicAudio, and BasicVideo packages.
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108842&affiliateid=200057808)<br/><br/># Related:
-
-<br />[aimersoft-music-converter-for-windows-multiuser-personal-license-25-pcs-300952406.md](https://github.com/downloadplanet/downloadplanet/blob/main/aimersoft-music-converter-for-windows-multiuser-personal-license-25-pcs-300952406.md)<br />[advantage-to-ms-access-converter-300639979.md](https://github.com/downloadplanet/downloadplanet/blob/main/advantage-to-ms-access-converter-300639979.md)<br />[emailconverter-upgrade-300276872.md](https://github.com/downloadplanet/downloadplanet/blob/main/emailconverter-upgrade-300276872.md)<br />[opc-scada-viewer-professional-300488809.md](https://github.com/downloadplanet/downloadplanet/blob/main/opc-scada-viewer-professional-300488809.md)<br />[0107-stakeholdermatrix-01-300964847.md](https://github.com/downloadplanet/downloadplanet/blob/main/0107-stakeholdermatrix-01-300964847.md)<br />[voice-reader-studio-15-idi-indonesiaindonesian-300625053.md](https://github.com/downloadplanet/downloadplanet/blob/main/voice-reader-studio-15-idi-indonesiaindonesian-300625053.md)<br />[pdf2cad-french-version-300374177.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf2cad-french-version-300374177.md)<br />[pdf-rotate-pages-for-hpux-server-license-300454380.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-rotate-pages-for-hpux-server-license-300454380.md)<br />[batch-print-premium-law-edition-2018-site-license-worldwide-300810908.md](https://github.com/downloadplanet/downloadplanet/blob/main/batch-print-premium-law-edition-2018-site-license-worldwide-300810908.md)<br />[0049-rasimatrix02-300915706.md](https://github.com/downloadplanet/downloadplanet/blob/main/0049-rasimatrix02-300915706.md)<br />[kernel-for-calc-home-user-licenseinr-300384825.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-calc-home-user-licenseinr-300384825.md)<br />[vodusoft-zip-password-recovery-300922836.md](https://github.com/downloadplanet/downloadplanet/blob/main/vodusoft-zip-password-recovery-300922836.md)<br />[filtershaper-3-300357932.md](https://github.com/downloadplanet/downloadplanet/blob/main/filtershaper-3-300357932.md)<br />[gnostice-document-studio-net-professional-subscription-1developer-license-300962339.md](https://github.com/downloadplanet/downloadplanet/blob/main/gnostice-document-studio-net-professional-subscription-1developer-license-300962339.md)<br />[flower-brushes-for-photoshop-affinity-elements-psp-etc-v18-300225867.md](https://github.com/downloadplanet/downloadplanet/blob/main/flower-brushes-for-photoshop-affinity-elements-psp-etc-v18-300225867.md)<br />[cue-library-commercial-license-300278818.md](https://github.com/downloadplanet/downloadplanet/blob/main/cue-library-commercial-license-300278818.md)<br />[cdelphibasic-code-2-flowchart-300147583.md](https://github.com/downloadplanet/downloadplanet/blob/main/cdelphibasic-code-2-flowchart-300147583.md)<br />[syncingnet-manager-edition-300597693.md](https://github.com/downloadplanet/downloadplanet/blob/main/syncingnet-manager-edition-300597693.md)<br />[category-manager-professional-sitelicense-en-300283875.md](https://github.com/downloadplanet/downloadplanet/blob/main/category-manager-professional-sitelicense-en-300283875.md)<br />[macuncle-apple-mail-converter-for-mac-pro-license-300986845.md](https://github.com/downloadplanet/downloadplanet/blob/main/macuncle-apple-mail-converter-for-mac-pro-license-300986845.md)
+PlotLab is a set of NET or higher components for very easy and fast Data Visualization
+Also includes a Visual Graphical Editor for Codeless Development
+Contains
+Scope Component a scientific chart component for plotting multichannel data
+Waterfall Component a single channel waterfall data plotting component Especially suitable for FFT and spectrum results
+Multichannel Waterfall Component a multichannel waterfall data plotting component Especially suitable for video histogram representation
+Features
+Panning and Zooming Zoom in out Pan and navigate
+ZoomPan history Undo and Redo zoomspanning
+Data gaps allows gaps in the data channels
+Markers Add data markers
+Cursors measurement and selections Add data cursors measurement lines and selections
+Save to file Save to bitmap or JPEG file
+Multi axes support Supports Multiple X and Y axes
+Downsampling Automatically reduces displayed samples to improve performance
+Zones Allows arbitrary and elliptic zones
+Save to file Save to bitmap or JPEG file
+Print integrated printing support
+Highlighting Highlight channels cursors markers and measurement lines
+Buildin Dialog Configure the components from the build in dialog
+Composite components Allows embedding component into each other
+All of the components are optimized for very fast data plotting and support multithreading
+Integrates well with the NET versions of VideoLab AudioLab SignalLab InstrumentLab IntelligenceLab VisionLab BasicAudio and BasicVideo packages
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300108842&affiliateid=200057808)<br/><br/>Related:
+<br />[1st-autorun-express-personal-license-single-user-300268584.md](https://github.com/downloadplanet/downloadplanet/blob/main/1st-autorun-express-personal-license-single-user-300268584.md)<br />[aimersoft-video-converter-for-mac-300952401.md](https://github.com/downloadplanet/downloadplanet/blob/main/aimersoft-video-converter-for-mac-300952401.md)<br />[bitwar-data-recovery-annual-membership-300736564.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitwar-data-recovery-annual-membership-300736564.md)<br />[automatic-email-processor-2-upgrade-from-v1-to-v2-basic-edition-300497670.md](https://github.com/downloadplanet/downloadplanet/blob/main/automatic-email-processor-2-upgrade-from-v1-to-v2-basic-edition-300497670.md)<br />[upgrade-stellar-phoenix-windows-data-recovery-home-to-professional-v60en-300660064.md](https://github.com/downloadplanet/downloadplanet/blob/main/upgrade-stellar-phoenix-windows-data-recovery-home-to-professional-v60en-300660064.md)<br />[usb-over-network-4-usb-devices-update-subscription-300275953.md](https://github.com/downloadplanet/downloadplanet/blob/main/usb-over-network-4-usb-devices-update-subscription-300275953.md)<br />[advik-google-takeout-to-msg-business-license-300805004.md](https://github.com/downloadplanet/downloadplanet/blob/main/advik-google-takeout-to-msg-business-license-300805004.md)<br />[shining-mac-card-data-recovery-300865193.md](https://github.com/downloadplanet/downloadplanet/blob/main/shining-mac-card-data-recovery-300865193.md)<br />[bitrecover-mbox-to-yahoo-personal-license-300810064.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-mbox-to-yahoo-personal-license-300810064.md)<br />[doremi-music-downloader-multidevice-lifetime-license-winmacandroid-301005026.md](https://github.com/downloadplanet/downloadplanet/blob/main/doremi-music-downloader-multidevice-lifetime-license-winmacandroid-301005026.md)<br />[reverse-animated-gif-converter-300876341.md](https://github.com/downloadplanet/downloadplanet/blob/main/reverse-animated-gif-converter-300876341.md)<br />[corganizer-professional-300929766.md](https://github.com/downloadplanet/downloadplanet/blob/main/corganizer-professional-300929766.md)<br />[border-frames-custom-shapes-for-photoshop-elements-csh-v44-300225328.md](https://github.com/downloadplanet/downloadplanet/blob/main/border-frames-custom-shapes-for-photoshop-elements-csh-v44-300225328.md)<br />[batch-print-enterprise-8-site-license-worldwide-300626025.md](https://github.com/downloadplanet/downloadplanet/blob/main/batch-print-enterprise-8-site-license-worldwide-300626025.md)<br />[rob-papen-raw-300646938.md](https://github.com/downloadplanet/downloadplanet/blob/main/rob-papen-raw-300646938.md)<br />[loc00209-plate-7010-layout-private-300727343.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00209-plate-7010-layout-private-300727343.md)<br />[kidsguard-for-whatsapp-3month-plan-300994387.md](https://github.com/downloadplanet/downloadplanet/blob/main/kidsguard-for-whatsapp-3month-plan-300994387.md)<br />[anybizsoft-epub-builder-1115-personal-license-300952843.md](https://github.com/downloadplanet/downloadplanet/blob/main/anybizsoft-epub-builder-1115-personal-license-300952843.md)<br />[azdgdatingplatinum-2012-300422170.md](https://github.com/downloadplanet/downloadplanet/blob/main/azdgdatingplatinum-2012-300422170.md)<br />[esofttools-excel-to-outlook-contacts-corporate-license-300873481.md](https://github.com/downloadplanet/downloadplanet/blob/main/esofttools-excel-to-outlook-contacts-corporate-license-300873481.md)

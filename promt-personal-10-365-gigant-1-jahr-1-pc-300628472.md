@@ -1,47 +1,46 @@
 # PROMT Personal 10 365 Gigant (1 Jahr, 1 PC)
 ![PROMT Personal 10 365 Gigant (1 Jahr, 1 PC)](https://mycommerce.akamaized.net/api/pimages/P300628472/BIG/300628472.PNG)
-Der ideale Textübersetzer für Zuhause. Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung. Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt.
+Der ideale Textübersetzer für Zuhause Höchste Übersetzungsqualität und der gewaltige Wortschatz gewährleisten eine genaue und korrekte Textübersetzung Dank der intelligenten Textanalyse werden sogar komplizierte Satzstrukturen korrekt übersetzt
 
-Schnell und preiswert übersetzen Sie Ihre Korrespondenz, Bedienungsanleitungen, Windows-Hilfe, Internetseiten und PDF Dokumente. PROMT Personal leistet sowohl im privaten als auch im beruflichen Alltag eine unersetzliche Hilfe. Es sind bis zu 850.000 Wörter und Wendungen pro Sprachpaar enthalten.
+Schnell und preiswert übersetzen Sie Ihre Korrespondenz Bedienungsanleitungen WindowsHilfe Internetseiten und PDF Dokumente PROMT Personal leistet sowohl im privaten als auch im beruflichen Alltag eine unersetzliche Hilfe Es sind bis zu Wörter und Wendungen pro Sprachpaar enthalten
 
-WICHTIG - Die Lizenz ist für 1 Jahr und Installation auf 1 PC gültig.
+WICHTIG Die Lizenz ist für Jahr und Installation auf PC gültig
 
 
-Unterstützte Übersetzungsrichtungen:
-Englisch -> Deutsch und Deutsch -> Englisch
-Französisch -> Deutsch und Deutsch -> Französisch
-Spanisch -> Deutsch und Deutsch -> Spanisch
-Russisch -> Deutsch und Deutsch -> Russisch
-Italienisch -> Deutsch und Deutsch -> Italienisch
-Portugiesisch -> Deutsch und Deutsch -> Portugiesisch
-Englisch -> Russisch und Russisch -> Englisch
-Französisch -> Englisch und Englisch -> Französisch
-Spanisch -> Englisch und Englisch -> Spanisch
-Portugiesisch -> Englisch und Englisch -> Portugiesisch
-Italienisch -> Englisch und Englisch -> Italienisch
+Unterstützte Übersetzungsrichtungen
+Englisch Deutsch und Deutsch Englisch
+Französisch Deutsch und Deutsch Französisch
+Spanisch Deutsch und Deutsch Spanisch
+Russisch Deutsch und Deutsch Russisch
+Italienisch Deutsch und Deutsch Italienisch
+Portugiesisch Deutsch und Deutsch Portugiesisch
+Englisch Russisch und Russisch Englisch
+Französisch Englisch und Englisch Französisch
+Spanisch Englisch und Englisch Spanisch
+Portugiesisch Englisch und Englisch Portugiesisch
+Italienisch Englisch und Englisch Italienisch
 
 Weitere Highlights
 
-Ein Offline-Übersetzer
-Mehr Sicherheit für Ihre Privatsphäre: alle Übersetzungen erfolgen lokal auf Ihrem PC. Keine Internetverbindung ist erforderlich. Dabei bleibt die Anwendung jederzeit einsatzbereit und unbeeinflusst von außen.
+Ein OfflineÜbersetzer
+Mehr Sicherheit für Ihre Privatsphäre alle Übersetzungen erfolgen lokal auf Ihrem PC Keine Internetverbindung ist erforderlich Dabei bleibt die Anwendung jederzeit einsatzbereit und unbeeinflusst von außen
 
 PROMT Agent
-Mit diesem einzigartigen Plug-In PROMT Agent lassen sich markierte Texte aus jeder beliebigen Windows-Anwendung mit einer Tastenkombination übersetzen. Der PROMT Agent erkennt automatisch die Ausgangssprache und die fertige Übersetzung erscheint in einem Pop-up-Fenster.
+Mit diesem einzigartigen PlugIn PROMT Agent lassen sich markierte Texte aus jeder beliebigen WindowsAnwendung mit einer Tastenkombination übersetzen Der PROMT Agent erkennt automatisch die Ausgangssprache und die fertige Übersetzung erscheint in einem PopupFenster
 
 Übersichtlicher Übersetzungseditor
-Im Übersetzungseditor öffnen und übersetzen Sie Texte in verschiedenen Formaten wie RTF, PDF, TXT oder HTML. Außerdem werden Texte aus der Windows-Zwischenablage oder Texte, die in einer Windows-Anwendung eingegeben werden, in Echtzeit übersetzt.
+Im Übersetzungseditor öffnen und übersetzen Sie Texte in verschiedenen Formaten wie RTF PDF TXT oder HTML Außerdem werden Texte aus der WindowsZwischenablage oder Texte die in einer WindowsAnwendung eingegeben werden in Echtzeit übersetzt
 
-Inklusive 14 Fachwörterbücher
-PROMT Personal enthält besonders hilfreiche Fachwörterbücher. Für Ihre Übersetzungen Deutsch <=> Englisch: Internet, Reisen, Kino, Kochkunst, Musik, Haushalt, Sport und Fußball. Für Deutsch <=> Französisch: Internet, Fußball und Reisen. Für Deutsch <=> Spanisch: Fußball. Für Deutsch Russisch: Internet, Fußball.
+Inklusive Fachwörterbücher
+PROMT Personal enthält besonders hilfreiche Fachwörterbücher Für Ihre Übersetzungen Deutsch Englisch Internet Reisen Kino Kochkunst Musik Haushalt Sport und Fußball Für Deutsch Französisch Internet Fußball und Reisen Für Deutsch Spanisch Fußball Für Deutsch Russisch Internet Fußball
 
 Integration in Internet Explorer und Mozilla Firefox
-Dank der Integration in den Internet Explorer (8–11 32Bit) und Mozilla Firefox (24) werden die Webseiten direkt im Browser übersetzt. Nur ein Mausklick und schon wird die Seite in einer anderen Sprache dargestellt. Das Format der Seiten bleibt erhalten.
+Dank der Integration in den Internet Explorer – Bit und Mozilla Firefox werden die Webseiten direkt im Browser übersetzt Nur ein Mausklick und schon wird die Seite in einer anderen Sprache dargestellt Das Format der Seiten bleibt erhalten
 
 Umfangreiches Nachschlagewörterbuch
-Neben der automatischen Textübersetzung enthält PROMT Personal auch ein Wörterbuch als zusätzliche Anwendung um jederzeit unbekannte Wörter nachschlagen zu können. Zu den einzelnen Wörtern erhalten Sie Nachschlageinformationen wie Übersetzungsvarianten und die Wortart.
+Neben der automatischen Textübersetzung enthält PROMT Personal auch ein Wörterbuch als zusätzliche Anwendung um jederzeit unbekannte Wörter nachschlagen zu können Zu den einzelnen Wörtern erhalten Sie Nachschlageinformationen wie Übersetzungsvarianten und die Wortart
 
 Systemvoraussetzungen
-Microsoft Windows® 8, 7, Vista™ und XP in den Varianten (32-/64-bit)
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300628472&affiliateid=200057808)<br/><br/># Related:
-
-<br />[mailbeenet-imap-1-developer-300333785.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailbeenet-imap-1-developer-300333785.md)<br />[crunch-time-company-license-300368362.md](https://github.com/downloadplanet/downloadplanet/blob/main/crunch-time-company-license-300368362.md)<br />[hdr-136-cloudy-hill-top-plates-layout-license-300661075.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-136-cloudy-hill-top-plates-layout-license-300661075.md)<br />[graphic-equalizer-studio-134242.md](https://github.com/downloadplanet/downloadplanet/blob/main/graphic-equalizer-studio-134242.md)<br />[the-curse-of-ra-roman-invasion-mission-pack-4-300106890.md](https://github.com/downloadplanet/downloadplanet/blob/main/the-curse-of-ra-roman-invasion-mission-pack-4-300106890.md)<br />[pdf-reader-commandline-version-development-license-300775064.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-reader-commandline-version-development-license-300775064.md)<br />[cubexsoft-nsf-export-technical-license-300778607.md](https://github.com/downloadplanet/downloadplanet/blob/main/cubexsoft-nsf-export-technical-license-300778607.md)<br />[isunshare-bitlocker-genius-for-windows-300994700.md](https://github.com/downloadplanet/downloadplanet/blob/main/isunshare-bitlocker-genius-for-windows-300994700.md)<br />[strobe-sync-pulse-generator-300154106.md](https://github.com/downloadplanet/downloadplanet/blob/main/strobe-sync-pulse-generator-300154106.md)<br />[hdr-002-meadow-2-300523033.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-002-meadow-2-300523033.md)<br />[drs-yandex-backup-for-mactechnician-license-301004919.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-yandex-backup-for-mactechnician-license-301004919.md)<br />[istonsoft-pdf-to-word-converter-for-mac-300917082.md](https://github.com/downloadplanet/downloadplanet/blob/main/istonsoft-pdf-to-word-converter-for-mac-300917082.md)<br />[tpv-comercios-300271857.md](https://github.com/downloadplanet/downloadplanet/blob/main/tpv-comercios-300271857.md)<br />[loc00169-plate-1169-tif-full-300731274.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00169-plate-1169-tif-full-300731274.md)<br />[industriemeisterin-printmedien-qualitätsmanagement-10-videos-mit-2-49-40-std-spieldauer-plus-insgesamt-115-seiten-begleitskripte-plus-repetitorium-von-schnelllernexperte-dr-marius-ebert-300635293.md](https://github.com/downloadplanet/downloadplanet/blob/main/industriemeisterin-printmedien-qualitätsmanagement-10-videos-mit-2-49-40-std-spieldauer-plus-insgesamt-115-seiten-begleitskripte-plus-repetitorium-von-schnelllernexperte-dr-marius-ebert-300635293.md)<br />[pace-packager-hub-enterprise-subscription-3-years-301001993.md](https://github.com/downloadplanet/downloadplanet/blob/main/pace-packager-hub-enterprise-subscription-3-years-301001993.md)<br />[drs-maildir-converter-for-windowstechnician-license-301004327.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-maildir-converter-for-windowstechnician-license-301004327.md)<br />[adorage-effectpackage-vol-11-backupcd-300357570.md](https://github.com/downloadplanet/downloadplanet/blob/main/adorage-effectpackage-vol-11-backupcd-300357570.md)<br />[esofttools-eml-to-gmail-converter-technician-license-300972219.md](https://github.com/downloadplanet/downloadplanet/blob/main/esofttools-eml-to-gmail-converter-technician-license-300972219.md)<br />[hdr-light-001-beauty-dish-300653024.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-light-001-beauty-dish-300653024.md)
+Microsoft Windows® Vista™ und XP in den Varianten bit
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300628472&affiliateid=200057808)<br/><br/>Related:
+<br />[embellish-brushes-for-photoshop-affinity-elements-psp-etc-v30-300267952.md](https://github.com/downloadplanet/downloadplanet/blob/main/embellish-brushes-for-photoshop-affinity-elements-psp-etc-v30-300267952.md)<br />[kernel-windows-recovery-suite-300734368.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-windows-recovery-suite-300734368.md)<br />[syncingnet-business-3-edition-300608322.md](https://github.com/downloadplanet/downloadplanet/blob/main/syncingnet-business-3-edition-300608322.md)<br />[emco-network-inventory-enterprise-500-nodes-300148295.md](https://github.com/downloadplanet/downloadplanet/blob/main/emco-network-inventory-enterprise-500-nodes-300148295.md)<br />[13000-custom-shapes-for-photoshop-elements-csh-180694.md](https://github.com/downloadplanet/downloadplanet/blob/main/13000-custom-shapes-for-photoshop-elements-csh-180694.md)<br />[mailssoftware-free-ost-viewer-enterprise-license-300883821.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailssoftware-free-ost-viewer-enterprise-license-300883821.md)<br />[practicount-and-invoice-standard-edition-world-license-300426324.md](https://github.com/downloadplanet/downloadplanet/blob/main/practicount-and-invoice-standard-edition-world-license-300426324.md)<br />[w3capture-300871620.md](https://github.com/downloadplanet/downloadplanet/blob/main/w3capture-300871620.md)<br />[cucusoft-dvd-ripper-ultimate-300166010.md](https://github.com/downloadplanet/downloadplanet/blob/main/cucusoft-dvd-ripper-ultimate-300166010.md)<br />[studioline-photo-pro-4-additional-client-licenses-20-licenses-300621935.md](https://github.com/downloadplanet/downloadplanet/blob/main/studioline-photo-pro-4-additional-client-licenses-20-licenses-300621935.md)<br />[anybizsoft-epub-builder-1115-commercial-license-300952848.md](https://github.com/downloadplanet/downloadplanet/blob/main/anybizsoft-epub-builder-1115-commercial-license-300952848.md)<br />[jagware-eml-to-pdf-wizard-business-license-300958208.md](https://github.com/downloadplanet/downloadplanet/blob/main/jagware-eml-to-pdf-wizard-business-license-300958208.md)<br />[voice-reader-home-15-italiano-alice-italian-female-alice-300617353.md](https://github.com/downloadplanet/downloadplanet/blob/main/voice-reader-home-15-italiano-alice-italian-female-alice-300617353.md)<br />[mobikin-assistant-for-android-mac-1-year-1620pcs-license-300870995.md](https://github.com/downloadplanet/downloadplanet/blob/main/mobikin-assistant-for-android-mac-1-year-1620pcs-license-300870995.md)<br />[advanced-ebook-factory-2020-1year-300997665.md](https://github.com/downloadplanet/downloadplanet/blob/main/advanced-ebook-factory-2020-1year-300997665.md)<br />[peachtree-password-recovery-for-business-use-300020409.md](https://github.com/downloadplanet/downloadplanet/blob/main/peachtree-password-recovery-for-business-use-300020409.md)<br />[webinar-kalkulation-von-veranstaltungen-banketten-aktionen-und-all-inklusiv-feiern-am-02052016-von-1015-uhr-bis-1115-uhr-300692924.md](https://github.com/downloadplanet/downloadplanet/blob/main/webinar-kalkulation-von-veranstaltungen-banketten-aktionen-und-all-inklusiv-feiern-am-02052016-von-1015-uhr-bis-1115-uhr-300692924.md)<br />[talk-word-balloon-custom-shapes-for-photoshop-elements-v49-300236519.md](https://github.com/downloadplanet/downloadplanet/blob/main/talk-word-balloon-custom-shapes-for-photoshop-elements-v49-300236519.md)<br />[hdr-1803-space-sky-and-stars-4k-300736453.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-1803-space-sky-and-stars-4k-300736453.md)<br />[hard-disk-sentinel-professional-200-licenses-300542466.md](https://github.com/downloadplanet/downloadplanet/blob/main/hard-disk-sentinel-professional-200-licenses-300542466.md)

@@ -1,28 +1,27 @@
 # PlotLab ( Delphi/C++Builder Edition ) Single License + Source Code
 ![PlotLab ( Delphi/C++Builder Edition ) Single License + Source Code](https://mycommerce.akamaized.net/api/pimages/P300015409/BIG/300015409.JPG)
-PlotLab is a set of VCL components for very easy and fast Data Visualization.
-Also includes Visual Graphical Editor for Codeless Development and Visual Live Bindings.
-Contains:
-Scope Component - a scientific chart component for plotting multi-channel data.
-Waterfall Component - a single channel waterfall data plotting component. Especially suitable for FFT, and spectrum results.
-Multichannel Waterfall Component - a multichannel waterfall data plotting component. Especially suitable for video histogram representation.
-Features:
-Panning and Zooming - Zoom in out, Pan and navigate.
-Zoom/Pan history - Undo and Redo zooms/panning.
-Data gaps - allows gaps in the data channels.
-Markers - Add data markers.
-Cursors, measurement and selections - Add data cursors, measurement lines and selections.
-Save to file - Save to bitmap or JPEG file.
-Multi axes support - Supports Multiple X, and Y axes.
-Downsampling - Automatically reduces displayed samples to improve performance.
-Zones - Allows arbitrary and elliptic zones.
-Save to file - Save to bitmap or JPEG file.
-Print - integrated printing support.
-Highlighting - Highlight channels, cursors, markers, and measurement lines.
-Build-in Dialog - Configure the components from the build in dialog.
-Composite components - Allows embedding component into each other.
-All of the components are optimized for very fast data plotting, and support multithreading.
-Integrates well with VideoLab, AudioLab, SignalLab, VisionLab, InstrumentLab, and IntelligenceLab packages.
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300015409&affiliateid=200057808)<br/><br/># Related:
-
-<br />[bundle-offer-email-backup-wizard-for-mac-and-windows-lite-edition-301008314.md](https://github.com/downloadplanet/downloadplanet/blob/main/bundle-offer-email-backup-wizard-for-mac-and-windows-lite-edition-301008314.md)<br />[anycount-70-standard-corporate-license-2-pcs-upgrade-to-professional-300325363.md](https://github.com/downloadplanet/downloadplanet/blob/main/anycount-70-standard-corporate-license-2-pcs-upgrade-to-professional-300325363.md)<br />[hdr-148-cloudy-evening-sky-plates-300658157.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-148-cloudy-evening-sky-plates-300658157.md)<br />[usb-over-network-for-linux-2-usb-devices-300264620.md](https://github.com/downloadplanet/downloadplanet/blob/main/usb-over-network-for-linux-2-usb-devices-300264620.md)<br />[groupwise-to-exchange-migration-technical-license-300790565.md](https://github.com/downloadplanet/downloadplanet/blob/main/groupwise-to-exchange-migration-technical-license-300790565.md)<br />[rosette-brushes-for-photoshop-affinity-elements-psp-etc-psp-v50-300425558.md](https://github.com/downloadplanet/downloadplanet/blob/main/rosette-brushes-for-photoshop-affinity-elements-psp-etc-psp-v50-300425558.md)<br />[test-heroglyph-300412846.md](https://github.com/downloadplanet/downloadplanet/blob/main/test-heroglyph-300412846.md)<br />[curtains-for-ae-cs3cs4-mac-osx-300139822.md](https://github.com/downloadplanet/downloadplanet/blob/main/curtains-for-ae-cs3cs4-mac-osx-300139822.md)<br />[kernel-recovery-for-palm-pdb-home-user-license-300136807.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-recovery-for-palm-pdb-home-user-license-300136807.md)<br />[outlook-password-recovery-home-license-300754376.md](https://github.com/downloadplanet/downloadplanet/blob/main/outlook-password-recovery-home-license-300754376.md)<br />[rosette-font-adobe-psp-apple-pagesv85-300469360.md](https://github.com/downloadplanet/downloadplanet/blob/main/rosette-font-adobe-psp-apple-pagesv85-300469360.md)<br />[kernel-recovery-for-solaris-intel-commercial-licenseinr-300384733.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-recovery-for-solaris-intel-commercial-licenseinr-300384733.md)<br />[mbs-xojo-plugin-complete-update-300008120.md](https://github.com/downloadplanet/downloadplanet/blob/main/mbs-xojo-plugin-complete-update-300008120.md)<br />[customised-bundle-kernel-for-windows-data-recovery-kernel-for-mac-300524249.md](https://github.com/downloadplanet/downloadplanet/blob/main/customised-bundle-kernel-for-windows-data-recovery-kernel-for-mac-300524249.md)<br />[coolmuster-android-assistant-1-year-license1115pcs-300882116.md](https://github.com/downloadplanet/downloadplanet/blob/main/coolmuster-android-assistant-1-year-license1115pcs-300882116.md)<br />[kernel-recovery-for-excel-corporate-licenseinr-300384748.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-recovery-for-excel-corporate-licenseinr-300384748.md)<br />[voice-reader-studio-15-sws-svenskswedish-300608389.md](https://github.com/downloadplanet/downloadplanet/blob/main/voice-reader-studio-15-sws-svenskswedish-300608389.md)<br />[advik-godaddy-email-backup-migration-license-300857078.md](https://github.com/downloadplanet/downloadplanet/blob/main/advik-godaddy-email-backup-migration-license-300857078.md)<br />[daossoft-password-rescuer-professional-300873348.md](https://github.com/downloadplanet/downloadplanet/blob/main/daossoft-password-rescuer-professional-300873348.md)<br />[filerescue-for-ntfs-300002557.md](https://github.com/downloadplanet/downloadplanet/blob/main/filerescue-for-ntfs-300002557.md)
+PlotLab is a set of VCL components for very easy and fast Data Visualization
+Also includes Visual Graphical Editor for Codeless Development and Visual Live Bindings
+Contains
+Scope Component a scientific chart component for plotting multichannel data
+Waterfall Component a single channel waterfall data plotting component Especially suitable for FFT and spectrum results
+Multichannel Waterfall Component a multichannel waterfall data plotting component Especially suitable for video histogram representation
+Features
+Panning and Zooming Zoom in out Pan and navigate
+ZoomPan history Undo and Redo zoomspanning
+Data gaps allows gaps in the data channels
+Markers Add data markers
+Cursors measurement and selections Add data cursors measurement lines and selections
+Save to file Save to bitmap or JPEG file
+Multi axes support Supports Multiple X and Y axes
+Downsampling Automatically reduces displayed samples to improve performance
+Zones Allows arbitrary and elliptic zones
+Save to file Save to bitmap or JPEG file
+Print integrated printing support
+Highlighting Highlight channels cursors markers and measurement lines
+Buildin Dialog Configure the components from the build in dialog
+Composite components Allows embedding component into each other
+All of the components are optimized for very fast data plotting and support multithreading
+Integrates well with VideoLab AudioLab SignalLab VisionLab InstrumentLab and IntelligenceLab packages
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300015409&affiliateid=200057808)<br/><br/>Related:
+<br />[aidaim-easytable-team4-172004.md](https://github.com/downloadplanet/downloadplanet/blob/main/aidaim-easytable-team4-172004.md)<br />[pdf-secure-for-linux-server-license-300453656.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-secure-for-linux-server-license-300453656.md)<br />[drs-office365-restore-and-backup-for-macenterprise-license-301004900.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-office365-restore-and-backup-for-macenterprise-license-301004900.md)<br />[crypto-300363836.md](https://github.com/downloadplanet/downloadplanet/blob/main/crypto-300363836.md)<br />[annual-software-assurance-sa-layer2-related-content-web-part-for-sharepoint-300483060.md](https://github.com/downloadplanet/downloadplanet/blob/main/annual-software-assurance-sa-layer2-related-content-web-part-for-sharepoint-300483060.md)<br />[tsilang-components-suite-full-source-one-year-updates-219000.md](https://github.com/downloadplanet/downloadplanet/blob/main/tsilang-components-suite-full-source-one-year-updates-219000.md)<br />[sysinfo-mbox-exporter-for-windowscorporate-license-300945564.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfo-mbox-exporter-for-windowscorporate-license-300945564.md)<br />[loc00179-plate-4012-layout-private-300731874.md](https://github.com/downloadplanet/downloadplanet/blob/main/loc00179-plate-4012-layout-private-300731874.md)<br />[gpstools-pro-activex-for-pocket-pc-end-user-license-192045.md](https://github.com/downloadplanet/downloadplanet/blob/main/gpstools-pro-activex-for-pocket-pc-end-user-license-192045.md)<br />[toufw-3-personalführung-u-entwicklung-videocoaching-19-videos-und-begleitskripte-von-schnelllernexperte-dr-marius-ebert-300617121.md](https://github.com/downloadplanet/downloadplanet/blob/main/toufw-3-personalführung-u-entwicklung-videocoaching-19-videos-und-begleitskripte-von-schnelllernexperte-dr-marius-ebert-300617121.md)<br />[nextsheet-300009303.md](https://github.com/downloadplanet/downloadplanet/blob/main/nextsheet-300009303.md)<br />[kernel-for-outlook-express-to-notes-corporate-licensebrl-300384648.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-outlook-express-to-notes-corporate-licensebrl-300384648.md)<br />[vorg-express-300061109.md](https://github.com/downloadplanet/downloadplanet/blob/main/vorg-express-300061109.md)<br />[geprüfter-meister-für-schutz-und-sicherheit-ihk-300635413.md](https://github.com/downloadplanet/downloadplanet/blob/main/geprüfter-meister-für-schutz-und-sicherheit-ihk-300635413.md)<br />[mobikin-transfer-for-mobile-mac-version-lifetime-25pcs-license-300945548.md](https://github.com/downloadplanet/downloadplanet/blob/main/mobikin-transfer-for-mobile-mac-version-lifetime-25pcs-license-300945548.md)<br />[iso-151892012-accreditation-kit-300610778.md](https://github.com/downloadplanet/downloadplanet/blob/main/iso-151892012-accreditation-kit-300610778.md)<br />[advanced-opc-data-logger-standard-300237325.md](https://github.com/downloadplanet/downloadplanet/blob/main/advanced-opc-data-logger-standard-300237325.md)<br />[data-logger-suite-enterprise-300427041.md](https://github.com/downloadplanet/downloadplanet/blob/main/data-logger-suite-enterprise-300427041.md)<br />[ems-sql-query-for-mysql-business-2-year-maintenance-300067903.md](https://github.com/downloadplanet/downloadplanet/blob/main/ems-sql-query-for-mysql-business-2-year-maintenance-300067903.md)<br />[projetex-version-7-1-server-20-workstations-300253660.md](https://github.com/downloadplanet/downloadplanet/blob/main/projetex-version-7-1-server-20-workstations-300253660.md)

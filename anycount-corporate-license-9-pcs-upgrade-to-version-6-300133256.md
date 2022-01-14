@@ -1,30 +1,29 @@
 # AnyCount - Corporate License (9 PCs): Upgrade to Version 6
 ![AnyCount - Corporate License (9 PCs): Upgrade to Version 6](https://mycommerce.akamaized.net/api/pimages/P300133256/BIG/300133256.GIF)
-AnyCount is automatic text count software. AnyCount is automatic line count, character count and word count software for all common file formats.
-Supported text count formats:.RTF, .DOC, .WPD, .XLS, .PPT, .PPS, .PDF, .CSV, .HTM, .HTML, .XML, .MIF, .TXT, .ZIP, .ODT, .SDW, .SXW, .ODS, .SDC, .SXC, .ODP, .SDD, .SXI, .HLP, .CHM. Supported volume units: words, characters, lines, pages, custom count units. Text Count Software, Word Count Software, and Line Count Software.
-After text count is completed, you can:
-В· view count results on the screen;
-В· sort results in columns;
-В· copy results to clipboard;
-В· print count results;
-В· export count results into .TXT format;
-В· export count results into Comma-Separated Text / Tab-Separated Text (.CSV format) (which can be opened by Microsoft Excel and most other spreadsheet software);
-В· export count results to .HTML format;
-В· export count results to MS Word format;
-В· export count results to MS Excel format;
-В· export count results to .RTF format.
-AnyCount is Text Count Program, Word Count Program, and Line Count Program. New in Version 6.0:
-1. New file formats counting added:
-В· OpenOffice text formats: . ODT, .SDW, . SXW;
-В· OpenOffice spreadsheets formats: .ODS, .SDC, .SXC;
-В· OpenOffice presentation formats: .ODP, .SDD, .SXI;
-В· Microsoft online help formats: .CHM, .HLP.
-2. New options for Microsoft Office file formats: optionally counting Hidden Text.
-3. Improved word count for .TXT and .PDF files.
-4. Re-counting of the previously counted files.
-5. Total calculated for each column of the table of results.
-6. Sorting in each column of the table of results.
-7. Enhanced procedure of selecting files to be counted: you can now select several files at a time using Shift key.
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300133256&affiliateid=200057808)<br/><br/># Related:
-
-<br />[printer-for-remote-desktop-monthly-300877671.md](https://github.com/downloadplanet/downloadplanet/blob/main/printer-for-remote-desktop-monthly-300877671.md)<br />[bitrecover-sylpheed-converter-wizard-standard-license-300982022.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-sylpheed-converter-wizard-standard-license-300982022.md)<br />[sysinfotools-virtual-machine-data-recovery-toolkittechnician-license-300868476.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfotools-virtual-machine-data-recovery-toolkittechnician-license-300868476.md)<br />[bitrecover-email-address-extractor-standard-license-300990518.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-email-address-extractor-standard-license-300990518.md)<br />[extended-plan-installs-statistics-upgradable-apps-high-priority-support-301001255.md](https://github.com/downloadplanet/downloadplanet/blob/main/extended-plan-installs-statistics-upgradable-apps-high-priority-support-301001255.md)<br />[acrolexic-corporate-license-3pcs-300137347.md](https://github.com/downloadplanet/downloadplanet/blob/main/acrolexic-corporate-license-3pcs-300137347.md)<br />[datanumen-outlook-express-drive-recovery-300330052.md](https://github.com/downloadplanet/downloadplanet/blob/main/datanumen-outlook-express-drive-recovery-300330052.md)<br />[scroll-waves-font-for-coreldraw-pages-microsoft-word-pspshapes-vs5-300396641.md](https://github.com/downloadplanet/downloadplanet/blob/main/scroll-waves-font-for-coreldraw-pages-microsoft-word-pspshapes-vs5-300396641.md)<br />[pdf-vista-server-edition-300147296.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-vista-server-edition-300147296.md)<br />[drs-pst-password-recovery-for-windowssingle-user-license-301004257.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-pst-password-recovery-for-windowssingle-user-license-301004257.md)<br />[aimersoft-dvd-copy-for-windows-300952610.md](https://github.com/downloadplanet/downloadplanet/blob/main/aimersoft-dvd-copy-for-windows-300952610.md)<br />[drs-vhd-recoveryadministrator-license-301004202.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-vhd-recoveryadministrator-license-301004202.md)<br />[polka-dot-pattern-swatches-for-illustrator-etc-ai-v9-300281721.md](https://github.com/downloadplanet/downloadplanet/blob/main/polka-dot-pattern-swatches-for-illustrator-etc-ai-v9-300281721.md)<br />[audio-cd-ripper-console-300914525.md](https://github.com/downloadplanet/downloadplanet/blob/main/audio-cd-ripper-console-300914525.md)<br />[advik-google-takeout-to-pdf-personal-license-300805001.md](https://github.com/downloadplanet/downloadplanet/blob/main/advik-google-takeout-to-pdf-personal-license-300805001.md)<br />[indya-outlook-to-html-corporate-license-300799364.md](https://github.com/downloadplanet/downloadplanet/blob/main/indya-outlook-to-html-corporate-license-300799364.md)<br />[fix-my-iphone-for-mac-family-license-1-year-300865771.md](https://github.com/downloadplanet/downloadplanet/blob/main/fix-my-iphone-for-mac-family-license-1-year-300865771.md)<br />[drs-mbox-to-office365-backup-for-windowssingle-user-license-301004967.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-mbox-to-office365-backup-for-windowssingle-user-license-301004967.md)<br />[超级数据擦除器1年版windows版本-301015706.md](https://github.com/downloadplanet/downloadplanet/blob/main/超级数据擦除器1年版windows版本-301015706.md)<br />[ems-sql-manager-for-mysql-business-1-year-maintenance-300067854.md](https://github.com/downloadplanet/downloadplanet/blob/main/ems-sql-manager-for-mysql-business-1-year-maintenance-300067854.md)
+AnyCount is automatic text count software AnyCount is automatic line count character count and word count software for all common file formats
+Supported text count formatsRTF DOC WPD XLS PPT PPS PDF CSV HTM HTML XML MIF TXT ZIP ODT SDW SXW ODS SDC SXC ODP SDD SXI HLP CHM Supported volume units words characters lines pages custom count units Text Count Software Word Count Software and Line Count Software
+After text count is completed you can
+В· view count results on the screen
+В· sort results in columns
+В· copy results to clipboard
+В· print count results
+В· export count results into TXT format
+В· export count results into CommaSeparated Text TabSeparated Text CSV format which can be opened by Microsoft Excel and most other spreadsheet software
+В· export count results to HTML format
+В· export count results to MS Word format
+В· export count results to MS Excel format
+В· export count results to RTF format
+AnyCount is Text Count Program Word Count Program and Line Count Program New in Version 
+ New file formats counting added
+В· OpenOffice text formats ODT SDW SXW
+В· OpenOffice spreadsheets formats ODS SDC SXC
+В· OpenOffice presentation formats ODP SDD SXI
+В· Microsoft online help formats CHM HLP
+ New options for Microsoft Office file formats optionally counting Hidden Text
+ Improved word count for TXT and PDF files
+ Recounting of the previously counted files
+ Total calculated for each column of the table of results
+ Sorting in each column of the table of results
+ Enhanced procedure of selecting files to be counted you can now select several files at a time using Shift key
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300133256&affiliateid=200057808)<br/><br/>Related:
+<br />[aidaim-easytable-team4-172004.md](https://github.com/downloadplanet/downloadplanet/blob/main/aidaim-easytable-team4-172004.md)<br />[anycount-8-standard-corporate-license-site-upgrade-to-enterprise-300528852.md](https://github.com/downloadplanet/downloadplanet/blob/main/anycount-8-standard-corporate-license-site-upgrade-to-enterprise-300528852.md)<br />[meisterin-für-bahnverkehr-ihkbii7-arbeits-umwelt-u-gesundheitsschutz-2-videos-spielzeit-38-min-mit-34-s-begleitskript-u-repetitorium-von-schnelllernexperte-dr-marius-ebert-300634826.md](https://github.com/downloadplanet/downloadplanet/blob/main/meisterin-für-bahnverkehr-ihkbii7-arbeits-umwelt-u-gesundheitsschutz-2-videos-spielzeit-38-min-mit-34-s-begleitskript-u-repetitorium-von-schnelllernexperte-dr-marius-ebert-300634826.md)<br />[amacsoft-card-data-recovery-300924602.md](https://github.com/downloadplanet/downloadplanet/blob/main/amacsoft-card-data-recovery-300924602.md)<br />[grid-preset-shapes-for-paint-shop-pro-pspshapes-vs3-300395790.md](https://github.com/downloadplanet/downloadplanet/blob/main/grid-preset-shapes-for-paint-shop-pro-pspshapes-vs3-300395790.md)<br />[zilch-standard-10-pack-300009883.md](https://github.com/downloadplanet/downloadplanet/blob/main/zilch-standard-10-pack-300009883.md)<br />[bfwfachtpaket-4-unternehmensführung-videocoaching-34-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-u-repetitorium-von-schnelllernexperte-dr-marius-ebert-300644927.md](https://github.com/downloadplanet/downloadplanet/blob/main/bfwfachtpaket-4-unternehmensführung-videocoaching-34-videos-plus-komplettes-begleitskript-mit-dozentenschlüssel-u-repetitorium-von-schnelllernexperte-dr-marius-ebert-300644927.md)<br />[minitool-shadowmaker-business-deluxe-300943219.md](https://github.com/downloadplanet/downloadplanet/blob/main/minitool-shadowmaker-business-deluxe-300943219.md)<br />[windows-password-reset-for-mac-professional-300900329.md](https://github.com/downloadplanet/downloadplanet/blob/main/windows-password-reset-for-mac-professional-300900329.md)<br />[isunshare-windows-password-genius-for-mac-advanced-300924185.md](https://github.com/downloadplanet/downloadplanet/blob/main/isunshare-windows-password-genius-for-mac-advanced-300924185.md)<br />[arclab-inbox2db-professional-us-300798730.md](https://github.com/downloadplanet/downloadplanet/blob/main/arclab-inbox2db-professional-us-300798730.md)<br />[ats-sqlite-password-recovery-software-site-license-300778933.md](https://github.com/downloadplanet/downloadplanet/blob/main/ats-sqlite-password-recovery-software-site-license-300778933.md)<br />[face-brushes-for-photoshop-affinity-elements-psp-etc-v158-300498553.md](https://github.com/downloadplanet/downloadplanet/blob/main/face-brushes-for-photoshop-affinity-elements-psp-etc-v158-300498553.md)<br />[the-numismatists-safe-russian-300847668.md](https://github.com/downloadplanet/downloadplanet/blob/main/the-numismatists-safe-russian-300847668.md)<br />[ipubsoft-pdf-to-jpg-converter-300921971.md](https://github.com/downloadplanet/downloadplanet/blob/main/ipubsoft-pdf-to-jpg-converter-300921971.md)<br />[wslfunky-styl-vol-1-soundsets-300873329.md](https://github.com/downloadplanet/downloadplanet/blob/main/wslfunky-styl-vol-1-soundsets-300873329.md)<br />[drfone-ios-transferwin-300947730.md](https://github.com/downloadplanet/downloadplanet/blob/main/drfone-ios-transferwin-300947730.md)<br />[bitrecover-mbox-converter-migration-license-300964036.md](https://github.com/downloadplanet/downloadplanet/blob/main/bitrecover-mbox-converter-migration-license-300964036.md)<br />[daminion-team-server-additional-concurrent-users-includes-1-years-maintenance-300772319.md](https://github.com/downloadplanet/downloadplanet/blob/main/daminion-team-server-additional-concurrent-users-includes-1-years-maintenance-300772319.md)<br />[pdf-formular-füller-300060415.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-formular-füller-300060415.md)

@@ -1,24 +1,24 @@
 # Webinar Controlling im F&B 1. Teil - die Vorbereitung am 05.10.2015
-In diesem 1. Controlling-Webinar befassen sich die Teilnehmer mit den Grundlagen des Controllings in der Gastronomie. Sie lernen den Kennzahlenkreislauf kennen und welche Daten gesammelt werden müssen, damit sie aussagefähige Kennzahlen erhalten. Mit dem 2. Punkt des Kennzahlenkreislaufes, der „Kennzahlenermittlung“, werden die Teilnehmer in die Lage versetzt, Ihr Controllingsystem am nächsten Tag zu starten.
-Themen:
+In diesem ControllingWebinar befassen sich die Teilnehmer mit den Grundlagen des Controllings in der Gastronomie Sie lernen den Kennzahlenkreislauf kennen und welche Daten gesammelt werden müssen damit sie aussagefähige Kennzahlen erhalten Mit dem Punkt des Kennzahlenkreislaufes der „Kennzahlenermittlung“ werden die Teilnehmer in die Lage versetzt Ihr Controllingsystem am nächsten Tag zu starten
+Themen
 Grundlagen des Controlling
 Kennzahlenkreislauf von der Vorgabe bis zum Maßnahmenplan
 Welche Zahlen sind für ein Controllingsystem in der Gastronomie zu erfassen
 Die wichtigsten Punkte bei der Kennzahlenvorgabe
 Mit der Kennzahlenermittlung im Controllingprogramm starten
-Fragen im Chat werden beantwortet!
-Folgende Unterlagen und Dateien erhalten Sie:
+Fragen im Chat werden beantwortet
+Folgende Unterlagen und Dateien erhalten Sie
 
-Erfolgskennzahlensystem im Excelprogramm 2013-2014
+Erfolgskennzahlensystem im Excelprogramm 
 Pivotauswertung für jede Kennzahl
-Konzept Erfolgskennzahlensystem ca. 65 Seiten als PDF Datei
-Kurz Beschreibung für das System ca. 5 Seiten
+Konzept Erfolgskennzahlensystem ca Seiten als PDF Datei
+Kurz Beschreibung für das System ca Seiten
 Videoanleitung für das Excelprogramm
-Die 8 Controllingfehler
+Die Controllingfehler
 
-Folgende Vorlagen für die Dateneingabe sind im Erfolgskennzahlensystem enthalten:
+Folgende Vorlagen für die Dateneingabe sind im Erfolgskennzahlensystem enthalten
 
-Umsatz-Gäste-Zusatzinfos
+UmsatzGästeZusatzinfos
 Stunden und Personalkosten pro Mitarbeiter für Küche
 Stunden und Personalkosten pro Mitarbeiter für Service
 Stunden und Personalkosten pro Mitarbeiter für Verwaltung
@@ -27,26 +27,25 @@ Wareneinsätze Beverage
 Auswertung Kennzahlen
 Auswertung Kennzahlen in Pivotcharts
 
-Folgende Kennzahlen errechnet das Controllingsystem im Excelprogramm Pivottabellen mit täglicher und monatlicher Auswertung:
+Folgende Kennzahlen errechnet das Controllingsystem im Excelprogramm Pivottabellen mit täglicher und monatlicher Auswertung
 
 Auswertung Pivottabelle Grundgerüst
-Umsatz F&B Gesamt, Küche, Service
+Umsatz FB Gesamt Küche Service
 Anzahl der Gäste
-Umsatz pro Mitarbeiterstunde,Gesamtbetrieb, F&B Gesamt, Küche, Service
+Umsatz pro MitarbeiterstundeGesamtbetrieb FB Gesamt Küche Service
 Umsatz pro Gast
-Verhältnis F&B
+Verhältnis FB
 Umsatz pro Sitzplatz
 Umsatz pro Öffnungsstunde
 Wareneinsatz pro Gast
-Wareneinsatz F&B Gesamt
+Wareneinsatz FB Gesamt
 Wareneinsatz Küche
 Wareneinsatz Getränke
-Personalkosten in %, Gesamtbetrieb, F&B Gesamt, Küche, Service
-Food Index Produktivität/ Prime Cost
+Personalkosten in Gesamtbetrieb FB Gesamt Küche Service
+Food Index Produktivität Prime Cost
 Personalkosten pro Gast
 Personalkosten pro Arbeitsstunde
-Deckungsbeitrag 2
-Kennzahlen beliebig Erweiterungsfähig auf DB 3, DB4
-[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300641918&affiliateid=200057808)<br/><br/># Related:
-
-<br />[afterlogic-webmail-pro-aspnet-unlimited-computers-unlimited-users-300193237.md](https://github.com/downloadplanet/downloadplanet/blob/main/afterlogic-webmail-pro-aspnet-unlimited-computers-unlimited-users-300193237.md)<br />[personal-translator-professional-20-300848292.md](https://github.com/downloadplanet/downloadplanet/blob/main/personal-translator-professional-20-300848292.md)<br />[embellish-shapes-for-photoshop-elements-psp-pdf-swirl-flourish-v3-300468774.md](https://github.com/downloadplanet/downloadplanet/blob/main/embellish-shapes-for-photoshop-elements-psp-pdf-swirl-flourish-v3-300468774.md)<br />[quality-database-unlimited-users-300003635.md](https://github.com/downloadplanet/downloadplanet/blob/main/quality-database-unlimited-users-300003635.md)<br />[isunshare-password-genius-raid-300924142.md](https://github.com/downloadplanet/downloadplanet/blob/main/isunshare-password-genius-raid-300924142.md)<br />[anymini-w-word-count-software-personal-license-300036048.md](https://github.com/downloadplanet/downloadplanet/blob/main/anymini-w-word-count-software-personal-license-300036048.md)<br />[aomei-onekey-recovery-technician-lifetime-upgrades-unlimited-pcs-servers-300870436.md](https://github.com/downloadplanet/downloadplanet/blob/main/aomei-onekey-recovery-technician-lifetime-upgrades-unlimited-pcs-servers-300870436.md)<br />[pdf-secure-for-hpux-workstationdevelopment-license-300453664.md](https://github.com/downloadplanet/downloadplanet/blob/main/pdf-secure-for-hpux-workstationdevelopment-license-300453664.md)<br />[photo-sorter-300417177.md](https://github.com/downloadplanet/downloadplanet/blob/main/photo-sorter-300417177.md)<br />[acme-cadsee-site-license-300747900.md](https://github.com/downloadplanet/downloadplanet/blob/main/acme-cadsee-site-license-300747900.md)<br />[coolmuster-android-backup-manager-lifetime-license10-pc-300985913.md](https://github.com/downloadplanet/downloadplanet/blob/main/coolmuster-android-backup-manager-lifetime-license10-pc-300985913.md)<br />[advik-mdaemon-to-txt-personal-license-300857081.md](https://github.com/downloadplanet/downloadplanet/blob/main/advik-mdaemon-to-txt-personal-license-300857081.md)<br />[recoverit-for-winessential-300984218.md](https://github.com/downloadplanet/downloadplanet/blob/main/recoverit-for-winessential-300984218.md)<br />[7pdf-maker-portable-full-version-lifetime-licensekey-300367517.md](https://github.com/downloadplanet/downloadplanet/blob/main/7pdf-maker-portable-full-version-lifetime-licensekey-300367517.md)<br />[advik-mdaemon-migrator-business-license-300850679.md](https://github.com/downloadplanet/downloadplanet/blob/main/advik-mdaemon-migrator-business-license-300850679.md)<br />[drs-amazon-workmail-backup-for-windowsadministrator-license-301004432.md](https://github.com/downloadplanet/downloadplanet/blob/main/drs-amazon-workmail-backup-for-windowsadministrator-license-301004432.md)<br />[datanumen-outlook-repair-64bit-300630816.md](https://github.com/downloadplanet/downloadplanet/blob/main/datanumen-outlook-repair-64bit-300630816.md)<br />[mailssoftware-thunderbird-to-outlook-converter-300949238.md](https://github.com/downloadplanet/downloadplanet/blob/main/mailssoftware-thunderbird-to-outlook-converter-300949238.md)<br />[hdr-039-garage-2-plates-layout-license-300661328.md](https://github.com/downloadplanet/downloadplanet/blob/main/hdr-039-garage-2-plates-layout-license-300661328.md)<br />[heart-valentine-shapes-for-paint-shop-pro-pc-v27-300469441.md](https://github.com/downloadplanet/downloadplanet/blob/main/heart-valentine-shapes-for-paint-shop-pro-pc-v27-300469441.md)
+Deckungsbeitrag 
+Kennzahlen beliebig Erweiterungsfähig auf DB DB
+[>> Detailed information](https://secure.shareit.com/shareit/product.html?productid=300641918&affiliateid=200057808)<br/><br/>Related:
+<br />[heart-brushes-for-photoshop-affinity-elements-psp-etc-v59-300425567.md](https://github.com/downloadplanet/downloadplanet/blob/main/heart-brushes-for-photoshop-affinity-elements-psp-etc-v59-300425567.md)<br />[screen-ruler-2d-corporate-11-pcs-300518280.md](https://github.com/downloadplanet/downloadplanet/blob/main/screen-ruler-2d-corporate-11-pcs-300518280.md)<br />[octopus-custom-shapes-for-photoshop-elements-csh-v114-300468564.md](https://github.com/downloadplanet/downloadplanet/blob/main/octopus-custom-shapes-for-photoshop-elements-csh-v114-300468564.md)<br />[thunderbird-migrator-wizard-pro-license-300857094.md](https://github.com/downloadplanet/downloadplanet/blob/main/thunderbird-migrator-wizard-pro-license-300857094.md)<br />[advanced-query-builder-for-rad-studio-vcl-with-sources-3-year-maintenance-300068132.md](https://github.com/downloadplanet/downloadplanet/blob/main/advanced-query-builder-for-rad-studio-vcl-with-sources-3-year-maintenance-300068132.md)<br />[1xamp-300151569.md](https://github.com/downloadplanet/downloadplanet/blob/main/1xamp-300151569.md)<br />[sysinfo-ost-to-pst-converter-for-macsingle-home-user-license-301005072.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfo-ost-to-pst-converter-for-macsingle-home-user-license-301005072.md)<br />[advik-eml-to-gmail-business-license-300806625.md](https://github.com/downloadplanet/downloadplanet/blob/main/advik-eml-to-gmail-business-license-300806625.md)<br />[email-management-toolkitpst-to-nsf-converter-pst-recovery-outlook-duplicate-removeradministrator-license-300726204.md](https://github.com/downloadplanet/downloadplanet/blob/main/email-management-toolkitpst-to-nsf-converter-pst-recovery-outlook-duplicate-removeradministrator-license-300726204.md)<br />[sysinfo-msg-converter-for-windowsadministrator-license-300949555.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfo-msg-converter-for-windowsadministrator-license-300949555.md)<br />[macuncle-maildir-converter-for-mac-standard-license-300986842.md](https://github.com/downloadplanet/downloadplanet/blob/main/macuncle-maildir-converter-for-mac-standard-license-300986842.md)<br />[database-comparer-activex-32-subscription-300973457.md](https://github.com/downloadplanet/downloadplanet/blob/main/database-comparer-activex-32-subscription-300973457.md)<br />[kernel-for-writer-corporate-license-300296876.md](https://github.com/downloadplanet/downloadplanet/blob/main/kernel-for-writer-corporate-license-300296876.md)<br />[sysinfotools-ms-word-doc-recoveryadministrator-license-300538506.md](https://github.com/downloadplanet/downloadplanet/blob/main/sysinfotools-ms-word-doc-recoveryadministrator-license-300538506.md)<br />[batch-and-print-enterprise-2019-with-premium-upgrade-protection-300924494.md](https://github.com/downloadplanet/downloadplanet/blob/main/batch-and-print-enterprise-2019-with-premium-upgrade-protection-300924494.md)<br />[copy-of-patools-xl-toolbox-annual-license-for-excel-2000-or-later-301004078.md](https://github.com/downloadplanet/downloadplanet/blob/main/copy-of-patools-xl-toolbox-annual-license-for-excel-2000-or-later-301004078.md)<br />[esofttools-zip-password-recovery-technician-license-300942750.md](https://github.com/downloadplanet/downloadplanet/blob/main/esofttools-zip-password-recovery-technician-license-300942750.md)<br />[exactspent-corporate-license-4-pcs-300052796.md](https://github.com/downloadplanet/downloadplanet/blob/main/exactspent-corporate-license-4-pcs-300052796.md)<br />[industriemeisterin-mechatronik-biii7personalführung-7-videos-gesamtspielzeit-02-12-std-mit-89-s-begleitskript-und-repetitorium-von-schnelllernexperte-dr-marius-ebert-300634625.md](https://github.com/downloadplanet/downloadplanet/blob/main/industriemeisterin-mechatronik-biii7personalführung-7-videos-gesamtspielzeit-02-12-std-mit-89-s-begleitskript-und-repetitorium-von-schnelllernexperte-dr-marius-ebert-300634625.md)<br />[validinstaller-workstation-licence-300315669.md](https://github.com/downloadplanet/downloadplanet/blob/main/validinstaller-workstation-licence-300315669.md)
